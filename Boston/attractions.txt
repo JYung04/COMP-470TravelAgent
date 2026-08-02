@@ -1,0 +1,1136 @@
+City: Boston
+Category: attractions
+Data Source: OpenStreetMap contributors
+Number of named places: 63
+
+Name: Heartbreak Hill (Top/End)
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Top of Heartbreak Hill for the Boston Marathon
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.336113
+Longitude: -71.1785847
+OpenStreetMap URL: https://www.openstreetmap.org/node/67422140
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Heartbreak Hill (Bottom/Start)
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Bottom/beginning of Heartbreak Hill for the Boston Marathon
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3363139
+Longitude: -71.1874627
+OpenStreetMap URL: https://www.openstreetmap.org/node/67501171
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Emu
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3055716
+Longitude: -71.0910754
+OpenStreetMap URL: https://www.openstreetmap.org/node/1186056083
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Masai Giraffe
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.305498
+Longitude: -71.08965
+OpenStreetMap URL: https://www.openstreetmap.org/node/1186056087
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Western Grey Kangaroo
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3053857
+Longitude: -71.0909211
+OpenStreetMap URL: https://www.openstreetmap.org/node/1186056122
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wildebeest
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3038955
+Longitude: -71.0877212
+OpenStreetMap URL: https://www.openstreetmap.org/node/1186989874
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: African Lion
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3047908
+Longitude: -71.0878089
+OpenStreetMap URL: https://www.openstreetmap.org/node/1186989883
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hartmann's Mountain Zebra
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3039885
+Longitude: -71.0878089
+OpenStreetMap URL: https://www.openstreetmap.org/node/1186989886
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Goat
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3036302
+Longitude: -71.0885256
+OpenStreetMap URL: https://www.openstreetmap.org/node/1187553207
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Andean Condor
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.30665
+Longitude: -71.0924921
+OpenStreetMap URL: https://www.openstreetmap.org/node/1187553257
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Golden Teapot
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3593566
+Longitude: -71.0592779
+OpenStreetMap URL: https://www.openstreetmap.org/node/1325764147
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Charles Riverboat Company
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 100 CambridgeSide Place Cambridge MA 02141
+Description: Not listed
+Website: https://charlesriverboat.com/
+Phone: +1-617-621-3001
+Email: sales@charlesriverboat.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3687832
+Longitude: -71.0759859
+OpenStreetMap URL: https://www.openstreetmap.org/node/1525372770
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New England Aquarium Whale Watching
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3593853
+Longitude: -71.0499915
+OpenStreetMap URL: https://www.openstreetmap.org/node/2446048049
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Harvard Square
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3734734
+Longitude: -71.1189431
+OpenStreetMap URL: https://www.openstreetmap.org/node/2448023622
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Jamaica Pond Bench
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.hincman.com/work/madison-lenoix-lw5fl
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3168213
+Longitude: -71.1172107
+OpenStreetMap URL: https://www.openstreetmap.org/node/4051236150
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Swan Boats
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 4 Charles Street Boston MA 02116
+Description: Not listed
+Website: https://swanboats.com/
+Phone: +1-617-522-1966
+Email: info@swanboats.com
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 42.3540368
+Longitude: -71.0696551
+OpenStreetMap URL: https://www.openstreetmap.org/node/4074813888
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Skinny House
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 44 Hull Street Boston MA
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3669142
+Longitude: -71.0561979
+OpenStreetMap URL: https://www.openstreetmap.org/node/4362209489
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: First Public School Site
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.thefreedomtrail.org/trail-sites/boston-latin-school-sitebenjamin-franklin-statue
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3580139
+Longitude: -71.0600072
+OpenStreetMap URL: https://www.openstreetmap.org/node/4496278889
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Capt. Jackson’s Historic Chocolate Shop
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://oldnorth.com/chocolate-exhibit/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.366052
+Longitude: -71.0542264
+OpenStreetMap URL: https://www.openstreetmap.org/node/4578490797
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Mapparium
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 200 Massachusetts Avenue Boston MA 02215
+Description: Not listed
+Website: https://www.marybakereddylibrary.org/project/mapparium/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3452064
+Longitude: -71.0861768
+OpenStreetMap URL: https://www.openstreetmap.org/node/5296603923
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: All Saints Way
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Battery Street Boston MA 02109
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.366341
+Longitude: -71.0525014
+OpenStreetMap URL: https://www.openstreetmap.org/node/6570108437
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Citgo Sign
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3492818
+Longitude: -71.0962619
+OpenStreetMap URL: https://www.openstreetmap.org/node/7599402961
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Boston Stone
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3617016
+Longitude: -71.0568342
+OpenStreetMap URL: https://www.openstreetmap.org/node/7609707456
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Acorn Street
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 42.3575321
+Longitude: -71.0692435
+OpenStreetMap URL: https://www.openstreetmap.org/node/7617297179
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Boston Marathon Finish Line
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 665 Boylston Street Boston MA 02116
+Description: Not listed
+Website: https://www.baa.org/races/boston-marathon
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3497514
+Longitude: -71.0786162
+OpenStreetMap URL: https://www.openstreetmap.org/node/7644779165
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 8
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Carl Yastrzemski
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3470579
+Longitude: -71.0994693
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009444
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 9
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Ted Williams
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3469924
+Longitude: -71.0993535
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009447
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 4
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Joe Cronin
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3470124
+Longitude: -71.0993901
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009448
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 1
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Bobby Doerr
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3470329
+Longitude: -71.0994265
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009449
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 27
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Carlton Fisk
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3470689
+Longitude: -71.0995466
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009450
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 6
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Johnny Pesky
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3470986
+Longitude: -71.0995987
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009451
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 14
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Jim Rice
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3471215
+Longitude: -71.099633
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009452
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 45
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Pedro Martínez
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3471494
+Longitude: -71.0996848
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009453
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 26
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Wade Boggs
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3472233
+Longitude: -71.0998136
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009454
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 34
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: David Ortiz
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3472438
+Longitude: -71.0998492
+OpenStreetMap URL: https://www.openstreetmap.org/node/7682009455
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Good Will Hunting Bench
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3543986
+Longitude: -71.0706913
+OpenStreetMap URL: https://www.openstreetmap.org/node/7693303124
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Boston Duck Tours
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 1 Science Park Boston MA 02114
+Description: Not listed
+Website: https://bostonducktours.com/the-tour/departure-locations/museum-of-science/
+Phone: +1-617-450-0065
+Email: info@bostonducktours.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3673698
+Longitude: -71.0700952
+OpenStreetMap URL: https://www.openstreetmap.org/node/7745736227
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sam Adams Boston Brewery Tour
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.samueladams.com/brewerytours
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3145014
+Longitude: -71.1032328
+OpenStreetMap URL: https://www.openstreetmap.org/node/7797478598
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Boston Wharf Co. Sign
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3502669
+Longitude: -71.0509096
+OpenStreetMap URL: https://www.openstreetmap.org/node/7892794607
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cycleboat Boston
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 1 Eighth Street Boston MA 02129
+Description: Not listed
+Website: https://cycleboatboston.com/
+Phone: +1-617-910-2616
+Email: contact@cycleboatboston.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3729237
+Longitude: -71.0498148
+OpenStreetMap URL: https://www.openstreetmap.org/node/7901570904
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Oneida Tablet
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: First Football Club in America
+Website: https://soccerhistoryusa.org/episode-notes/the-oneida-football-club/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.356232
+Longitude: -71.0671781
+OpenStreetMap URL: https://www.openstreetmap.org/node/7936014543
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Waterboat Duck House
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3604731
+Longitude: -71.0491997
+OpenStreetMap URL: https://www.openstreetmap.org/node/13586053017
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Historic Chemical Marker
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3613325
+Longitude: -71.0694468
+OpenStreetMap URL: https://www.openstreetmap.org/node/13806048806
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Quincy Market
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 42.3602163
+Longitude: -71.0547993
+OpenStreetMap URL: https://www.openstreetmap.org/way/29573399
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: United First Parish Church
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 1306 Hancock Street Quincy MA 02169
+Description: Not listed
+Website: https://ufpc.org/
+Phone: +1 617-773-1290
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2511782
+Longitude: -71.00291
+OpenStreetMap URL: https://www.openstreetmap.org/way/29577249
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: John Quincy Adams Birthplace
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 135 Franklin Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2390523
+Longitude: -71.0034705
+OpenStreetMap URL: https://www.openstreetmap.org/way/29719794
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: John Adams Birthplace
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 133 Franklin Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.239345
+Longitude: -71.0034558
+OpenStreetMap URL: https://www.openstreetmap.org/way/29797898
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Granary Burying Ground
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3573413
+Longitude: -71.061771
+OpenStreetMap URL: https://www.openstreetmap.org/way/29861355
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Faneuil Hall Marketplace
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 1 Faneuil Hall Square Boston MA 02109
+Description: Not listed
+Website: https://faneuilhallmarketplace.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3600766
+Longitude: -71.0547394
+OpenStreetMap URL: https://www.openstreetmap.org/way/94483066
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hood Milk Bottle
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Congress Street Boston MA 02210
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.351662
+Longitude: -71.0501956
+OpenStreetMap URL: https://www.openstreetmap.org/way/244444290
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Greenway Carousel
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3605478
+Longitude: -71.0527606
+OpenStreetMap URL: https://www.openstreetmap.org/way/484942338
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Beaver
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3526844
+Longitude: -71.05119
+OpenStreetMap URL: https://www.openstreetmap.org/way/484947753
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Eleanor
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3525675
+Longitude: -71.0508714
+OpenStreetMap URL: https://www.openstreetmap.org/way/484947760
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Frog Pond Carousel
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://bostonfrogpond.com/frog-pond-carousel/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3559536
+Longitude: -71.0667604
+OpenStreetMap URL: https://www.openstreetmap.org/way/814732156
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Guild Steps
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 42.3570398
+Longitude: -71.065045
+OpenStreetMap URL: https://www.openstreetmap.org/way/815602975
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Longfellow Bridge Trophy Room
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3617948
+Longitude: -71.0790266
+OpenStreetMap URL: https://www.openstreetmap.org/way/817075946
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Tall Ship
+City: Boston
+Category: attractions
+Cuisine: seafood
+Address: 1 East Pier Drive East Boston MA 02128
+Description: Not listed
+Website: https://www.tallshipboston.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.364908
+Longitude: -71.0415332
+OpenStreetMap URL: https://www.openstreetmap.org/way/962623440
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Freedom Trail
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.thefreedomtrail.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3659236
+Longitude: -71.058754
+OpenStreetMap URL: https://www.openstreetmap.org/relation/976514
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Lagoon
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3539011
+Longitude: -71.0698974
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1404341
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Boston Marathon
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: MA
+Description: The world's oldest annual marathon race
+Website: https://www.baa.org/races/boston-marathon
+Phone: +1-617-236-1652
+Email: info@baa.org
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.2897644
+Longitude: -71.2984106
+OpenStreetMap URL: https://www.openstreetmap.org/relation/11680552
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: B.A.A. 5k
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: MA
+Description: Boston Athletic Association's 5k race
+Website: https://www.baa.org/races/boston-5k/
+Phone: +1-617-236-1652
+Email: info@baa.org
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3509076
+Longitude: -71.0844314
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20582044
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: B.A.A. 10k
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: MA
+Description: B.A.A.'s 10k
+Website: https://www.baa.org/races/boston-10k/
+Phone: +1-617-236-1652
+Email: info@baa.org
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3548755
+Longitude: -71.0879668
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20582057
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: B.A.A. Half
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: MA
+Description: Boston Athletic Association's Half Marathon
+Website: https://www.baa.org/races/boston-half/
+Phone: +1-617-236-1652
+Email: info@baa.org
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3156551
+Longitude: -71.1066934
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20582080
+Data Source: OpenStreetMap contributors
