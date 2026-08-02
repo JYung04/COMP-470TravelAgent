@@ -1,0 +1,5 @@
+City: Washington DC
+Category: theme_parks
+Data Source: OpenStreetMap contributors
+Number of named places: 0
+

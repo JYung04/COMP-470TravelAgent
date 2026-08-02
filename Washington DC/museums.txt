@@ -1,0 +1,2095 @@
+City: Washington DC
+Category: museums
+Data Source: OpenStreetMap contributors
+Number of named places: 91
+
+Name: Howard University Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: DC
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9223336
+Longitude: -77.0194209
+OpenStreetMap URL: https://www.openstreetmap.org/node/367143103
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Guard Memorial Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1 Massachusetts Avenue Northwest Washington DC 20001
+Description: Not listed
+Website: https://www.ngef.org/national-guard-memorial-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-16:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8979418
+Longitude: -77.0093938
+OpenStreetMap URL: https://www.openstreetmap.org/node/367144248
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Diplomatic Reception Rooms Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 2201 C Street Northwest Washington DC 20520
+Description: Tours are typically hosted Wednesdays 9:30 AM and 2:45 PM (excluding federal holidays and unless otherwise noted).  Free tickets are available through the website.
+Website: https://www.diplomaticrooms.state.gov/
+Phone: +1 202-647-1990
+Email: TourOffice@state.gov
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8938164
+Longitude: -77.048159
+OpenStreetMap URL: https://www.openstreetmap.org/node/367144486
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: B'Nai B'Rith Klutznick Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: DC
+Description: Not listed
+Website: https://www.bnaibrith.org/about-us/programs/for-culture-and-education/museum-and-archives/bnai-brith-klutznick-national-jewish-museumreg-collection/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9062227
+Longitude: -77.0383102
+OpenStreetMap URL: https://www.openstreetmap.org/node/367144492
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smithsonian Institution Anacostia Community Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 1901 Fort Place Southeast Washington DC 20020
+Description: Not listed
+Website: https://anacostia.si.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8565015
+Longitude: -76.9769195
+OpenStreetMap URL: https://www.openstreetmap.org/node/367144495
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of Women in the Arts
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1250 New York Avenue Northwest Washington DC 20005
+Description: Not listed
+Website: https://nmwa.org/
+Phone: +1 202-783-5000
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-17:00; Su 12:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9000261
+Longitude: -77.0292709
+OpenStreetMap URL: https://www.openstreetmap.org/node/367144504
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Drug Enforcement Agency Museum and Visitors Center
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 700 Army Navy Drive Arlington VA 22202
+Description: Not listed
+Website: https://museum.dea.gov/visit
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8646656
+Longitude: -77.0581224
+OpenStreetMap URL: https://www.openstreetmap.org/node/367996966
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: American University Museum at the Katzen
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9387795
+Longitude: -77.0863656
+OpenStreetMap URL: https://www.openstreetmap.org/node/457296753
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smithsonian American Art Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: Washington DC 20001
+Description: Not listed
+Website: https://americanart.si.edu/
+Phone: +1 202-633-1000
+Email: Not listed
+Opening Hours: Mo-Su,PH 11:30-19:00
+Wheelchair Accessibility: yes
+Latitude: 38.8978665
+Longitude: -77.0235904
+OpenStreetMap URL: https://www.openstreetmap.org/node/611558742
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Portrait Gallery
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: Washington DC 20001
+Description: Not listed
+Website: https://npg.si.edu/
+Phone: +1 202-633-8300
+Email: Not listed
+Opening Hours: We-Su,PH 11:30-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8978665
+Longitude: -77.022372
+OpenStreetMap URL: https://www.openstreetmap.org/node/611558744
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Bonsai and Penjing Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.bonsai-nbf.org/bonsai-museum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-16:00
+Wheelchair Accessibility: yes
+Latitude: 38.9124154
+Longitude: -76.9689398
+OpenStreetMap URL: https://www.openstreetmap.org/node/776362071
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The People’s House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: The White House Historical Association
+Address: 1700 Pennsylvania Avenue Northwest 20006
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8985861
+Longitude: -77.039735
+OpenStreetMap URL: https://www.openstreetmap.org/node/801383799
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Laogai Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1901 18th Street Northwest Washington DC 20009
+Description: Not listed
+Website: https://laogairesearch.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9158054
+Longitude: -77.0414824
+OpenStreetMap URL: https://www.openstreetmap.org/node/851398804
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: America's Islamic Heritage Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 2315 Martin Luther King Junior Avenue Southeast Washington DC 20020
+Description: Monday - Closed; Tuesday - Saturday 11-5pm, Sunday 12-5pm
+Website: https://aihmuseum.org/
+Phone: +1 202-610-0586
+Email: Not listed
+Opening Hours: 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8632003
+Longitude: -76.9918493
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688609913
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Interior Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1849 C Street Northwest Washington DC 20240
+Description: Not listed
+Website: https://www.doi.gov/interiormuseum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-17:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8940589
+Longitude: -77.042798
+OpenStreetMap URL: https://www.openstreetmap.org/node/4015360177
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Heurich House Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://heurichhouse.org/
+Phone: +1 202-429-1894
+Email: info@heurichhouse.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9080298
+Longitude: -77.0445843
+OpenStreetMap URL: https://www.openstreetmap.org/node/4085826612
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: DAR Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1776 D Street Northwest Washington DC 20006
+Description: Guided tours of the period rooms are available and start on the hour. This is the only way to see the period rooms.
+Website: https://www.dar.org/museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 08:30-16:00; Sa 09:00-17:00; PH off
+Wheelchair Accessibility: yes
+Latitude: 38.8939474
+Longitude: -77.0399678
+OpenStreetMap URL: https://www.openstreetmap.org/node/4806102794
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: ARTECHOUSE
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1238 Maryland Avenue Southwest Washington DC 20024
+Description: Not listed
+Website: https://www.artechouse.com/location/dc/
+Phone: Not listed
+Email: tickets@artechouse.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8840059
+Longitude: -77.0291425
+OpenStreetMap URL: https://www.openstreetmap.org/node/5401217821
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Oxon Hill Farm
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: National Park Service
+Address: Not listed
+Description: Not listed
+Website: https://www.nps.gov/oxhi
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8019473
+Longitude: -77.0078349
+OpenStreetMap URL: https://www.openstreetmap.org/node/6316899188
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: DC History Center
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 801 K Street Northwest
+Description: Not listed
+Website: https://dchistory.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Fr 12:00-19:00; Sa-Su 12:00-18:00; PH off
+Wheelchair Accessibility: yes
+Latitude: 38.9025757
+Longitude: -77.0232301
+OpenStreetMap URL: https://www.openstreetmap.org/node/6742682197
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Deaf Life Museum at Gallaudet University
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Florida Ave NE
+Description: Not listed
+Website: http://museum.gallaudet.edu
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9058037
+Longitude: -76.994977
+OpenStreetMap URL: https://www.openstreetmap.org/node/6796471847
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Stabler-Leadbeater Apothecary Musuem
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 105;107 South Fairfax Street Alexandria VA 22314
+Description: Not listed
+Website: https://alexandriava.gov/Apothecary
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.8042469
+Longitude: -77.0427505
+OpenStreetMap URL: https://www.openstreetmap.org/node/8274807496
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Children's Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1300 Pennsylvania Avenue Northwest Washington DC 20004
+Description: Combining science center content with a children’s museum experience, National Children's Museum is a hands-on space that ignites curiosity and inspires young children to explore science, technology, engineering, arts, and math (or STEAM) through whimsica
+Website: https://nationalchildrensmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8942727
+Longitude: -77.0298925
+OpenStreetMap URL: https://www.openstreetmap.org/node/8898336471
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Clara Barton Missing Soldiers Office Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.clarabartonmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.895874
+Longitude: -77.0217253
+OpenStreetMap URL: https://www.openstreetmap.org/node/9123144289
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Planet Word
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 925 13th Street Northwest Washington DC 20005
+Description: Entrance is free but a $15 donation is suggested.  Passes are recommended to guarantee entrance at the date and time desired.
+Website: https://planetwordmuseum.org/
+Phone: +1 202-931-3139
+Email: connect@planetwordmuseum.org
+Opening Hours: Mo,We-Fr 10:00-17:00; Sa,Su 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9022279
+Longitude: -77.0293023
+OpenStreetMap URL: https://www.openstreetmap.org/node/9998763305
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Illusions
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 927 H Street Northwest Washington DC 20001
+Description: Not listed
+Website: https://moiwashington.com
+Phone: +1 202-993-5992
+Email: Not listed
+Opening Hours: Mo-Th,Su 10:00-20:00; Fr,Sa 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8999842
+Longitude: -77.0245859
+OpenStreetMap URL: https://www.openstreetmap.org/node/10270423476
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Navy Memorial Visitor Center
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 701 Pennsylvania Avenue Northwest Washington DC 20004
+Description: Not listed
+Website: https://www.navymemorial.org/visitors-center
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 09:30-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8944503
+Longitude: -77.0227566
+OpenStreetMap URL: https://www.openstreetmap.org/node/10313738806
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Inventors Hall of Fame and Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 600 Dulany Street Alexandria VA 22314
+Description: Not listed
+Website: https://www.uspto.gov/about-us/uspto-locations/alexandria-va/national-inventors-hall-fame-and-museum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-16:00; Sa[1] 11:00-15:00; Su, PH off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8014329
+Longitude: -77.0641927
+OpenStreetMap URL: https://www.openstreetmap.org/node/10711178598
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Old Stone House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo,Fr 12:00-17:00; Sa,Su 11:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9053499
+Longitude: -77.0603771
+OpenStreetMap URL: https://www.openstreetmap.org/node/12081780919
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of the Palestinian People
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1900 18th Street Northwest 20009
+Description: Not listed
+Website: https://mpp-dc.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Fr 15:00-20:00; Sa 12:00-18:00; Su 12:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9157198
+Longitude: -77.0418497
+OpenStreetMap URL: https://www.openstreetmap.org/node/12091851371
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Old Post Office Tower and Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nps.gov/nama/planyourvisit/opot.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8936926
+Longitude: -77.0276647
+OpenStreetMap URL: https://www.openstreetmap.org/node/12328873133
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: KID Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9843123
+Longitude: -77.0958305
+OpenStreetMap URL: https://www.openstreetmap.org/node/12342520787
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dopamine Land
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 5333 Wisconsin Avenue Northwest Washington DC
+Description: Not listed
+Website: https://dopaminelandexperience.com/washington/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9602824
+Longitude: -77.0851789
+OpenStreetMap URL: https://www.openstreetmap.org/node/13074917317
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of African Art
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 950 Independence Avenue Southwest Washington DC 20560
+Description: Not listed
+Website: https://africa.si.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30; PH off
+Wheelchair Accessibility: yes
+Latitude: 38.8879651
+Longitude: -77.0255043
+OpenStreetMap URL: https://www.openstreetmap.org/way/26765041
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Arthur M. Sackler Gallery
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 1050 Independence Avenue Southwest Washington DC
+Description: Not listed
+Website: https://www.si.edu/museums/sackler-gallery
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30; Dec 25 off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8879631
+Longitude: -77.0264364
+OpenStreetMap URL: https://www.openstreetmap.org/way/26765042
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Arts and Industries Building
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 900 Jefferson Drive Southwest Washington DC 20560
+Description: Not listed
+Website: https://aib.si.edu/
+Phone: +1 202-633-1000
+Email: Not listed
+Opening Hours: off
+Wheelchair Accessibility: yes
+Latitude: 38.8881834
+Longitude: -77.0244785
+OpenStreetMap URL: https://www.openstreetmap.org/way/42341486
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rubell Museum DC
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 65 I Street Southwest Washington 20024
+Description: A contemporary art museum in Washington, D.C., focusing on exhibitions of contemporary art.
+Website: https://rubellmuseum.org/dc
+Phone: +1 202-964-8254
+Email: infodc@rubellmuseum.org
+Opening Hours: We-Th 11:00-17:00; Fr-Sa 11:00-18:00; Su 11:00-17:00; Jan 01 off; Jun 19 off; Jul 04 off; Nov Th[-1] off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 38.8795277
+Longitude: -77.0110619
+OpenStreetMap URL: https://www.openstreetmap.org/way/48037428
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Building Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 401 F Street Northwest Washington DC 20001
+Description: Not listed
+Website: https://nbm.org/
+Phone: +1 202-272-2448
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-17:00; Su 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8977548
+Longitude: -77.0175512
+OpenStreetMap URL: https://www.openstreetmap.org/way/48040795
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: LabX
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 500 5th Street Northwest Washington DC 20004
+Description: Not listed
+Website: https://labx.org/
+Phone: +1-202-334-2000
+Email: labx@nas.edu
+Opening Hours: We-Mo 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.896572
+Longitude: -77.0193875
+OpenStreetMap URL: https://www.openstreetmap.org/way/48041266
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Petersen House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 09:30-16:45
+Wheelchair Accessibility: Not listed
+Latitude: 38.8967719
+Longitude: -77.0262016
+OpenStreetMap URL: https://www.openstreetmap.org/way/48041513
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Geographic Society
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1145 N Street Northwest Washington 20036
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9051501
+Longitude: -77.0381091
+OpenStreetMap URL: https://www.openstreetmap.org/way/55326926
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sumner School
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9059393
+Longitude: -77.0381414
+OpenStreetMap URL: https://www.openstreetmap.org/way/55327098
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Octagon House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1799 New York Avenue Northwest Washington DC 20006
+Description: Not listed
+Website: https://architectsfoundation.org/octagon-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8963439
+Longitude: -77.0414324
+OpenStreetMap URL: https://www.openstreetmap.org/way/65780799
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dacor Bacon House Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1801 F Street Northwest
+Description: The Ringgold–Carroll House (also known as the DACOR Bacon House and John Marshall House) is an historic residence located at 1801 F St Northwest, Washington, D.C. Built in 1825, it is listed on the National Register of Historic Places. It has been adapted
+Website: https://dacorbacon.org
+Phone: +1 202-682-0500
+Email: Not listed
+Opening Hours: Mo,We,Th 02:30-16:30
+Wheelchair Accessibility: yes
+Latitude: 38.8975905
+Longitude: -77.0419693
+OpenStreetMap URL: https://www.openstreetmap.org/way/65780838
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Art Museum of the Americas
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 201 18th Street Northwest Washington DC
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 10:00-17:00; PH off; easter off
+Wheelchair Accessibility: limited
+Latitude: 38.8928528
+Longitude: -77.0414853
+OpenStreetMap URL: https://www.openstreetmap.org/way/65780890
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: East Wing National Gallery of Art
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nga.gov/about/welcome-to-the-east-building.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8913036
+Longitude: -77.0165424
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418590
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of the American Indian
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: Independence Avenue Southwest
+Description: Not listed
+Website: https://americanindian.si.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 38.8881846
+Longitude: -77.0165609
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418605
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: U.S. Holocaust Memorial Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 100 Raoul Wallenberg Place Southwest Washington DC
+Description: Not listed
+Website: https://www.ushmm.org/
+Phone: +1 202-488-0400
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:20
+Wheelchair Accessibility: Not listed
+Latitude: 38.8866387
+Longitude: -77.0327476
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418706
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of Natural History
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 1000 Madison Drive Northwest Washington DC 20560
+Description: Not listed
+Website: https://naturalhistory.si.edu
+Phone: +1 202-633-1000
+Email: naturalexperience@si.edu
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 38.8912517
+Longitude: -77.0259716
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418787
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Gallery of Art
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: DC
+Description: Not listed
+Website: https://www.nga.gov/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 38.8913174
+Longitude: -77.0199067
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418944
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: U.S. National Archives
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: National Archives and Records Administration
+Address: 700 Pennsylvania Avenue Northwest Washington DC
+Description: Not listed
+Website: https://www.archives.gov/
+Phone: Not listed
+Email: visitorservices@nara.gov
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 38.8928078
+Longitude: -77.022919
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418953
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Renwick Gallery
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institute
+Address: 1661 Pennsylvania Avenue Northwest Washington DC 20006
+Description: Not listed
+Website: https://americanart.si.edu/visit/renwick
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8991269
+Longitude: -77.0390789
+OpenStreetMap URL: https://www.openstreetmap.org/way/66420114
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Decatur Carriage House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8999445
+Longitude: -77.0386797
+OpenStreetMap URL: https://www.openstreetmap.org/way/66420117
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Anderson House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 2118 Massachusetts Avenue Northwest Washington DC
+Description: Not listed
+Website: https://www.americanrevolutioninstitute.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9107345
+Longitude: -77.0477044
+OpenStreetMap URL: https://www.openstreetmap.org/way/66646611
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dumbarton Oaks
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.doaks.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.914063
+Longitude: -77.0635772
+OpenStreetMap URL: https://www.openstreetmap.org/way/66691700
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sewall-Belmont House and Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: United States National Park Service
+Address: 144 Constitution Avenue Northeast Washington DC
+Description: Not listed
+Website: https://www.nps.gov/bepa/index.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8921953
+Longitude: -77.0037595
+OpenStreetMap URL: https://www.openstreetmap.org/way/66733174
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum Of American Jewish Military History
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1811 R Street Northwest Washington DC 20009-1032
+Description: Not listed
+Website: https://nmajmh.org/
+Phone: +1-202-265-6280
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-17:00; We 09:00-15:00; Sa-Su closed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9128128
+Longitude: -77.0421135
+OpenStreetMap URL: https://www.openstreetmap.org/way/66833998
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Postal Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institute
+Address: 2 Massachusetts Avenue Northeast Washington DC 20002
+Description: Not listed
+Website: https://www.postalmuseum.si.edu/
+Phone: +1 202-633-5555
+Email: Not listed
+Opening Hours: 10:00-17:30; Dec 25 off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8980634
+Longitude: -77.0080894
+OpenStreetMap URL: https://www.openstreetmap.org/way/67100670
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of the U.S. Navy
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 736 Sicard Street Southeast
+Description: Not listed
+Website: https://www.history.navy.mil/content/history/museums/nmusn.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8738499
+Longitude: -76.9953144
+OpenStreetMap URL: https://www.openstreetmap.org/way/67260559
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rock Creek Park Nature Center and Planetarium
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: National Park Service
+Address: 5200 Glover Road Northwest DC
+Description: Not listed
+Website: https://www.nps.gov/rocr/planyourvisit/nature-center-and-planetarium.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9599566
+Longitude: -77.0516966
+OpenStreetMap URL: https://www.openstreetmap.org/way/73901645
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kreeger Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 2401 Foxhall Road Northwest Washington DC 20007
+Description: Not listed
+Website: https://www.kreegermuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9218422
+Longitude: -77.0887778
+OpenStreetMap URL: https://www.openstreetmap.org/way/91622933
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hillwood Estate, Museum & Gardens
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 4155 Linnean Avenue Northwest 20008
+Description: Not listed
+Website: https://hillwoodmuseum.org/
+Phone: +1 202-686-5807
+Email: Not listed
+Opening Hours: Tu-Su 10:00-17:00; Mo off
+Wheelchair Accessibility: Not listed
+Latitude: 38.943657
+Longitude: -77.0526052
+OpenStreetMap URL: https://www.openstreetmap.org/way/91804743
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: College Park Aviation Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Prince George’s County Department of Parks and Recreation
+Address: 1985 Corporal Frank Scott Drive College Park MD 20740
+Description: Not listed
+Website: https://pgparks.com/facilities/college-park-aviation-museum
+Phone: +1-301-864-6029
+Email: CollegeParkAviation@pgparks.com
+Opening Hours: Tu-Su 10:00-17:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 38.978832
+Longitude: -76.9223101
+OpenStreetMap URL: https://www.openstreetmap.org/way/202541295
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Friendship Fire Station
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 107 South Alfred Street Alexandria VA 22314
+Description: Not listed
+Website: https://alexandriava.gov/historic/friendship/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8049578
+Longitude: -77.0494958
+OpenStreetMap URL: https://www.openstreetmap.org/way/205035488
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Contemporary Art Arlington
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 3550 Wilson Boulevard Arlington VA 22201
+Description: Not listed
+Website: https://mocaarlington.org/
+Phone: +1 703-248-6800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8816867
+Longitude: -77.1020536
+OpenStreetMap URL: https://www.openstreetmap.org/way/212022797
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of the Bible
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 400 4th Street Southwest Washington DC 20024
+Description: Not listed
+Website: https://www.museumofthebible.org/
+Phone: +1 866-430-6682
+Email: Not listed
+Opening Hours: 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 38.8846648
+Longitude: -77.0167553
+OpenStreetMap URL: https://www.openstreetmap.org/way/217168150
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Arlington Historical Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Arlington Historical Society
+Address: 1805 South Arlington Ridge Road Arlington VA 22202
+Description: Not listed
+Website: https://arlingtonhistoricalsociety.org/visit/arlington-historical-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa-Su 13:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 38.8587299
+Longitude: -77.0675252
+OpenStreetMap URL: https://www.openstreetmap.org/way/224181665
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smithsonian Museum Support Center
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian
+Address: 4210 Silver Hill Road Suitland MD 20746
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8430921
+Longitude: -76.9404315
+OpenStreetMap URL: https://www.openstreetmap.org/way/224941929
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smithsonian NMAI Cultural Resources Center
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian
+Address: 4220 Silver Hill Road Suitland MD 20746
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8435085
+Longitude: -76.9371573
+OpenStreetMap URL: https://www.openstreetmap.org/way/224941933
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smithsonian Gardens Greenhouse
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8448311
+Longitude: -76.9396447
+OpenStreetMap URL: https://www.openstreetmap.org/way/224941936
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lyceum Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 700 Prince Street Alexandria VA 22314
+Description: Not listed
+Website: https://www.alexandriava.gov/Lyceum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8037454
+Longitude: -77.0476069
+OpenStreetMap URL: https://www.openstreetmap.org/way/233012511
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pope John Paul II National Shrine
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 3900 Harewood Road Northeast Washington DC 20017
+Description: Not listed
+Website: https://www.jp2shrine.org/en/index.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9376727
+Longitude: -77.0048693
+OpenStreetMap URL: https://www.openstreetmap.org/way/297739339
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: President Lincoln's Cottage
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://lincolncottage.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9416928
+Longitude: -77.0117565
+OpenStreetMap URL: https://www.openstreetmap.org/way/297762403
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: GWU Museum and Textile Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 701 21st Street Northwest Washington DC 20052
+Description: Not listed
+Website: https://museum.gwu.edu
+Phone: +1 202-994-5200
+Email: museuminfo@gwu.edu
+Opening Hours: Mo, Fr 11:00-17:00; Tu-Th 11:00-19:00; Sa 10:00-17:00; Su 13:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8987584
+Longitude: -77.0463571
+OpenStreetMap URL: https://www.openstreetmap.org/way/330986446
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of African American History and Culture
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 1400 Constitution Avenue Northwest Washington DC 20560
+Description: free. timed-entry passes are required
+Website: https://nmaahc.si.edu/
+Phone: +1 844-750-3012
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8910623
+Longitude: -77.032704
+OpenStreetMap URL: https://www.openstreetmap.org/way/398810868
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of American History
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institute
+Address: 1300 Constitution Avenue Northwest
+Description: Not listed
+Website: https://americanhistory.si.edu/
+Phone: +1 202-633-1000
+Email: info@si.edu
+Opening Hours: Mo-Su 10:00-17:30; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 38.8912266
+Longitude: -77.030017
+OpenStreetMap URL: https://www.openstreetmap.org/way/445808462
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Prince Georges African American Museum and Cultural Center
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 4519 Rhode Island Avenue Brentwood MD 20722
+Description: Not listed
+Website: https://pgaamcc.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Sa 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9433454
+Longitude: -76.9485735
+OpenStreetMap URL: https://www.openstreetmap.org/way/614964606
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Market Master House Historic Site
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 4006 48th Street Bladensburg MD 20710
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9387177
+Longitude: -76.9369334
+OpenStreetMap URL: https://www.openstreetmap.org/way/614971647
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Riversdale House Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Prince George's County Department of Parks and Recreation
+Address: 4811 Riverdale Road Riverdale Park MD 20737
+Description: Not listed
+Website: https://www.pgparks.com/3023/Riversdale-House-Museum
+Phone: +1 301 864 0420
+Email: riversdale@pgparks.com
+Opening Hours: Mo-Fr 10:00-16:00; Su 11:30-15:30
+Wheelchair Accessibility: no
+Latitude: 38.9602388
+Longitude: -76.9318386
+OpenStreetMap URL: https://www.openstreetmap.org/way/615373760
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: International Spy Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 700 L'Enfant Plaza Southwest Washington DC 20024
+Description: Not listed
+Website: https://www.spymuseum.org
+Phone: +1 202-393-7798
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8839103
+Longitude: -77.0255379
+OpenStreetMap URL: https://www.openstreetmap.org/way/685765699
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: James I. Mayer Center for Environmental Education
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: NOVA Parks
+Address: 2845 North Marcey Road Arlington VA 22207
+Description: Not listed
+Website: https://www.novaparks.com/parks/potomac-overlook-regional-park/things-to-do/nature-centerthe-energerium
+Phone: +1-703-528-5406
+Email: potomac@nvrpa.org
+Opening Hours: Tu-Sa 10:00-17:00; Su 13:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9142856
+Longitude: -77.1079238
+OpenStreetMap URL: https://www.openstreetmap.org/way/717004397
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of American Diplomacy
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 330 21st Street Northwest Washington DC 20006
+Description: Not listed
+Website: https://diplomacy.state.gov/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8948152
+Longitude: -77.047059
+OpenStreetMap URL: https://www.openstreetmap.org/way/742619140
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Freedom House Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Northern Virginia Urban League
+Address: 1315 Duke Street Alexandria VA 22314
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8039168
+Longitude: -77.0544858
+OpenStreetMap URL: https://www.openstreetmap.org/way/745715820
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Decatur House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1610 H Street Northwest Washington DC
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9000154
+Longitude: -77.0383892
+OpenStreetMap URL: https://www.openstreetmap.org/way/1341584665
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Capital Jewish Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 575 3rd Street Northwest Washington DC
+Description: Not listed
+Website: https://capitaljewishmuseum.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8970382
+Longitude: -77.0148257
+OpenStreetMap URL: https://www.openstreetmap.org/way/1388793917
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Phillips Collection
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 1600 21st Street Northwest Washington DC
+Description: Not listed
+Website: https://www.phillipscollection.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 10:00-17:00; Su 12:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9116138
+Longitude: -77.0469931
+OpenStreetMap URL: https://www.openstreetmap.org/way/1527304874
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Freer Gallery of Art
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 1050 Independence Avenue Southwest Washington DC 20013
+Description: Not listed
+Website: https://www.asia.si.edu/
+Phone: +1 202-633-1000
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-17:30; Dec 25 off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8881079
+Longitude: -77.0273456
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1029355
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hirshhorn Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: Not listed
+Description: Not listed
+Website: https://hirshhorn.si.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8881772
+Longitude: -77.0229545
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3374667
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Law Enforcement Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 444 E Street Northwest Washington DC 20001
+Description: Not listed
+Website: https://lawenforcementmuseum.org
+Phone: +1 202-737-3400
+Email: info@lawenforcementmuseum.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8959513
+Longitude: -77.0175546
+OpenStreetMap URL: https://www.openstreetmap.org/relation/13044877
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Air and Space Museum
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Smithsonian Institution
+Address: 655 Jefferson Drive Southwest Washington DC 20560
+Description: Not listed
+Website: https://airandspace.si.edu/
+Phone: +1 202-633-2214
+Email: NASM-VisitorServices@si.edu
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 38.8881407
+Longitude: -77.019835
+OpenStreetMap URL: https://www.openstreetmap.org/relation/16159112
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dumbarton House
+City: Washington DC
+Category: museums
+Tourism Type: museum
+Amenity Type: Not listed
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: National Park Service
+Address: 2715 Q Street Northwest Washington DC 20007
+Description: Not listed
+Website: https://dumbartonhouse.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9108532
+Longitude: -77.0557672
+OpenStreetMap URL: https://www.openstreetmap.org/relation/19731681
+Data Source: OpenStreetMap contributors
