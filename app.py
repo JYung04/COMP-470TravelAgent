@@ -135,7 +135,7 @@ if not st.session_state.trip_submitted:
 
         interests = st.multiselect("Interests", INTEREST_OPTIONS)
 
-        submitted = st.form_submit_button("Generate Itinerary", use_container_width=True)
+        submitted = st.form_submit_button("Generate", use_container_width=True)
 
     if submitted:
         error = validate_trip_form(city, arrival, departure, budget, interests)
