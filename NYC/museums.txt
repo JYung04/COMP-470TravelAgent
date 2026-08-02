@@ -1,0 +1,3585 @@
+City: NYC
+Category: museums
+Data Source: OpenStreetMap contributors
+Number of named places: 199
+
+Name: Hoboken Fire Department Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 213 Bloomfield Street NJ 07030
+Description: Not listed
+Website: https://www.hobokenmuseum.org/visit/hoboken-fire-department-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa,Su 11:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.739273
+Longitude: -74.0309564
+OpenStreetMap URL: https://www.openstreetmap.org/node/367697376
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hoboken Historical Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1301 Hudson Street Hoboken NJ 07030
+Description: Not listed
+Website: https://www.hobokenmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Th 14:00-19:00; Fr 13:00-17:00; Sa,Su 12:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7521438
+Longitude: -74.0249925
+OpenStreetMap URL: https://www.openstreetmap.org/node/367697388
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bergen Museum of Art and Science
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NJ
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8856186
+Longitude: -74.0422885
+OpenStreetMap URL: https://www.openstreetmap.org/node/367697399
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fort Lee Museum at the Judge Moore House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NJ
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8483928
+Longitude: -73.9687885
+OpenStreetMap URL: https://www.openstreetmap.org/node/367697417
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fraunces Tavern Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 54 Pearl Street New York NY 10004
+Description: Not listed
+Website: https://www.frauncestavernmuseum.org/
+Phone: +1 212-425-1778
+Email: Not listed
+Opening Hours: 12:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.703387
+Longitude: -74.011354
+OpenStreetMap URL: https://www.openstreetmap.org/node/368052081
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of the American Indian
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1 Bowling Green New York NY 10004
+Description: Not listed
+Website: https://americanindian.si.edu/
+Phone: +1 212-514-3700
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.704027
+Longitude: -74.013747
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061337
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bronx Museum of the Arts
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1040 Grand Concourse Bronx NY 10456
+Description: Not listed
+Website: https://bronxmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 13:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.8310911
+Longitude: -73.9199471
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061518
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Yeshiva University Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: https://www.yumuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.737978
+Longitude: -73.9938312
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061605
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of the Moving Image
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 35th Avenue Astoria NY 11106
+Description: Not listed
+Website: https://movingimage.us/
+Phone: +1 718 777 6800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7561949
+Longitude: -73.9240069
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061644
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New York Transit Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 99 Schermerhorn Street Brooklyn NY 11201
+Description: Undeground museum in disused subway tunnel. Main entrance on Schermerhorn Street at Boerum Place, wheelchair-accessible entrance on Schermerhorn Street at Court Street
+Website: https://www.nytransitmuseum.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Su 10:00-16:00
+Wheelchair Accessibility: limited
+Latitude: 40.6905176
+Longitude: -73.9899802
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061648
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of African Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.725
+Longitude: -73.9977778
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061657
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lower East Side Tenement Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 103 Orchard Street New York NY
+Description: Not listed
+Website: https://www.tenement.org/
+Phone: +1 212-982-8420
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30; Fr,Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7187837
+Longitude: -73.9900266
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061660
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Erasmus Hall Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: https://6tocelebrate.org/site/erasmus-hall-museum-erasmus-hall-high-school/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6494444
+Longitude: -73.9575
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061667
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bartow-Pell Mansion Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: https://www.bartowpellmansionmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 12:00-16:00; Th off; Fr off
+Wheelchair Accessibility: Not listed
+Latitude: 40.8717809
+Longitude: -73.8056401
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061866
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Noble Maritime Collection
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10301
+Description: Not listed
+Website: https://noblemaritime.org/
+Phone: +1 718-447-6490
+Email: Not listed
+Opening Hours: Th-Su 12:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.6443066
+Longitude: -74.1017627
+OpenStreetMap URL: https://www.openstreetmap.org/node/424048139
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Newhouse Center for Contemporary Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10301
+Description: Not listed
+Website: https://snug-harbor.org/newhousecenter/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6443808
+Longitude: -74.102099
+OpenStreetMap URL: https://www.openstreetmap.org/node/424048146
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Staten Island Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10301
+Description: Not listed
+Website: https://www.statenislandmuseum.org/
+Phone: +1-718-727-1135
+Email: info@statenislandmuseum.org
+Opening Hours: We-Su 11:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.6445211
+Longitude: -74.1027489
+OpenStreetMap URL: https://www.openstreetmap.org/node/424048153
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Carlstadt Historic Firehouse Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Carlstadt Firehouse Museum
+4th Sunday each month 2-4 PM
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8380844
+Longitude: -74.0893185
+OpenStreetMap URL: https://www.openstreetmap.org/node/608435749
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: William D. McDowell Observatory
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7856782
+Longitude: -74.1053255
+OpenStreetMap URL: https://www.openstreetmap.org/node/913644165
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dyckman Farmhouse Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 4881 Broadway New York NY 10034
+Description: Museum in the city's only remaining Dutch colonial farmhouse (built circa 1764) and its garden.
+Website: https://dyckmanfarmhouse.org/
+Phone: +1-212-304-9422
+Email: info@dyckmanfarmhouse.org
+Opening Hours: Th-Sa 11:00-16:00; Su 11:00-15:00
+Wheelchair Accessibility: no
+Latitude: 40.8673822
+Longitude: -73.9228859
+OpenStreetMap URL: https://www.openstreetmap.org/node/1549441335
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rubin Museum of Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 150 West 17th Street New York NY 10011
+Description: Not listed
+Website: https://rubinmuseum.org/
+Phone: +1-212-620-5000
+Email: Not listed
+Opening Hours: Th-Su 11:00-17:00; Fr 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7400959
+Longitude: -73.9977377
+OpenStreetMap URL: https://www.openstreetmap.org/node/1810241472
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ryan Visitor Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 210 New York Avenue Staten Island NY 10305
+Description: Not listed
+Website: https://www.nps.gov/gate/learn/historyculture/ryan-visitor-center.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5881537
+Longitude: -73.8969221
+OpenStreetMap URL: https://www.openstreetmap.org/node/2185003533
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Nutley Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nutleyhistoricalsociety.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8184995
+Longitude: -74.1634388
+OpenStreetMap URL: https://www.openstreetmap.org/node/2295374778
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Brant Foundation Art Study Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 421 East 6th Street New York NY 10009
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.726068
+Longitude: -73.9851191
+OpenStreetMap URL: https://www.openstreetmap.org/node/2549926611
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Yankees Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.mlb.com/yankees/ballpark/tours/museum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8285709
+Longitude: -73.9258934
+OpenStreetMap URL: https://www.openstreetmap.org/node/2611640871
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Children's Cultural Center of Native America
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 550 West 155th Street New York NY 10032
+Description: Not listed
+Website: https://www.cccona.org/
+Phone: +1-917-902-6628
+Email: cccona.center@gmail.com
+Opening Hours: Mo-Fr 10:30-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8321455
+Longitude: -73.9448716
+OpenStreetMap URL: https://www.openstreetmap.org/node/2768275469
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Skyscraper Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 39 Battery Place New York NY 10280
+Description: Not listed
+Website: https://skyscraper.org/
+Phone: +1 2129681961
+Email: Not listed
+Opening Hours: We-Sa 12:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.70575
+Longitude: -74.017691
+OpenStreetMap URL: https://www.openstreetmap.org/node/2808241058
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hall des Lumières
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 49 Chambers Street New York NY 10007
+Description: Not listed
+Website: https://www.halldeslumieres.com/
+Phone: +1 3322428810
+Email: info@halldeslumieres.com;press@halldeslumieres.com
+Opening Hours: 10:00-18:00; Tu off; Th-Sa 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.713744
+Longitude: -74.005072
+OpenStreetMap URL: https://www.openstreetmap.org/node/2825233330
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: South Street Seaport Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 12 Fulton Street 10038
+Description: Not listed
+Website: https://southstreetseaportmuseum.org/
+Phone: +1 212-748-8600
+Email: Not listed
+Opening Hours: We-Su 11:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.706628
+Longitude: -74.003676
+OpenStreetMap URL: https://www.openstreetmap.org/node/2898706753
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: American Folk Art Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 2 Lincoln Square New York NY
+Description: Not listed
+Website: http://www.folkartmuseum.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 11:30-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.7732296
+Longitude: -73.9815958
+OpenStreetMap URL: https://www.openstreetmap.org/node/3224793125
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Staten Island Children’s Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10301
+Description: Not listed
+Website: https://www.sichildrensmuseum.org/
+Phone: +1 718-273-2060
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6427113
+Longitude: -74.1018927
+OpenStreetMap URL: https://www.openstreetmap.org/node/3350222381
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Museum at FIT
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.fitnyc.edu/museum.asp
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Fr 12:00-20:00; Sa 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7466544
+Longitude: -73.9941473
+OpenStreetMap URL: https://www.openstreetmap.org/node/3623620317
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Maritime National Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.sunymaritime.edu/aboutpublic-programsmaritime-industry-museum/about-maritime-museum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8051618
+Longitude: -73.7910534
+OpenStreetMap URL: https://www.openstreetmap.org/node/3940807665
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Trust for Governors Island
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.govisland.com/about/the-trust-for-governors-island
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6927288
+Longitude: -74.0159869
+OpenStreetMap URL: https://www.openstreetmap.org/node/4080363530
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Sex
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 233 5th Avenue New York NY 10016
+Description: Not listed
+Website: https://www.museumofsex.com/locations/new-york-city/
+Phone: +1 212-689-6337
+Email: info@museumofsex.com
+Opening Hours: Mo-Th,Su 13:00-22:00; Fr 13:00-00:00; Sa 12:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.7440374
+Longitude: -73.9873576
+OpenStreetMap URL: https://www.openstreetmap.org/node/4224363289
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Museum of Mathematics
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 225 5th Avenue New York NY 10010
+Description: This museum highlights the role of mathematics in illuminating the patterns and structures all around us.  The Museum occasionally closes early, closes for the day, or has limited hours. Please check the Visit page for further details.
+Website: https://momath.org/
+Phone: +1-212-542-0566
+Email: info@momath.org
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.7435852
+Longitude: -73.9877866
+OpenStreetMap URL: https://www.openstreetmap.org/node/4252536496
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Italian American Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 151 Mulberry Street New York NY
+Description: Not listed
+Website: https://italianamericanmuseum.org/
+Phone: +1 212-965-9000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.719105
+Longitude: -73.997523
+OpenStreetMap URL: https://www.openstreetmap.org/node/4332192139
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bronx Documentary Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 614 Courtlandt Avenue
+Description: Not listed
+Website: https://www.bronxdoc.org/
+Phone: +1-718-993-3512
+Email: Not listed
+Opening Hours: Sa, Su 13:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.8180322
+Longitude: -73.9186583
+OpenStreetMap URL: https://www.openstreetmap.org/node/4455096389
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Morgan Library & Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 225 Madison Avenue New York NY 10016
+Description: Not listed
+Website: https://www.themorgan.org/
+Phone: +1-212-685-0008
+Email: Not listed
+Opening Hours: Tu-Su 10:30-17:00; Fr 10:30-20:00; Mo off; Nov Th[4]; Jan 01, Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7492685
+Longitude: -73.9814652
+OpenStreetMap URL: https://www.openstreetmap.org/node/4462440249
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Gagosian
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 555 West 24th Street
+Description: Not listed
+Website: https://gagosian.com
+Phone: +1-212-741-1111
+Email: newyork@gagosian.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7494423
+Longitude: -74.0059445
+OpenStreetMap URL: https://www.openstreetmap.org/node/4470030189
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Met Cloisters
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 99 Margaret Corbin Drive 10040
+Description: Not listed
+Website: https://www.metmuseum.org/visit/plan-your-visit/met-cloisters
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Tu 10:00-16:30
+Wheelchair Accessibility: limited
+Latitude: 40.8648684
+Longitude: -73.9319228
+OpenStreetMap URL: https://www.openstreetmap.org/node/4491242890
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Spark Brooklyn Children's Museum Annex
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1 John Street Brooklyn 11201
+Description: Not listed
+Website: https://www.brooklynkids.org/spark/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7045486
+Longitude: -73.9878113
+OpenStreetMap URL: https://www.openstreetmap.org/node/4631369553
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hayden Planetarium
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 200 Central Park West New York NY 10024
+Description: Not listed
+Website: https://haydenplanetarium.org/
+Phone: +1-212-769-5100
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 40.7813974
+Longitude: -73.9733215
+OpenStreetMap URL: https://www.openstreetmap.org/node/4778356621
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Garbage museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7856582
+Longitude: -73.9439308
+OpenStreetMap URL: https://www.openstreetmap.org/node/4822836222
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lesbian Herstory Archives
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://lesbianherstoryarchives.org/
+Phone: +1-718-768-3953
+Email: Not listed
+Opening Hours: "see website for schedule"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6619156
+Longitude: -73.980323
+OpenStreetMap URL: https://www.openstreetmap.org/node/4975837317
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: African Art Museum at the SMA
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://smafathers.org/museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.9102896
+Longitude: -73.961714
+OpenStreetMap URL: https://www.openstreetmap.org/node/5022817661
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ground Zero Museum Workshop
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10014
+Description: Not listed
+Website: https://groundzeromuseumworkshop.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 11:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 40.74121
+Longitude: -74.0067195
+OpenStreetMap URL: https://www.openstreetmap.org/node/5166579821
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sugar Hill Children's Museum of Art and Story Telling
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 898 Saint Nicholas Avenue 10032
+Description: Not listed
+Website: https://www.sugarhillmuseum.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.8304543
+Longitude: -73.941171
+OpenStreetMap URL: https://www.openstreetmap.org/node/5296084264
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Greater Ridgewood Historical Society
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Flushing Avenue
+Description: Not listed
+Website: https://onderdonkhouse.org/
+Phone: +1-718-456-1776
+Email: ridgewoodhistoricalsociety@gmail.com
+Opening Hours: Sa-Su 13:00-17:00; We 15:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7109086
+Longitude: -73.9200168
+OpenStreetMap URL: https://www.openstreetmap.org/node/5394515623
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Studio Museum In Harlem
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 144 West 125th Street 10027
+Description: Not listed
+Website: https://studiomuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8084179
+Longitude: -73.947616
+OpenStreetMap URL: https://www.openstreetmap.org/node/5420936939
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Renee and Chaim Gross Foundation
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 526 Laguardia Place New York NY 10012
+Description: Not listed
+Website: https://www.rcgrossfoundation.org/
+Phone: +1-212-529-4906
+Email: Not listed
+Opening Hours: Th,Fr 13:00-17:00
+Wheelchair Accessibility: limited
+Latitude: 40.7284684
+Longitude: -73.99882
+OpenStreetMap URL: https://www.openstreetmap.org/node/5509996164
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Mmuseumm
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 4 Cortlandt Alley 10013
+Description: tiny exhibit space in a disused elevator
+Website: https://www.mmuseumm.com/
+Phone: +1-888-763-8839
+Email: info@mmuseumm.com
+Opening Hours: Sa-Su 12:00-18:00 open "Museum" || 00:00-24:00 open "Viewing windows"
+Wheelchair Accessibility: yes
+Latitude: 40.717363
+Longitude: -74.002815
+OpenStreetMap URL: https://www.openstreetmap.org/node/5640186350
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Underpenny Museum Antique & Collectables
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-917-517-1492
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7427467
+Longitude: -73.9533895
+OpenStreetMap URL: https://www.openstreetmap.org/node/5721477303
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Living Torah Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1601 41st Street
+Description: Not listed
+Website: https://www.livingtorahmuseum.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6355153
+Longitude: -73.9806247
+OpenStreetMap URL: https://www.openstreetmap.org/node/5747114437
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Center for Architecture
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 546 LaGuardia Place
+Description: Not listed
+Website: https://www.centerforarchitecture.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.72873
+Longitude: -73.9985805
+OpenStreetMap URL: https://www.openstreetmap.org/node/5747425246
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Biggie Experience
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.thebiggieexperience.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Th 12:00-20:00; Fr-Sa 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6856369
+Longitude: -73.9810783
+OpenStreetMap URL: https://www.openstreetmap.org/node/5905417719
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Illusions
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 77 8th Avenue
+Description: Not listed
+Website: https://newyork.museumofillusions.us
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7396591
+Longitude: -74.0028554
+OpenStreetMap URL: https://www.openstreetmap.org/node/6035120505
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Reclaimed Urban Space
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 155 Avenue C
+Description: Not listed
+Website: https://morusnyc.org
+Phone: +1-646-340-8341
+Email: info@morusnyc.org
+Opening Hours: We-Su 12:00-17:00
+Wheelchair Accessibility: no
+Latitude: 40.7257313
+Longitude: -73.9778791
+OpenStreetMap URL: https://www.openstreetmap.org/node/6481772610
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Brooklyn Historical Society
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7037138
+Longitude: -73.9919921
+OpenStreetMap URL: https://www.openstreetmap.org/node/6562823263
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Women's Resistance
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 279 Empire Boulevard
+Description: The Museum of Women's Resistance (MoWRe) examines the influence of women of African descent and women of color from the Global South and their resistance movements.
+Website: https://www.museumofwomensresistance.org/
+Phone: +1-347-533-9103
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6640057
+Longitude: -73.9529171
+OpenStreetMap URL: https://www.openstreetmap.org/node/6582352776
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The AKC Museum of the Dog
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://museumofthedog.org/
+Phone: +1-212-696-8360
+Email: Not listed
+Opening Hours: We-Su 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7506105
+Longitude: -73.9775762
+OpenStreetMap URL: https://www.openstreetmap.org/node/6852303846
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Society of Illustrators
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 128 East 63rd Street New York NY 10065
+Description: Not listed
+Website: https://societyillustrators.org/
+Phone: +1 212 838 2560
+Email: info@societyillustrators.org
+Opening Hours: We-Sa 11:00-17:00; Dec 30 off
+Wheelchair Accessibility: limited
+Latitude: 40.7648187
+Longitude: -73.966827
+OpenStreetMap URL: https://www.openstreetmap.org/node/7041713696
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Ice Cream
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 558 Broadway 10012
+Description: Not listed
+Website: https://www.museumoficecream.com/new-york-city
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo,We,Th 09:30-20:00; Fr,Sa 09:30-20:30; Su 09:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7238576
+Longitude: -73.9979181
+OpenStreetMap URL: https://www.openstreetmap.org/node/7152625885
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Godwin-Ternbach Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://gtmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7363746
+Longitude: -73.8168948
+OpenStreetMap URL: https://www.openstreetmap.org/node/7237418930
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The City Reliquary
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 370 Metropolitan Avenue Brooklyn NY 11211
+Description: Not listed
+Website: https://cityreliquary.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Su 12:00-18:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7139536
+Longitude: -73.9557409
+OpenStreetMap URL: https://www.openstreetmap.org/node/8132573640
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Jazz Museum in Harlem
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 58 West 129th Street New York NY 10027
+Description: Not listed
+Website: https://jazzmuseuminharlem.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8099499
+Longitude: -73.9430899
+OpenStreetMap URL: https://www.openstreetmap.org/node/8270992264
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Malcolm X & Dr. Betty Shabazz Memorial and Educational Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 3940 Broadway New York NY 10032
+Description: Not listed
+Website: https://theshabazzcenter.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8393577
+Longitude: -73.9406753
+OpenStreetMap URL: https://www.openstreetmap.org/node/8307408828
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Food and Drink
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 62 Bayard Street Brooklyn NY 11222
+Description: Not listed
+Website: https://www.mofad.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7189546
+Longitude: -73.9495538
+OpenStreetMap URL: https://www.openstreetmap.org/node/8873306668
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Afro-American Historical Society Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1841 John F. Kennedy Boulevard Jersey City NJ 07305
+Description: Not listed
+Website: https://visitnj.org/nj-galleries/afro-american-historical-society-museum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7030407
+Longitude: -74.0913269
+OpenStreetMap URL: https://www.openstreetmap.org/node/8920490209
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Africa Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1280 5th Avenue New York NY 10029
+Description: Not listed
+Website: https://www.theafricacenter.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Th 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7963422
+Longitude: -73.9493338
+OpenStreetMap URL: https://www.openstreetmap.org/node/8942135848
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Contemporary African Diasporan Arts
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 80 Hanson Place Brooklyn NY 11217
+Description: Not listed
+Website: https://www.mocada.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.68535
+Longitude: -73.9744276
+OpenStreetMap URL: https://www.openstreetmap.org/node/8942168458
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Grolier Club
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 47 East 60th Street
+Description: Not listed
+Website: https://www.grolierclub.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7640002
+Longitude: -73.9698587
+OpenStreetMap URL: https://www.openstreetmap.org/node/9007964737
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Leslie-Lohman Museum of Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 26 Wooster Street New York NY 10013
+Description: Not listed
+Website: https://www.leslielohman.org/
+Phone: +1 212 431 2609
+Email: Not listed
+Opening Hours: We 12:00-17:00; Th-Su 12:00-18:00; Jan 01 off; Jun 19 off; Jun Su[-1] off; Jul 04 off; Nov 11, Th[4] off; Dec 24-25, Dec 31 off
+Wheelchair Accessibility: yes
+Latitude: 40.7217683
+Longitude: -74.0030317
+OpenStreetMap URL: https://www.openstreetmap.org/node/9136326361
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: International Center of Photography
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 84 Ludlow Street New York NY 10002
+Description: Not listed
+Website: https://www.icp.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7182002
+Longitude: -73.9891854
+OpenStreetMap URL: https://www.openstreetmap.org/node/9371206934
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: NYC Barber Shop Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 290 Columbus Avenue New York NY 10023
+Description: Not listed
+Website: https://www.nycbarbershopmuseum.com/
+Phone: +1-646-476-3525
+Email: Not listed
+Opening Hours: Tu-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7786086
+Longitude: -73.9781357
+OpenStreetMap URL: https://www.openstreetmap.org/node/9505939776
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Jackie Robinson Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 75 Varick Street New York NY 10013
+Description: Not listed
+Website: https://www.jackierobinsonmuseum.org
+Phone: +1-866-454-3772
+Email: Not listed
+Opening Hours: Th-Su 11:00-18:00; Dec 25 off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7231769
+Longitude: -74.0068809
+OpenStreetMap URL: https://www.openstreetmap.org/node/9960173554
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Richard Gilder Center for Science, Education, and Innovation
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.amnh.org/about/gilder-center
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30; Nov 23: off; Dec 25: off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7815797
+Longitude: -73.9746411
+OpenStreetMap URL: https://www.openstreetmap.org/node/10172954431
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rose Center for Earth and Space
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.amnh.org/exhibitions/permanent/rose-center
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7816493
+Longitude: -73.9731563
+OpenStreetMap URL: https://www.openstreetmap.org/node/10172955743
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Casa Belvedere, The Italian Cultural Foundation
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://casa-belvedere.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6285635
+Longitude: -74.0880908
+OpenStreetMap URL: https://www.openstreetmap.org/node/10289644809
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kreuzer-Pelton House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 214
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6380173
+Longitude: -74.1110769
+OpenStreetMap URL: https://www.openstreetmap.org/node/10289644810
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Peter Houseman House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6160703
+Longitude: -74.1356858
+OpenStreetMap URL: https://www.openstreetmap.org/node/10289645009
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Universal Hip Hop Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://uhhm.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8226552
+Longitude: -73.9302533
+OpenStreetMap URL: https://www.openstreetmap.org/node/10291573910
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Academy of Design
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 519 West 26th Street New York NY 10001
+Description: Not listed
+Website: https://nationalacademy.org/
+Phone: +1-212-369-4880
+Email: info@nationalacademy.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7502469
+Longitude: -74.0035315
+OpenStreetMap URL: https://www.openstreetmap.org/node/11079626705
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: June 4th Memorial Exhibit
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 894 6th Avenue New York NY 10001
+Description: Not listed
+Website: https://jinian64.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.748289
+Longitude: -73.9886674
+OpenStreetMap URL: https://www.openstreetmap.org/node/11113367836
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sandy Ground Historical Society
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1538 Woodrow Road 10309
+Description: Not listed
+Website: https://www.nyc-arts.org/organizations/341/sandy-ground-historical-society
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 13:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5409781
+Longitude: -74.2165008
+OpenStreetMap URL: https://www.openstreetmap.org/node/11124194340
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Banksy Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 277 Canal Street New York City NY 10013
+Description: Not listed
+Website: https://museumbanksy.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: 10:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7194141
+Longitude: -74.001447
+OpenStreetMap URL: https://www.openstreetmap.org/node/12181429831
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Henry Luce Nature Observatory
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.centralpark.com/things-to-do/attractions/henry-luce-nature-observatory/
+Phone: +1 212 7720210
+Email: Not listed
+Opening Hours: Tu-Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7792698
+Longitude: -73.9688404
+OpenStreetMap URL: https://www.openstreetmap.org/node/12188861257
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: MĒRCER LABS
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 21 Dey Street 10007
+Description: Not listed
+Website: https://mercerlabs.com/
+Phone: +1 2126009009
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.710759
+Longitude: -74.010453
+OpenStreetMap URL: https://www.openstreetmap.org/node/12193120402
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Floral Park Historical Society Museum & Archives
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 103 Tyson Avenue Village of Floral Park NY 11001
+Description: Not listed
+Website: https://www.floralparkhistorical.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7254097
+Longitude: -73.7044995
+OpenStreetMap URL: https://www.openstreetmap.org/node/12734024031
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dream House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 275 Church St New York City NY 10013
+Description: Not listed
+Website: https://www.melafoundation.org/
+Phone: +1 9176039715
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.718496
+Longitude: -74.004836
+OpenStreetMap URL: https://www.openstreetmap.org/node/12832739401
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Broadway
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7575933
+Longitude: -73.9843375
+OpenStreetMap URL: https://www.openstreetmap.org/node/12917522000
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: World Trade Center Educational Tribute
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6426009
+Longitude: -74.1026303
+OpenStreetMap URL: https://www.openstreetmap.org/node/13226968257
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Brooklyn Seltzer Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 474 Hemlock Street Brooklyn NY 11208
+Description: Not listed
+Website: https://brooklynseltzermuseum.org/
+Phone: +1 718-912-4941
+Email: Not listed
+Opening Hours: "By appointment"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6777636
+Longitude: -73.8698351
+OpenStreetMap URL: https://www.openstreetmap.org/node/13373950914
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Bone Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 255 McKibbin Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7057349
+Longitude: -73.9374403
+OpenStreetMap URL: https://www.openstreetmap.org/node/13608646301
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 235 Bowery 10002
+Description: Not listed
+Website: https://www.newmuseum.org/
+Phone: +1-212-219-1222
+Email: Not listed
+Opening Hours: Tu,We,Fr-Su 11:00-18:00; Th 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7223463
+Longitude: -73.9928406
+OpenStreetMap URL: https://www.openstreetmap.org/node/13732385972
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Garibaldi-Meucci Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: http://www.garibaldimeuccimuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.6151893
+Longitude: -74.0738103
+OpenStreetMap URL: https://www.openstreetmap.org/way/35017727
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Liberty Science Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 222 Jersey City Boulevard Jersey City NJ 07305
+Description: Not listed
+Website: https://lsc.org/
+Phone: +1-201-200-1000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7081786
+Longitude: -74.054603
+OpenStreetMap URL: https://www.openstreetmap.org/way/53883375
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chinese Scholar’s Garden
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://snug-harbor.org/botanical-garden/new-york-chinese-scholars-garden/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6421651
+Longitude: -74.1043544
+OpenStreetMap URL: https://www.openstreetmap.org/way/55576393
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ellis Island Immigration Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: New York NJ 10004
+Description: Not listed
+Website: https://www.nps.gov/elis/index.htm
+Phone: +1-212-363-3200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6991123
+Longitude: -74.0395257
+OpenStreetMap URL: https://www.openstreetmap.org/way/95161971
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Arts and Design
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 2 Columbus Circle New York NY
+Description: Not listed
+Website: https://www.madmuseum.org/
+Phone: +1 212-299-7777
+Email: info@madmuseum.org
+Opening Hours: Tu-Su 10:00-18:00; Oct 14 off
+Wheelchair Accessibility: yes
+Latitude: 40.7673824
+Longitude: -73.9820053
+OpenStreetMap URL: https://www.openstreetmap.org/way/109269297
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Paley Center for Media
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 25 West 52nd Street New York NY 10019
+Description: Not listed
+Website: https://www.paleycenter.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 12:00-18:00; Jan 01 off; Jul 04 off; Nov Th[4] off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.760591
+Longitude: -73.9775846
+OpenStreetMap URL: https://www.openstreetmap.org/way/162755458
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Guggenheim Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1071 5th Avenue New York NY 10128
+Description: Hint: Saturdays 18:00-20:00 Pay-What-You-Wish Admission
+Website: https://www.guggenheim.org/new-york
+Phone: +1 212-423-3500
+Email: Not listed
+Opening Hours: Mo-Su 10:30-17:30; Nov Th[4] off; Dec 24 10:30-16:00; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7829919
+Longitude: -73.9588842
+OpenStreetMap URL: https://www.openstreetmap.org/way/170149134
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Liberty State Park Interpretive Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6983253
+Longitude: -74.0542917
+OpenStreetMap URL: https://www.openstreetmap.org/way/232065091
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Center for Brooklyn History
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 128 Pierrepont Street Brooklyn NY 11201
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6947907
+Longitude: -73.9924114
+OpenStreetMap URL: https://www.openstreetmap.org/way/241833034
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Ukrainian Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 222 East 6th Street 10003
+Description: Not listed
+Website: https://www.theukrainianmuseum.org/
+Phone: +1 212 228 0110
+Email: Not listed
+Opening Hours: We-Su 12:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.7276617
+Longitude: -73.9897653
+OpenStreetMap URL: https://www.openstreetmap.org/way/241833272
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: National Lighthouse Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 200 The Promenade at Lighthouse Point Staten Island NY 10301
+Description: Not listed
+Website: https://lighthousemuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6407356
+Longitude: -74.0734107
+OpenStreetMap URL: https://www.openstreetmap.org/way/241842788
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lefferts Historic House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 452 Flatbush Avenue Brooklyn 11215
+Description: Not listed
+Website: https://www.prospectpark.org/visit-the-park/places-to-go/lefferts-historic-house/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.664375
+Longitude: -73.9637979
+OpenStreetMap URL: https://www.openstreetmap.org/way/241846626
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fort Wadsworth Visitor's Center and Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 207 New York Avenue 10305
+Description: Not listed
+Website: Not listed
+Phone: +1-718-354-4500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6041124
+Longitude: -74.0581688
+OpenStreetMap URL: https://www.openstreetmap.org/way/241850436
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Mont Sec House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6061551
+Longitude: -74.0590231
+OpenStreetMap URL: https://www.openstreetmap.org/way/241850443
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Staten Island Museum and Institue of Arts and Sciences
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 75 Stuyvesant Place 10301
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6443902
+Longitude: -74.0776814
+OpenStreetMap URL: https://www.openstreetmap.org/way/241853811
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Conference House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 7455 Hylan Boulevard Staten Island NY 10307
+Description: Not listed
+Website: https://conferencehouse.org/
+Phone: +1-718-984-6046
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.503129
+Longitude: -74.25322
+OpenStreetMap URL: https://www.openstreetmap.org/way/241857895
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Alice Austen House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 2 Hylan Boulevard 10305
+Description: Not listed
+Website: https://aliceausten.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Fr 12:00-17:00; Sa 11:00-17:00; Su,Mo off; Nov (Su[4] - 3 days) - Su[4] off; Dec 23-Feb off
+Wheelchair Accessibility: yes
+Latitude: 40.6151272
+Longitude: -74.0630286
+OpenStreetMap URL: https://www.openstreetmap.org/way/244060305
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Scott-Edwards House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 752 Delafield Avenue 10310
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6288275
+Longitude: -74.1235347
+OpenStreetMap URL: https://www.openstreetmap.org/way/245571083
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Jacques Marchais Museum of Tibetan Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 338 Lighthouse Avenue 10306
+Description: Not listed
+Website: https://www.tibetanmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5763101
+Longitude: -74.1381567
+OpenStreetMap URL: https://www.openstreetmap.org/way/246244299
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Seguine Mansion
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 440 Seguine Avenue 10309
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5152098
+Longitude: -74.1975882
+OpenStreetMap URL: https://www.openstreetmap.org/way/246731269
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Merchant's House Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 29 East 4th Street New York 10003
+Description: Not listed
+Website: https://merchantshouse.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sep-May Th-Su 13:00-17:00; Jun-Aug We-Su 13:00-17:00; PH off
+Wheelchair Accessibility: no
+Latitude: 40.7276576
+Longitude: -73.9923438
+OpenStreetMap URL: https://www.openstreetmap.org/way/247838607
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Old Stone House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 336 3rd Street 11215
+Description: Not listed
+Website: Not listed
+Phone: +1-718-768-3195
+Email: Not listed
+Opening Hours: Fr 15:00-18:00; Sa,Su 11:00-16:00||"Or by appointment"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6729918
+Longitude: -73.9846212
+OpenStreetMap URL: https://www.openstreetmap.org/way/248236287
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Transportation Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 279 Center Street 10306
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.571383
+Longitude: -74.1449463
+OpenStreetMap URL: https://www.openstreetmap.org/way/248268420
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Historical Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.571295
+Longitude: -74.1459552
+OpenStreetMap URL: https://www.openstreetmap.org/way/248268973
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Harbor Defense Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 230 Sheridan Loop 11209
+Description: Not listed
+Website: https://www.harbordefensemuseum.com
+Phone: +1 718-630-4349
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6089145
+Longitude: -74.0320508
+OpenStreetMap URL: https://www.openstreetmap.org/way/249053508
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Drawing Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 35 Wooster Street New York 10013
+Description: Not listed
+Website: https://drawingcenter.org
+Phone: +1-212-219-2166
+Email: Not listed
+Opening Hours: We-Su 12:00-18:00
+Wheelchair Accessibility: no
+Latitude: 40.7224437
+Longitude: -74.0028908
+OpenStreetMap URL: https://www.openstreetmap.org/way/249664327
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New York City Fire Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 278 Spring Street New York NY 10013
+Description: Not listed
+Website: https://www.nycfiremuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 24/7 off "Temporarily closed until further notice"
+Wheelchair Accessibility: yes
+Latitude: 40.7255756
+Longitude: -74.0069355
+OpenStreetMap URL: https://www.openstreetmap.org/way/249664614
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Jewish Childrens Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 792 Eastern Parkway 11213
+Description: Not listed
+Website: https://www.jcm.museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6688925
+Longitude: -73.9419611
+OpenStreetMap URL: https://www.openstreetmap.org/way/250220500
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum at Eldridge Street
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 12 Eldridge Street 10002
+Description: Not listed
+Website: https://www.eldridgestreet.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00; Sa off; Dec 31-Jan 01 off; Nov Th[4] off; Nov Fr[4] off
+Wheelchair Accessibility: yes
+Latitude: 40.7147291
+Longitude: -73.993461
+OpenStreetMap URL: https://www.openstreetmap.org/way/250267911
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Brooklyn Children's Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 145 Brooklyn Avenue NY 11213
+Description: Not listed
+Website: https://www.brooklynkids.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu, We, Fr 10:00-17:00; Th 10:00-18:00; Su 10:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6744161
+Longitude: -73.9438946
+OpenStreetMap URL: https://www.openstreetmap.org/way/250324041
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Weeksville Heritage Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 158 Buffalo Avenue Brooklyn NY 11233
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6741897
+Longitude: -73.925302
+OpenStreetMap URL: https://www.openstreetmap.org/way/250352173
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Vistor Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-16:00+
+Wheelchair Accessibility: Not listed
+Latitude: 40.6922174
+Longitude: -73.9747355
+OpenStreetMap URL: https://www.openstreetmap.org/way/250366078
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Brooklyn Bridge Park Environmental Education Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 99 Plymouth Street Brooklyn NY 11201
+Description: Not listed
+Website: https://www.brooklynbridgepark.org/activities/classroom
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7040995
+Longitude: -73.9892573
+OpenStreetMap URL: https://www.openstreetmap.org/way/250402662
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Meadowlands Environment Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7854258
+Longitude: -74.1036989
+OpenStreetMap URL: https://www.openstreetmap.org/way/258989109
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Newark Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 49 Washington Street Newark NJ 07102
+Description: Not listed
+Website: https://www.newarkmuseum.org/
+Phone: +1-973-596-6550
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7431587
+Longitude: -74.1718495
+OpenStreetMap URL: https://www.openstreetmap.org/way/259617388
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Paterson Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://patersonmuseum.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9134792
+Longitude: -74.1788243
+OpenStreetMap URL: https://www.openstreetmap.org/way/260669010
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Intrepid Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 86 West 46th Street New York NY 10036
+Description: Museum of Marine, Aircraft and Space
+Website: https://www.intrepidmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Apr 01-Sep 30 Mo-Fr 10:00-17:00; Apr 01-Sep 30 Sa,Su, PH 10:00-18:00; Oct 01-Mar 31 10:00-17:00; Nov Th[4] off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7645198
+Longitude: -73.9995256
+OpenStreetMap URL: https://www.openstreetmap.org/way/265357846
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Yogi Berra Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.868395
+Longitude: -74.1945598
+OpenStreetMap URL: https://www.openstreetmap.org/way/265888018
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Mount Vernon Hotel Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 421 East 61st Street New York NY 10065
+Description: Not listed
+Website: https://mvhm.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7605217
+Longitude: -73.9597128
+OpenStreetMap URL: https://www.openstreetmap.org/way/266199252
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Asia Society
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 725 Park Avenue New York NY 10021
+Description: Not listed
+Website: https://asiasociety.org/new-york
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 11:00-18:00; Jul 03, Nov 27, Dec 24, Dec 31 11:00-14:00; Jan 01 off; Nov 05 off; Nov Th[4] off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7698384
+Longitude: -73.9642913
+OpenStreetMap URL: https://www.openstreetmap.org/way/266887857
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Frick Collection
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1 East 70th Street New York NY 10021
+Description: Not listed
+Website: http://www.frick.org/
+Phone: +1-212-288-0700
+Email: info@frick.org
+Opening Hours: Mo,We-Su 10:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7712772
+Longitude: -73.967146
+OpenStreetMap URL: https://www.openstreetmap.org/way/266894185
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cooper–Hewitt, Smithsonian Design Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 2 East 91st Street New York NY
+Description: Not listed
+Website: https://www.cooperhewitt.org/
+Phone: +1 212-849-8400
+Email: Not listed
+Opening Hours: Sep 05-Nov 01 off; Mo-Su 10:00-18:00; Nov Th[4] off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7842886
+Longitude: -73.9577609
+OpenStreetMap URL: https://www.openstreetmap.org/way/266926168
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Institute for the Study of the Ancient World
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 15 East 85th Street New York NY 10028
+Description: Not listed
+Website: https://isaw.nyu.edu/
+Phone: +1 212-992-7800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7799803
+Longitude: -73.9602334
+OpenStreetMap URL: https://www.openstreetmap.org/way/266934250
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Neue Galerie New York
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1048 5th Avenue New York NY 10028
+Description: Not listed
+Website: https://www.neuegalerie.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 11:00-18:00; Tu off; Fr[1] 11:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7812191
+Longitude: -73.9602374
+OpenStreetMap URL: https://www.openstreetmap.org/way/266934254
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Jewish Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1109 5th Avenue New York NY 10128
+Description: Not listed
+Website: https://thejewishmuseum.org
+Phone: +1-212-423-3200
+Email: info@thejm.org
+Opening Hours: Th-Mo 11:00-16:00; Tu-We off; Oct 03-04, Oct 12, Nov 28 off; Oct 11 11:00-15:00; Apr 12 11:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 40.7854051
+Longitude: -73.957186
+OpenStreetMap URL: https://www.openstreetmap.org/way/266940107
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Children's Museum of Manhattan
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 212 West 83rd Street New York NY 10024
+Description: Not listed
+Website: https://www.cmom.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 10:00-17:00
+Wheelchair Accessibility: limited
+Latitude: 40.7858798
+Longitude: -73.9773343
+OpenStreetMap URL: https://www.openstreetmap.org/way/270901657
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Nicholas Roerich Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 319 West 107th Street 10025
+Description: Not listed
+Website: https://www.roerich.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Fr 12:00-16:00, Sa, Su 12:00-17:00, Dec 25 off, Nov Th[4] off, Jan 01 off, Jul 04 off
+Wheelchair Accessibility: limited
+Latitude: 40.802929
+Longitude: -73.9690037
+OpenStreetMap URL: https://www.openstreetmap.org/way/271205008
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of the City of New York
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1220 5th Avenue New York NY 10029
+Description: Not listed
+Website: https://www.mcny.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-17:00; Sa-Su 10:00-18:00; Jan 01 off; Nov Th[4] off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.792506
+Longitude: -73.9519079
+OpenStreetMap URL: https://www.openstreetmap.org/way/271220752
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: El Museo Del Barrio
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1230 5th Avenue New York NY 10029
+Description: Not listed
+Website: https://elmuseo.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Su 11:00-17:00; Sep 04-Oct 10 off; Jan 01, Jul 04, Nov Th[4], Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7931062
+Longitude: -73.9513946
+OpenStreetMap URL: https://www.openstreetmap.org/way/271274003
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hamilton Grange National Memorial
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 414 West 141st Street New York NY 10031
+Description: In 1801, Hamilton hired John McComb Jr. to design his country home in Harlem. Hamilton’s impact on society reaches far beyond New York City, but it was the backdrop to his many personal and professional developments.
+Website: https://www.nps.gov/hagr/index.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.82136
+Longitude: -73.9473012
+OpenStreetMap URL: https://www.openstreetmap.org/way/271885447
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: General Grant National Memorial
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 501 Riverside Drive New York NY 10024
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8134537
+Longitude: -73.9630506
+OpenStreetMap URL: https://www.openstreetmap.org/way/271922197
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Morris-Jumel Mansion
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: https://www.morrisjumel.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th 13:00-16:00; Fr,Sa 11:00-16:00
+Wheelchair Accessibility: limited
+Latitude: 40.8344678
+Longitude: -73.9385796
+OpenStreetMap URL: https://www.openstreetmap.org/way/275014150
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Poe Cottage
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 2540 Grand Concourse Bronx NY 10458
+Description: Not listed
+Website: https://bronxhistoricalsociety.org/poe-cottage/
+Phone: Not listed
+Email: Not listed
+Opening Hours: "by reservation"
+Wheelchair Accessibility: Not listed
+Latitude: 40.8655073
+Longitude: -73.8942401
+OpenStreetMap URL: https://www.openstreetmap.org/way/276302548
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Bronx History
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 3266 Bainbridge Avenue 10467
+Description: Not listed
+Website: https://bronxhistoricalsociety.org/museum-of-bronx-history/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8773797
+Longitude: -73.8794314
+OpenStreetMap URL: https://www.openstreetmap.org/way/276408644
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Glyndor Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8977381
+Longitude: -73.9123918
+OpenStreetMap URL: https://www.openstreetmap.org/way/277070523
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 9/11 Memorial & Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 180 Greenwich Street New York NY 10007
+Description: Not listed
+Website: https://www.911memorial.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 09:00-20:00, Fr-Sa 09:00-21:00, Su 09:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.711456
+Longitude: -74.0127418
+OpenStreetMap URL: https://www.openstreetmap.org/way/278033604
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: MoMA
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 11 West 53rd Street New York NY 10019
+Description: Not listed
+Website: https://www.moma.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:30-17:30; Sa 10:30-19:00; Dec 25 off; Nov Th[4] off
+Wheelchair Accessibility: yes
+Latitude: 40.761612
+Longitude: -73.9775451
+OpenStreetMap URL: https://www.openstreetmap.org/way/278346578
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Commanding Officer's Quarters
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1 Barry Road 10004
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6903372
+Longitude: -74.0131463
+OpenStreetMap URL: https://www.openstreetmap.org/way/278396320
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Building 92
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Historical usage: 1858: Marine Corps. Officer’s Quarters; 1862: Commandant’s House; 1911: Commissioned Officer’s Marine Barracks; 1918: Officer’s Quarters; 1925: P.W. Storage; 1933: Marine Officer’s Quarters; 1965: Marine Officer’s Quarters;
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6981984
+Longitude: -73.9734438
+OpenStreetMap URL: https://www.openstreetmap.org/way/278963033
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of the Moving Image
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 36-01 35th Avenue
+Description: Not listed
+Website: https://movingimage.org/
+Phone: +1-718-777-6800
+Email: Not listed
+Opening Hours: Th 14:00-18:00; Fr 14:00-20:00; Sa-Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7562971
+Longitude: -73.9239196
+OpenStreetMap URL: https://www.openstreetmap.org/way/280571506
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Curly's Cowboy Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 152-50 Rockaway Boulevard 11434
+Description: Not listed
+Website: Not listed
+Phone: +1-718-775-4722
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6713046
+Longitude: -73.7847581
+OpenStreetMap URL: https://www.openstreetmap.org/way/282932832
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: King Manor Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 150-05 Jamaica Avenue Jamaica NY 11432
+Description: Not listed
+Website: https://www.kingmanor.org/
+Phone: +1-718-206-0545
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-14:00; Sa 13:00-17:00; Su 13:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7031161
+Longitude: -73.803768
+OpenStreetMap URL: https://www.openstreetmap.org/way/283167850
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: John Bowne House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 37-01 Bowne Street 11354
+Description: Not listed
+Website: https://www.bownehouse.org
+Phone: Not listed
+Email: bownehouseeducation@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7628819
+Longitude: -73.8248834
+OpenStreetMap URL: https://www.openstreetmap.org/way/284556746
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lewis Howard Latimer House Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 34-41 137th Street Flushing NY 11354
+Description: Not listed
+Website: https://historichousetrust.org/
+Phone: +1-718-961-8585
+Email: Not listed
+Opening Hours: Mo,Tu,Th,Sa off; We,Fr 12:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7660962
+Longitude: -73.829377
+OpenStreetMap URL: https://www.openstreetmap.org/way/284617356
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kingsland Homestead
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 143-35 37th Avenue Flushing NY 11354
+Description: Not listed
+Website: https://queenshistoricalsociety.org/visit/kingsland-homestead/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7636236
+Longitude: -73.8241605
+OpenStreetMap URL: https://www.openstreetmap.org/way/284620987
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Louis Armstrong House Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 34-56 107th Street Corona NY 11368
+Description: Not listed
+Website: https://www.louisarmstronghouse.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.75457
+Longitude: -73.8615384
+OpenStreetMap URL: https://www.openstreetmap.org/way/284714245
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Steere Herbarium
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 2670 Southern Boulevard 10458
+Description: Not listed
+Website: https://sweetgum.nybg.org/science/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-16:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.8671503
+Longitude: -73.8787547
+OpenStreetMap URL: https://www.openstreetmap.org/way/284835735
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Queens Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://queensmuseum.org
+Phone: +1 718 592 9700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7458698
+Longitude: -73.8467443
+OpenStreetMap URL: https://www.openstreetmap.org/way/284856409
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New York Hall of Science
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 47-01 111th Street 11368
+Description: Not listed
+Website: https://nysci.org/
+Phone: +1-718-699-0005
+Email: Not listed
+Opening Hours: Tu-Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7474232
+Longitude: -73.8516943
+OpenStreetMap URL: https://www.openstreetmap.org/way/284860788
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Historic Aircraft Restoration Project - Hangar B
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5948724
+Longitude: -73.8829646
+OpenStreetMap URL: https://www.openstreetmap.org/way/285107125
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Whitney Museum of American Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 99 Gansevoort Street New York NY 10014
+Description: Not listed
+Website: https://www.whitney.org/
+Phone: +1-212-570-3600
+Email: Not listed
+Opening Hours: Mo-Su 10:30-18:00; Tu off; Fr 10:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.739633
+Longitude: -74.0089385
+OpenStreetMap URL: https://www.openstreetmap.org/way/288749896
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: MoMA PS1
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: https://momaps1.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7455513
+Longitude: -73.9474943
+OpenStreetMap URL: https://www.openstreetmap.org/way/370574294
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Montclair Art Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 3 South Mountain Avenue Montclair NJ 07042
+Description: Not listed
+Website: https://www.montclairartmuseum.org/
+Phone: +1-973-746-5555
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.818581
+Longitude: -74.224238
+OpenStreetMap URL: https://www.openstreetmap.org/way/381150573
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Waterfront Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 290 Conover Street 11231
+Description: Not listed
+Website: https://waterfrontmuseum.org
+Phone: +1 718 6244719
+Email: Not listed
+Opening Hours: Th 16:00-20:00; Sa 13:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6752349
+Longitude: -74.018312
+OpenStreetMap URL: https://www.openstreetmap.org/way/382183589
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Noguchi Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 9-01 33rd Road Long Island City 11106
+Description: Not listed
+Website: https://www.noguchi.org/
+Phone: +1 718-204-7088
+Email: info@noguchi.org
+Opening Hours: Mo,Tu off; We-Su 11:00-18:00; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7668672
+Longitude: -73.9377901
+OpenStreetMap URL: https://www.openstreetmap.org/way/383689939
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: American Museum of Natural History
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 200 Central Park West New York NY 10024
+Description: The American Museum of Natural History is a natural history museum on the Upper West Side of Manhattan in New York City. In Theodore Roosevelt Park, across the street from Central Park, the museum complex comprises 26 interconnected buildings.
+Website: https://www.amnh.org/
+Phone: +1 212-769-5100
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 40.7810986
+Longitude: -73.974211
+OpenStreetMap URL: https://www.openstreetmap.org/way/388436810
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Russian Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 80 Grand Street Jersey City NJ 07302-4522
+Description: Not listed
+Website: https://moramuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7154287
+Longitude: -74.0370396
+OpenStreetMap URL: https://www.openstreetmap.org/way/404322369
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Van Wagenen House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 298 Academy Street Jersey City NJ 07306
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7299641
+Longitude: -74.0664226
+OpenStreetMap URL: https://www.openstreetmap.org/way/411768538
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New Jersey Historical Society
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 52 Park Place Newark NJ 07102
+Description: Not listed
+Website: https://jerseyhistory.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7387859
+Longitude: -74.1685101
+OpenStreetMap URL: https://www.openstreetmap.org/way/413234886
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Secaucus Town Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7907711
+Longitude: -74.0565847
+OpenStreetMap URL: https://www.openstreetmap.org/way/452954051
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rock Hall
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 199 Broadway Lawrence NY 11559
+Description: Not listed
+Website: https://www.friendsofrockhall.org/
+Phone: +1 516-239-1157
+Email: FriendsofRockHall@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6089555
+Longitude: -73.7339552
+OpenStreetMap URL: https://www.openstreetmap.org/way/548563813
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Madame Tussauds New York
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 234 West 42nd Street NY 10036
+Description: Not listed
+Website: https://www.madametussauds.com/new-york/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-19:00; Sa,Su 10:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7562117
+Longitude: -73.9884505
+OpenStreetMap URL: https://www.openstreetmap.org/way/586476446
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Maywood Station Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 269 Maywood Avenue Maywood NJ 07607
+Description: Not listed
+Website: http://www.maywoodstation.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8963017
+Longitude: -74.0657969
+OpenStreetMap URL: https://www.openstreetmap.org/way/594780435
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Science Museum of Long Island
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1526 Plandome Road Manhasset NY 11030
+Description: Not listed
+Website: https://www.smli.org/
+Phone: +1 516-627-9400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8153966
+Longitude: -73.7013441
+OpenStreetMap URL: https://www.openstreetmap.org/way/614149318
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Historic New Bridge Landing
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9131426
+Longitude: -74.0311964
+OpenStreetMap URL: https://www.openstreetmap.org/way/629219472
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Liberty State Park Interpretive Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 275 Freedom Way Jersey City NJ 07305
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6984621
+Longitude: -74.0540479
+OpenStreetMap URL: https://www.openstreetmap.org/way/650451824
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Poster House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 119 West 23rd Street New York NY 10011
+Description: Not listed
+Website: https://posterhouse.org/
+Phone: +1 917-722-2439
+Email: Not listed
+Opening Hours: We-Mo 11:00-18:00, Tu off
+Wheelchair Accessibility: yes
+Latitude: 40.7435904
+Longitude: -73.9933334
+OpenStreetMap URL: https://www.openstreetmap.org/way/705811842
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: American Merchant Marine Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 300 Steamboat Road Kings Point NY 11024
+Description: The American Merchant Marine Museum preserves artifacts and artwork related to the United States Merchant Marine Academy, the U.S. Merchant Marine, and the profession of seafaring in peace and war.
+Website: https://www.usmma.edu/museum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Fr 10:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8149459
+Longitude: -73.7624109
+OpenStreetMap URL: https://www.openstreetmap.org/way/769507779
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Statue of Liberty Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: New York NY 10004
+Description: The Statue of Liberty Museum is located on Liberty Island in New York City. The museum opened on May 16, 2019, and is focused on the creation, meaning, and history of the Statue of Liberty.
+Website: https://www.statueofliberty.org/statue-of-liberty/statue-of-liberty-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6908211
+Longitude: -74.0463272
+OpenStreetMap URL: https://www.openstreetmap.org/way/888758560
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chief John T. Brennan Fire Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10 West 47th Street Bayonne NJ 07002
+Description: Not listed
+Website: Not listed
+Phone: +1-201-858-6199
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6810232
+Longitude: -74.1044459
+OpenStreetMap URL: https://www.openstreetmap.org/way/936959056
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Liberty Hall Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1003 Morris Avenue Union NJ 07083
+Description: Not listed
+Website: https://libertyhall.kean.edu/
+Phone: +1 908 527 0400
+Email: libertyhall@kean.edu
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6770988
+Longitude: -74.2267249
+OpenStreetMap URL: https://www.openstreetmap.org/way/981389466
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Jersey Explorer Children's Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 192 Dodd Street East Orange NJ 07017
+Description: Not listed
+Website: https://www.jerseyexplorers.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7821023
+Longitude: -74.2102208
+OpenStreetMap URL: https://www.openstreetmap.org/way/1059945426
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Belcher Ogden Mansion
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6631432
+Longitude: -74.2090922
+OpenStreetMap URL: https://www.openstreetmap.org/way/1098965732
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hamilton House Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.867823
+Longitude: -74.1908292
+OpenStreetMap URL: https://www.openstreetmap.org/way/1098974142
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Meadowlands Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.meadowlandsmuseum.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8146457
+Longitude: -74.1040965
+OpenStreetMap URL: https://www.openstreetmap.org/way/1098983111
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Voelker Orth Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 149-19 38th Avenue Flushing NY 11354
+Description: Not listed
+Website: https://www.vomuseum.org/
+Phone: Not listed
+Email: info@vomuseum.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7647162
+Longitude: -73.8161927
+OpenStreetMap URL: https://www.openstreetmap.org/way/1113221250
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bonnel House Historical Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NJ
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6635754
+Longitude: -74.2089107
+OpenStreetMap URL: https://www.openstreetmap.org/way/1124358033
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Chinese in America
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 215 Centre Street 10013
+Description: Not listed
+Website: https://www.mocanyc.org
+Phone: +1-855-955-6622
+Email: info@mocanyc.org
+Opening Hours: Tu, We, Fr-Su 11:00-18:00; Th 11:00-21:00
+Wheelchair Accessibility: limited
+Latitude: 40.7194554
+Longitude: -73.9991571
+OpenStreetMap URL: https://www.openstreetmap.org/way/1233699772
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aviation Hall of Fame and Museum of New Jersey
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 400 Fred Wehran Drive Teterboro NJ
+Description: Not listed
+Website: https://njahof.org/
+Phone: +1 201-288-6344
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8523366
+Longitude: -74.0553951
+OpenStreetMap URL: https://www.openstreetmap.org/way/1289565926
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Brooklyn Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 200 Eastern Parkway Brooklyn 11238
+Description: Not listed
+Website: https://www.brooklynmuseum.org/
+Phone: +1 718-638-5000
+Email: Not listed
+Opening Hours: We-Su 11:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.6709677
+Longitude: -73.963695
+OpenStreetMap URL: https://www.openstreetmap.org/way/1432069915
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New-York Historical Society
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 170 Central Park West New York NY 10024
+Description: Not listed
+Website: https://www.nyhistory.org/
+Phone: +1 212-873-3400
+Email: Not listed
+Opening Hours: Tu-Su 11:00-17:00; Fr 11:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.779286
+Longitude: -73.974265
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3606825
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Metropolitan Museum of Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1000 5th Avenue New York NY
+Description: Not listed
+Website: https://www.metmuseum.org/
+Phone: +1 212-535-7710
+Email: Not listed
+Opening Hours: 10:00-17:00; Fr-Sa 10:00-21:00; We off; May Mo[1] off; Nov Th[4] off; Dec 25 off; Jan 01 off
+Wheelchair Accessibility: yes
+Latitude: 40.7793968
+Longitude: -73.9634178
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3698894
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fort Schuyler
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8052814
+Longitude: -73.7915732
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3745992
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Jewish Heritage
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://mjhnyc.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 10:00-17:00; Th 10:00-20:00; Sa off
+Wheelchair Accessibility: yes
+Latitude: 40.7060437
+Longitude: -74.0186031
+OpenStreetMap URL: https://www.openstreetmap.org/relation/7281773
+Data Source: OpenStreetMap contributors
