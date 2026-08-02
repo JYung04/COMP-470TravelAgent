@@ -11,7 +11,7 @@ INTEREST_OPTIONS = [
 ]
 MAX_INPUT_CHARS = 2000
 
-st.set_page_config(page_title=APP_TITLE, page_icon="🧳", layout="centered")
+st.set_page_config(page_title=APP_TITLE, layout="centered")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -38,7 +38,7 @@ with st.sidebar:
         "for budget, etc."
     )
     st.divider()
-    if st.button("🔄 Start a new trip", use_container_width=True):
+    if st.button("Start a new trip", use_container_width=True):
         reset_trip()
         st.rerun()
     st.divider()
@@ -77,7 +77,7 @@ def send_message(prompt_text: str, display_text: str | None = None):
 
             placeholder.markdown(answer)
             if sources:
-                with st.expander("📎 Sources"):
+                with st.expander("Sources"):
                     for src in sources:
                         st.markdown(f"- {src}")
 
@@ -160,7 +160,7 @@ else:
         with st.chat_message(msg["role"]):
             st.markdown(msg["content"])
             if msg.get("sources"):
-                with st.expander("📎 Sources"):
+                with st.expander("Sources"):
                     for src in msg["sources"]:
                         st.markdown(f"- {src}")
 
