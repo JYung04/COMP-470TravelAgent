@@ -91,9 +91,9 @@ def send_message(prompt_text: str, display_text: str | None = None):
             friendly_msg = "Sorry, something went wrong generating a response. Please try again."
             if st.session_state.error_count >= 3:
                 friendly_msg += " If this keeps happening, please refresh the page."
-            placeholder.markdown(f"⚠️ {friendly_msg}")
+            placeholder.markdown(f"! {friendly_msg}")
             st.session_state.messages.append(
-                {"role": "assistant", "content": f"⚠️ {friendly_msg}", "sources": None}
+                {"role": "assistant", "content": f"! {friendly_msg}", "sources": None}
             )
             if st.session_state.get("debug_mode"):
                 st.exception(e)
@@ -140,7 +140,7 @@ if not st.session_state.trip_submitted:
     if submitted:
         error = validate_trip_form(city, arrival, departure, budget, interests)
         if error:
-            st.toast(error, icon="⚠️")
+            st.toast(error, icon="!")
         else:
             num_days = (departure - arrival).days
             prompt = (
@@ -168,6 +168,6 @@ else:
     if follow_up is not None:
         error = validate_chat_input(follow_up)
         if error:
-            st.toast(error, icon="⚠️")
+            st.toast(error, icon="!")
         else:
             send_message(follow_up)
