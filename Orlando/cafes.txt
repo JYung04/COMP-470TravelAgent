@@ -1,0 +1,5154 @@
+City: Orlando
+Category: cafes
+Data Source: OpenStreetMap contributors
+Number of named places: 224
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 715 Bloom Street Celebration FL 34747
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/10121/downtown-celebration-715-bloom-street-celebration-fl-347474696-us
+Phone: +1-321-939-3200
+Email: Not listed
+Opening Hours: Mo-Th 5:30-21:00; Fr-Su 5:30-22:00
+Wheelchair Accessibility: limited
+Latitude: 28.3176575
+Longitude: -81.5413833
+OpenStreetMap URL: https://www.openstreetmap.org/node/761842622
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Champs
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5481875
+Longitude: -81.3815321
+OpenStreetMap URL: https://www.openstreetmap.org/node/939591167
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 325 South Orange Avenue Orlando FL 32801
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/20389/grand-bohemian-hotel-orlando-325-s-orange-ave-orlando-fl-328013711-us
+Phone: +1 407-316-0300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.5388893
+Longitude: -81.3788289
+OpenStreetMap URL: https://www.openstreetmap.org/node/940556943
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Nature's Table Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5390845
+Longitude: -81.3792297
+OpenStreetMap URL: https://www.openstreetmap.org/node/940556946
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Caffè Ritazza
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 200 South Orange Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5402214
+Longitude: -81.379176
+OpenStreetMap URL: https://www.openstreetmap.org/node/940565255
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Roho Art Café
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5414791
+Longitude: -81.378923
+OpenStreetMap URL: https://www.openstreetmap.org/node/940666486
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Annie's
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.544307
+Longitude: -81.378934
+OpenStreetMap URL: https://www.openstreetmap.org/node/940711740
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Leo's Diner
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 333 North Orange Avenue Orlando FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5463567
+Longitude: -81.3789727
+OpenStreetMap URL: https://www.openstreetmap.org/node/940735121
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dixie's Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 331 North Orange Avenue Orlando FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.546317
+Longitude: -81.3789732
+OpenStreetMap URL: https://www.openstreetmap.org/node/940735123
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1400 Tuskawilla Road Winter Springs FL 32708
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/11427/tuskawilla-rd-red-bug-lake-r-1400-tuskawilla-road-winter-springs-fl-32708-us
+Phone: +1 407-695-5439
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6463918
+Longitude: -81.2677744
+OpenStreetMap URL: https://www.openstreetmap.org/node/1237659284
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1365 Main Street Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1005254/magic-kingdom-main-street-bake-1365-monorail-way-lake-buena-vista-fl-32830-us
+Phone: +1 407-824-6561
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4177416
+Longitude: -81.581052
+OpenStreetMap URL: https://www.openstreetmap.org/node/1257471018
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Barnie's
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.5548077
+Longitude: -81.2005463
+OpenStreetMap URL: https://www.openstreetmap.org/node/1595103688
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 4650 North Alafaya Trail Orlando FL 32826
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/16766/alafaya-corporate-blvd-4650-n-alafaya-trail-103-orlando-fl-328262300-us
+Phone: +1 407-384-8162
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6080308
+Longitude: -81.2081879
+OpenStreetMap URL: https://www.openstreetmap.org/node/2069337160
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 9333 Airport Boulevard Orlando FL 32827
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/14222/mco-airside-4-gates-70-to-99-9333-airport-blvd-orlando-fl-328274334-us
+Phone: +1 407-851-1334
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4274917
+Longitude: -81.3012391
+OpenStreetMap URL: https://www.openstreetmap.org/node/2458651868
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smooth Java
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4200496
+Longitude: -81.4655178
+OpenStreetMap URL: https://www.openstreetmap.org/node/2675449045
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1007019/islands-of-adventure-port-of-e-1000-universal-studio-plaza-orlando-fl-328197601-u
+Phone: +1 407-224-4408
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.47178
+Longitude: -81.4692908
+OpenStreetMap URL: https://www.openstreetmap.org/node/2719492266
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/17911/colonial-plaza-2604-e-colonial-market-orlando-fl-328035023-us
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5515949
+Longitude: -81.3498046
+OpenStreetMap URL: https://www.openstreetmap.org/node/2777784730
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 3011 East Colonial Drive Orlando FL 32803
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/9646/east-colonial-dr-maguire-rd-3011-e-colonial-dr-suite-a-orlando-fl-328035005-us
+Phone: +1 407-898-1482
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5536425
+Longitude: -81.3462559
+OpenStreetMap URL: https://www.openstreetmap.org/node/2843255961
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1000 Universal Boulevard Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/6558/un-studios-florida-palace-arc-1000-universal-blvd-orlando-fl-32819-us
+Phone: +1 407-224-3872
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4771859
+Longitude: -81.4690145
+OpenStreetMap URL: https://www.openstreetmap.org/node/2959417631
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starring Rolls Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: american
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/hollywood-studios/starring-rolls-cafe/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3577971
+Longitude: -81.5601064
+OpenStreetMap URL: https://www.openstreetmap.org/node/2985381503
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Carousel Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:30-15:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.3664504
+Longitude: -81.5561544
+OpenStreetMap URL: https://www.openstreetmap.org/node/2988091577
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kusafiri Coffee Shop & Bakery
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: american
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/animal-kingdom/kusafiri-coffee-shop-and-bakery/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3588532
+Longitude: -81.5922323
+OpenStreetMap URL: https://www.openstreetmap.org/node/2996503994
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Café Rix
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/coronado-springs-resort/cafe-rix/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3625937
+Longitude: -81.5730643
+OpenStreetMap URL: https://www.openstreetmap.org/node/3175642037
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pineapple Lanai
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: ice_cream
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/polynesian-resort/pineapple-lanai/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4056195
+Longitude: -81.5851407
+OpenStreetMap URL: https://www.openstreetmap.org/node/3176237798
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Seashore Sweets'
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/boardwalk/seashore-sweets/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3671224
+Longitude: -81.5555917
+OpenStreetMap URL: https://www.openstreetmap.org/node/3242529464
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Old Town Coffee Works
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 203
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3306886
+Longitude: -81.5157497
+OpenStreetMap URL: https://www.openstreetmap.org/node/3268332777
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sweet Dreams Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: ice_cream
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3305838
+Longitude: -81.5159367
+OpenStreetMap URL: https://www.openstreetmap.org/node/3268332979
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bento Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Orlando FL 32819
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.450987
+Longitude: -81.4800996
+OpenStreetMap URL: https://www.openstreetmap.org/node/3394471621
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: FoxTail Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 7610 B106 West Sand Lake Road 32818
+Description: Not listed
+Website: https://www.foxtailcoffee.com/locations/foxtail-coffee-sand-lake
+Phone: +1-407-412-6704
+Email: Not listed
+Opening Hours: Mo-Su 06:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 28.4488581
+Longitude: -81.4859292
+OpenStreetMap URL: https://www.openstreetmap.org/node/3394522096
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Barnie's Coffee Kitchen
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-16:00; Su 07:30-16:00
+Wheelchair Accessibility: yes
+Latitude: 28.5974405
+Longitude: -81.3509168
+OpenStreetMap URL: https://www.openstreetmap.org/node/3411710997
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Croissant Gourmet
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5976612
+Longitude: -81.3508389
+OpenStreetMap URL: https://www.openstreetmap.org/node/3411717029
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Power House Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.595065
+Longitude: -81.350756
+OpenStreetMap URL: https://www.openstreetmap.org/node/3411773020
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 400 South Park Avenue Winter Park FL 32789
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/15363/400-park-avenue-400-park-avenue-winter-park-fl-327894352-us
+Phone: +1 407-599-4126
+Email: Not listed
+Opening Hours: Mo-Th 06:00-20:00; Fr,Sa 06:00-21:00; Su 06:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5946374
+Longitude: -81.3505834
+OpenStreetMap URL: https://www.openstreetmap.org/node/3411776456
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: House Blend Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5510951
+Longitude: -81.5370657
+OpenStreetMap URL: https://www.openstreetmap.org/node/3455239243
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6009732
+Longitude: -81.2020611
+OpenStreetMap URL: https://www.openstreetmap.org/node/3456763129
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Barnie's Coffee & Tea Co.
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 12701 Pegasus Drive Orlando FL 32816
+Description: Not listed
+Website: https://ucf.campusdish.com/LocationsAndMenus/CafeLibrary
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 07:30-22:00; Fr 07:30-17:00; Sa 11:00-16:30; Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.6001263
+Longitude: -81.2014219
+OpenStreetMap URL: https://www.openstreetmap.org/node/3456763131
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cafe Bustelo
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6005728
+Longitude: -81.2005805
+OpenStreetMap URL: https://www.openstreetmap.org/node/3456763133
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Frostbite Freddy's Frozen Freshments
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/blizzard-beach/frostbite-freddy/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3523356
+Longitude: -81.5736668
+OpenStreetMap URL: https://www.openstreetmap.org/node/3480571621
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Garden View Tea Room
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: international
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/grand-floridian-resort-and-spa/garden-view-tea-room/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4111066
+Longitude: -81.5874032
+OpenStreetMap URL: https://www.openstreetmap.org/node/3625777263
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Express Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4022344
+Longitude: -81.5912571
+OpenStreetMap URL: https://www.openstreetmap.org/node/3664055633
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Java Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4019495
+Longitude: -81.5915736
+OpenStreetMap URL: https://www.openstreetmap.org/node/3664055640
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 9333 Airport Boulevard Orlando FL 32827
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/7744/mco-airside-2-gates-100-to-129-9333-airport-blvd-orlando-fl-328274334-us
+Phone: +1 407-825-6680
+Email: Not listed
+Opening Hours: Mo-Su 04:00-21:00+
+Wheelchair Accessibility: yes
+Latitude: 28.4352879
+Longitude: -81.3011986
+OpenStreetMap URL: https://www.openstreetmap.org/node/3918626662
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 6000 Universal Boulevard Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1007590/un-city-walk-orlando-lower-le-6000-universal-blvd-orlando-fl-32819-us
+Phone: +1 407-224-2910
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4732819
+Longitude: -81.4649096
+OpenStreetMap URL: https://www.openstreetmap.org/node/3957248229
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Isle of Java
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3572207
+Longitude: -81.5893732
+OpenStreetMap URL: https://www.openstreetmap.org/node/4011504882
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Zaza
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop;cuban
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4272862
+Longitude: -81.3138994
+OpenStreetMap URL: https://www.openstreetmap.org/node/4661189235
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 3200 Rolling Oaks Blvd. Kissimmee FL 34747
+Description: Not listed
+Website: Not listed
+Phone: +1-321-677-3971
+Email: Not listed
+Opening Hours: Mo-Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3440917
+Longitude: -81.6143532
+OpenStreetMap URL: https://www.openstreetmap.org/node/4738782605
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1501 East Buena Vista Drive Downtown FL 32830
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1006631/disney-springs-west-side-1501-east-buena-vista-dr-downtown-di-lake-buena-vi
+Phone: +1 407-560-0602
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3704111
+Longitude: -81.5197408
+OpenStreetMap URL: https://www.openstreetmap.org/node/5064346477
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: New Dutch Trading Co.
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4666891
+Longitude: -81.4704944
+OpenStreetMap URL: https://www.openstreetmap.org/node/5072550059
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 500 East Central Boulevard Orlando FL 32801
+Description: Not listed
+Website: https://www.foxtailcoffee.com/locations/foxtail-coffee-lake-eola
+Phone: +1-407-237-7945
+Email: Not listed
+Opening Hours: 06:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 28.542188
+Longitude: -81.3712756
+OpenStreetMap URL: https://www.openstreetmap.org/node/5148636421
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Downtown CREDO
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5410785
+Longitude: -81.3812815
+OpenStreetMap URL: https://www.openstreetmap.org/node/5154429621
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Downtown CREDO
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 885 North Orange Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5563147
+Longitude: -81.379011
+OpenStreetMap URL: https://www.openstreetmap.org/node/5154431121
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bambu
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: vietnamese;bubble_tea
+Brand: Bambu
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4604326
+Longitude: -81.472994
+OpenStreetMap URL: https://www.openstreetmap.org/node/5541531400
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 6605 South Semoran Boulevard Orlando FL 32822
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/8132/s-semoran-blvd-lee-vista-blv-6605-s-semoran-blvd-orlando-fl-328223219-us
+Phone: +1 407-854-6316
+Email: Not listed
+Opening Hours: Mo-Th 05:00-22:00; Fr 05:00-23:00; Sa 06:00-23:00; Su 06:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4679794
+Longitude: -81.3092309
+OpenStreetMap URL: https://www.openstreetmap.org/node/5728674453
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smooth Java
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4252345
+Longitude: -81.4346419
+OpenStreetMap URL: https://www.openstreetmap.org/node/5733957240
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cafe Osceola
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4255529
+Longitude: -81.4343037
+OpenStreetMap URL: https://www.openstreetmap.org/node/5733958042
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Café de France
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5937873
+Longitude: -81.3504691
+OpenStreetMap URL: https://www.openstreetmap.org/node/6281999240
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Senezia
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 28.346024
+Longitude: -81.4227098
+OpenStreetMap URL: https://www.openstreetmap.org/node/6336812400
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6001272
+Longitude: -81.3276374
+OpenStreetMap URL: https://www.openstreetmap.org/node/6389681574
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cafe D'Avignon
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3452874
+Longitude: -81.6089426
+OpenStreetMap URL: https://www.openstreetmap.org/node/6452953889
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 6550 Adventure Way Orlando FL 32819
+Description: Not listed
+Website: https://www.universalorlando.com/web/en/us/things-to-do/dining/starbucks-coffee-cabana-bay
+Phone: +1 407-503-4000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.465398
+Longitude: -81.4736814
+OpenStreetMap URL: https://www.openstreetmap.org/node/6468723569
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Greyhound Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: John Young Parkway
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5481118
+Longitude: -81.4130854
+OpenStreetMap URL: https://www.openstreetmap.org/node/6572697485
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dixie Cream Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: american
+Brand: Not listed
+Operator: Not listed
+Address: 434 Main Street Windermere FL 34786
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.495652
+Longitude: -81.5356774
+OpenStreetMap URL: https://www.openstreetmap.org/node/6631169330
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 600 North Orlando Avenue Winter Park Village FL 32789
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1010261/winter-park-village-600-n-orlando-ave-winter-park-fl-327892975-us
+Phone: +1 407-628-4803
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.603151
+Longitude: -81.3646224
+OpenStreetMap URL: https://www.openstreetmap.org/node/6680742143
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 16065 New Independence Parkway Winter Garden FL 34787
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1024881/new-independence-hamlin-16065-new-independence-parkway-winter-garden-fl-34
+Phone: +1 407-286-8766
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4749248
+Longitude: -81.6284893
+OpenStreetMap URL: https://www.openstreetmap.org/node/6783663031
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Axum Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 146 West Plant Street Winter Garden FL 34787
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-21:00; Sa 07:30-21:00; Su 07:30-19:00
+Wheelchair Accessibility: yes
+Latitude: 28.5652498
+Longitude: -81.5871651
+OpenStreetMap URL: https://www.openstreetmap.org/node/6901072019
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rosallie Le French Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 141 West Plant Street Winter Garden FL 34787
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.5656211
+Longitude: -81.5872974
+OpenStreetMap URL: https://www.openstreetmap.org/node/6901079226
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 13304 West Colonial Drive Winter Garden FL 34787
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1022790/hwy-50-windtree-13304-w-colonial-dr-winter-garden-fl-347873955-us
+Phone: +1 407-877-2001
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5506011
+Longitude: -81.5803332
+OpenStreetMap URL: https://www.openstreetmap.org/node/6903950260
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lucky Straws Boba Tea
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea;tea
+Brand: Not listed
+Operator: Not listed
+Address: 13750 W Colonial Dr Winter Garden FL 34787
+Description: Not listed
+Website: Not listed
+Phone: +1-407-877-2622
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5492031
+Longitude: -81.5886297
+OpenStreetMap URL: https://www.openstreetmap.org/node/6910773446
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 4750 Millenia Plaza Way Orlando FL 32839
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/12632/target-orlando-milenia-1518-4750-millenia-plaza-way-orlando-fl-328392434-us
+Phone: +1 407-541-0019
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4938468
+Longitude: -81.4302756
+OpenStreetMap URL: https://www.openstreetmap.org/node/7018490655
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Contemporary Grounds
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: american
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/contemporary-resort/contemporary-grounds/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4149478
+Longitude: -81.5746143
+OpenStreetMap URL: https://www.openstreetmap.org/node/7157702670
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Le Petit Café
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/riviera-resort/le-petit-cafe/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3658787
+Longitude: -81.5419518
+OpenStreetMap URL: https://www.openstreetmap.org/node/7180787626
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Craft & Common
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 47 Robinson Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.545797
+Longitude: -81.3782136
+OpenStreetMap URL: https://www.openstreetmap.org/node/7292018585
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 131 South Orlando Avenue Maitland FL 32751
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1023907/us-17-92-horatio-131-s-orlando-ave-a-maitland-fl-327515636-us
+Phone: +1 407-644-3839
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.628897
+Longitude: -81.3632602
+OpenStreetMap URL: https://www.openstreetmap.org/node/7718545003
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 3107 South Orange Avenue Orlando FL 32806
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1024412/orange-pineloch-3107-s-orange-ave-orlando-fl-328066121-us
+Phone: +1 407-872-3656
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5090091
+Longitude: -81.376001
+OpenStreetMap URL: https://www.openstreetmap.org/node/7778227186
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1915 Edgewater Drive Orlando FL 32804
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/15138/yale-edgewater-1915-edgewater-drive-suite-a-orlando-fl-328045803-
+Phone: +1 407-425-7448
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5693786
+Longitude: -81.3891763
+OpenStreetMap URL: https://www.openstreetmap.org/node/7778467787
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee - Lee Road
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6087268
+Longitude: -81.3914263
+OpenStreetMap URL: https://www.openstreetmap.org/node/7778468489
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 2535 State Road 436 Winter Park FL 32792
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/9852/sr-436-howell-branch-rd-2535-howell-branch-rd-casselberry-fl-327516553-us
+Phone: +1 407-672-0273
+Email: Not listed
+Opening Hours: Mo-Sa 05:00-21:00; Su 05:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.6256293
+Longitude: -81.3167723
+OpenStreetMap URL: https://www.openstreetmap.org/node/7779477685
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 10725 International Drive Shadow Wood FL 32821
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1006806/international-dr-central-fl-10725-international-drive-suite-110-orlando-fl-328
+Phone: +1 407-248-6546
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4107469
+Longitude: -81.4555932
+OpenStreetMap URL: https://www.openstreetmap.org/node/7815176299
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Vespr Coffeebar
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 626 N Alafaya Trail Orlando FL 32828
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5557652
+Longitude: -81.2076414
+OpenStreetMap URL: https://www.openstreetmap.org/node/7888513264
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee Company
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 12001 Collegiate Way Orlando FL 32817
+Description: Not listed
+Website: https://www.foxtailcoffee.com/university-drive-thru
+Phone: +1-407-663-8699
+Email: Not listed
+Opening Hours: Mo-Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5971985
+Longitude: -81.2131093
+OpenStreetMap URL: https://www.openstreetmap.org/node/8554618377
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 12011 University Boulevard Orlando FL 32817
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1024313/university-blvd-systems-way-12011-university-blvd-orlando-fl-328172120-us
+Phone: +1 407-457-0688
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5981434
+Longitude: -81.2123577
+OpenStreetMap URL: https://www.openstreetmap.org/node/8554618395
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 2519 Aloma Avenue Winter Park FL 32792
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1011448/aloma-balfour-2519-aloma-ave-winter-park-fl-327923401-us
+Phone: +1 407-644-2680
+Email: Not listed
+Opening Hours: Mo-Su 05:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.6020975
+Longitude: -81.319456
+OpenStreetMap URL: https://www.openstreetmap.org/node/8668469897
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 276 West Plant Street Winter Garden FL 34787
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5649452
+Longitude: -81.5887054
+OpenStreetMap URL: https://www.openstreetmap.org/node/8672234300
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Delicia's Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3068347
+Longitude: -81.4361098
+OpenStreetMap URL: https://www.openstreetmap.org/node/8678360940
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 4965 International Drive Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/6986/orlando-international-premium-4965-prime-outlets-oak-ridge-road-2-d-15-orlando-f
+Phone: +1 407-363-5535
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4744661
+Longitude: -81.4514407
+OpenStreetMap URL: https://www.openstreetmap.org/node/8691941868
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: CFS Coffee - Lake Nona
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3619264
+Longitude: -81.2435585
+OpenStreetMap URL: https://www.openstreetmap.org/node/8754487063
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 12278 Narcoossee Road Orlando FL 32832
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1010333/narcoossee-vickrey-12278-narcoossee-rd-suite-101-orlando-fl-328326986
+Phone: +1 321-247-0334
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3865549
+Longitude: -81.2450165
+OpenStreetMap URL: https://www.openstreetmap.org/node/8754502146
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Coffee Bean Coffee House
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3427499
+Longitude: -81.526528
+OpenStreetMap URL: https://www.openstreetmap.org/node/8786334048
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bambu
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: vietnamese;bubble_tea
+Brand: Bambu
+Operator: Not listed
+Address: FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5514619
+Longitude: -81.450783
+OpenStreetMap URL: https://www.openstreetmap.org/node/8837015158
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Drunken Monkey
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop;sandwich;dessert
+Brand: Not listed
+Operator: Not listed
+Address: 444 North Bumby Avenue Orlando FL 32803
+Description: Not listed
+Website: https://www.drunkenmonkeyorders.com
+Phone: +1-407-893-4994
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5492396
+Longitude: -81.3522638
+OpenStreetMap URL: https://www.openstreetmap.org/node/9136300218
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 13401 Blue Heron Beach Drive Orlando FL 32821
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/10441/sr-535-vistana-centre-13401-blue-heron-beach-dr-orlando-fl-328216375-us
+Phone: +1-407-387-8700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3691762
+Longitude: -81.5021486
+OpenStreetMap URL: https://www.openstreetmap.org/node/9254046077
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Qreate Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5540764
+Longitude: -81.3639655
+OpenStreetMap URL: https://www.openstreetmap.org/node/9316250828
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Framework Craft Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 1201 North Mills Avenue 32803
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5614111
+Longitude: -81.3642957
+OpenStreetMap URL: https://www.openstreetmap.org/node/9316250829
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lobos Coffee Roasters
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 3000 Corrine Drive Orlando FL 32803
+Description: Not listed
+Website: https://loboscoffeeroasters.com/
+Phone: +1-407-335-4185
+Email: Not listed
+Opening Hours: Mo-Th 06:30-21:00; Fr 06:30-22:00; Sa 07:00-22:00; Su 07:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 28.5675344
+Longitude: -81.3457165
+OpenStreetMap URL: https://www.openstreetmap.org/node/9316250835
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bikes Beans & Bordeaux
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 3022 Corrine Drive Orlando FL 32803
+Description: Not listed
+Website: https://b3cafe.square.site
+Phone: +1-407-427-1440
+Email: Not listed
+Opening Hours: 8:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5676127
+Longitude: -81.3451847
+OpenStreetMap URL: https://www.openstreetmap.org/node/9316250836
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lineage Coffee Roasting
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5683602
+Longitude: -81.3437635
+OpenStreetMap URL: https://www.openstreetmap.org/node/9316250841
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 12715 Pegasus Drive Orlando FL 32816
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1028614/ucf-student-union-2nd-floor-12715-pegasus-dr-orlando-fl-32816-us
+Phone: +1 407-823-4100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6019304
+Longitude: -81.2007601
+OpenStreetMap URL: https://www.openstreetmap.org/node/9326345827
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Boba Queen
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Not listed
+Operator: Not listed
+Address: 5600 West Colonial Drive Orlando 32808
+Description: Cafe, Tea, Boba tea and quick bites.
+Website: Not listed
+Phone: +1-407-930-0277
+Email: Not listed
+Opening Hours: Th-Tu 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5509653
+Longitude: -81.4573361
+OpenStreetMap URL: https://www.openstreetmap.org/node/9368232490
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1408 Avenue to the Stars Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1033479/epcot-connections-cafe-1408-avenue-to-the-stars-lake-buena-vista-fl-32830
+Phone: +1 407-939-5277
+Email: Not listed
+Opening Hours: 08:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 28.3743053
+Longitude: -81.5488149
+OpenStreetMap URL: https://www.openstreetmap.org/node/9641795190
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Neo Asian Kitchen and Boba Tea
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea;vietnamese
+Brand: Not listed
+Operator: Not listed
+Address: 6760 Eagle Watch Drive 32822
+Description: Not listed
+Website: https://www.neoasiankitchen.com/
+Phone: +1-407-271-8079
+Email: Not listed
+Opening Hours: Su-Th 11:00-21:00; Fr-Sa 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.4659607
+Longitude: -81.3068809
+OpenStreetMap URL: https://www.openstreetmap.org/node/10303319609
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lineage Cafe and Bakery
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 11556 University Boulevard Orlando FL 32817
+Description: Not listed
+Website: https://www.lineageroasting.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5972189
+Longitude: -81.219071
+OpenStreetMap URL: https://www.openstreetmap.org/node/10304904142
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 9333 Airport Boulevard Orlando FL 32827
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/14249/mco-airside-1-gates-1-to-29-9333-airport-blvd-orlando-fl-328274334-us
+Phone: +1 407-825-2920
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4348203
+Longitude: -81.3144024
+OpenStreetMap URL: https://www.openstreetmap.org/node/10542162358
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 7125 Universal Boulevard Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1027782/loews-dockside-inn-and-suites-7125-universal-blvd-orlando-fl-32819-us
+Phone: +1 407-503-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.459983
+Longitude: -81.4623806
+OpenStreetMap URL: https://www.openstreetmap.org/node/10594925650
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: RareTea
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Not listed
+Operator: Not listed
+Address: 12 N Summerlin Avenue Orlando FL 32801
+Description: Not listed
+Website: https://rareteaorlando.square.site
+Phone: +1-407-237-9892
+Email: Not listed
+Opening Hours: Su-Th 11:30-21:00, Fr-Sa 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 28.5428777
+Longitude: -81.3686257
+OpenStreetMap URL: https://www.openstreetmap.org/node/10796634645
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Mecatos Bakery & Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: dessert;salad;sandwich;cake
+Brand: Not listed
+Operator: Not listed
+Address: 20 North Orange Avenue Orlando FL 32801
+Description: Not listed
+Website: https://mecatoscafe.com
+Phone: +1-407-704-3841
+Email: Not listed
+Opening Hours: Mo-Th 07:00-18:00, Fr 07:00-20:00, Sa-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5425427
+Longitude: -81.3793741
+OpenStreetMap URL: https://www.openstreetmap.org/node/10796639852
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ding Tea
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Ding Tea
+Operator: Not listed
+Address: 4680 Millenia Plaza Way Orlando FL 32839
+Description: Not listed
+Website: https://dingteaorlando.com
+Phone: +1-407-203-8081
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:00-21:00; Fr, Sa 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.4944374
+Longitude: -81.429246
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798170456
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SpringTea
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea;chinese;taiwanese;asian;juice;quick_bite
+Brand: Not listed
+Operator: Not listed
+Address: 8457 South John Young Parkway Orlando FL 32819
+Description: Not listed
+Website: https://www.springteafl.com/
+Phone: +1-407-413-5335
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:00-21:00; Fr, Sa 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 28.4429686
+Longitude: -81.4262057
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798187535
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Picasso Moments Bakery, Cafe, & Boba Tea
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: asian;sandwich;bubble_tea;dessert;cake;bakery;lunch;dinner;quick_bite;ramen
+Brand: Not listed
+Operator: Not listed
+Address: 8231 South John Young Parkway Orlando FL 32819
+Description: Not listed
+Website: https://picasso-moments-bakery.com
+Phone: +1-407-203-8126
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-19:30; Su 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4452952
+Longitude: -81.4259911
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798201739
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Tea Spot
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Not listed
+Operator: Not listed
+Address: 5078 West Colonial Drive Orlando FL 32808
+Description: Not listed
+Website: https://the-tea-spot.square.site
+Phone: +1-407-995-6609
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5508889
+Longitude: -81.4496321
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798268224
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee - SoDo North
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: sandwich;american;coffee_shop;donut
+Brand: Foxtail Coffee
+Operator: Not listed
+Address: 1101 South Orange Avenue Orlando FL 32806
+Description: Not listed
+Website: https://foxtailcoffee.com
+Phone: +1-407-930-1328
+Email: Not listed
+Opening Hours: Mo-Su 06:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 28.5288076
+Longitude: -81.3761409
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798280017
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Moge Tee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4510888
+Longitude: -81.4865216
+OpenStreetMap URL: https://www.openstreetmap.org/node/10897000599
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Matcha Cafe Maiko
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Matcha Cafe Maiko
+Operator: Not listed
+Address: 639 North Mills Avenue Orlando FL 32803
+Description: Not listed
+Website: https://cafemaikoorl.com
+Phone: +1-407-730-9090
+Email: Not listed
+Opening Hours: Su-Th 12:00-21:00; Fr-Sa 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 28.5527843
+Longitude: -81.3643278
+OpenStreetMap URL: https://www.openstreetmap.org/node/11007004668
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Haan Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop;tea;dessert
+Brand: Not listed
+Operator: Not listed
+Address: 1235 East Colonial Drive Orlando FL 32803
+Description: Not listed
+Website: https://www.haancoffee.com
+Phone: +1-407-906-5119
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5533051
+Longitude: -81.3630871
+OpenStreetMap URL: https://www.openstreetmap.org/node/11007474258
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Illumination's Minion Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4759529
+Longitude: -81.4685878
+OpenStreetMap URL: https://www.openstreetmap.org/node/11090175350
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4088268
+Longitude: -81.4541301
+OpenStreetMap URL: https://www.openstreetmap.org/node/11145400436
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 8200 Vineland Avenue Orlando FL 32821
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1033858/food-court-orlando-vineland-po-8200-vineland-ave-1106-orlando-fl-32821-us
+Phone: +1 407-768-4486
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3872856
+Longitude: -81.4922845
+OpenStreetMap URL: https://www.openstreetmap.org/node/11148327549
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cariño's Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 222 Broadway Avenue Kissimmee FL 34741
+Description: Not listed
+Website: https://carinoscafefl.com
+Phone: +1 407 201-6129
+Email: Not listed
+Opening Hours: Mo-We 07:00-20:00,Th 07:00-21:00,Fr 08:00-23:00,Sa 08:00-23:30,Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.2937232
+Longitude: -81.4056059
+OpenStreetMap URL: https://www.openstreetmap.org/node/11194964373
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 7600 Drive Phillips Road Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/17563/dr-phillips-blvd-sand-lake-r-7600-dr-phillips-road-suite-98-orlando-fl-32819723
+Phone: +1 407-903-0449
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4518686
+Longitude: -81.489385
+OpenStreetMap URL: https://www.openstreetmap.org/node/11234646621
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 11825 Narcoossee Road Orlando FL 32832
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1042835/narcoossee-rd-whipporwill-11825-narcoossee-rd-orlando-fl-328326912-us
+Phone: +1 689-800-7152
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3937497
+Longitude: -81.2436894
+OpenStreetMap URL: https://www.openstreetmap.org/node/11248780520
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 4200 Conroy Road Millennia Mall FL 32839
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/17910/the-mall-at-millenia-downstair-4200-conroy-rd-orlando-fl-328392400-us
+Phone: +1 407-363-0567
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4855085
+Longitude: -81.4312483
+OpenStreetMap URL: https://www.openstreetmap.org/node/11248859380
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lineage Coffee Roasting
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: East Colonial Drive Orlando 32803
+Description: Not listed
+Website: https://www.lineageroasting.com/
+Phone: +1-407-205-8096
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 28.5533682
+Longitude: -81.3660576
+OpenStreetMap URL: https://www.openstreetmap.org/node/11405258271
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chewy Boba Company
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Not listed
+Operator: Not listed
+Address: 1212 East Colonial Drive Orlando FL 32803
+Description: Not listed
+Website: https://chewyboba.com
+Phone: +1-407-897-1377
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5529926
+Longitude: -81.3639443
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455406220
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fluffy Fluffy Dessert Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 2008 East Colonial Drive Orlando FL 32803
+Description: Not listed
+Website: https://fluffyfluffy.co
+Phone: +1-407-286-3979
+Email: Not listed
+Opening Hours: Mo-Su 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5529466
+Longitude: -81.3563603
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455481360
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Quickly
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Quickly
+Operator: Not listed
+Address: 3214 East Colonial Drive Orlando FL 32803
+Description: Not listed
+Website: https://quicklybobasnowtogo.com
+Phone: +1-407-270-4570
+Email: Not listed
+Opening Hours: Mo-Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5522286
+Longitude: -81.3431517
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455548781
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pom Pom's Teahouse & Sandwicheria
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: sandwich;dessert;tea
+Brand: Not listed
+Operator: Not listed
+Address: 67 North Bumby Avenue Orlando FL 32803
+Description: Not listed
+Website: https://pompomsteahouse.com
+Phone: +1-407-894-0865
+Email: Not listed
+Opening Hours: MTu-Th 11:00-23:00; Fr-Mo 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5436183
+Longitude: -81.3515122
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455597457
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Clean Eatz
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Clean Eatz
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://locations.cleaneatz.com/fl/wintergarden/meal-prep-109.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4288579
+Longitude: -81.6181922
+OpenStreetMap URL: https://www.openstreetmap.org/node/11500698500
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lobby Bar
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4485036
+Longitude: -81.4684895
+OpenStreetMap URL: https://www.openstreetmap.org/node/11510003261
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 2198 Western Way Winter Garden FL 34787
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1032494/western-way-main-st-2198-western-way-a-winter-garden-fl-347878386-us
+Phone: +1 689-698-0059
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3787015
+Longitude: -81.6172638
+OpenStreetMap URL: https://www.openstreetmap.org/node/11609610250
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Moge Tee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Not listed
+Operator: Not listed
+Address: 636 Mills Avenue 32803
+Description: Not listed
+Website: https://www.mogeteeusa.com/
+Phone: +1-404-237-0197
+Email: Not listed
+Opening Hours: Mo-Th 12:00-21:00; Fr-Sa 12:00-22:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5526827
+Longitude: -81.3646213
+OpenStreetMap URL: https://www.openstreetmap.org/node/11682411569
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Scooter's Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Scooter's Coffee
+Operator: Not listed
+Address: 3005 West Oak Ridge Road Orlando FL 32809
+Description: Not listed
+Website: https://scooterscoffee.com
+Phone: +1-407-286-0363
+Email: Not listed
+Opening Hours: Mo-Fr 05:00-19:30; Sa 06:00-19:30; Su 07:00-19:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.4727026
+Longitude: -81.4180346
+OpenStreetMap URL: https://www.openstreetmap.org/node/12007277303
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 20 North Summerlin Ave Orlando FL 32801
+Description: Not listed
+Website: https://www.starbucks.com/
+Phone: +1-407-930-3183
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-18:00; Sa-Su 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5430625
+Longitude: -81.3686374
+OpenStreetMap URL: https://www.openstreetmap.org/node/12109603875
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dutch Bros. Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Dutch Bros. Coffee
+Operator: Not listed
+Address: 116 Semoran Boulevard Winter Park FL 32792
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5959521
+Longitude: -81.3077303
+OpenStreetMap URL: https://www.openstreetmap.org/node/12113826411
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rooted Grounds
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Orlando FL 32822
+Description: Not listed
+Website: Not listed
+Phone: +1 407 851 9000
+Email: Not listed
+Opening Hours: 06:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4564738
+Longitude: -81.3058442
+OpenStreetMap URL: https://www.openstreetmap.org/node/12196421447
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee Company
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 7004 Tavistock Lakes Boulevard Orlando FL 32827
+Description: Not listed
+Website: https://www.foxtailcoffee.com/locations/foxtail-coffee-lake-nona
+Phone: +1-407-313-2841
+Email: Not listed
+Opening Hours: Mo-Su 06:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.37212
+Longitude: -81.2772527
+OpenStreetMap URL: https://www.openstreetmap.org/node/12257447373
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3709457
+Longitude: -81.2792407
+OpenStreetMap URL: https://www.openstreetmap.org/node/12316735944
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smoooth Java
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 9840 International Drive Orlando FL 32819
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:30+
+Wheelchair Accessibility: Not listed
+Latitude: 28.4244896
+Longitude: -81.4646106
+OpenStreetMap URL: https://www.openstreetmap.org/node/12551274263
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Smoooth Java
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00+
+Wheelchair Accessibility: Not listed
+Latitude: 28.4298997
+Longitude: -81.4716313
+OpenStreetMap URL: https://www.openstreetmap.org/node/12557331908
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Coaster Coffee Company
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://seaworld.com/orlando/dining/coaster-coffee-company/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4117423
+Longitude: -81.4624976
+OpenStreetMap URL: https://www.openstreetmap.org/node/12588955168
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Piccolo Coffee Co
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 18 North Boyd Street Winter Garden FL 34787
+Description: Not listed
+Website: https://www.piccolocoffeeco.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5660904
+Longitude: -81.5866706
+OpenStreetMap URL: https://www.openstreetmap.org/node/12593457265
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Axum Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 426 West Plant Street Winter Garden FL 34787
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5644033
+Longitude: -81.5908328
+OpenStreetMap URL: https://www.openstreetmap.org/node/12593790102
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Vanessa's Coffee Shop
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4296096
+Longitude: -81.257644
+OpenStreetMap URL: https://www.openstreetmap.org/node/12657597192
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kele’s Breakfast Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4884182
+Longitude: -81.4295914
+OpenStreetMap URL: https://www.openstreetmap.org/node/12674240101
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee Company
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 13651 Hunters Oak Drive Orlando FL 32837
+Description: Not listed
+Website: https://www.foxtailcoffee.com/locations/foxtail-coffee-hunters-creek
+Phone: +1-407-286-1569
+Email: Not listed
+Opening Hours: Mo-Th 06:00-21:00; Fr 06:00-22:00; Sa 07:00-22:00; Su 07:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3662737
+Longitude: -81.4257833
+OpenStreetMap URL: https://www.openstreetmap.org/node/12707712973
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aurora Market
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.universalorlando.com/web/en/us/things-to-do/dining/aurora-market
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4418209
+Longitude: -81.44941
+OpenStreetMap URL: https://www.openstreetmap.org/node/12724562451
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Tropical Smoothie Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: smoothie
+Brand: Tropical Smoothie Cafe
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5512732
+Longitude: -81.5429556
+OpenStreetMap URL: https://www.openstreetmap.org/node/12784112605
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Coffee For The Soul
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.cfscoffee.com
+Phone: +1-407-757-9510
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.6350363
+Longitude: -81.3734806
+OpenStreetMap URL: https://www.openstreetmap.org/node/12921681007
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Royaltea
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Royaltea
+Operator: Not listed
+Address: 714 Mills Avenue Orlando FL 32803
+Description: Not listed
+Website: https://royalteaus.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5537194
+Longitude: -81.3646231
+OpenStreetMap URL: https://www.openstreetmap.org/node/13019989684
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Black Phin Coffee Bar
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 1152 Harmon Avenue Winter Park FL 32789
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 9:00-15:00, Su 10:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5855136
+Longitude: -81.364074
+OpenStreetMap URL: https://www.openstreetmap.org/node/13022495544
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Another Broken Egg Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 6324 South Semoran Boulevard Orlando FL 32822
+Description: Not listed
+Website: https://www.anotherbrokenegg.com/locations/orlando-fl/
+Phone: +1-321-300-0907
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.472319
+Longitude: -81.3107618
+OpenStreetMap URL: https://www.openstreetmap.org/node/13094450842
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Happy Lemon
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Happy Lemon
+Operator: Not listed
+Address: 2100 East Colonial Drive Orlando FL 32803
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5526662
+Longitude: -81.3554719
+OpenStreetMap URL: https://www.openstreetmap.org/node/13160531199
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Toastique
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: toast;juice;smoothie
+Brand: Not listed
+Operator: Not listed
+Address: 14410 Shoreside Way Winter Garden FL 34787
+Description: Not listed
+Website: https://toastique.com/pages/orlando
+Phone: +1-407-759-5412
+Email: Not listed
+Opening Hours: Mo-Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4728528
+Longitude: -81.6277782
+OpenStreetMap URL: https://www.openstreetmap.org/node/13175550396
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Drift Café & Bar
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 5750 T.G. Lee Boulevard Orlando FL 32822
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4595168
+Longitude: -81.309032
+OpenStreetMap URL: https://www.openstreetmap.org/node/13203942471
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: CFS Coffee For The Soul
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 54 West Church Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.539891
+Longitude: -81.3799636
+OpenStreetMap URL: https://www.openstreetmap.org/node/13208031625
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 12125 High Tech Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-23:00; Sa-Su 06:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.6000272
+Longitude: -81.2113586
+OpenStreetMap URL: https://www.openstreetmap.org/node/13299499659
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Kitty Beautiful
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 360 State Lane Orlando FL 32801
+Description: Not listed
+Website: https://thekittybeautiful.com/
+Phone: +1 321 209 2081
+Email: thekittybeautiful@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.546843
+Longitude: -81.3803744
+OpenStreetMap URL: https://www.openstreetmap.org/node/13301952041
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: 407 Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://407cafe.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4339056
+Longitude: -81.2563563
+OpenStreetMap URL: https://www.openstreetmap.org/node/13302457183
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cups and Pups Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 2413 Edgewater Drive Orlando FL 32804
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5730024
+Longitude: -81.3893363
+OpenStreetMap URL: https://www.openstreetmap.org/node/13304801143
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Koko Kakigori Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 620 Thornton Avenue Orlando FL 32803
+Description: Not listed
+Website: https://kokokakigori.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5521042
+Longitude: -81.3659369
+OpenStreetMap URL: https://www.openstreetmap.org/node/13325543879
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cali Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 5455 Gateway Village Circle Orlando FL 32812
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 05:30-22:00; Sa-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4577099
+Longitude: -81.3109865
+OpenStreetMap URL: https://www.openstreetmap.org/node/13337523171
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Stemma Craft Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 328 North Orange Avenue
+Description: Not listed
+Website: https://www.stemmacraftcoffee.com/
+Phone: +1-407-440-3018
+Email: Not listed
+Opening Hours: 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.546384
+Longitude: -81.3792884
+OpenStreetMap URL: https://www.openstreetmap.org/node/13401797866
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3861837
+Longitude: -81.5050316
+OpenStreetMap URL: https://www.openstreetmap.org/node/13409505143
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Breakfast Club
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.642579
+Longitude: -81.2072366
+OpenStreetMap URL: https://www.openstreetmap.org/node/13462823794
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1 Jeff Fuqua Boulevard Orlando FL 32827
+Description: Not listed
+Website: Not listed
+Phone: +1-407-825-6134
+Email: Not listed
+Opening Hours: Mo-Su 04:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4118182
+Longitude: -81.3144824
+OpenStreetMap URL: https://www.openstreetmap.org/node/13469755336
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1 Jeff Fuqua Boulevard Orlando FL 32827
+Description: Not listed
+Website: Not listed
+Phone: +1407-825-6133
+Email: Not listed
+Opening Hours: Mo-Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4120721
+Longitude: -81.3122993
+OpenStreetMap URL: https://www.openstreetmap.org/node/13469755337
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: BookBurn Cafe & Social
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 2425 E South Street Orlando FL 32803
+Description: Not listed
+Website: https://www.bookburnofficial.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5388345
+Longitude: -81.3506162
+OpenStreetMap URL: https://www.openstreetmap.org/node/13520793353
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Top Smoothie
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: smoothie
+Brand: Not listed
+Operator: Not listed
+Address: 5915 Old Goldenrod Road Orlando FL 32822-8775
+Description: Not listed
+Website: https://top-smoothie.square.site/
+Phone: +1-321-604-0784
+Email: topsmoothiellc@gmail.com
+Opening Hours: Mo-Fr 09:00-21:00; Sa 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4768064
+Longitude: -81.2871741
+OpenStreetMap URL: https://www.openstreetmap.org/node/13536660330
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Top Smoothie
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: smoothie
+Brand: Not listed
+Operator: Not listed
+Address: 12700 South Orange Blossom Trail Orlando FL 32837-6224
+Description: Not listed
+Website: https://top-smoothie.square.site/
+Phone: +1-321-765-3775
+Email: topsmoothiellc@gmail.com
+Opening Hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3808218
+Longitude: -81.4060669
+OpenStreetMap URL: https://www.openstreetmap.org/node/13536739657
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 13336 Hartzog Road Winter Garden FL 34787
+Description: Not listed
+Website: https://www.starbucks.com/store-locator?map=28.37308,-81.58219,9z
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3758379
+Longitude: -81.615962
+OpenStreetMap URL: https://www.openstreetmap.org/node/13665612682
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Blackbird Comics & Coffeehouse
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 500 Horatio Avenue 32751
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6271353
+Longitude: -81.3614348
+OpenStreetMap URL: https://www.openstreetmap.org/node/13682185302
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kitanda
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Kitanda
+Operator: Not listed
+Address: 1591 Future Way Celebration FL 34747
+Description: Not listed
+Website: https://www.kitanda.com/celebration
+Phone: +1-425-820-4381
+Email: info@kitanda.com
+Opening Hours: Mo-Sa 06:30-19:30; Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3027819
+Longitude: -81.568145
+OpenStreetMap URL: https://www.openstreetmap.org/node/13753827041
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lucky Goat Coffee Co
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 56 Riley Road Celebration FL 34747
+Description: Not listed
+Website: https://luckygoatcoffee.com/pages/celebration-place
+Phone: +1-407-408-9264
+Email: celebrationplace@luckygoatcoffee.com
+Opening Hours: Mo-Sa 07:00-18:00; Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3306807
+Longitude: -81.5283321
+OpenStreetMap URL: https://www.openstreetmap.org/node/13761642010
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4932076
+Longitude: -81.5095495
+OpenStreetMap URL: https://www.openstreetmap.org/node/13784016548
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 05:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3554093
+Longitude: -81.3102719
+OpenStreetMap URL: https://www.openstreetmap.org/node/13818397047
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Foxtail Coffee Company
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: 13615 Sachs Avenue Orlando FL 32827
+Description: Not listed
+Website: https://www.foxtailcoffee.com/locations/foxtail-coffee-canvas-lake-nona
+Phone: +1-407-313-7800
+Email: Not listed
+Opening Hours: Mo-Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3710104
+Longitude: -81.2614965
+OpenStreetMap URL: https://www.openstreetmap.org/node/13892981153
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6180435
+Longitude: -81.2656435
+OpenStreetMap URL: https://www.openstreetmap.org/node/13894851438
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Thai Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 217 Magnolia Avenue Orlando FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.545004
+Longitude: -81.3772498
+OpenStreetMap URL: https://www.openstreetmap.org/way/80670778
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Epcot Central Kitchens
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3717004
+Longitude: -81.5530361
+OpenStreetMap URL: https://www.openstreetmap.org/way/117227008
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: TBaar
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: bubble_tea
+Brand: Not listed
+Operator: Not listed
+Address: 5816 Conroy Windermere Road Orlando FL 32835
+Description: Cafe offering bubble teas, fruit drinks, fresh pressed juices, smoothies, & poke bowls.
+Website: https://tbaar.com/
+Phone: +1-407-802-2088
+Email: Not listed
+Opening Hours: Mo-Tu 10:00-21:00; Th-Fr 10:00-21:00; Sa-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4932656
+Longitude: -81.4608736
+OpenStreetMap URL: https://www.openstreetmap.org/way/238143071
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Joffrey's Handcrafted Smoothies
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: american
+Brand: Not listed
+Operator: Not listed
+Address: 1686 East Buena Vista Drive Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/disney-springs/forty-thirst-street/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3715567
+Longitude: -81.5154214
+OpenStreetMap URL: https://www.openstreetmap.org/way/292617151
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 219 Hollywood Boulevard Bay Lake FL 32830
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1007555/disney-studios-trolley-car-caf-715-theatre-of-the-stars-drive-bay-lake-fl-32830-u
+Phone: +1-407-939-3463
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3578284
+Longitude: -81.5596205
+OpenStreetMap URL: https://www.openstreetmap.org/way/294883718
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Espresso, Coffee, and Pastries
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3766003
+Longitude: -81.5492978
+OpenStreetMap URL: https://www.openstreetmap.org/way/295174049
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Espresso Coffee & Pastries
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Joffrey's
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3716784
+Longitude: -81.5487802
+OpenStreetMap URL: https://www.openstreetmap.org/way/295320345
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 3721 West Vine Street Kissimmee FL 34741
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/17278/us-192-armstrong-3721-west-vine-street-kissimmee-fl-347414638-us
+Phone: +1 407-846-4627
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3049494
+Longitude: -81.4409945
+OpenStreetMap URL: https://www.openstreetmap.org/way/309356603
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 6892 South Orange Blossom Trail Orlando FL 32809
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/10621/obt-lancaster-6892-s-orange-blossom-trail-orlando-fl-328096926-u
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-19:00;Sa-Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4650417
+Longitude: -81.3975
+OpenStreetMap URL: https://www.openstreetmap.org/way/313780309
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1675 North Buena Vista Drive Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1012169/animal-kingdom-discovery-islan-1675-n-buena-vista-dr-lake-buena-vista-fl-32830-us
+Phone: +1 407-939-5277
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3577662
+Longitude: -81.5917884
+OpenStreetMap URL: https://www.openstreetmap.org/way/325927519
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: iCafé de Paris
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4430344
+Longitude: -81.4694329
+OpenStreetMap URL: https://www.openstreetmap.org/way/331556589
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Coaster Coffee Express
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://seaworld.com/orlando/dining/coaster-coffee-express/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4080897
+Longitude: -81.4609317
+OpenStreetMap URL: https://www.openstreetmap.org/way/332482339
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Joffrey's Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Seven Seas Drive FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4054793
+Longitude: -81.5801087
+OpenStreetMap URL: https://www.openstreetmap.org/way/344020883
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SkyDiner
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4652483
+Longitude: -81.4557114
+OpenStreetMap URL: https://www.openstreetmap.org/way/415836772
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1041 Osceola Parkway Kissimmee FL 34741
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1009398/osceola-pkwy-centerview-1041-osceola-parkway-kissimmee-fl-347417503-us
+Phone: +1 407-944-0317
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3413411
+Longitude: -81.41211
+OpenStreetMap URL: https://www.openstreetmap.org/way/532447920
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 7420 University Boulevard Winter Park FL 32792
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/7358/university-goldenrod-7420-university-blvd-winter-park-fl-327928881-us
+Phone: +1 407-671-3548
+Email: Not listed
+Opening Hours: Mo-Fr 05:00-21:00, Sa-Su 05:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.5970034
+Longitude: -81.288926
+OpenStreetMap URL: https://www.openstreetmap.org/way/549396101
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cafe 24
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3581513
+Longitude: -81.4932037
+OpenStreetMap URL: https://www.openstreetmap.org/way/549575180
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6124071
+Longitude: -81.2070966
+OpenStreetMap URL: https://www.openstreetmap.org/way/608151055
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 5894 Conroy Road Orlando FL 32835
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1021902/conroy-fl-turnpike-5894-conroy-rd-orlando-fl-328353528-us
+Phone: +1 407-849-8157
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4932757
+Longitude: -81.4622399
+OpenStreetMap URL: https://www.openstreetmap.org/way/618339185
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 6091 Bronson Highway Celebration FL 34747
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1015896/us-192-celebration-6091-w-irlo-bronson-memorial-hwy-kissimmee-fl-3474
+Phone: +1 407-396-8757
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3338445
+Longitude: -81.5287193
+OpenStreetMap URL: https://www.openstreetmap.org/way/638788236
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Joffrey's Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3596908
+Longitude: -81.5595933
+OpenStreetMap URL: https://www.openstreetmap.org/way/691274040
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Joffrey's Revive
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4185017
+Longitude: -81.5784845
+OpenStreetMap URL: https://www.openstreetmap.org/way/698839143
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Austin's Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 929 Fairbanks Avenue Winter Park FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5932719
+Longitude: -81.3614172
+OpenStreetMap URL: https://www.openstreetmap.org/way/710692552
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Krungthep Tea Time
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5932548
+Longitude: -81.3628066
+OpenStreetMap URL: https://www.openstreetmap.org/way/710692556
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: CFS Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: colombian
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4926303
+Longitude: -81.4606241
+OpenStreetMap URL: https://www.openstreetmap.org/way/714664977
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3651859
+Longitude: -81.425239
+OpenStreetMap URL: https://www.openstreetmap.org/way/721046133
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 5555 Kirkman Road Orlando FL 32819-7827
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/8336/doubletree-hotel-universal-orl-5780-major-blvd-orlando-fl-328197953-us
+Phone: +1 407-226-2335
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4817022
+Longitude: -81.4578869
+OpenStreetMap URL: https://www.openstreetmap.org/way/727113589
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Joffrey's Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.337929
+Longitude: -81.5568837
+OpenStreetMap URL: https://www.openstreetmap.org/way/796647517
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Joffrey’s Coffee And Tea Company
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3595574
+Longitude: -81.5444793
+OpenStreetMap URL: https://www.openstreetmap.org/way/805877766
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5096243
+Longitude: -81.2376149
+OpenStreetMap URL: https://www.openstreetmap.org/way/824389730
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 5072 South Conway Road Belle Isle FL 32812
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/9424/s-conway-rd-hoffner-ave-5072-s-conway-rd-belle-isle-fl-328121258-us
+Phone: +1 407-858-5328
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4818495
+Longitude: -81.331177
+OpenStreetMap URL: https://www.openstreetmap.org/way/832051553
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 5540 Oak Ridge Road Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1023226/w-oak-ridge-adriana-5540-w-oak-ridge-rd-orlando-fl-328198951-us
+Phone: +1 321-320-3359
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.471667
+Longitude: -81.4530712
+OpenStreetMap URL: https://www.openstreetmap.org/way/845813674
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 8101 Vineland Avenue Orlando FL 32821
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1023440/vineland-international-drive-8101-vineland-ave-orlando-fl-328216847-us
+Phone: +1 407-319-9048
+Email: Not listed
+Opening Hours: Mo-Su 05:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3864981
+Longitude: -81.4873413
+OpenStreetMap URL: https://www.openstreetmap.org/way/932286048
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Shakers American Café
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: american
+Brand: Not listed
+Operator: Not listed
+Address: 1308 Edgewater Drive Orlando FL 32804
+Description: Not listed
+Website: https://www.shakerscafe.com/
+Phone: +1-407-422-3534
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5631065
+Longitude: -81.3895725
+OpenStreetMap URL: https://www.openstreetmap.org/way/934394873
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Mecatos Bakery and Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 5645 Hansel Avenue Edgewood FL 32809
+Description: Not listed
+Website: https://mecatoscafe.com/hoffner/
+Phone: +1-407-420-0072
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-21:00; Sa-Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4755605
+Longitude: -81.367496
+OpenStreetMap URL: https://www.openstreetmap.org/way/936876400
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/epcot/travelers-cafe/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.371812
+Longitude: -81.5504334
+OpenStreetMap URL: https://www.openstreetmap.org/way/941181955
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 626 North Fern Creek Avenue Orlando FL 32803
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1029100/hwy-50-and-fern-creek-626-n-fern-creek-ave-orlando-fl-32803-us
+Phone: +1 407-592-4294
+Email: Not listed
+Opening Hours: Mo-Sa 05:00-20:00; Su 05:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.552935
+Longitude: -81.3605811
+OpenStreetMap URL: https://www.openstreetmap.org/way/1009706596
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 2615 Lee Road Winter Park FL 32789
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1031595/lee-road-wymore-2615-lee-road-winter-park-fl-327891764-us
+Phone: +1 321-666-7614
+Email: Not listed
+Opening Hours: Mo-Su 5:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.6062148
+Longitude: -81.3840021
+OpenStreetMap URL: https://www.openstreetmap.org/way/1024354915
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: BookBurn Cafe & Social
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: 225 E South Street Orlando FL 32803
+Description: Not listed
+Website: https://www.bookburnofficial.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.538947
+Longitude: -81.3507861
+OpenStreetMap URL: https://www.openstreetmap.org/way/1036132613
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chocolate Museum & Cafe
+City: Orlando
+Category: cafes
+Tourism Type: museum
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: chocolate;coffee
+Brand: Not listed
+Operator: Not listed
+Address: 11701 International Drive 32821
+Description: Not listed
+Website: https://wocorlando.com/cafe-menu/
+Phone: +1-407-778-4871
+Email: wocorlando@gmail.com
+Opening Hours: Mo-Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3938038
+Longitude: -81.4648777
+OpenStreetMap URL: https://www.openstreetmap.org/way/1065535233
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3441605
+Longitude: -81.4843273
+OpenStreetMap URL: https://www.openstreetmap.org/way/1128959039
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 13925 Landstar Boulevard Orlando FL 32824
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1031170/landstar-arbor-meadows-13925-landstar-blvd-100-orlando-fl-328245531-us
+Phone: +1 321-926-0993
+Email: Not listed
+Opening Hours: Mo-Sa 5:30-21:00, Su 06:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 28.3644976
+Longitude: -81.3654059
+OpenStreetMap URL: https://www.openstreetmap.org/way/1222955001
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 9265 Miley Drive Winter Garden FL 34787
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1033289/seidel-rd-summerlake-groves-9265-miley-dr-winter-garden-fl-347870121-us
+Phone: +1 407-942-2092
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.427934
+Longitude: -81.6183282
+OpenStreetMap URL: https://www.openstreetmap.org/way/1238111934
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 8013 International Drive Orlando FL 32819
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1008715/sand-lake-rd-international-d-8013-international-dr-suite-101-orlando-fl-3281993
+Phone: +1 407-354-1542
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4494706
+Longitude: -81.4698355
+OpenStreetMap URL: https://www.openstreetmap.org/way/1239003905
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4582901
+Longitude: -81.2700459
+OpenStreetMap URL: https://www.openstreetmap.org/way/1360942181
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/82772-295236/universal-epic-carousel-1-opportunity-way-building-1030-orlando-fl-32819-u
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4403011
+Longitude: -81.4485863
+OpenStreetMap URL: https://www.openstreetmap.org/way/1368857352
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Illumination's Minions Cafe
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: Not listed
+Brand: Not listed
+Operator: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4759439
+Longitude: -81.4685821
+OpenStreetMap URL: https://www.openstreetmap.org/way/1442942161
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dutch Bros. Coffee
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Dutch Bros. Coffee
+Operator: Not listed
+Address: 10609 Narcoossee Road Orlando FL 32832
+Description: Not listed
+Website: https://locations.dutchbros.com/dutch-bros-coffee-4400726f9af5
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4134139
+Longitude: -81.2424114
+OpenStreetMap URL: https://www.openstreetmap.org/way/1511791128
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Starbucks
+City: Orlando
+Category: cafes
+Tourism Type: Not listed
+Amenity Type: cafe
+Leisure Type: Not listed
+Cuisine: coffee_shop
+Brand: Starbucks
+Operator: Not listed
+Address: 1680 East Buena Vista Drive Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/1008716/disney-springs-market-place-1680-e-buena-vista-dr-downtown-disney-lake-buena-v
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3713584
+Longitude: -81.5152881
+OpenStreetMap URL: https://www.openstreetmap.org/relation/7943687
+Data Source: OpenStreetMap contributors
