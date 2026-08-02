@@ -1,0 +1,2936 @@
+City: Chicago
+Category: attractions
+Data Source: OpenStreetMap contributors
+Number of named places: 163
+
+Name: Shoreline Sightseeing
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 401 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8891445
+Longitude: -87.6225172
+OpenStreetMap URL: https://www.openstreetmap.org/node/20217109
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SkyDeck Chicago Willis Tower
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 233 South Wacker Drive Chicago IL 60606
+Description: Not listed
+Website: https://theskydeck.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8785046
+Longitude: -87.6358868
+OpenStreetMap URL: https://www.openstreetmap.org/node/2311635030
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Saddle Billed Stork
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336857
+Longitude: -87.8397524
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373701
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lion
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336004
+Longitude: -87.8322367
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373702
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Reticulated Giraffe
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8341807
+Longitude: -87.8375718
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373704
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: White Stork
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8335994
+Longitude: -87.8396649
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373705
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sloth Bear
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336173
+Longitude: -87.8319789
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373706
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Amur Tiger
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833642
+Longitude: -87.8317045
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373710
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Gerenuk
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8339281
+Longitude: -87.8364295
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373711
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Snow Leopard
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336118
+Longitude: -87.8314329
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688373714
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Gray Seal
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8338037
+Longitude: -87.8309202
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688397917
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Amur Leopard
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336827
+Longitude: -87.8323944
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688397918
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Weather Bell
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 79 West Monroe Street Chicago IL 60603
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8806113
+Longitude: -87.6307011
+OpenStreetMap URL: https://www.openstreetmap.org/node/4839412823
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Wave Wall
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8912454
+Longitude: -87.6075786
+OpenStreetMap URL: https://www.openstreetmap.org/node/5062541128
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Begin Route 66
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: East Adams Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8796145
+Longitude: -87.6246298
+OpenStreetMap URL: https://www.openstreetmap.org/node/5401536922
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Gallager
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.85296
+Longitude: -87.7097748
+OpenStreetMap URL: https://www.openstreetmap.org/node/5646264021
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Obama Kissing Rock
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 5285 South Dorchester Avenue Chicago IL 60615
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.7996231
+Longitude: -87.5916871
+OpenStreetMap URL: https://www.openstreetmap.org/node/6477619616
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dwarf Crocodile
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9229477
+Longitude: -87.6339882
+OpenStreetMap URL: https://www.openstreetmap.org/node/7116974105
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Klipspringer
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9232763
+Longitude: -87.6340967
+OpenStreetMap URL: https://www.openstreetmap.org/node/7116974131
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dolphin
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.867919
+Longitude: -87.6130245
+OpenStreetMap URL: https://www.openstreetmap.org/node/7159005308
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Beluga
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8673317
+Longitude: -87.6130031
+OpenStreetMap URL: https://www.openstreetmap.org/node/7159005309
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sea Lion
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8674176
+Longitude: -87.6132257
+OpenStreetMap URL: https://www.openstreetmap.org/node/7159005310
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sea Otter
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8678633
+Longitude: -87.6132034
+OpenStreetMap URL: https://www.openstreetmap.org/node/7159005311
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Penguins
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8675992
+Longitude: -87.6132033
+OpenStreetMap URL: https://www.openstreetmap.org/node/7159005312
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Grevy's Zebra
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.834779
+Longitude: -87.8376503
+OpenStreetMap URL: https://www.openstreetmap.org/node/7217267117
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bactrian Camel
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8348334
+Longitude: -87.8353279
+OpenStreetMap URL: https://www.openstreetmap.org/node/7217267227
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Przewalski's Horse
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8347959
+Longitude: -87.8365727
+OpenStreetMap URL: https://www.openstreetmap.org/node/7217267228
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Addax
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8347143
+Longitude: -87.8388816
+OpenStreetMap URL: https://www.openstreetmap.org/node/7217267229
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Okapi
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8329734
+Longitude: -87.8387692
+OpenStreetMap URL: https://www.openstreetmap.org/node/7217267399
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Giant Anteater
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8320387
+Longitude: -87.8347257
+OpenStreetMap URL: https://www.openstreetmap.org/node/7229446136
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Orangutan
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8320377
+Longitude: -87.8351696
+OpenStreetMap URL: https://www.openstreetmap.org/node/7229446137
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bald Eagle
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8320015
+Longitude: -87.8382636
+OpenStreetMap URL: https://www.openstreetmap.org/node/7229447708
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red Flanked Duiker
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833604
+Longitude: -87.8385512
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257202993
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Yellow-backed Duiker
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8332067
+Longitude: -87.8389321
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257202994
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Okapi
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833649
+Longitude: -87.83895
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257203035
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Yellow-backed Duiker
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336712
+Longitude: -87.8392896
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257203087
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red river hog
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8339313
+Longitude: -87.8393853
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257203095
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: African Painted Dog
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8335061
+Longitude: -87.8375199
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257203184
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Giraffe Feeding Area
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8344378
+Longitude: -87.8378373
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257239155
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kirk's Dik-Dik
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833944
+Longitude: -87.8366519
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257259310
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Waterbuck
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336491
+Longitude: -87.8365873
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257259314
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red river hog
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8334908
+Longitude: -87.8367522
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257259315
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Klipspringer
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833931
+Longitude: -87.8370805
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257259378
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Klipspringer
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336853
+Longitude: -87.8378098
+OpenStreetMap URL: https://www.openstreetmap.org/node/7257259436
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Short-Nosed Echidna
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.834401
+Longitude: -87.8350439
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260245931
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wombat
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8343951
+Longitude: -87.8352058
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260247166
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rodrigues Fruit Bat
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8343967
+Longitude: -87.8353686
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260247167
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cape Barren Goose
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8343705
+Longitude: -87.83559
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260247168
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bennet's Wallaby
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.834148
+Longitude: -87.8353335
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260247170
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Emu
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8342096
+Longitude: -87.8356713
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260247171
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Western Gray Kangaroo
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8342532
+Longitude: -87.8347555
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260247172
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aardvarks
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8340781
+Longitude: -87.8367539
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260289377
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Andean Condor
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8315458
+Longitude: -87.8377886
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260313596
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kill Site
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8321222
+Longitude: -87.8387796
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260313716
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Naturalist Outpost
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8322538
+Longitude: -87.8388629
+OpenStreetMap URL: https://www.openstreetmap.org/node/7260324598
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: California Sea Lion
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833804
+Longitude: -87.8306764
+OpenStreetMap URL: https://www.openstreetmap.org/node/7263562325
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Schiller Woods Magic Water Pump
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9521189
+Longitude: -87.8439799
+OpenStreetMap URL: https://www.openstreetmap.org/node/7294779096
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pygmy Hippo
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8337928
+Longitude: -87.8358443
+OpenStreetMap URL: https://www.openstreetmap.org/node/7593750906
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Black Rhinoceros
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833214
+Longitude: -87.8358216
+OpenStreetMap URL: https://www.openstreetmap.org/node/7593750907
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ring-Tailed Lemur
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8315125
+Longitude: -87.832885
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602693946
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bennet's Wallaby
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8313259
+Longitude: -87.8309686
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602780024
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Parakeet
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8314628
+Longitude: -87.8313508
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602780025
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Emu
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.831331
+Longitude: -87.8305195
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602780026
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Nigerian Dwarf Goat
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8318522
+Longitude: -87.8313763
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602812481
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Reindeer
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8316583
+Longitude: -87.8306261
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602812482
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red Panda
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8315025
+Longitude: -87.830845
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602812483
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Llama
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8319272
+Longitude: -87.8308509
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602812484
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Alpaca
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8318884
+Longitude: -87.8307448
+OpenStreetMap URL: https://www.openstreetmap.org/node/7602814485
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Al Capone's House
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 7244 South Prairie Avenue Chicago IL 60619
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.762502
+Longitude: -87.6187848
+OpenStreetMap URL: https://www.openstreetmap.org/node/8968009470
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Waller Apartments
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 2850 West Walnut Street Chicago IL 60612
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8856307
+Longitude: -87.6983895
+OpenStreetMap URL: https://www.openstreetmap.org/node/8968057698
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: U-505 Submarine
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7918808
+Longitude: -87.5812474
+OpenStreetMap URL: https://www.openstreetmap.org/node/9764867266
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Lowland Tapir
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8338311
+Longitude: -87.8347117
+OpenStreetMap URL: https://www.openstreetmap.org/node/10257791977
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Capybara
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336912
+Longitude: -87.8346518
+OpenStreetMap URL: https://www.openstreetmap.org/node/10257791978
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dolphin
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.833569
+Longitude: -87.8299182
+OpenStreetMap URL: https://www.openstreetmap.org/node/10257791979
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Ledge
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8788896
+Longitude: -87.636323
+OpenStreetMap URL: https://www.openstreetmap.org/node/10945307447
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wendella Tours - Dock 3
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 400 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8891219
+Longitude: -87.6256125
+OpenStreetMap URL: https://www.openstreetmap.org/node/10951815619
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wendella Tours - Dock 4
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 400 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8889311
+Longitude: -87.6259394
+OpenStreetMap URL: https://www.openstreetmap.org/node/10951815620
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wendella Tours - Michigan Avenue
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8892215
+Longitude: -87.6246397
+OpenStreetMap URL: https://www.openstreetmap.org/node/10951815621
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Museum of Ice Cream
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 435 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: https://www.museumoficecream.com/chicago/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo, We-Th 11:00-18:30; Fr-Sa 11:00-19:30; Su 10:00-18:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8903401
+Longitude: -87.6228616
+OpenStreetMap URL: https://www.openstreetmap.org/node/11163553579
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Castle Car Wash
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 3801 West Ogden Avenue Chicago IL 60623
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8523211
+Longitude: -87.7200512
+OpenStreetMap URL: https://www.openstreetmap.org/node/11694516370
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bishop's Mausoleum
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8664018
+Longitude: -87.9072191
+OpenStreetMap URL: https://www.openstreetmap.org/node/11717235371
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Al Capone's Gravesite
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8629883
+Longitude: -87.9063664
+OpenStreetMap URL: https://www.openstreetmap.org/node/11717255669
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Odyssey Chicago River
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 450 North Cityfront Plaza Drive Chicago IL 60611
+Description: Not listed
+Website: https://www.cityexperiences.com/chicago/city-cruises/our-fleet/odyssey-chicago-river/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8889774
+Longitude: -87.6216288
+OpenStreetMap URL: https://www.openstreetmap.org/node/11810082267
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Mexican Gray Wolf
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8319346
+Longitude: -87.8391832
+OpenStreetMap URL: https://www.openstreetmap.org/node/12398055057
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Polar Bear
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8323828
+Longitude: -87.8384348
+OpenStreetMap URL: https://www.openstreetmap.org/node/12398055076
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Polar Bear
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8325239
+Longitude: -87.8388486
+OpenStreetMap URL: https://www.openstreetmap.org/node/12398055077
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Grizzly Bear
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.832536
+Longitude: -87.8380465
+OpenStreetMap URL: https://www.openstreetmap.org/node/12398055078
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bison
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8325572
+Longitude: -87.8370783
+OpenStreetMap URL: https://www.openstreetmap.org/node/12398055079
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pelican
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8315806
+Longitude: -87.8369116
+OpenStreetMap URL: https://www.openstreetmap.org/node/12398055140
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Golden Lion Tamarins
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8333322
+Longitude: -87.8400741
+OpenStreetMap URL: https://www.openstreetmap.org/node/12434389370
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Michelle Obama's Childhood Home
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 7436 South Euclid Avenue Chicago IL 60649
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7595916
+Longitude: -87.577683
+OpenStreetMap URL: https://www.openstreetmap.org/node/12472638251
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Leopard Tortoise
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8336186
+Longitude: -87.8377466
+OpenStreetMap URL: https://www.openstreetmap.org/node/12479506880
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pancake Tortoise
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8335635
+Longitude: -87.8377697
+OpenStreetMap URL: https://www.openstreetmap.org/node/12479506881
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Plated Lizard
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8335876
+Longitude: -87.8377427
+OpenStreetMap URL: https://www.openstreetmap.org/node/12479506886
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Dwarf Mongoose
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8335859
+Longitude: -87.8378059
+OpenStreetMap URL: https://www.openstreetmap.org/node/12479506887
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: African Spurred Tortoise
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8337858
+Longitude: -87.837581
+OpenStreetMap URL: https://www.openstreetmap.org/node/12479506900
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Flyover
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 600 East Grand Avenue Chicago IL 60611
+Description: Not listed
+Website: https://experienceflyover.com/
+Phone: +1 888-895-8595
+Email: Not listed
+Opening Hours: Su-Th 11:00-20:00; Fr-Sa 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8919035
+Longitude: -87.6090681
+OpenStreetMap URL: https://www.openstreetmap.org/node/12629162901
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: California Sea Lion
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8339232
+Longitude: -87.8305348
+OpenStreetMap URL: https://www.openstreetmap.org/node/12732045747
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Gray Seal
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8340147
+Longitude: -87.8310825
+OpenStreetMap URL: https://www.openstreetmap.org/node/12732045884
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Spider Money
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8324315
+Longitude: -87.8346773
+OpenStreetMap URL: https://www.openstreetmap.org/node/13285733204
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Orangutan
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8323752
+Longitude: -87.8350733
+OpenStreetMap URL: https://www.openstreetmap.org/node/13285733205
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Western Lowland Gorilla
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8324602
+Longitude: -87.8363966
+OpenStreetMap URL: https://www.openstreetmap.org/node/13285733206
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Western Lowland Gorilla
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8324544
+Longitude: -87.8357295
+OpenStreetMap URL: https://www.openstreetmap.org/node/13285733207
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Western Lowland Gorilla
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8321289
+Longitude: -87.8364293
+OpenStreetMap URL: https://www.openstreetmap.org/node/13285733208
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Navy Pier
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 600 East Grand Avenue Chicago IL 60611
+Description: Not listed
+Website: https://navypier.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8917312
+Longitude: -87.6041467
+OpenStreetMap URL: https://www.openstreetmap.org/way/24800238
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Leaning Tower of Niles
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 6300 West Touhy Avenue Niles IL 60714
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0124193
+Longitude: -87.7840559
+OpenStreetMap URL: https://www.openstreetmap.org/way/24860820
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Byline Bank Aragon Ballroom
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 1106 West Lawrence Avenue Chicago IL 60640
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9694311
+Longitude: -87.6580259
+OpenStreetMap URL: https://www.openstreetmap.org/way/31293839
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Tropic World
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8320777
+Longitude: -87.8353147
+OpenStreetMap URL: https://www.openstreetmap.org/way/31466879
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Doane Observatory
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.adlerplanetarium.org/experience/points/doaneobservatory
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8663733
+Longitude: -87.6059114
+OpenStreetMap URL: https://www.openstreetmap.org/way/91526195
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Novelty Golf & Games
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 3650 West Devon Avenue Lincolnwood IL 60712
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9978508
+Longitude: -87.7206903
+OpenStreetMap URL: https://www.openstreetmap.org/way/109495852
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Japanese Garden
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/japanese-garden
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 41.7863805
+Longitude: -87.58275
+OpenStreetMap URL: https://www.openstreetmap.org/way/125657819
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Frederick C. Robie House
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 5757 South Woodlawn Avenue Chicago IL 60637
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7898086
+Longitude: -87.5959318
+OpenStreetMap URL: https://www.openstreetmap.org/way/125667497
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Columbia Yacht Club
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 111 North Lake Shore Drive Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8839375
+Longitude: -87.6119816
+OpenStreetMap URL: https://www.openstreetmap.org/way/151974782
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Illinois Centennial Monument
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9283908
+Longitude: -87.7073273
+OpenStreetMap URL: https://www.openstreetmap.org/way/163901343
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: GoApe Ropes Course
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 1100 East Ogden Avenue Western Springs IL 60558
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 09:00-17:00
+Wheelchair Accessibility: no
+Latitude: 41.8227507
+Longitude: -87.9056796
+OpenStreetMap URL: https://www.openstreetmap.org/way/191505779
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Biograph Theatre
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 2433 North Lincoln Avenue Chicago IL 60614
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9265205
+Longitude: -87.6498015
+OpenStreetMap URL: https://www.openstreetmap.org/way/210321403
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: AT&T Endangered Species Carousel
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9214927
+Longitude: -87.6323957
+OpenStreetMap URL: https://www.openstreetmap.org/way/210686222
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wooden Alley
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Preserved wooden street from the early 20th century, before the great fire.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9103151
+Longitude: -87.6282477
+OpenStreetMap URL: https://www.openstreetmap.org/way/220301292
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: City Mini Golf
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8821791
+Longitude: -87.619914
+OpenStreetMap URL: https://www.openstreetmap.org/way/318276050
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Carousel
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://navypier.org/location/carousel/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8914188
+Longitude: -87.6078872
+OpenStreetMap URL: https://www.openstreetmap.org/way/427537787
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Buckingham Fountain
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 301 South Columbus Drive Chicago IL 60605
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks/clarence-f-buckingham-memorial-fountain/
+Phone: +1 312 742 3918
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8758019
+Longitude: -87.6189721
+OpenStreetMap URL: https://www.openstreetmap.org/way/561821879
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Centennial Wheel
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8917017
+Longitude: -87.607475
+OpenStreetMap URL: https://www.openstreetmap.org/way/686996484
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wave Swinger
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://navypier.org/location/wave-swinger/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8916962
+Longitude: -87.6078904
+OpenStreetMap URL: https://www.openstreetmap.org/way/741288434
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pier Park Mini-Golf
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://navypier.org/location/pier-park-mini-golf/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8916833
+Longitude: -87.6080807
+OpenStreetMap URL: https://www.openstreetmap.org/way/752899871
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Light Tower
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://navypier.org/location/light-tower/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8919789
+Longitude: -87.6078558
+OpenStreetMap URL: https://www.openstreetmap.org/way/752901101
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Japanese Macaque
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9222331
+Longitude: -87.6343438
+OpenStreetMap URL: https://www.openstreetmap.org/way/758246155
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Seal
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9215049
+Longitude: -87.6343962
+OpenStreetMap URL: https://www.openstreetmap.org/way/758343800
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: African Penguin
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9232246
+Longitude: -87.6334023
+OpenStreetMap URL: https://www.openstreetmap.org/way/758363115
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Giraffe, Plains Zebra
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9234417
+Longitude: -87.6338645
+OpenStreetMap URL: https://www.openstreetmap.org/way/758363116
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Polar Bears
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9239559
+Longitude: -87.6335974
+OpenStreetMap URL: https://www.openstreetmap.org/way/758363132
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Eastern Black Rhinoceros
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9237225
+Longitude: -87.6343738
+OpenStreetMap URL: https://www.openstreetmap.org/way/758464547
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Baby Eastern Black Rhinoceros
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9230321
+Longitude: -87.6343074
+OpenStreetMap URL: https://www.openstreetmap.org/way/758464550
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red River Hog
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9226891
+Longitude: -87.6337633
+OpenStreetMap URL: https://www.openstreetmap.org/way/758464551
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: African Painted Dog
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9224842
+Longitude: -87.6339268
+OpenStreetMap URL: https://www.openstreetmap.org/way/758464552
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Western Lowland Gorilla
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.920249
+Longitude: -87.6324234
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759779
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chimpanzee
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9199731
+Longitude: -87.6321681
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759780
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Grevy's Zebra
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9196084
+Longitude: -87.6324104
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759782
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chacoan Peccary
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9189646
+Longitude: -87.6320664
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759785
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bactrian Camel
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9187472
+Longitude: -87.6323183
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759786
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red Kangaroo
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9188071
+Longitude: -87.6325602
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759787
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Patagonian Cavy
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9190307
+Longitude: -87.632587
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759788
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ostrich
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9191951
+Longitude: -87.6327148
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759789
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Muscovy Duck
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9194202
+Longitude: -87.6328167
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759790
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Père David's Deer
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9196467
+Longitude: -87.6330263
+OpenStreetMap URL: https://www.openstreetmap.org/way/759759796
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Trumpeter Swan
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9208034
+Longitude: -87.6338593
+OpenStreetMap URL: https://www.openstreetmap.org/way/759762319
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chilean Flamingo
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9201301
+Longitude: -87.6336391
+OpenStreetMap URL: https://www.openstreetmap.org/way/759767368
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: River Otter
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9213285
+Longitude: -87.634963
+OpenStreetMap URL: https://www.openstreetmap.org/way/760586268
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: American Beaver
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9209022
+Longitude: -87.6350031
+OpenStreetMap URL: https://www.openstreetmap.org/way/760586273
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red Wolf
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9213824
+Longitude: -87.6352652
+OpenStreetMap URL: https://www.openstreetmap.org/way/760586277
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Black Bear
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9206455
+Longitude: -87.6351602
+OpenStreetMap URL: https://www.openstreetmap.org/way/760586281
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Rabbit
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9175218
+Longitude: -87.6339704
+OpenStreetMap URL: https://www.openstreetmap.org/way/760594101
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicken
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9172444
+Longitude: -87.6339636
+OpenStreetMap URL: https://www.openstreetmap.org/way/760594102
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pony
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9167617
+Longitude: -87.6332505
+OpenStreetMap URL: https://www.openstreetmap.org/way/760594107
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pig
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9171894
+Longitude: -87.6332596
+OpenStreetMap URL: https://www.openstreetmap.org/way/760594108
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cow
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9175678
+Longitude: -87.6334071
+OpenStreetMap URL: https://www.openstreetmap.org/way/760594109
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Goat
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9176703
+Longitude: -87.6338134
+OpenStreetMap URL: https://www.openstreetmap.org/way/760594110
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Diana Monkey
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9228315
+Longitude: -87.6339071
+OpenStreetMap URL: https://www.openstreetmap.org/way/761732456
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Meerkat
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9233825
+Longitude: -87.6341888
+OpenStreetMap URL: https://www.openstreetmap.org/way/761732463
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aardvark
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9234314
+Longitude: -87.6341953
+OpenStreetMap URL: https://www.openstreetmap.org/way/761732464
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Paris Metro Entryway (Metra)
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.8769791
+Longitude: -87.6239462
+OpenStreetMap URL: https://www.openstreetmap.org/way/765779257
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Drop Tower
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://navypier.org/location/drop-tower/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8918644
+Longitude: -87.6078707
+OpenStreetMap URL: https://www.openstreetmap.org/way/1188467601
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Tea Cups
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://navypier.org/location/tea-cups/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8915731
+Longitude: -87.6078265
+OpenStreetMap URL: https://www.openstreetmap.org/way/1188467603
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Butterfly House
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 600 East Grand Avenue Chicago IL 60611
+Description: Not listed
+Website: https://butterflyhousechicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.892395
+Longitude: -87.6106469
+OpenStreetMap URL: https://www.openstreetmap.org/way/1308482808
+Data Source: OpenStreetMap contributors

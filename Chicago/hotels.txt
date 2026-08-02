@@ -1,0 +1,4700 @@
+City: Chicago
+Category: hotels
+Data Source: OpenStreetMap contributors
+Number of named places: 261
+
+Name: City Suites Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 933 West Belmont Avenue Chicago IL 60657
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9397689
+Longitude: -87.6528805
+OpenStreetMap URL: https://www.openstreetmap.org/node/424212348
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Majestic Inn
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9475222
+Longitude: -87.644236
+OpenStreetMap URL: https://www.openstreetmap.org/node/903250106
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Club Quarters Central Loop Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 111 West Adams Street Chicago IL 60603
+Description: Not listed
+Website: https://www.centralloophotel.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8793184
+Longitude: -87.631192
+OpenStreetMap URL: https://www.openstreetmap.org/node/1618326381
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Ritz-Carlton Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 160 East Pearson Street Chicago IL 60611
+Description: Not listed
+Website: https://www.ritzcarlton.com/en/hotels/chicago
+Phone: +1-312-266-1000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8978228
+Longitude: -87.6222827
+OpenStreetMap URL: https://www.openstreetmap.org/node/1665788092
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Royal Sonesta Chicago River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 505 North State Street Chicago IL 60654
+Description: Not listed
+Website: https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/
+Phone: +1-312-755-9703
+Email: FrontDesk_RSRiverNorth@sonesta.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8911493
+Longitude: -87.6278016
+OpenStreetMap URL: https://www.openstreetmap.org/node/1666768375
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Chicago Mart Plaza
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 350 West Wolf Point Plaza Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8881356
+Longitude: -87.6378473
+OpenStreetMap URL: https://www.openstreetmap.org/node/2219227941
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Courtyard Chicago Downtown/River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 30 East Hubbard Street Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/
+Phone: +1 312-329-2500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8902477
+Longitude: -87.62768
+OpenStreetMap URL: https://www.openstreetmap.org/node/2721192348
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Langham, Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 330 North Wabash Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8884239
+Longitude: -87.6275117
+OpenStreetMap URL: https://www.openstreetmap.org/node/3572698797
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Baumhart Lodging at Loyola University Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.897688
+Longitude: -87.6271039
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132511974
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: State and Grand by BridgeStreet
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 505 North State Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8910054
+Longitude: -87.6277533
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132511975
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Residence Inn Chicago Downtown/River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 410 North Dearborn Street Chicago IL 60654
+Description: Not listed
+Website: https://www.marriott.com/chirn
+Phone: +1 312-494-9301
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8895221
+Longitude: -87.6298273
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132824777
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SpringHill Suites Chicago Downtown/River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 410 North Dearborn Street Chicago IL 60654
+Description: Not listed
+Website: https://www.marriott.com/chinr
+Phone: +1 312-644-4071
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8896644
+Longitude: -87.6298061
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132824778
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Place Chicago / River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 66 West Illinois Street Chicago IL 60654
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-river-north/chizd
+Phone: +1 312-755-1600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8911872
+Longitude: -87.6309174
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132824779
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aloft Chicago City Center
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 515 North Clark Street Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8914658
+Longitude: -87.6308226
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132824780
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Grand Plaza
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 540 North State Street Chicago IL 60654
+Description: Not listed
+Website: https://www.grandplazapenthouse.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8919091
+Longitude: -87.6284859
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132824781
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Manilow Suites at The Grand Plaza
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 545 North Dearborn Street Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8920935
+Longitude: -87.6292964
+OpenStreetMap URL: https://www.openstreetmap.org/node/4132824782
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The River Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 75 East Wacker Drive Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8876583
+Longitude: -87.6255595
+OpenStreetMap URL: https://www.openstreetmap.org/node/4222455289
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Buckingham Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 425 South Financial Place Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8758396
+Longitude: -87.6326786
+OpenStreetMap URL: https://www.openstreetmap.org/node/4588287676
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel EMC2
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 228 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8935645
+Longitude: -87.6216316
+OpenStreetMap URL: https://www.openstreetmap.org/node/4850707744
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn Chicago West Loop Fulton Market Area
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 116 North Jefferson Street Chicago IL 60661
+Description: Not listed
+Website: https://hamptoninn3.hilton.com/en/hotels/illinois/hampton-inn-chicago-downtown-west-loop-CHIWXHX/index.html
+Phone: +1 312-648-0000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8836291
+Longitude: -87.643003
+OpenStreetMap URL: https://www.openstreetmap.org/node/5616052668
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Carlton Inn Midway
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4944 South Archer Avenue Chicago IL 60632
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8039189
+Longitude: -87.7220744
+OpenStreetMap URL: https://www.openstreetmap.org/node/6127045258
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: East of the Ryan
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 914 East 79th Street Chicago IL 60619
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7515236
+Longitude: -87.602044
+OpenStreetMap URL: https://www.openstreetmap.org/node/6154659397
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Park Hyatt Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 800 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/illinois/park-hyatt-chicago/chiph
+Phone: +1 312-335-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8972351
+Longitude: -87.6252667
+OpenStreetMap URL: https://www.openstreetmap.org/node/7874601393
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn & Suites Chicago Downtown/Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 160 East Huron Street Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chidmhx-hampton-chicago-downtown-magnificent-mile/
+Phone: +1 312-706-0888
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8952518
+Longitude: -87.6229806
+OpenStreetMap URL: https://www.openstreetmap.org/node/7874601398
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Homewood Suites by Hilton Chicago Downtown/Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 152 East Huron Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8952458
+Longitude: -87.6233239
+OpenStreetMap URL: https://www.openstreetmap.org/node/7874601399
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Homewood Suites West Loop Fulton Market Area
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 118 North Jefferson Street Chicago IL 60661
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chiwwhw-homewood-suites-chicago-west-loop-fulton-market-area/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8837678
+Longitude: -87.6430103
+OpenStreetMap URL: https://www.openstreetmap.org/node/9025067829
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Canopy by Hilton Chicago Central Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 226 West Jackson Boulevard Chicago IL 60606
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8784445
+Longitude: -87.6350632
+OpenStreetMap URL: https://www.openstreetmap.org/node/9025081822
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Homewood Suites by Hilton - Chicago Downtown South Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 55 East 11th Street Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8691791
+Longitude: -87.6253081
+OpenStreetMap URL: https://www.openstreetmap.org/node/9025558070
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Garden Inn Chicago Downtown South Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 55 East 11th Street Chicago IL 60605
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chidlgi-hilton-garden-inn-chicago-downtown-south-loop/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8691754
+Longitude: -87.6255333
+OpenStreetMap URL: https://www.openstreetmap.org/node/9033428106
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Gwen
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 521 North Rush Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8912803
+Longitude: -87.6251877
+OpenStreetMap URL: https://www.openstreetmap.org/node/9419709851
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The LaSalle Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 208 South LaSalle Street Chicago IL 60604
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chiad-the-lasalle-chicago-autograph-collection/overview/
+Phone: +1 312-634-0000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8790843
+Longitude: -87.6324884
+OpenStreetMap URL: https://www.openstreetmap.org/node/10659917515
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: JW Marriott Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 151 West Adams Street Chicago IL 60603
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.879266
+Longitude: -87.6330277
+OpenStreetMap URL: https://www.openstreetmap.org/node/10659917516
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ewing Annex Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 426 South Clark Street Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8762632
+Longitude: -87.6309095
+OpenStreetMap URL: https://www.openstreetmap.org/node/11782507605
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sonder Greektown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 314 South Halsted Street Chicago IL 60661
+Description: Not listed
+Website: https://www.sonder.com/destinations/chicago/CHI-S-HALS314/c31439
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.877401
+Longitude: -87.6475113
+OpenStreetMap URL: https://www.openstreetmap.org/node/11949220390
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cambria Hotel Chicago Loop - Theatre District
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 32 West Randolph Street Chicago IL 60601
+Description: Not listed
+Website: https://www.cambriachicagoloop.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8846408
+Longitude: -87.629045
+OpenStreetMap URL: https://www.openstreetmap.org/node/12332594211
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: DoubleTree Hotel Chicago - Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 300 East Ohio Street Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chimmdt-doubletree-chicago-magnificent-mile/
+Phone: +1 312-787-6100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8928119
+Longitude: -87.6199576
+OpenStreetMap URL: https://www.openstreetmap.org/node/12563653531
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Grand Vacations Club Chicago Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 300 East Ohio Street Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chigvgv-hilton-grand-vacations-club-chicago-magnificent-mile/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8928126
+Longitude: -87.6198122
+OpenStreetMap URL: https://www.openstreetmap.org/node/12563653532
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Publishing House Bed & Breakfast
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 108 North May Street Chicago IL 60607
+Description: Not listed
+Website: https://www.publishinghousebnb.com/
+Phone: +1 312-554-5857
+Email: info@publishinghousebnb.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8831559
+Longitude: -87.6557867
+OpenStreetMap URL: https://www.openstreetmap.org/node/12776738450
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Hotel At Midtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2444 North Elston Avenue Chicago IL 60647
+Description: Not listed
+Website: https://www.midtownhotelchicago.com/
+Phone: +1 773 687 7600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9257643
+Longitude: -87.679569
+OpenStreetMap URL: https://www.openstreetmap.org/node/13274989504
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SpringHill Suites Lincolnwood
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 7260 North Lincoln Avenue Lincolnwood IL 60712
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chilh-springhill-suites-lincolnwood/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0130103
+Longitude: -87.7421697
+OpenStreetMap URL: https://www.openstreetmap.org/node/13902697774
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Residence Inn Lincolnwood
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 7260 North Lincoln Avenue Lincolnwood IL 60712
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chilr-residence-inn-lincolnwood/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0131427
+Longitude: -87.7419727
+OpenStreetMap URL: https://www.openstreetmap.org/node/13902697775
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn & Suites Chicago North Shore (Skokie)
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5300 West Touhy Avenue Skokie IL 60077
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0127118
+Longitude: -87.7603852
+OpenStreetMap URL: https://www.openstreetmap.org/way/24861094
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Travelodge Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 65 East Harrison Street Chicago IL 60605
+Description: Not listed
+Website: https://www.wyndhamhotels.com/travelodge/chicago-illinois/travelodge-hotel-downtown-chicago/overview
+Phone: +1 312-574-3335
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8742437
+Longitude: -87.6255038
+OpenStreetMap URL: https://www.openstreetmap.org/way/25885878
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sonesta Chicago O'Hare Airport Rosemont
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 10233 West Higgins Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.sonesta.com/sonesta-hotels-resorts/il/rosemont/sonesta-chicago-ohare-airport-rosemont/
+Phone: +1-847-954-8600
+Email: reservations@sonesta.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9970104
+Longitude: -87.8821532
+OpenStreetMap URL: https://www.openstreetmap.org/way/42288340
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wyndham Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1450 East Touhy Avenue Des Plaines IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0103447
+Longitude: -87.8873494
+OpenStreetMap URL: https://www.openstreetmap.org/way/42292297
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Westin O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6100 North River Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chiwa-the-westin-ohare/overview/
+Phone: +1 847 698 6000
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 41.9888671
+Longitude: -87.8613537
+OpenStreetMap URL: https://www.openstreetmap.org/way/42304882
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Trump International Hotel & Tower Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 401 North Wabash Avenue Chicago IL 60611
+Description: The Trump International Hotel and Tower, also known as Trump Tower Chicago and Trump Tower, is a skyscraper condo-hotel in downtown Chicago, Illinois.
+Website: https://www.trumphotels.com/chicago
+Phone: +1-312-588-8000
+Email: TCH_Inquiries@trumphotels.com
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 41.8888728
+Longitude: -87.6264574
+OpenStreetMap URL: https://www.openstreetmap.org/way/64594680
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SpringHill Suites Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 8101 West Higgins Road Chicago IL 60631
+Description: Not listed
+Website: https://www.marriott.com/chico
+Phone: +1 773-867-0000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9851434
+Longitude: -87.8298683
+OpenStreetMap URL: https://www.openstreetmap.org/way/65581377
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sonder Plymouth
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 417 South Dearborn Street Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8763387
+Longitude: -87.6289862
+OpenStreetMap URL: https://www.openstreetmap.org/way/73651473
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Standard Club
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 320 South Plymouth Court Chicago IL 60604
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8776806
+Longitude: -87.6290179
+OpenStreetMap URL: https://www.openstreetmap.org/way/73685403
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Union League Club
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 65 West Jackson Boulevard Chicago IL 60604
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8778711
+Longitude: -87.6300227
+OpenStreetMap URL: https://www.openstreetmap.org/way/73717433
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Garden Inn Chicago Central Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 226 West Jackson Boulevard Chicago IL 60606
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chiwjgi-hilton-garden-inn-chicago-central-loop/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.878431
+Longitude: -87.6348909
+OpenStreetMap URL: https://www.openstreetmap.org/way/73751803
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: THE MIDLAND HOTEL, Chicago, a Tribute Portfolio Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 172 West Adams Street Chicago IL 60603
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chibw-the-midland-hotel-chicago-a-tribute-portfolio-hotel/overview/
+Phone: +1 312 332 1200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8797527
+Longitude: -87.633144
+OpenStreetMap URL: https://www.openstreetmap.org/way/74451017
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Quality Inn O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3801 North Mannheim Road Schiller Park IL 60176
+Description: Not listed
+Website: http://www.qualityinn.com/hotel-schiller_park-illinois-IL228
+Phone: +1-847-678-0670
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9476048
+Longitude: -87.8848742
+OpenStreetMap URL: https://www.openstreetmap.org/way/83317772
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Quality Inn O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3801 North Mannheim Road Schiller Park IL 60176
+Description: Not listed
+Website: http://www.qualityinn.com/hotel-schiller_park-illinois-IL228
+Phone: +1-847-678-0670
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9468265
+Longitude: -87.8849458
+OpenStreetMap URL: https://www.openstreetmap.org/way/83324159
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western Plus Chicago O'Hare South
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3001 North Mannheim Road Franklin Park IL 60131
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-franklin-park/best-western-plus-o-hare-international-south-hotel/propertyCode.14204.html
+Phone: +1 847-233-9292
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.933206
+Longitude: -87.8843816
+OpenStreetMap URL: https://www.openstreetmap.org/way/85382982
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Swissotel Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 323 East Wacker Drive Chicago IL 60601
+Description: Not listed
+Website: https://www.swissotel.com/hotels/chicago/
+Phone: +1-312-565-0565
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.887361
+Longitude: -87.619528
+OpenStreetMap URL: https://www.openstreetmap.org/way/95486966
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 10300 West Higgins Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-rosemont/best-western-at-o-hare/propertyCode.14092.html
+Phone: +1 847-296-4471
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9991739
+Longitude: -87.8860768
+OpenStreetMap URL: https://www.openstreetmap.org/way/114689741
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Place Chicago/O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6810 Mannheim Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-ohare-airport/chizo
+Phone: +1 224-563-1800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0025597
+Longitude: -87.8855038
+OpenStreetMap URL: https://www.openstreetmap.org/way/115541493
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Staypineapple, An Iconic Hotel, The Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1 West Washington Street Chicago IL 60602
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8830423
+Longitude: -87.6282334
+OpenStreetMap URL: https://www.openstreetmap.org/way/124865461
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: University Club of Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 76 East Monroe Street Chicago IL 60603
+Description: Not listed
+Website: https://www.ucco.com/
+Phone: +1 312 726 2840
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8810047
+Longitude: -87.6249694
+OpenStreetMap URL: https://www.openstreetmap.org/way/126982632
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Drake Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 140 East Walton Place Chicago IL 60611
+Description: Not listed
+Website: https://www.thedrakehotel.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9004212
+Longitude: -87.6234189
+OpenStreetMap URL: https://www.openstreetmap.org/way/143773461
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Whitehall Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 105 East Delaware Place Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8989615
+Longitude: -87.6257368
+OpenStreetMap URL: https://www.openstreetmap.org/way/144015975
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Selina Hotel Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 100 East Chestnut Street Chicago IL 60611
+Description: Not listed
+Website: https://www.selina.com/usa/chicago/
+Phone: +1 312-900-7144
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8985756
+Longitude: -87.625615
+OpenStreetMap URL: https://www.openstreetmap.org/way/144015980
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sofitel Chicago Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 20 East Chestnut Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8986829
+Longitude: -87.6273173
+OpenStreetMap URL: https://www.openstreetmap.org/way/144016002
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Chicago/Magnificent Mile Suites
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 198 East Delaware Place Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/ordmdhf-hilton-chicago-magnificent-mile-suites/
+Phone: +1-312-664-1100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8996519
+Longitude: -87.6221728
+OpenStreetMap URL: https://www.openstreetmap.org/way/144018856
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Millennium Knickerbocker Hotel Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 163 East Walton Place Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8997895
+Longitude: -87.6227267
+OpenStreetMap URL: https://www.openstreetmap.org/way/144018863
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Walton Residence
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 100 East Walton Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9002351
+Longitude: -87.6251874
+OpenStreetMap URL: https://www.openstreetmap.org/way/144020993
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Talbott Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 20 East Delaware Place Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chidk-the-talbott-autograph-collection/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8993943
+Longitude: -87.6274838
+OpenStreetMap URL: https://www.openstreetmap.org/way/144124765
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Raffaello Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 201 East Delaware Place Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8990046
+Longitude: -87.6216043
+OpenStreetMap URL: https://www.openstreetmap.org/way/144151965
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sonesta ES Chicago Downtown Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 201 East Walton Place Chicago IL 60611
+Description: Not listed
+Website: https://www.sonesta.com/sonesta-es-suites
+Phone: +1-312-943-9800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8998014
+Longitude: -87.6213915
+OpenStreetMap URL: https://www.openstreetmap.org/way/144151976
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fairmont Hotel Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 200 North Columbus Drive Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.886094
+Longitude: -87.6211527
+OpenStreetMap URL: https://www.openstreetmap.org/way/144697853
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Renaissance Chicago Downtown Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1 West Wacker Drive Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.886296
+Longitude: -87.6284886
+OpenStreetMap URL: https://www.openstreetmap.org/way/144846552
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Wit Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 201 North State Street Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.886061
+Longitude: -87.6276222
+OpenStreetMap URL: https://www.openstreetmap.org/way/144846553
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Congress Plaza Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 520 South Michigan Avenue Chicago IL 60605
+Description: Not listed
+Website: https://www.congressplazahotel.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8750746
+Longitude: -87.6248357
+OpenStreetMap URL: https://www.openstreetmap.org/way/147077307
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Blackstone, Autograph Collection
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 636 South Michigan Avenue Chicago IL 60605
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chiab-the-blackstone-autograph-collection/overview/
+Phone: +1-312-447-0955
+Email: info@theblackstonehotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8733574
+Longitude: -87.6247909
+OpenStreetMap URL: https://www.openstreetmap.org/way/147077312
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: La Quinta Inn & Suites by Wyndham Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1 South Franklin Street Chicago IL 60606
+Description: Not listed
+Website: https://www.wyndhamhotels.com/laquinta/chicago-illinois/la-quinta-chicago-downtown/overview
+Phone: +1 312-558-1020
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8815738
+Longitude: -87.6349916
+OpenStreetMap URL: https://www.openstreetmap.org/way/147095673
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Residence Inn Chicago Downtown/Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 11 South LaSalle Street Chicago IL 60603
+Description: Not listed
+Website: https://www.marriott.com/chirl
+Phone: +1 312-223-8500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8816856
+Longitude: -87.6319511
+OpenStreetMap URL: https://www.openstreetmap.org/way/147096407
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western Grant Park Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1100 South Michigan Avenue Chicago IL 60605
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-grant-park-hotel/propertyCode.14120.html
+Phone: +1 312-922-2900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8691033
+Longitude: -87.6246903
+OpenStreetMap URL: https://www.openstreetmap.org/way/147217807
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Virgin Hotels Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 203 North Wabash Avenue Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.886064
+Longitude: -87.6260286
+OpenStreetMap URL: https://www.openstreetmap.org/way/147397545
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Place Chicago/Downtown - The Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 29 North Franklin Street Chicago IL 60606
+Description: Not listed
+Website: https://www.hyatt.com/hyatt-place/en-us/chizp-hyatt-place-chicago-downtown-the-loop
+Phone: +1 312-955-0950
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8827297
+Longitude: -87.6356562
+OpenStreetMap URL: https://www.openstreetmap.org/way/147397556
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Royal Sonesta Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 71 East Wacker Drive Chicago IL 60601
+Description: Not listed
+Website: https://www.sonesta.com/us/illinois/chicago/royal-sonesta-chicago-downtown
+Phone: +1-312-346-7100
+Email: reservations@sonesta.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8873859
+Longitude: -87.6256742
+OpenStreetMap URL: https://www.openstreetmap.org/way/147399561
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Club Quarters Hotel, Wacker at Michigan
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 75 East Wacker Drive Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8876164
+Longitude: -87.6254422
+OpenStreetMap URL: https://www.openstreetmap.org/way/147399564
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn Chicago Downtown/North Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 68 East Wacker Place Chicago IL 60601
+Description: Not listed
+Website: https://secure3.hilton.com/en_US/hp/reservation/book.htm?execution=e1s1
+Phone: +1 312-419-9014
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.887046
+Longitude: -87.6254458
+OpenStreetMap URL: https://www.openstreetmap.org/way/147399570
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicago Athletic Association Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 12 South Michigan Avenue Chicago IL 60603
+Description: Not listed
+Website: https://www.chicagoathletichotel.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8816698
+Longitude: -87.6249806
+OpenStreetMap URL: https://www.openstreetmap.org/way/147476152
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Centric The Loop Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 100 West Monroe Street Chicago IL 60603
+Description: Not listed
+Website: https://theloopchicago.centric.hyatt.com/en/hotel/home.html
+Phone: +1 312-236-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8809109
+Longitude: -87.6311717
+OpenStreetMap URL: https://www.openstreetmap.org/way/147486325
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Kimpton Gray Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 39 South LaSalle Street Chicago IL 60603
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.88089
+Longitude: -87.6317631
+OpenStreetMap URL: https://www.openstreetmap.org/way/147486327
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Palmer House Hilton
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 17 East Monroe Street Chicago IL 60603
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.880335
+Longitude: -87.6269524
+OpenStreetMap URL: https://www.openstreetmap.org/way/147489619
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Silversmith Hotel Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 10 South Wabash Avenue Chicago IL 60603
+Description: Not listed
+Website: https://www.silversmithchicagohotel.com/
+Phone: +1-312-372-7696
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8816518
+Longitude: -87.6266547
+OpenStreetMap URL: https://www.openstreetmap.org/way/148164105
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wyndham Blake Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 500 South Dearborn Street Chicago IL 60605
+Description: Not listed
+Website: https://www.hotelblake.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.875174
+Longitude: -87.6294962
+OpenStreetMap URL: https://www.openstreetmap.org/way/148517224
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Pendry Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 230 North Michigan Avenue Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8865264
+Longitude: -87.6250081
+OpenStreetMap URL: https://www.openstreetmap.org/way/148544831
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Monaco
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 225 North Wabash Avenue Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8865322
+Longitude: -87.6260077
+OpenStreetMap URL: https://www.openstreetmap.org/way/148544835
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Westin Michigan Avenue Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 909 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8994878
+Longitude: -87.6232349
+OpenStreetMap URL: https://www.openstreetmap.org/way/148554645
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: DeWitt Place
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 900 North Dewitt Place Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8995024
+Longitude: -87.6204024
+OpenStreetMap URL: https://www.openstreetmap.org/way/148554646
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Crowne Plaza Chicago West Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 25 South Halsted Street Chicago IL 60661
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8808004
+Longitude: -87.6468508
+OpenStreetMap URL: https://www.openstreetmap.org/way/148910676
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Chicago-Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 506 West Harrison Street Chicago IL 60607
+Description: Not listed
+Website: Not listed
+Phone: +1 312 324-7400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8748726
+Longitude: -87.6399593
+OpenStreetMap URL: https://www.openstreetmap.org/way/149730616
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Le Méridien Essex
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 800 South Michigan Avenue Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8717019
+Longitude: -87.6247521
+OpenStreetMap URL: https://www.openstreetmap.org/way/150184506
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Wade
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 644 North Lake Shore Drive Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chibh-the-wade/overview/
+Phone: +1 312 943 9200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8938634
+Longitude: -87.6155916
+OpenStreetMap URL: https://www.openstreetmap.org/way/151989535
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fairfield Inn & Suites Chicago Downtown/River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 510 North Dearborn Street Chicago IL 60654
+Description: Not listed
+Website: https://www.marriott.com/chift
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8911139
+Longitude: -87.6299853
+OpenStreetMap URL: https://www.openstreetmap.org/way/153291616
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Kinzie Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 401 North Dearborn Street Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8894889
+Longitude: -87.6289094
+OpenStreetMap URL: https://www.openstreetmap.org/way/153291624
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn & Suites Chicago - Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 33 West Illinois Street Chicago IL 60654
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chihshx-hampton-suites-chicago-downtown/
+Phone: +1 312-832-0330
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8906192
+Longitude: -87.6291976
+OpenStreetMap URL: https://www.openstreetmap.org/way/153291636
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Westin Chicago River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 320 North Dearborn Street Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8881686
+Longitude: -87.6300447
+OpenStreetMap URL: https://www.openstreetmap.org/way/153320979
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: InterContinental Chicago Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 505 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: https://www.ihg.com/intercontinental/hotels/us/en/chicago/ordha/hoteldetail
+Phone: +1-312-9444100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8913494
+Longitude: -87.6235459
+OpenStreetMap URL: https://www.openstreetmap.org/way/153735900
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Peninsula Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 108 East Superior Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8962125
+Longitude: -87.6249761
+OpenStreetMap URL: https://www.openstreetmap.org/way/153966966
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Four Seasons Hotel Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 120 East Delaware Place Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.899605
+Longitude: -87.6250371
+OpenStreetMap URL: https://www.openstreetmap.org/way/153966972
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Waldorf Astoria Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 11 East Walton Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8996921
+Longitude: -87.6276158
+OpenStreetMap URL: https://www.openstreetmap.org/way/153966977
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Embassy Suites by Hilton Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 600 North State Street Chicago IL 60654
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chidwes-embassy-suites-chicago-downtown-river-north/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8928719
+Longitude: -87.6285763
+OpenStreetMap URL: https://www.openstreetmap.org/way/158621265
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel 55 Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 55 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chidb-hotel-55-chicago-downtown/overview/
+Phone: +1-312-660-6100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8930577
+Longitude: -87.6257935
+OpenStreetMap URL: https://www.openstreetmap.org/way/158621282
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Audrey
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 166 East Superior Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8960215
+Longitude: -87.6227944
+OpenStreetMap URL: https://www.openstreetmap.org/way/159798680
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Warwick Allerton Hotel Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 701 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: https://www.warwickhotels.com/allerton-hotel-chicago
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8952049
+Longitude: -87.6237617
+OpenStreetMap URL: https://www.openstreetmap.org/way/159959828
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Garden Inn Chicago/Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6530 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://hiltongardeninn3.hilton.com/en/hotels/illinois/hilton-garden-inn-chicago-midway-airport-MDWAHGI/index.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7741491
+Longitude: -87.7464193
+OpenStreetMap URL: https://www.openstreetmap.org/way/160085342
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Marriott Chicago Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6520 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chima-chicago-marriott-midway/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7739522
+Longitude: -87.7446781
+OpenStreetMap URL: https://www.openstreetmap.org/way/160085343
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn & Suites Chicago Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6540 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://hamptoninn3.hilton.com/en/hotels/illinois/hampton-inn-chicago-midway-airport-CHIMWHX/index.html
+Phone: +1 708-496-1900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7737914
+Longitude: -87.7428322
+OpenStreetMap URL: https://www.openstreetmap.org/way/160088085
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fairfield Inn & Suites Chicago Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6630 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chimd-fairfield-inn-and-suites-chicago-midway-airport/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7723001
+Longitude: -87.7436903
+OpenStreetMap URL: https://www.openstreetmap.org/way/160088088
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Express Chicago Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6500 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://www.ihg.com/holidayinnexpress/hotels/us/en/chicago/chimw/hoteldetail
+Phone: +1 708-458-0202
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.774383
+Longitude: -87.7430489
+OpenStreetMap URL: https://www.openstreetmap.org/way/160088093
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sleep Inn Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6650 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://www.choicehotels.com/illinois/bedford-park/sleep-inn-hotels/il103?source=gglocalai
+Phone: +1 708-594-0001
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.771709
+Longitude: -87.742723
+OpenStreetMap URL: https://www.openstreetmap.org/way/160089848
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn LXG Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 7353 South Cicero Avenue Chicago IL 60629
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7588361
+Longitude: -87.741023
+OpenStreetMap URL: https://www.openstreetmap.org/way/162238953
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Chicago O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: O'Hare Drive Chicago IL 60666
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9774257
+Longitude: -87.9042051
+OpenStreetMap URL: https://www.openstreetmap.org/way/163500121
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fullerton Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3919-3921 West Fullerton Avenue Chicago IL 60647
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9241951
+Longitude: -87.7251178
+OpenStreetMap URL: https://www.openstreetmap.org/way/163887177
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Embassy Suites by Hilton Chicago Downtown Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 511 North Columbus Drive Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chirees-embassy-suites-chicago-downtown-magnificent-mile/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8914142
+Longitude: -87.6196657
+OpenStreetMap URL: https://www.openstreetmap.org/way/173328328
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sheraton Grand Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 301 East North Water Street Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chigs-sheraton-grand-chicago-riverwalk/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8891529
+Longitude: -87.6194818
+OpenStreetMap URL: https://www.openstreetmap.org/way/188171430
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Lincoln
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1816 North Clark Street Chicago IL 60614
+Description: Not listed
+Website: https://www.hyatt.com/en-US/hotel/illinois/jdv-hotel-lincoln/chijl
+Phone: +1-312-254-4700
+Email: reservations@hotellincolnchicago.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9152948
+Longitude: -87.6345027
+OpenStreetMap URL: https://www.openstreetmap.org/way/199901579
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Renaissance Chicago O'Hare Suites
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 8500 West Bryn Mawr Avenue Chicago IL 60631
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9831883
+Longitude: -87.840879
+OpenStreetMap URL: https://www.openstreetmap.org/way/207004962
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Chicago O'Hare Area
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5615 North Cumberland Avenue Chicago IL 60631
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9818504
+Longitude: -87.8356498
+OpenStreetMap URL: https://www.openstreetmap.org/way/207264684
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Neighborhood Hotel - Little Italy
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1431 West Taylor Street Chicago IL 60607
+Description: Not listed
+Website: https://www.theneighborhoodhotel.com/location/little-italy-chicago/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.869083
+Longitude: -87.6628102
+OpenStreetMap URL: https://www.openstreetmap.org/way/209809926
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Courtyard by Marriott Chicago at Medical District / UIC
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 625 South Ashland Avenue Chicago IL 60607
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chiym-courtyard-chicago-at-medical-district-uic/overview/
+Phone: +1 312-491-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8737639
+Longitude: -87.6659266
+OpenStreetMap URL: https://www.openstreetmap.org/way/209810799
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt House Chicago - Medical / University District
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1835 West Harrison Street Chicago IL 60612
+Description: Not listed
+Website: https://www.hyatt.com/en-US/hotel/illinois/hyatt-house-chicago-medical-university-district/chixt?src=prop_sm_chixt_hphh_facebk_landingpage_booknow
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8738501
+Longitude: -87.6719868
+OpenStreetMap URL: https://www.openstreetmap.org/way/209825217
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Chicago West Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1622 West Jackson Boulevard Chicago IL 60612
+Description: Not listed
+Website: https://www.hotelchicagowestloop.com/
+Phone: +1-312-243-2900
+Email: reservations@hotelchicago1622.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.877951
+Longitude: -87.6677856
+OpenStreetMap URL: https://www.openstreetmap.org/way/209828881
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Willows
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 555 West Surf Street Chicago IL 60657
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9338651
+Longitude: -87.6435666
+OpenStreetMap URL: https://www.openstreetmap.org/way/210326636
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Versey
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 644 West Diversey Parkway Chicago IL 60614
+Description: Not listed
+Website: https://www.hotelversey.com/
+Phone: +1-773-525-7010
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9330558
+Longitude: -87.6454928
+OpenStreetMap URL: https://www.openstreetmap.org/way/210326714
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western Plus Hawthorne Terrace
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3434 North Broadway Chicago IL 60657
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-plus-hawthorne-terrace-hotel/propertyCode.14151.html
+Phone: +1 773-244-3434
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9441296
+Longitude: -87.6459657
+OpenStreetMap URL: https://www.openstreetmap.org/way/210329540
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aragon Arms Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4917-4919 North Kenmore Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9721345
+Longitude: -87.6559079
+OpenStreetMap URL: https://www.openstreetmap.org/way/210382364
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Northmere Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4943 North Kenmore Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9728466
+Longitude: -87.6559261
+OpenStreetMap URL: https://www.openstreetmap.org/way/210382414
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Wyndham Chicago McCormick Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 11 West 26th Street Chicago IL 60616
+Description: Not listed
+Website: https://www.wyndhamhotels.com/wyndham/chicago-illinois/wyndham-chicago-mccormick/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8451778
+Longitude: -87.6275266
+OpenStreetMap URL: https://www.openstreetmap.org/way/210537356
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel BnB
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1316 South Michigan Avenue Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8652258
+Longitude: -87.6243448
+OpenStreetMap URL: https://www.openstreetmap.org/way/210542047
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Allegro Royal Sonesta Hotel Chicago Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 171 West Randolph Street Chicago IL 60601
+Description: Not listed
+Website: https://www.sonesta.com/royal-sonesta/il/chicago/allegro-royal-sonesta-hotel-chicago-loop/
+Phone: +1-312-236-0123
+Email: theallegroroyalsonesta.frontdesk@sonesta.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8841781
+Longitude: -87.6332998
+OpenStreetMap URL: https://www.openstreetmap.org/way/210671541
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Arlo Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 168 North Michigan Avenue Chicago IL 60601
+Description: Not listed
+Website: https://arlohotels.com/chicago/
+Phone: Not listed
+Email: hellochicago@arlohotels.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8851307
+Longitude: -87.6249779
+OpenStreetMap URL: https://www.openstreetmap.org/way/210671685
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ambassador Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1301 North State Parkway Chicago IL 60610
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.9060505
+Longitude: -87.6283159
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679074
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Inn of Chicago Magnificent Mile, an Ascend Collection hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 162 East Ohio Street Chicago IL 60611
+Description: Not listed
+Website: https://www.theinnofchicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8927983
+Longitude: -87.6230284
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679086
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 125 West Ohio Street Chicago IL 60654
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-river-north-hotel/propertyCode.14112.html
+Phone: +1 312-467-0800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8921742
+Longitude: -87.631986
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679087
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Omni Chicago Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 676 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.894724
+Longitude: -87.62493
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679106
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Claridge House Chicago, Tapestry Collection by Hilton
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1244 North Dearborn Street Chicago IL 60610
+Description: Not listed
+Website: Not listed
+Phone: +13127874980
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9052099
+Longitude: -87.6304457
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679107
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Courtyard Chicago Downtown/Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 165 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/chimm
+Phone: +1 312-573-0800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8931183
+Longitude: -87.6231006
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679112
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Eurostars Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 660 North State Street Chicago IL 60654
+Description: Not listed
+Website: https://www.eurostarshotels.com/eurostars-magnificent-mile.html
+Phone: +1 312 202 6000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8943161
+Longitude: -87.6284301
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679115
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: AC Hotel Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 630 North Rush Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8936097
+Longitude: -87.6261028
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679148
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Garden Inn Chicago Downtown/Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 10 East Grand Avenue Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chidngi-hilton-garden-inn-chicago-downtown-magnificent-mile/
+Phone: +1 312-595-0000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8920728
+Longitude: -87.6277635
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679156
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Residence Inn Chicago Downtown Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 101 East Erie Street Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chigr-residence-inn-chicago-downtown-magnificent-mile/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8938252
+Longitude: -87.625051
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679194
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Marshall Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1232 North LaSalle Drive Chicago IL 60610
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9048453
+Longitude: -87.6334271
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679403
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: ACME Hotel Company
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 15 East Ohio Street Chicago IL 60611
+Description: Not listed
+Website: https://www.acmehotelcompany.com/
+Phone: +1 312 894 0800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8922395
+Longitude: -87.6274985
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679598
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Elms Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 18 East Elm Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9034295
+Longitude: -87.6279569
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679635
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fairfield Inn & Suites Chicago Downtown/Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 216 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/chifd
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8936498
+Longitude: -87.6219312
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679699
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aloft Chicago - Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 237 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8931202
+Longitude: -87.6211313
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679751
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Chicago Hotel Collection River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 312 West Chestnut Street
+Description: Not listed
+Website: https://www.thechicagohotelcollection.com/river-north
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8985721
+Longitude: -87.6364148
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679827
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicago Marriott Downtown Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 540 North Michigan Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.892129
+Longitude: -87.62487
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680071
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Express Chicago - Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 640 North Wabash Avenue Chicago IL 60611
+Description: Not listed
+Website: https://www.ihg.com/holidayinnexpress/hotels/de/de/chicago/chimm/hoteldetail
+Phone: +1 312-787-4030
+Email: info@hiexchicago.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8937619
+Longitude: -87.6270869
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680171
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Godfrey Hotel Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 127 West Huron Street Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8945777
+Longitude: -87.6321416
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680513
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Thompson Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 21 East Bellevue Place Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9013583
+Longitude: -87.6274916
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680518
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Freehand Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 17-19 East Ohio Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8922495
+Longitude: -87.6273063
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680537
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Felix
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 111 West Huron Street Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8946309
+Longitude: -87.6315488
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680547
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Centric Chicago Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 215 East Erie Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8937766
+Longitude: -87.6222411
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680554
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Ivy Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 233 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.893115
+Longitude: -87.6213951
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680698
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sophy Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1411 East 53rd Street Chicago IL 60615
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7992489
+Longitude: -87.5914231
+OpenStreetMap URL: https://www.openstreetmap.org/way/211224176
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Aloft Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 9700 Balmoral Avenue Rosemont IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9772754
+Longitude: -87.867152
+OpenStreetMap URL: https://www.openstreetmap.org/way/219799624
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The St. Clair Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 162 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: https://www.thestclairmagnificentmile.com/
+Phone: +1-312-787-3580
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8936029
+Longitude: -87.6229595
+OpenStreetMap URL: https://www.openstreetmap.org/way/227605119
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Extended Stay America - Chicago Midway
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 7524 State Road Bedford Park IL 60638
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.757714
+Longitude: -87.7457425
+OpenStreetMap URL: https://www.openstreetmap.org/way/227718573
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western Inn & Suites - Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 8220 South Cicero Avenue Burbank IL 60459
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-burbank/best-western-inn-suites-midway-airport/propertyCode.14159.html
+Phone: +1 708-497-3000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.742982
+Longitude: -87.7418224
+OpenStreetMap URL: https://www.openstreetmap.org/way/228153475
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Manilow Suites at Millennium Park Plaza
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 155 North Michigan Avenue Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8847362
+Longitude: -87.6241338
+OpenStreetMap URL: https://www.openstreetmap.org/way/228971614
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Express
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8662712
+Longitude: -87.8832008
+OpenStreetMap URL: https://www.openstreetmap.org/way/230896851
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Four Points by Sheraton Chicago O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 10249 Irving Park Road Schiller Park IL 60176
+Description: Not listed
+Website: https://www.starwoodhotels.com/fourpoints/property/overview/index.html?propertyID=849
+Phone: +1-847-671-6000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9554541
+Longitude: -87.882652
+OpenStreetMap URL: https://www.openstreetmap.org/way/235350496
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Regency Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 151 East Wacker Drive Chicago IL 60601
+Description: Not listed
+Website: https://chicago.regency.hyatt.com/
+Phone: +1 312-565-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8874924
+Longitude: -87.6222342
+OpenStreetMap URL: https://www.openstreetmap.org/way/235920251
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Loews Chicago O'Hare Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5300 North River Road Rosemont IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.974187
+Longitude: -87.8633396
+OpenStreetMap URL: https://www.openstreetmap.org/way/252709451
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: DoubleTree by Hilton Hotel Chicago O'Hare Airport - Rosemont
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5460 North River Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chidtdt-doubletree-chicago-ohare-airport-rosemont/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9783144
+Longitude: -87.8633281
+OpenStreetMap URL: https://www.openstreetmap.org/way/254649075
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sheraton Suites Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6501 North Mannheim Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chisi-sheraton-suites-chicago-ohare/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9972611
+Longitude: -87.8834499
+OpenStreetMap URL: https://www.openstreetmap.org/way/283204949
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Rosemont
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6350 North River Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/illinois/hyatt-rosemont/rosem
+Phone: +1 847-518-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9953898
+Longitude: -87.8622588
+OpenStreetMap URL: https://www.openstreetmap.org/way/284531945
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Courtyard Chicago Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6610 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chicm-courtyard-chicago-midway-airport/
+Phone: +1 708-563-0200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7730527
+Longitude: -87.7436789
+OpenStreetMap URL: https://www.openstreetmap.org/way/291663770
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Garden Inn Chicago / North Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 66 East Wacker Place Chicago IL 60601
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chinlgi-hilton-garden-inn-chicago-downtown-riverwalk/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8870447
+Longitude: -87.6256187
+OpenStreetMap URL: https://www.openstreetmap.org/way/305717626
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Marriott Marquis
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2121 South Prairie Avenue Chicago IL 60616
+Description: Not listed
+Website: https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.marriott.com/en-us/hotels/chimq-marriott-marquis-chicago/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8536775
+Longitude: -87.620226
+OpenStreetMap URL: https://www.openstreetmap.org/way/313782023
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicago Marriott Southwest at Burr Ridge
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1200 Burr Ridge Parkway Burr Ridge IL 60527
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chisw-chicago-marriott-southwest-at-burr-ridge/
+Phone: +1-630-986-4100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7560046
+Longitude: -87.9095483
+OpenStreetMap URL: https://www.openstreetmap.org/way/328050992
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn Chicago-O'Hare International Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3939 North Mannheim Road Schiller Park IL 60176
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chiaphx-hampton-chicago-ohare-international-airport/
+Phone: +1 847-671-1700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9498789
+Longitude: -87.8850486
+OpenStreetMap URL: https://www.openstreetmap.org/way/329404488
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Loews Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 455 North Park Drive Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8898641
+Longitude: -87.6190926
+OpenStreetMap URL: https://www.openstreetmap.org/way/330309811
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: London House Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 85 East Wacker Drive Chicago IL 60601
+Description: Not listed
+Website: https://londonhousechicago.com
+Phone: +1-312-357-1200
+Email: sales@londonhouse.com
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 41.8877548
+Longitude: -87.625305
+OpenStreetMap URL: https://www.openstreetmap.org/way/330535225
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Place Chicago-South/University Medical Center
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5225 South Harper Avenue Chicago IL 60615
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-south-university-medical-center/chizu
+Phone: +1 773-752-5300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8001503
+Longitude: -87.5886098
+OpenStreetMap URL: https://www.openstreetmap.org/way/330745993
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Guesthouse Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4872 North Clark Street Chicago IL 60640
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9709522
+Longitude: -87.6680845
+OpenStreetMap URL: https://www.openstreetmap.org/way/334309198
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hoxton Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 200 North Green Street Chicago IL 60607
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8858899
+Longitude: -87.6491367
+OpenStreetMap URL: https://www.openstreetmap.org/way/337517716
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Garden Inn Chicago O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2930 South River Road Des Plaines IL 60018
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/ordchgi-hilton-garden-inn-chicago-ohare-airport/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0009484
+Longitude: -87.86467
+OpenStreetMap URL: https://www.openstreetmap.org/way/372342581
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Courtyard Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2950 South River Road Des Plaines IL 60018
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chica-courtyard-chicago-ohare/
+Phone: +1 847-824-7000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9999279
+Longitude: -87.8650272
+OpenStreetMap URL: https://www.openstreetmap.org/way/372342583
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Embassy Suites by Hilton Chicago O'Hare Rosemont
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5500 North River Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chirmes-embassy-suites-chicago-ohare-rosemont/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9791127
+Longitude: -87.8632138
+OpenStreetMap URL: https://www.openstreetmap.org/way/385218130
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Rosemont/Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5550 North River Road Rosemont IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9799196
+Longitude: -87.8634264
+OpenStreetMap URL: https://www.openstreetmap.org/way/385218133
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Riu Plaza Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 150 East Ontario Street Chicago IL 60611
+Description: Not listed
+Website: https://www.riu.com/en/hotel/usa/chicago/hotel-riu-plaza-chicago/
+Phone: +1 312-363-3480
+Email: hotel.plazachicago@riu.com
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 41.8935944
+Longitude: -87.6232845
+OpenStreetMap URL: https://www.openstreetmap.org/way/401244510
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sonesta Simply Suites Chicago O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4021 North Mannheim Road Schiller Park IL 60176
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9522447
+Longitude: -87.8845703
+OpenStreetMap URL: https://www.openstreetmap.org/way/403509277
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Country Inn & Suites
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 777 East Grand Avenue Bensenville IL 60106
+Description: Not listed
+Website: https://www.radissonhotels.com/en-us/hotels/country-inn-chicago-ohare-il
+Phone: +1 630-279-0100
+Email: cx_ohrs@countryinn.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9319366
+Longitude: -87.92518
+OpenStreetMap URL: https://www.openstreetmap.org/way/406529017
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Extended Stay America - Chicago - O'Hare, IL
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1201 East Touhy Avenue Des Plaines IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0088211
+Longitude: -87.8934303
+OpenStreetMap URL: https://www.openstreetmap.org/way/406693858
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Extended Stay America - Chicago - O'Hare - Allstate Arena, IL
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1207 East Touhy Avenue Des Plaines IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0079532
+Longitude: -87.8931921
+OpenStreetMap URL: https://www.openstreetmap.org/way/406693859
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt House Chicago West Loop-Fulton Market
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 105 North May Street Chicago IL 60607
+Description: Not listed
+Website: https://www.hyatt.com/hyatt-house/en-us/chixl-hyatt-house-chicago-west-loop-fulton-market
+Phone: +1 312-492-0000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8832666
+Longitude: -87.6552347
+OpenStreetMap URL: https://www.openstreetmap.org/way/407983114
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Comfort Inn Convention Center-Chicago O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2157 East Touhy Avenue Des Plaines IL 60018
+Description: Not listed
+Website: https://www.choicehotels.com/illinois/des-plaines/comfort-inn-hotels/il411
+Phone: +1 847-635-1300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0096234
+Longitude: -87.8707103
+OpenStreetMap URL: https://www.openstreetmap.org/way/409756827
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicago Marriott Suites O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6155 North River Road Rosemont IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9883816
+Longitude: -87.8589533
+OpenStreetMap URL: https://www.openstreetmap.org/way/414727403
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Days Inn Calumet Park
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 12800 South Ashland Avenue Calumet Park IL 60827
+Description: Not listed
+Website: https://www.wyndhamhotels.com/days-inn/calumet-park-illinois/days-inn-calumet-park/overview
+Phone: +1 708-897-2456
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.661012
+Longitude: -87.6614291
+OpenStreetMap URL: https://www.openstreetmap.org/way/416148879
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Plaza Inn
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 12710 South Ashland Avenue Calumet Park IL 60827
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6617812
+Longitude: -87.6618161
+OpenStreetMap URL: https://www.openstreetmap.org/way/416148882
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Zachary
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3630 North Clark Street Chicago IL 60613
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9477454
+Longitude: -87.6573332
+OpenStreetMap URL: https://www.openstreetmap.org/way/424621447
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Chicago - Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6624 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://www.ihg.com/holidayinn/hotels/us/en/chicago/chibf/hoteldetail
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7722324
+Longitude: -87.7452598
+OpenStreetMap URL: https://www.openstreetmap.org/way/425265050
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Residence Inn Chicago Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6638 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chirm-residence-inn-chicago-midway-airport/
+Phone: +1 708-458-7790
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7714996
+Longitude: -87.7461999
+OpenStreetMap URL: https://www.openstreetmap.org/way/425265053
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Place Chicago/Midway Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6550 South Cicero Avenue Bedford Park IL 60638
+Description: Not listed
+Website: https://chicagomidwayairport.place.hyatt.com/en/hotel/home.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.7725881
+Longitude: -87.7469646
+OpenStreetMap URL: https://www.openstreetmap.org/way/425265082
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Flats at Loyola Station
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1216 West Arthur Avenue Chicago IL 60626
+Description: Not listed
+Website: https://www.loyolaflats.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0005902
+Longitude: -87.661581
+OpenStreetMap URL: https://www.openstreetmap.org/way/439634496
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Viceroy Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1118 North State Street Chicago IL 60610
+Description: Not listed
+Website: https://www.viceroyhotelsandresorts.com/chicago
+Phone: +1-312-586-2000
+Email: chicago@viceroyhotelsandresorts.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.902396
+Longitude: -87.6289158
+OpenStreetMap URL: https://www.openstreetmap.org/way/445817830
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Extended Stay America
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0082001
+Longitude: -87.8933783
+OpenStreetMap URL: https://www.openstreetmap.org/way/495981089
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Nobu Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 854 West Randolph Street Chicago IL 60607
+Description: Not listed
+Website: https://chicago.nobuhotels.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8847442
+Longitude: -87.6494527
+OpenStreetMap URL: https://www.openstreetmap.org/way/508746580
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Jaslin Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 261 West Cermak Road Chicago IL 60616
+Description: Not listed
+Website: https://www.jaslinhotel.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8525941
+Longitude: -87.6343424
+OpenStreetMap URL: https://www.openstreetmap.org/way/508763656
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Home2 Suites by Hilton Chicago River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 110 West Huron Street Chicago IL 60654
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chirnht-home2-suites-chicago-river-north/
+Phone: +1 312-944-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8950648
+Longitude: -87.6315672
+OpenStreetMap URL: https://www.openstreetmap.org/way/531702526
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Moxy Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 530 North LaSalle Drive Chicago IL 60654
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chiox-moxy-chicago-downtown/overview/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.891847
+Longitude: -87.6329822
+OpenStreetMap URL: https://www.openstreetmap.org/way/541367512
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4400 North Frontage Road Hillside IL 60162
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8719095
+Longitude: -87.8935719
+OpenStreetMap URL: https://www.openstreetmap.org/way/544009134
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Extended Stay America
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4575 North Frontage Road Hillside IL 60162
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8735004
+Longitude: -87.8954869
+OpenStreetMap URL: https://www.openstreetmap.org/way/544009136
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Baymont by Wyndham Chicago/Alsip
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 12801 Cicero Avenue Alsip IL 60803
+Description: Not listed
+Website: https://www.wyndhamhotels.com/baymont/alsip-illinois/baymont-inn-suites-chicago-alsip/overview
+Phone: +1 708-844-1591
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6587865
+Longitude: -87.7378813
+OpenStreetMap URL: https://www.openstreetmap.org/way/548475520
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hilton Garden Inn, Hampton Inn, & Home2 Suites
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 111 East Cermak Road Chicago IL 60616
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chimkgi-hilton-garden-inn-chicago-mccormick-place/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8525803
+Longitude: -87.6230309
+OpenStreetMap URL: https://www.openstreetmap.org/way/561284192
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Place Chicago / Wicker Park
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1551 West North Avenue Chicago IL 60642
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-wicker-park/chizk
+Phone: +1 773-384-8280
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9103975
+Longitude: -87.667308
+OpenStreetMap URL: https://www.openstreetmap.org/way/585172219
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SpringHill Suites Chicago Southwest at Burr Ridge/Hinsdale
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 90 North Frontage Road Burr Ridge IL 60527
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chibu-springhill-suites-chicago-southwest-at-burr-ridge-hinsdale/overview/
+Phone: +1 630-323-7530
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7620208
+Longitude: -87.918121
+OpenStreetMap URL: https://www.openstreetmap.org/way/585745411
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Oak Lawn Hilton
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 9333 South Cicero Avenue Oak Lawn IL 60453
+Description: Not listed
+Website: https://www3.hilton.com/en/hotels/illinois/hilton-chicago-oak-lawn-OALHIHF/index.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7226627
+Longitude: -87.7396504
+OpenStreetMap URL: https://www.openstreetmap.org/way/666397159
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn & Suites
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 100 Harvester Drive Burr Ridge IL 60527
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chibrhx-hampton-suites-chicago-burr-ridge/
+Phone: +1 630-655-1000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7587156
+Longitude: -87.918328
+OpenStreetMap URL: https://www.openstreetmap.org/way/681892331
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Rose Hotel Chicago O’Hare, Tapestry Collection by Hilton
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5200 Pearl Street Rosemont IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9742423
+Longitude: -87.8706159
+OpenStreetMap URL: https://www.openstreetmap.org/way/682462678
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Marquee at Block 37
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 25 West Randolph Street Chicago IL 60602
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8842679
+Longitude: -87.6287786
+OpenStreetMap URL: https://www.openstreetmap.org/way/686325218
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Homewood Suites by Hilton Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 40 East Grand Avenue Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chihwhw-homewood-suites-chicago-downtown/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8918953
+Longitude: -87.6262464
+OpenStreetMap URL: https://www.openstreetmap.org/way/686333247
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Express & Suites Bensenville - O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 811 East Grand Avenue Bensenville IL 60106
+Description: Not listed
+Website: https://www.ihg.com/holidayinnexpress/hotels/us/en/bensenville/chibs/hoteldetail
+Phone: +1 630-475-8181
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9317048
+Longitude: -87.924582
+OpenStreetMap URL: https://www.openstreetmap.org/way/706408564
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: citizenM Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 80 East Wacker Place Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8870795
+Longitude: -87.6250223
+OpenStreetMap URL: https://www.openstreetmap.org/way/731167841
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Express & Suites Chicago O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3001 Mannheim Road Des Plaines IL 60018
+Description: Not listed
+Website: https://www.ihg.com/holidayinnexpress/hotels/us/en/des-plaines/chids/hoteldetail
+Phone: +1-847-635-8585
+Email: GM@HIEOHAREAIRPORT.COM
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9993275
+Longitude: -87.8827756
+OpenStreetMap URL: https://www.openstreetmap.org/way/740779129
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Regency McCormick Place
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2233 South Doctor Martin Luther King Junior Drive Chicago IL 60616
+Description: Not listed
+Website: https://www.hyatt.com/hyatt-regency/en-us/chimc-hyatt-regency-mccormick-place
+Phone: +1 312-567-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8519664
+Longitude: -87.6179015
+OpenStreetMap URL: https://www.openstreetmap.org/way/769452753
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn Chicago North-Loyola Station
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1209 West Albion Avenue Chicago IL 60626
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chiyohx-hampton-chicago-north-loyola-station/
+Phone: +1 312-265-5800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0022426
+Longitude: -87.661242
+OpenStreetMap URL: https://www.openstreetmap.org/way/783488240
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Fairfield Inn & Suites Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2350 Mannheim Road Des Plaines IL 60018
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chifo-fairfield-inn-and-suites-chicago-ohare/overview/
+Phone: +1 224-257-3220
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.0108387
+Longitude: -87.88722
+OpenStreetMap URL: https://www.openstreetmap.org/way/787864779
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn & Suites Rosemont Chicago O’Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 9480 West Higgins Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chirshx-hampton-suites-rosemont-chicago-ohare/
+Phone: +1 847-692-3000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9927238
+Longitude: -87.8621981
+OpenStreetMap URL: https://www.openstreetmap.org/way/794698684
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Study at the University of Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1227 East 60th Street Chicago IL 60637
+Description: Not listed
+Website: https://www.thestudyatuniversityofchicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.7856058
+Longitude: -87.5950799
+OpenStreetMap URL: https://www.openstreetmap.org/way/860807638
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: SpringHill Suites Chicago Chinatown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2357 South Wentworth Avenue Chicago IL 60616
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chisn-springhill-suites-chicago-chinatown/overview/
+Phone: +1 312-766-9668
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.849717
+Longitude: -87.6315053
+OpenStreetMap URL: https://www.openstreetmap.org/way/897843372
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt House Oak Brook
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 210 22nd Street Oak Brook IL 60523
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/illinois/hyatt-house-chicago-oak-brook/chixo
+Phone: +1 630-590-1200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8485186
+Longitude: -87.9253903
+OpenStreetMap URL: https://www.openstreetmap.org/way/919353886
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn & Suites Bridgeview Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 7010 Harlem Avenue Bridgeview IL 60455
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/mdwbvhx-hampton-suites-bridgeview-chicago/
+Phone: +1 224-513-0017
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7662313
+Longitude: -87.8033915
+OpenStreetMap URL: https://www.openstreetmap.org/way/920191154
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Express & Suites Chicago North Shore - Niles
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 7247 North Waukegan Road Niles IL 60714
+Description: Not listed
+Website: Not listed
+Phone: +18475881900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0131384
+Longitude: -87.8016694
+OpenStreetMap URL: https://www.openstreetmap.org/way/968956921
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Crowne Plaza Chicago SW - Burr Ridge
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 300 South Frontage Road Burr Ridge IL 60527
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7534533
+Longitude: -87.9215377
+OpenStreetMap URL: https://www.openstreetmap.org/way/1024765359
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Extended Stay America - Chicago - Burr Ridge
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 15 W 122nd South Frontage Road Burr Ridge IL 60527
+Description: Not listed
+Website: https://www.extendedstayamerica.com/hotels/il/chicago/burr-ridge?channel=gmb-listing&utm_source=google&utm_medium=organic&utm_campaign=gmb_listing
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7540729
+Longitude: -87.9174152
+OpenStreetMap URL: https://www.openstreetmap.org/way/1024766741
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicago Lake Shore Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4900 South Lake Shore Drive Chicago IL 60615
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8057825
+Longitude: -87.5854456
+OpenStreetMap URL: https://www.openstreetmap.org/way/1043291804
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Best Western Plus
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6251 Joliet Road Countryside IL 60525-3958
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-countryside/best-western-plus-chicagoland-countryside/propertyCode.14182.html
+Phone: +1 708-354-5200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.777738
+Longitude: -87.8729912
+OpenStreetMap URL: https://www.openstreetmap.org/way/1055483224
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Countryside
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7778334
+Longitude: -87.8722149
+OpenStreetMap URL: https://www.openstreetmap.org/way/1055483225
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Four Points by Sheraton Chicago Westchester/Oak Brook
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2222 Enterprise Drive Westchester IL 60154
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/mdwfp-four-points-by-sheraton-westchester/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_MTIyODEzNDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8471167
+Longitude: -87.9083775
+OpenStreetMap URL: https://www.openstreetmap.org/way/1056343841
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: avid hotel Chicago O’hare – Des Plaines
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1551 East Touhy Avenue Des Plaines IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.009264
+Longitude: -87.8844115
+OpenStreetMap URL: https://www.openstreetmap.org/way/1061825436
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hotel Chicago Downtown, Autograph Collection
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 333 North Dearborn Street Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8886727
+Longitude: -87.6288489
+OpenStreetMap URL: https://www.openstreetmap.org/way/1098655256
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: La Quinta Inn & Suites Rosemont/O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6810 Mannheim Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.wyndhamhotels.com/laquinta/rosemont-illinois/la-quinta-chicago-ohare-airport/overview
+Phone: +1 224-500-3182
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0027881
+Longitude: -87.8864272
+OpenStreetMap URL: https://www.openstreetmap.org/way/1099624737
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Inn & Suites Chicago Medical District UIC
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 710 South Seeley Avenue Chicago IL 60612
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chigghx-hampton-suites-chicago-medical-district-uic/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8728099
+Longitude: -87.6781508
+OpenStreetMap URL: https://www.openstreetmap.org/way/1160942314
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hampton Majestic Chicago Theatre District
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 22 West Monroe Street Chicago IL 60603
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chitdhx-hampton-majestic-chicago-theatre-district/
+Phone: +1 312-332-5052
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8809086
+Longitude: -87.6285779
+OpenStreetMap URL: https://www.openstreetmap.org/way/1175853247
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Cambria Chicago Loop - Theatre District
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 32 West Randolph Street Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8846765
+Longitude: -87.6288616
+OpenStreetMap URL: https://www.openstreetmap.org/way/1176482824
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Bridgeview Inn
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7096472
+Longitude: -87.7989659
+OpenStreetMap URL: https://www.openstreetmap.org/way/1198816168
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: The Drake Oak Brook, Autograph Collection
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2301 York Road Oak Brook IL 60523
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8451098
+Longitude: -87.9274455
+OpenStreetMap URL: https://www.openstreetmap.org/way/1226918349
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Comfort Suites Chicago O'Hare Airport
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4200 Des Plaines River Road Schiller Park IL 60176
+Description: Not listed
+Website: https://www.choicehotels.com/illinois/willowbrook/econo-lodge-hotels
+Phone: +1 847-233-9000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9555571
+Longitude: -87.8600154
+OpenStreetMap URL: https://www.openstreetmap.org/way/1244904787
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: JC Miami Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6989504
+Longitude: -87.7982505
+OpenStreetMap URL: https://www.openstreetmap.org/way/1283797996
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicago Hilton & Towers
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 720 South Michigan Avenue Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8725082
+Longitude: -87.6251165
+OpenStreetMap URL: https://www.openstreetmap.org/way/1301674288
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Staybridge Suites Chicago O'Hare - Rosemont
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 6600 Mannheim Road Rosemont IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.999654
+Longitude: -87.8855905
+OpenStreetMap URL: https://www.openstreetmap.org/way/1306911819
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Holiday Inn Express Crestwood
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 10330 Cicero Avenue Crestwood IL 60418
+Description: Not listed
+Website: https://www.ihg.com/holidayinnexpress/hotels/us/en/crestwood/chioo/hoteldetail
+Phone: +1 708-597-3330
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6497543
+Longitude: -87.7390654
+OpenStreetMap URL: https://www.openstreetmap.org/way/1339650488
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: DoubleTree by Hilton Hotel Chicago - Alsip
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5000 West 127th Street Alsip IL 60803
+Description: Not listed
+Website: https://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-chicago-alsip-CHIASDT/index.html
+Phone: +1 708-371-7300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6634776
+Longitude: -87.744423
+OpenStreetMap URL: https://www.openstreetmap.org/way/1339650506
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Place Chicago - Medical / University District
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1835 West Harrison Street Chicago IL 60612
+Description: Not listed
+Website: https://www.hyatt.com/en-US/hotel/illinois/hyatt-place-chicago-medical-university-district/chizt
+Phone: +1 312-341-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8738377
+Longitude: -87.6727073
+OpenStreetMap URL: https://www.openstreetmap.org/way/1504318157
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Chicago Marriott O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 8535 West Higgins Road Chicago IL 60631
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.985296
+Longitude: -87.8416323
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2182074
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Residence Inn Chicago O'Hare
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 7101 Chestnut Street Rosemont IL 60018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0078292
+Longitude: -87.8885657
+OpenStreetMap URL: https://www.openstreetmap.org/relation/14160855
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Hyatt Regency O'Hare Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 9300 Bryn Mawr Avenue Rosemont IL 60018
+Description: Not listed
+Website: https://www.hyatt.com/en-US/hotel/illinois/hyatt-regency-ohare/chiro
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9813485
+Longitude: -87.8592972
+OpenStreetMap URL: https://www.openstreetmap.org/relation/14160856
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Crowne Plaza Chicago Ohare Hotel & Conference Center
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5440 North River Road Rosemont IL 60018
+Description: Not listed
+Website: https://www.ihg.com/crowneplaza/hotels/us/en/rosemont/chiok/hoteldetail
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9775903
+Longitude: -87.8640779
+OpenStreetMap URL: https://www.openstreetmap.org/relation/14160857
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Radisson Blu Aqua Hotel, Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 221 North Columbus Drive Chicago IL 60601
+Description: Not listed
+Website: https://www.radissonhotels.com/en-us/hotels/radisson-blu-chicago-aqua
+Phone: +1-312-565-5258
+Email: salesaquachicago@radisson.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8865131
+Longitude: -87.6201516
+OpenStreetMap URL: https://www.openstreetmap.org/relation/15937049
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Sable at Navy Pier
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 900 East Grand Avenue Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.891357
+Longitude: -87.6028372
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17503969
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Red Roof Inn Chicago - Alsip
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 12340 Cicero Avenue Alsip IL 60803
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.667602
+Longitude: -87.7398625
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18362821
+Data Source: OpenStreetMap contributors
+
+======================================================================
+
+Name: Presidential Inn
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3922 South Harlem Avenue Lyons IL 60534
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8204784
+Longitude: -87.8031867
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20603574
+Data Source: OpenStreetMap contributors
