@@ -1,30 +1,27 @@
-# Backend for the travel-guide RAG chatbot
-#
-# This file wires together retrieval (rag.py) and generation (Llama 3.2:3b via Ollama).
-# It builds a prompt from the retrieved chunks, sends it to the local model,
-# and returns the answer along with the sources used.
+# Backend for the travel-guide chatbot
 
 import ollama
-import Init
-
-from database import database_count
 from rag import retrieve_context
 
-def ensure_database_ready():
-
-    if database_count() > 0:
-        return True
-
-    Init.setup()
-
-    return database_count() > 0
-
-
 MODEL_NAME = "llama3.2:3b"
+MAX_HISTORY_MESSAGES = 6
+SYSTEM_PROMPT = """You are a helpful travel guide assistant. You have two sources of information:
+1. Retrieved context - factual travel-guide details such as restaurants, attractions, hours, and locations.
+2. The conversation history - the answers you've already given the user.
+When the user asks you to modify, or refer back to something already discussed
+(for example "make day 2 more relaxed"), rely on the conversation history, 
+and use the retrieved context for any new factual details you need.
+If neither source has the answer, say you don't have that information instead of guessing."""
 
-# Build a prompt that gives the model the retrieved chunks as context
+# retrieved chunks + the user's question
 def build_prompt(question, documents, metadatas):
-
+    """
+    Helper function for building prompt. Zips source data
+    :param question:
+    :param documents:
+    :param metadatas:
+    :return:
+    """
     context_pieces = []
 
     for text, meta in zip(documents, metadatas):
@@ -33,10 +30,7 @@ def build_prompt(question, documents, metadatas):
 
     context_block = "\n\n".join(context_pieces)
 
-    prompt = f"""You are a helpful travel guide assistant. Use ONLY the context below to answer the question.
-If the context doesn't contain the answer, say you don't have that information.
-
-Context:
+    prompt = f"""Context:
 {context_block}
 
 Question: {question}
@@ -46,76 +40,82 @@ Answer:"""
     return prompt
 
 
-# Send the prompt to the local Llama 3.2:3b model and return its response
-def generate_answer(question, documents, metadatas):
+def sanitize_history(history):
+    """
+    Helper function for generating sanitized history.
+    Takes history and removes old and useless info
+    Working but Incomplete needs more work
+    :param history:
+    :return:
+    """
+    if not history:
+        return []
 
-    prompt = build_prompt(question, documents, metadatas)
+    sanitized = []
+
+    for message in history:
+        role = message.get("role")
+        content = message.get("content")
+
+        if role in ("user", "assistant") and content:
+            sanitized.append({"role": role, "content": content})
+
+    return sanitized[-MAX_HISTORY_MESSAGES:]
+
+# ollama pipeline
+def generate_answer(question, documents, metadatas, history=None):
+    """
+    Ollama Pipeline for generating answers.
+    Sends the question directly to the ollama client
+    :param question:
+    :param documents:
+    :param metadatas:
+    :param history:
+    :return:
+    """
+    turn_prompt = build_prompt(question, documents, metadatas)
+
+    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    messages.extend(sanitize_history(history))
+    messages.append({"role": "user", "content": turn_prompt})
 
     response = ollama.chat(
         model=MODEL_NAME,
-        messages=[
-            {"role": "user", "content": prompt}
-        ]
+        messages=messages
     )
 
     return response["message"]["content"]
 
 
-# Full RAG pipeline: retrieve relevant chunks, then generate an answer
-# This is the main function the frontend should call
-def answer_question(question, number_of_results=3):
-
-    documents, metadatas, distances = retrieve_context(
-        question,
-        number_of_results=number_of_results
-    )
+def answer_question(question, number_of_results=3, history=None):
+    """
+    Pipeline for RAG integration returns answer, documents, metadatas, distances
+    :param question:
+    :param number_of_results:
+    :param history:
+    :return:
+    """
+    documents, metadatas, distances = retrieve_context(question,number_of_results=number_of_results) # ChromaDB top-k relevant chunks
 
     if not documents:
         return "I don't have any information on that.", [], [], []
 
-    answer = generate_answer(question, documents, metadatas)
+    answer = generate_answer(question, documents, metadatas, history=history)
 
     return answer, documents, metadatas, distances
 
-
-# for testing the pipeline without a frontend
-if __name__ == "__main__":
-
-    print("Collection size:", database_count())
-
-    if not ensure_database_ready():
-        print("Failed to setup database")
-        raise SystemExit(1)
-
-    print("Travel Guide Chatbot (type 'quit' to exit)")
-
-    while True:
-        question = input("\nYou: ").strip()
-
-        if question.lower() in ("quit", "exit"):
-            break
-
-        if not question:
-            continue
-
-        answer, documents, metadatas, distances = answer_question(question)
-
-        print("\nAssistant:", answer)
-
-        print("\nSources:")
-        for meta, dist in zip(metadatas, distances):
-            print(
-                f"  - {meta['city']} / {meta['source']} "
-                f"(page {meta['page_number']}, distance {dist:.3f})"
-            )
-
-
+# adapter for app.py
 def generate_response(user_input, history=None):
     """
-    Adapter function so app.py's expected interface matches
-    what answer_question() actually returns.
+    Adapter function so app.py's expected interface matches what answer_question() actually returns.
+    :param user_input:
+    :param history:
+    :return:
     """
-    answer, documents, metadatas, distances = answer_question(user_input)
+    answer, documents, metadatas, distances = answer_question(
+        user_input,
+        history=history
+    )
 
     sources = [
         f"{meta['city']} - {meta['source']} (page {meta['page_number']})"
