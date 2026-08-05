@@ -108,3 +108,21 @@ if __name__ == "__main__":
                 f"  - {meta['city']} / {meta['source']} "
                 f"(page {meta['page_number']}, distance {dist:.3f})"
             )
+
+
+def generate_response(user_input, history=None):
+    """
+    Adapter function so app.py's expected interface matches
+    what answer_question() actually returns.
+    """
+    answer, documents, metadatas, distances = answer_question(user_input)
+
+    sources = [
+        f"{meta['city']} - {meta['source']} (page {meta['page_number']})"
+        for meta in metadatas
+    ]
+
+    return {
+        "answer": answer,
+        "sources": sources
+    }
