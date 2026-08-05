@@ -154,6 +154,7 @@ if not st.session_state.trip_submitted:
             )
             st.session_state.trip_submitted = True
             send_message(prompt, display_text=display)
+            st.rerun()
 
 else:
     for msg in st.session_state.messages:
@@ -164,7 +165,7 @@ else:
                     for src in msg["sources"]:
                         st.markdown(f"- {src}")
 
-    follow_up = st.chat_input("Ask for changes — e.g. \"make day 2 more relaxed\"")
+    follow_up = st.chat_input("Ask for changes — e.g. \"make day 2 more fun\"")
     if follow_up is not None:
         error = validate_chat_input(follow_up)
         if error:
