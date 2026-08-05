@@ -154,6 +154,7 @@ if not st.session_state.trip_submitted:
             )
             st.session_state.trip_submitted = True
             send_message(prompt, display_text=display)
+            st.rerun()
 
 else:
     for msg in st.session_state.messages:
