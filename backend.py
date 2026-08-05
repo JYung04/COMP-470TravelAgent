@@ -20,6 +20,7 @@ def ensure_database_ready():
     return database_count() > 0
 
 
+
 MODEL_NAME = "llama3.2:3b"
 
 # Build a prompt that gives the model the retrieved chunks as context

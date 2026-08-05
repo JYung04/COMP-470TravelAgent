@@ -1,6 +1,14 @@
 import streamlit as st
 from datetime import date, timedelta
 import backend
+import Init
+from database import database_count
+
+def ensure_database_ready():
+    return database_count() > 0
+if not ensure_database_ready():
+    with st.spinner("Setting up the knowledge base — this may take a minute..."):
+        ensure_database_ready()
 
 APP_TITLE = "AI Travel Planner"
 APP_SUBTITLE = "Get a personalized itinerary for your next US city trip"
