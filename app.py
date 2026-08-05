@@ -140,7 +140,7 @@ if not st.session_state.trip_submitted:
     if submitted:
         error = validate_trip_form(city, arrival, departure, budget, interests)
         if error:
-            st.toast(error, icon="!")
+            st.warning(error)
         else:
             num_days = (departure - arrival).days
             prompt = (
@@ -169,6 +169,6 @@ else:
     if follow_up is not None:
         error = validate_chat_input(follow_up)
         if error:
-            st.toast(error, icon="!")
+            st.warning(error)
         else:
             send_message(follow_up)
