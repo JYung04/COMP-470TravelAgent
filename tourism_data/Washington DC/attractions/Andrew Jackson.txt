@@ -1,0 +1,25 @@
+Name: Andrew Jackson
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Andrew Jackson is a bronze equestrian statue by Clark Mills mounted on a white marble base in the center of Lafayette Square within President's Park in Washington, D.C., just to the north of the White House. Jackson is depicted dressed in military uniform, raising his hat with his right hand, while controlling the reins with his left hand as his horse rises on its rear legs.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8995223
+Longitude: -77.0365416
+OpenStreetMap URL: https://www.openstreetmap.org/way/792739243
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/792739243
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

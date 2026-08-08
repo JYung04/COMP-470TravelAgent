@@ -1,0 +1,24 @@
+Name: Kusanya Cafe
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop, sandwich
+Address: 825 West 69th Street, Chicago IL 60621
+Description: Not listed
+Website: https://www.kusanyacafe.org/
+Phone: +1 773-675-4758
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.768713
+Longitude: -87.6455656
+OpenStreetMap URL: https://www.openstreetmap.org/node/8086078421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8086078421
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

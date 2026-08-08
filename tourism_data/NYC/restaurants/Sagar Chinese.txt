@@ -1,0 +1,24 @@
+Name: Sagar Chinese
+City: NYC
+Category: restaurants
+Cuisine: chinese, indian
+Address: 87-47 Homelawn Street, Jamaica NY 11432
+Description: Not listed
+Website: https://sagarchinese.com/locations/jamaica/
+Phone: +1-718-657-3333; +1-718-657-3334
+Email: Not listed
+Opening Hours: Su-Th 12:00-22:00; Fr 13:00-22:00; Sa 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.711143
+Longitude: -73.7928889
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550109570
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550109570
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

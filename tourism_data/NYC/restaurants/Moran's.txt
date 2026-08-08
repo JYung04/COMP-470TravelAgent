@@ -1,0 +1,25 @@
+Name: Moran's
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 146 10th Avenue, New York NY 10011
+Description: Not listed
+Website: http://www.moransrestaurant.com/
+Phone: Not listed
+Email: info@moransrestaurant.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7452438
+Longitude: -74.0056781
+OpenStreetMap URL: https://www.openstreetmap.org/node/2366519598
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2366519598
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

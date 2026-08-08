@@ -1,0 +1,25 @@
+Name: Africa
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Upper Manhattan and the Bronx are home to large West African populations, and the energy in these areas come World Cup time is infectious. Check out Senegal matches at Des Ambassades , a chic Harlem café and bakery known for its oniony chicken or fish yassa, peanutty lamb maffe and mango custard danish. A few blocks away you’ll find Le Baobab , a cozy spot with rotating daily specials. Thiébou djeun, Senegal’s national dish, which Le Baobab prepares with fish, jollof rice and eggplant, is availa
+Website: https://des-ambassades.restaurants-world.net/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7044817
+Longitude: -74.0140439
+OpenStreetMap URL: https://www.openstreetmap.org/way/1190058239
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1190058239
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

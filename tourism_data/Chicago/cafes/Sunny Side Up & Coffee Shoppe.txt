@@ -1,0 +1,24 @@
+Name: Sunny Side Up & Coffee Shoppe
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop, coffee
+Address: 42 East Superior Street, Chicago IL 60611
+Description: Not listed
+Website: https://www.restaurantwebx.com/SunnySideUp/
+Phone: +1-312-930-4242
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-14:00; Sa-Su 08:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8959343
+Longitude: -87.6265696
+OpenStreetMap URL: https://www.openstreetmap.org/node/5457035870
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5457035870
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

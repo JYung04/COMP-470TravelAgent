@@ -1,0 +1,25 @@
+Name: Linwood Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 465 US-46, Totowa, NJ 07512, United States
+Description: Not listed
+Website: http://www.linwoodpizzatotowa.com/
+Phone: +1 973-256-9050
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.8958353
+Longitude: -74.2342034
+OpenStreetMap URL: https://www.openstreetmap.org/node/9877741923
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9877741923
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

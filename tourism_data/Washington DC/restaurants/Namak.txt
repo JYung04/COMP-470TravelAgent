@@ -1,0 +1,25 @@
+Name: Namak
+City: Washington DC
+Category: restaurants
+Cuisine: mediterranean
+Address: 1813 Columbia Road Northwest, Washington DC 20009
+Description: Not listed
+Website: https://namakdc.com/
+Phone: +1 202-234-6732
+Email: hello@namakdc.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9220655
+Longitude: -77.0435557
+OpenStreetMap URL: https://www.openstreetmap.org/node/814340134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/814340134
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

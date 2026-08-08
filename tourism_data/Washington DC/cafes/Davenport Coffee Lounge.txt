@@ -1,0 +1,24 @@
+Name: Davenport Coffee Lounge
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 4400 Massachusetts Avenue Northwest, Washington DC 20016-8002
+Description: Not listed
+Website: https://www.davenportcoffeelounge.org/
+Phone: +1-202-885-1841
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9359408
+Longitude: -77.0883876
+OpenStreetMap URL: https://www.openstreetmap.org/node/2094309662
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2094309662
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

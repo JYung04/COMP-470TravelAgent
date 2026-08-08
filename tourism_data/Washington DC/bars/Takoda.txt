@@ -1,0 +1,25 @@
+Name: Takoda
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 715 Florida Avenue Northwest Washington DC 20001
+Description: Not listed
+Website: https://www.takodadc.com/
+Phone: +1-202-525-1252
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8748376
+Longitude: -77.0064153
+OpenStreetMap URL: https://www.openstreetmap.org/node/4846516561
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4846516561
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

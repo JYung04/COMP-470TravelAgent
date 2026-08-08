@@ -1,0 +1,25 @@
+Name: San Juan Bakery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3335 West North Avenue, Chicago IL 60647
+Description: Not listed
+Website: Not listed
+Phone: +1 773-395-0099
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-17:00; Sa 07:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 41.9099249
+Longitude: -87.7108236
+OpenStreetMap URL: https://www.openstreetmap.org/node/4499383720
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4499383720
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

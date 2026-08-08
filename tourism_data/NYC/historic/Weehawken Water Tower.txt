@@ -1,0 +1,25 @@
+Name: Weehawken Water Tower
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Hackensack Water Company Complex is a set of historic buildings in Weehawken, New Jersey, registered in the U.S. National Register of Historic Places. The Hackensack Water Company, a predecessor of Suez North America, developed water supply and storage in northeastern New Jersey from the 1870s to the 1970s, initially to provide service to the city of Hackensack and the towns of North Hudson. Originally its headquarters and major facilities were located at Hackensack, in Bergen County. Under Robert W. de Forest, who ran the Hackensack Water Company for 46 years beginning in 1881, the company constructed new facilities and moved its headquarters to Weehawken in Hudson County, setting up offices in a brick water tower, part of the present.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7745523
+Longitude: -74.0203075
+OpenStreetMap URL: https://www.openstreetmap.org/way/280850916
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/280850916
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history; art

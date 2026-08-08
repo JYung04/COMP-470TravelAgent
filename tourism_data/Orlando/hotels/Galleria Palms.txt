@@ -1,0 +1,25 @@
+Name: Galleria Palms
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 3000 Maingate Lane, Kissimmee FL 34747
+Description: Not listed
+Website: http://www.galleriakissimmeehotel.com
+Phone: +1-407-396-6300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3355335
+Longitude: -81.5893615
+OpenStreetMap URL: https://www.openstreetmap.org/way/637291247
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/637291247
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

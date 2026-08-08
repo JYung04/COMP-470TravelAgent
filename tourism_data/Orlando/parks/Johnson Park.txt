@@ -1,0 +1,25 @@
+Name: Johnson Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: E 6th Avenue, Windermere FL 34786
+Description: Small Park with no Parking
+Website: https://www.windermereparksandrecreation.com/index.php/our-parks/johnson-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4946228
+Longitude: -81.5292312
+OpenStreetMap URL: https://www.openstreetmap.org/way/576574584
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/576574584
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

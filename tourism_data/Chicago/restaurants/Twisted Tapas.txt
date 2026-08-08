@@ -1,0 +1,24 @@
+Name: Twisted Tapas
+City: Chicago
+Category: restaurants
+Cuisine: tapas, small_plates
+Address: 1146 West Pratt Boulevard, Chicago IL 60626
+Description: Not listed
+Website: https://www.twistedtapas.us/
+Phone: +1-773-856-3486
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.005704
+Longitude: -87.6603083
+OpenStreetMap URL: https://www.openstreetmap.org/node/6412802632
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6412802632
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

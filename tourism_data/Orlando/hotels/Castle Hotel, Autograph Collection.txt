@@ -1,0 +1,25 @@
+Name: Castle Hotel, Autograph Collection
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8602 Universal Boulevard, Orlando FL 32819
+Description: You and your dog can literally stay like royalty at Castle Hotel, Autograph Collection — an actual castle on I-Drive. For a nonrefundable fee of $150 for the first pet and an additional $50 for the second, they permit up to two dogs per guestroom with a maximum weight of 40 pounds.
+Website: https://www.marriott.com/en-us/hotels/mcoca-castle-hotel-autograph-collection/overview/
+Phone: +1-407-345-1511
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4402036
+Longitude: -81.4691919
+OpenStreetMap URL: https://www.openstreetmap.org/way/919024018
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/919024018
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

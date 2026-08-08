@@ -1,0 +1,25 @@
+Name: Noches De Columbia
+City: NYC
+Category: restaurants
+Cuisine: spanish
+Address: 200 Baychester Avenue, 10475
+Description: Not listed
+Website: https://nochesdecolombiabronx.com/
+Phone: +1-718-320-2157
+Email: Not listed
+Opening Hours: Su-Th 09:00-21:00; Fr-Sa 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8643442
+Longitude: -73.8280942
+OpenStreetMap URL: https://www.openstreetmap.org/node/12841107501
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12841107501
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Wahlburgers
+City: Boston
+Category: restaurants
+Cuisine: burger, bar_and_grill
+Address: 132 Brookline Avenue, Boston MA 02215
+Description: Not listed
+Website: https://wahlburgers.com/boston
+Phone: +1-617-927-6810
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.345085
+Longitude: -71.1005241
+OpenStreetMap URL: https://www.openstreetmap.org/node/7683041260
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7683041260
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

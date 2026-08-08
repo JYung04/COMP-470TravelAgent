@@ -1,0 +1,25 @@
+Name: VERSUS
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 42 Province Street, Boston MA 02108
+Description: Not listed
+Website: https://www.versusboston.com/
+Phone: +1-617-482-1213
+Email: info@versusboston.com
+Opening Hours: Mo-We 15:00-23:00; Th 15:00-24:00; Fr-Sa 15:00-01:00; Su 15:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3568636
+Longitude: -71.0599611
+OpenStreetMap URL: https://www.openstreetmap.org/node/7888717566
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7888717566
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

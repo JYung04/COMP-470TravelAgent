@@ -1,0 +1,25 @@
+Name: Bindaas
+City: Washington DC
+Category: restaurants
+Cuisine: indian
+Address: 2000 Pennsylvania Avenue Northwest, Washington DC 20006
+Description: Not listed
+Website: https://www.bindaasdc.com/foggybottom
+Phone: +1 202-516-4326
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9005129
+Longitude: -77.0451591
+OpenStreetMap URL: https://www.openstreetmap.org/node/5879115485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5879115485
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

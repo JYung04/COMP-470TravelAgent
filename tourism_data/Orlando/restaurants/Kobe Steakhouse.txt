@@ -1,0 +1,25 @@
+Name: Kobe Steakhouse
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: 2901 Parkway Boulevard, Kissimmee FL 34747
+Description: Not listed
+Website: https://kobesteakhouse.com/location/kissimmee/
+Phone: +1-407-396-8088
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:00; Fr 16:30-22:00; Sa,Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3346191
+Longitude: -81.5324652
+OpenStreetMap URL: https://www.openstreetmap.org/node/6044688486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6044688486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

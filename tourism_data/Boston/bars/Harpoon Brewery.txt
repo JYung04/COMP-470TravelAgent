@@ -1,0 +1,25 @@
+Name: Harpoon Brewery
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 306 Northern Avenue, Boston 02210
+Description: With license 001, Harpoon Brewery is Massachusetts' original brewery. Come explore the history of Boston over craft beer made on-site and our soft pretzels. Located on Boston's waterfront, Harpoon Brewery is New England's largest brewer of specialty beers. Get a behind the scenes look on one of our tours. Outdoor dining is available! See amenities below for more information. This Business is Group Friendly! Visit our website or call in for more information. The Harpoon Beer Hall is a premier Boston venue. With beautiful city skyline views, beer brewed onsite and the option to work with a variety of local vendors, there is something for everyone at the beer hall. Modeled after European beer halls, our open-concept space is the perfect place to welcome guests for corporate and social gatherings, alumni events and private parties. We can host evening events.
+Website: https://www.harpoonbrewery.com/boston-brewery/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3472714
+Longitude: -71.0339692
+OpenStreetMap URL: https://www.openstreetmap.org/node/2731249378
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2731249378
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art; views

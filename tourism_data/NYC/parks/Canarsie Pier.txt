@@ -1,0 +1,25 @@
+Name: Canarsie Pier
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Canarsie is a mostly residential neighborhood in the southeastern portion of Brooklyn, New York City. Canarsie is bordered on the east by Fresh Creek Basin, East 108th Street, and Louisiana Avenue, on the north by Linden Boulevard, on the west by Ralph Avenue, on the southwest by Paerdegat Basin, and on the south by Jamaica Bay. It is adjacent to the neighborhoods of East Flatbush to the west, Flatlands and Bergen Beach to the southwest, Starrett City to the east, East New York to the northeast, and Brownsville to the north.
+Website: https://www.nps.gov/gate/learn/historyculture/canarsie-pier.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6300406
+Longitude: -73.8864375
+OpenStreetMap URL: https://www.openstreetmap.org/way/558594768
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/558594768
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

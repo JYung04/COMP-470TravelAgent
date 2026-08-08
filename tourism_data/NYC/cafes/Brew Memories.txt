@@ -1,0 +1,24 @@
+Name: Brew Memories
+City: NYC
+Category: cafes
+Cuisine: asian, coffee_shop, breakfast, sandwich
+Address: Brooklyn NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-20:30; Sa,Su 08:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6678048
+Longitude: -73.9806236
+OpenStreetMap URL: https://www.openstreetmap.org/node/8265056191
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8265056191
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

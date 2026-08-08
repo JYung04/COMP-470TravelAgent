@@ -1,0 +1,25 @@
+Name: Yossi Milo Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 245 10th Avenue, New York NY 10001
+Description: Not listed
+Website: https://www.yossimilo.com/
+Phone: Not listed
+Email: info@yossimilo.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7487598
+Longitude: -74.0036923
+OpenStreetMap URL: https://www.openstreetmap.org/node/10861507197
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10861507197
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

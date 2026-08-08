@@ -1,0 +1,25 @@
+Name: Savory Thai
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 378 Metropolitan Avenue, Brooklyn NY 11211
+Description: Not listed
+Website: https://savorythainyc.com/
+Phone: +1-347-721-3878
+Email: Not listed
+Opening Hours: Mo-Su 15:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7139481
+Longitude: -73.9555594
+OpenStreetMap URL: https://www.openstreetmap.org/node/8132573638
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8132573638
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Rob's of Brooklyn
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 4201 7th Avenue
+Description: Not listed
+Website: https://www.robsofbrooklyn.com
+Phone: +1 347-599-0179
+Email: Not listed
+Opening Hours: 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6467689
+Longitude: -74.0012096
+OpenStreetMap URL: https://www.openstreetmap.org/node/12628787690
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12628787690
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

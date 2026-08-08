@@ -1,0 +1,25 @@
+Name: One World Trade Center
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 285 Fulton Street, New York NY 10048
+Description: Not listed
+Website: https://www.wtc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7129993
+Longitude: -74.0131894
+OpenStreetMap URL: https://www.openstreetmap.org/way/713565776
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/713565776
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

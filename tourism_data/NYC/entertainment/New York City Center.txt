@@ -1,0 +1,25 @@
+Name: New York City Center
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: NY
+Description: New York City Center is a performing arts center at 131 West 55th Street between Sixth and Seventh Avenues in the Midtown Manhattan neighborhood of New York City. Developed by the Shriners between 1922 and 1924 as a Masonic meeting house, it has operated as a performing arts complex owned by the government of New York City. City Center is a performing home for several major dance companies as well as the Manhattan Theatre Club (MTC), and it hosts the Encores! musical theater series and the Fall for Dance Festival annually.
+Website: https://www.nycitycenter.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7639365
+Longitude: -73.9794055
+OpenStreetMap URL: https://www.openstreetmap.org/way/265150597
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265150597
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art; music

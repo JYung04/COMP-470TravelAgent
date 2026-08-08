@@ -1,0 +1,25 @@
+Name: Playwrights Horizons
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 416 West 42nd Street, New York NY 10036
+Description: Playwrights Horizons is a non-profit writer's theater dedicated to the development of contemporary American playwrights, and to the production of innovative new work.
+Website: https://www.playwrightshorizons.org
+Phone: +1-212-564-1235
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: designated
+Latitude: 40.7586397
+Longitude: -73.9936128
+OpenStreetMap URL: https://www.openstreetmap.org/node/6233982618
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6233982618
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

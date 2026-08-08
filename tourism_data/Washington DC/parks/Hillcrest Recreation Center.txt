@@ -1,0 +1,25 @@
+Name: Hillcrest Recreation Center
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 3100 Denver Street Southeast, 20020
+Description: park in District of Columbia, United States of America, United States of America
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8587767
+Longitude: -76.9626949
+OpenStreetMap URL: https://www.openstreetmap.org/way/295828228
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295828228
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

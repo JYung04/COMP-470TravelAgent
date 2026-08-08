@@ -1,0 +1,24 @@
+Name: E.A.T.
+City: NYC
+Category: cafes
+Cuisine: jewish, american
+Address: 1064 Madison Avenue
+Description: Not listed
+Website: https://www.elizabar.com/
+Phone: +1 212-772-0022; +1 646-358-1120
+Email: Not listed
+Opening Hours: 07:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.7773359
+Longitude: -73.9615905
+OpenStreetMap URL: https://www.openstreetmap.org/node/8333736504
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8333736504
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

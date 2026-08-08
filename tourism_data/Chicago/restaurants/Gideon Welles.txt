@@ -1,0 +1,25 @@
+Name: Gideon Welles
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 4500 North Lincoln Avenue, Chicago IL 60625
+Description: Not listed
+Website: https://gideonchicago.com/
+Phone: +1-773-907-2226
+Email: Not listed
+Opening Hours: Mo-We 15:00-01:00, Th-Su 12:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9633493
+Longitude: -87.6853445
+OpenStreetMap URL: https://www.openstreetmap.org/node/1557244593
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1557244593
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Fields Corner Library
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 1520 Dorchester Avenue, Dorchester MA 02122
+Description: Not listed
+Website: https://www.bpl.org/locations/fields-corner/
+Phone: +1-617-436-2155
+Email: fieldscorner@bpl.org
+Opening Hours: Mo, We-Th 10:00-18:00; Tu 12:00-20:00; Fr-Sa 09:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 42.2988842
+Longitude: -71.0603971
+OpenStreetMap URL: https://www.openstreetmap.org/node/666583188
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/666583188
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

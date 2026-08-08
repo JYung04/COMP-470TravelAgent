@@ -1,0 +1,24 @@
+Name: Brighton Music Hall
+City: Boston
+Category: nightlife
+Cuisine: Not listed
+Address: 158 Brighton Avenue, Allston MA 02134
+Description: Not listed
+Website: https://www.brightonmusichall.com/
+Phone: (617) 779-0140
+Email: informationbrighton@crossroadspresents.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3527175
+Longitude: -71.1326258
+OpenStreetMap URL: https://www.openstreetmap.org/way/29906245
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29906245
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; music

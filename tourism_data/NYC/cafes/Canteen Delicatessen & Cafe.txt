@@ -1,0 +1,24 @@
+Name: Canteen Delicatessen & Cafe
+City: NYC
+Category: cafes
+Cuisine: breakfast, sandwich, burger
+Address: 57 4th Avenue
+Description: Not listed
+Website: https://www.canteendelicatessencafe.com/
+Phone: +1 718 789 2133
+Email: Not listed
+Opening Hours: Mo-Su 06:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6825167
+Longitude: -73.9793167
+OpenStreetMap URL: https://www.openstreetmap.org/node/1379559786
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1379559786
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

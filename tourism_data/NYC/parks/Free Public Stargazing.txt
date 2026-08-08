@@ -1,0 +1,25 @@
+Name: Free Public Stargazing
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Stargazing through telescopes with members of the Amateur Astronomers Association every Tuesday from dusk to park closure, weather permitting.
+Website: https://www.thehighline.org/events/stargazing/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu dusk-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.740586
+Longitude: -74.0081171
+OpenStreetMap URL: https://www.openstreetmap.org/node/5213998223
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5213998223
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

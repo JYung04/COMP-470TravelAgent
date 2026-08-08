@@ -1,0 +1,25 @@
+Name: Bella Napoli Pizzeria
+City: Orlando
+Category: restaurants
+Cuisine: pizza
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-407-614-8597
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5575479
+Longitude: -81.5431802
+OpenStreetMap URL: https://www.openstreetmap.org/node/13822075509
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13822075509
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

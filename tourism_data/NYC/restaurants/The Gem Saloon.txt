@@ -1,0 +1,25 @@
+Name: The Gem Saloon
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 375 3rd Avenue, 10016
+Description: Not listed
+Website: https://thegemsaloonnyc.com
+Phone: +1-646-612-7757
+Email: Not listed
+Opening Hours: Mo-Th 11:00-02:00; Fr-Sa 11:00-04:00; Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.741373
+Longitude: -73.9810484
+OpenStreetMap URL: https://www.openstreetmap.org/node/5265743035
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5265743035
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

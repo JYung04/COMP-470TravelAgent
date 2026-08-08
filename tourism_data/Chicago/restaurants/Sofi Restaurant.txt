@@ -1,0 +1,25 @@
+Name: Sofi Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 616 South Dearborn Street, Chicago IL 60605
+Description: Not listed
+Website: https://www.sofichicago.com/
+Phone: +1-312-753-5504
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8738671
+Longitude: -87.6293727
+OpenStreetMap URL: https://www.openstreetmap.org/node/6300753400
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6300753400
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

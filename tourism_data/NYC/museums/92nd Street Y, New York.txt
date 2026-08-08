@@ -1,0 +1,25 @@
+Name: 92nd Street Y, New York
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1395 Lexington Avenue, New York NY 10128
+Description: Not listed
+Website: https://www.92ny.org/
+Phone: +1-212-415-5500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7830439
+Longitude: -73.9527658
+OpenStreetMap URL: https://www.openstreetmap.org/node/3729655969
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3729655969
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

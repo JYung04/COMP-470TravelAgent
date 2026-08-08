@@ -1,0 +1,25 @@
+Name: Fat Chris's Pizza and Such
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 1706 West Foster Avenue, Chicago IL 60640
+Description: Not listed
+Website: https://www.fatchrispizza.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9762615
+Longitude: -87.6724991
+OpenStreetMap URL: https://www.openstreetmap.org/node/11699848887
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11699848887
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

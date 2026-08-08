@@ -1,0 +1,25 @@
+Name: Fair Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: NY
+Description: movie theater in East Elmhurst, Queens, New York City, United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7631675
+Longitude: -73.8783701
+OpenStreetMap URL: https://www.openstreetmap.org/node/368053206
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368053206
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

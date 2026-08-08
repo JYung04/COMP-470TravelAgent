@@ -1,0 +1,25 @@
+Name: Pete's Candy Store
+City: NYC
+Category: bars
+Cuisine: snack
+Address: Not listed
+Description: Not listed
+Website: https://www.petescandystore.com
+Phone: +1-718-302-3770
+Email: Not listed
+Opening Hours: Mo-Th 17:00-02:00, Fr-Sa 16:00-04:00, Su 15:00-02:00
+Wheelchair Accessibility: limited
+Latitude: 40.7181021
+Longitude: -73.9501774
+OpenStreetMap URL: https://www.openstreetmap.org/node/6403009246
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6403009246
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

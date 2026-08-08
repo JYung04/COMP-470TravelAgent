@@ -1,0 +1,25 @@
+Name: Bronx Museum of the Arts
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1040 Grand Concourse, Bronx NY 10456
+Description: Not listed
+Website: https://bronxmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 13:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.8310911
+Longitude: -73.9199471
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061518
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368061518
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

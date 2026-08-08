@@ -1,0 +1,25 @@
+Name: Bakey
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 151 Tremont Street
+Description: Indulge in absolute freshness, straight from our ovens to your plate. At Bakey, it's all about enjoying the present, one delectable bite at a time.
+Website: https://www.bakeybabka.com/
+Phone: +1-617-670-0114
+Email: Not listed
+Opening Hours: Mo-Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3545247
+Longitude: -71.0634501
+OpenStreetMap URL: https://www.openstreetmap.org/node/11177390572
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11177390572
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

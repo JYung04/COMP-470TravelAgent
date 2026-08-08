@@ -1,0 +1,25 @@
+Name: Dr. Smood
+City: NYC
+Category: cafes
+Cuisine: juice
+Address: 1151 Broadway, 10001
+Description: Not listed
+Website: https://www.drsmood.com
+Phone: +1-646-713-1380
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7442688
+Longitude: -73.9891139
+OpenStreetMap URL: https://www.openstreetmap.org/node/7369844955
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7369844955
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

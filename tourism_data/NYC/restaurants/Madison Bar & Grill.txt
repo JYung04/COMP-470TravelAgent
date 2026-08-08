@@ -1,0 +1,25 @@
+Name: Madison Bar & Grill
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 1316 Washington St, Hoboken, NJ 07030, United States
+Description: Not listed
+Website: https://www.madisonbarandgrill.com/
+Phone: +1-201-386-0300
+Email: Not listed
+Opening Hours: Mo-We 11:30-22:00; Th-Fr 11:30-23:00; Sa 11:00-23:00; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7531369
+Longitude: -74.026374
+OpenStreetMap URL: https://www.openstreetmap.org/node/10656671765
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10656671765
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

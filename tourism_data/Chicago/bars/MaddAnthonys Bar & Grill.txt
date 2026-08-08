@@ -1,0 +1,25 @@
+Name: MaddAnthonys Bar & Grill
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3350 West 47th Street, Chicago IL 60632
+Description: Not listed
+Website: https://maddanthonysbar.com/
+Phone: +1-773-523-2205
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8083393
+Longitude: -87.7083729
+OpenStreetMap URL: https://www.openstreetmap.org/node/6321326373
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6321326373
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Sidetrack
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3349 North Halsted Street, Chicago IL 60657
+Description: Not listed
+Website: https://www.sidetrackchicago.com/
+Phone: +1-773-477-9189
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9432707
+Longitude: -87.6492354
+OpenStreetMap URL: https://www.openstreetmap.org/node/6297839310
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6297839310
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

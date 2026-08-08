@@ -1,0 +1,25 @@
+Name: Empire Steak House
+City: NYC
+Category: restaurants
+Cuisine: steak_house
+Address: 151 East 50th Street New York NY 10022
+Description: Not listed
+Website: https://www.empiresteakhousenyc.com/times-square
+Phone: 212-355-5542
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7644424
+Longitude: -73.9830805
+OpenStreetMap URL: https://www.openstreetmap.org/node/9487723017
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9487723017
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

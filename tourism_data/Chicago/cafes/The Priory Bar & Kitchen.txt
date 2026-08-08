@@ -1,0 +1,25 @@
+Name: The Priory Bar & Kitchen
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 5130 North Western Avenue, Chicago IL 60625
+Description: Not listed
+Website: https://www.priorychicago.com/
+Phone: +1-773-942-7200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9750479
+Longitude: -87.6895168
+OpenStreetMap URL: https://www.openstreetmap.org/node/6315715649
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6315715649
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

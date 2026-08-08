@@ -1,0 +1,24 @@
+Name: Hon Kee Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: chinese, barbecue
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1 773-878-6650
+Email: Not listed
+Opening Hours: We-Mo 09:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9736536
+Longitude: -87.6575386
+OpenStreetMap URL: https://www.openstreetmap.org/node/7152419401
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7152419401
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

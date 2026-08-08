@@ -1,0 +1,25 @@
+Name: Pitaki
+City: Chicago
+Category: restaurants
+Cuisine: greek
+Address: 950 West Fulton Market, Chicago IL 60607
+Description: Not listed
+Website: https://pitaki.us
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-20:00; Su 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8868801
+Longitude: -87.651859
+OpenStreetMap URL: https://www.openstreetmap.org/node/12350286523
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12350286523
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

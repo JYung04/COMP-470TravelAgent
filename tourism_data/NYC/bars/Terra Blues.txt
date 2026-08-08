@@ -1,0 +1,25 @@
+Name: Terra Blues
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 149 Bleecker Street
+Description: Not listed
+Website: https://www.terrablues.com/
+Phone: +1-212-777-7776
+Email: Not listed
+Opening Hours: Mo-Th, Su 18:30-02:00; Fr 06:30-03:00; Sa 18:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.728362
+Longitude: -73.999283
+OpenStreetMap URL: https://www.openstreetmap.org/node/3863833957
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3863833957
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Yoma
+City: Boston
+Category: restaurants
+Cuisine: burmese
+Address: 5 North Beacon Street, 02134
+Description: Not listed
+Website: https://yomaboston.com/
+Phone: +1 617-783-1372
+Email: Not listed
+Opening Hours: Mo-Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3537493
+Longitude: -71.1375944
+OpenStreetMap URL: https://www.openstreetmap.org/node/562619361
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/562619361
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

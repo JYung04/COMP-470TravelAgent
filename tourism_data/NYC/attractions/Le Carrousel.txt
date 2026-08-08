@@ -1,0 +1,25 @@
+Name: Le Carrousel
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Bryant Park is a 9.6-acre (3.9 ha), privately managed public park in the New York City borough of Manhattan. It is located between Fifth Avenue and Avenue of the Americas and between 40th and 42nd Streets in Midtown Manhattan. The eastern half of Bryant Park is occupied by the Main Branch of the New York Public Library. The western half contains a lawn, shaded walkways, and amenities such as a carousel, and is located entirely over an underground structure that houses the library's stacks. The park hosts several events, including a seasonal "Winter Village" with an ice rink and shops during the winter.
+Website: https://bryantpark.org/activities/le-carrousel
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7534287
+Longitude: -73.9838795
+OpenStreetMap URL: https://www.openstreetmap.org/node/3597257542
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3597257542
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

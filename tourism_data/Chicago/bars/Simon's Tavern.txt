@@ -1,0 +1,25 @@
+Name: Simon's Tavern
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 5210 North Clark Street, Chicago IL 60640
+Description: This Andersonville hole-in-the-wall has been a favorite local hangout since it opened in 1934. Back then, Simon’s was a grocery store with a subterranean speakeasy for the area’s early immigrants. Today, the neighborhood’s Swedish roots are still on display at Simon’s — you’ll find Viking paraphernalia on the walls and glögg (a traditional mulled wine) behind the bar. Unlike some speakeasies, it’s easy enough to find.
+Website: https://www.instagram.com/simonstavern/?hl=en
+Phone: +1-773-878-0894
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9765959
+Longitude: -87.668561
+OpenStreetMap URL: https://www.openstreetmap.org/node/3015683270
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3015683270
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

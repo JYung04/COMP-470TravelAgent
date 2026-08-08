@@ -1,0 +1,25 @@
+Name: Austin House
+City: NYC
+Category: restaurants
+Cuisine: American
+Address: 72-04 Austin Street
+Description: Not listed
+Website: http://austinhousedinernyc.com/
+Phone: +1 718 544 2276
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.719179
+Longitude: -73.8424983
+OpenStreetMap URL: https://www.openstreetmap.org/node/9045408690
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9045408690
+Price: Not listed
+Rating: 3.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

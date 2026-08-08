@@ -1,0 +1,25 @@
+Name: DC Capitol Square
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1500 East Capitol Street Northeast, Washington DC 20003-1507
+Description: Not listed
+Website: https://www.capitolsquarebar.com/
+Phone: +1-202-507-8492
+Email: Not listed
+Opening Hours: Su-Th 08:00-23:00; Fr-Sa 08:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.890065
+Longitude: -76.983454
+OpenStreetMap URL: https://www.openstreetmap.org/node/2341048306
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2341048306
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

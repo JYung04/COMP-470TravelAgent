@@ -1,0 +1,25 @@
+Name: William H.G. Fitzgerald Tennis Stadium
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: Washington
+Description: The William H.G. FitzGerald Tennis Center is a tennis venue located in Rock Creek Park in Washington, D.C., United States It is named after William H. G. FitzGerald, a Washington-based private investor who was active in philanthropies and served as United States Ambassador to Ireland. It houses 15 hard courts and 10 clay courts. There are also five indoors courts which are heated and available in winter. The main stadium seats 7,500 spectators, including 31 suites with air conditioning. The center is the home of the Washington Open, an annual ATP Tour and WTA Tour event.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9541194
+Longitude: -77.038253
+OpenStreetMap URL: https://www.openstreetmap.org/way/83425695
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/83425695
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

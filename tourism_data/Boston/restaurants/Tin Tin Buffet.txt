@@ -1,0 +1,24 @@
+Name: Tin Tin Buffet
+City: Boston
+Category: restaurants
+Cuisine: american, chinese
+Address: 200 North Beacon Street, MA 02135
+Description: Not listed
+Website: https://www.bostontintinbuffet.com/
+Phone: +1-617-254-7888
+Email: info@WoiEat.com
+Opening Hours: Fr,Sa 11:15-21:30, Su 11:15-09:15; Tu off, Mo,We,Th 09:15-21:15
+Wheelchair Accessibility: Not listed
+Latitude: 42.3556527
+Longitude: -71.1480504
+OpenStreetMap URL: https://www.openstreetmap.org/way/29778176
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29778176
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

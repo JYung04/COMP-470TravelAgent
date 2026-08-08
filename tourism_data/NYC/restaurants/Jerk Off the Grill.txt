@@ -1,0 +1,25 @@
+Name: Jerk Off the Grill
+City: NYC
+Category: restaurants
+Cuisine: jamaican
+Address: 354 East 78th Street, 10075
+Description: Not listed
+Website: Not listed
+Phone: +1 212-249-0305
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7717892
+Longitude: -73.9537771
+OpenStreetMap URL: https://www.openstreetmap.org/node/6691104532
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6691104532
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

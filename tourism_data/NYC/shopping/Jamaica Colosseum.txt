@@ -1,0 +1,25 @@
+Name: Jamaica Colosseum
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.thejamaicacolosseummall.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-We 11:00-19:00, Th 11:00-20:00, Fr 10:00-20:00, Su 10:00-20:00, Dec 17-19 11:00-19:00, Dec 20 11:00-20:00, Dec 21 10:00-20:00, Dec 22 9:00-20:00, Dec 23 10:00-20:00, Dec 24 9:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7065251
+Longitude: -73.7960509
+OpenStreetMap URL: https://www.openstreetmap.org/way/283161986
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/283161986
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,25 @@
+Name: Kristoffer’s Cafe & Bakery
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1733 South Halsted Street, Chicago IL 60608
+Description: Not listed
+Website: https://kristofferscakes.com/
+Phone: +1 312-829-4150
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.858146
+Longitude: -87.6464453
+OpenStreetMap URL: https://www.openstreetmap.org/node/691866426
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/691866426
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

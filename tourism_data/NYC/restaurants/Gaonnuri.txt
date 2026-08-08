@@ -1,0 +1,25 @@
+Name: Gaonnuri
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 1250 Broadway, New York NY 10001
+Description: Not listed
+Website: https://www.gaonnurinyc.com/
+Phone: +1 212-971-9045
+Email: info@gaonnurinyc.com
+Opening Hours: Mo-Th 17:30-23:30; Fr, Sa 17:00-24:00; Su 16:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7478213
+Longitude: -73.9878356
+OpenStreetMap URL: https://www.openstreetmap.org/node/4146376405
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4146376405
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

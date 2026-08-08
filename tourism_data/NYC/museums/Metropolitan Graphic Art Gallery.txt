@@ -1,0 +1,25 @@
+Name: Metropolitan Graphic Art Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1504 2nd Avenue
+Description: Not listed
+Website: https://mgagallery.com
+Phone: +1 212-737-9703
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7728676
+Longitude: -73.9551746
+OpenStreetMap URL: https://www.openstreetmap.org/node/12150623970
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12150623970
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

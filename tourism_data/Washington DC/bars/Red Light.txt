@@ -1,0 +1,25 @@
+Name: Red Light
+City: Washington DC
+Category: bars
+Cuisine: pizza
+Address: 1401 R Street Northwest, Washington DC 20009
+Description: Not listed
+Website: https://www.redlightpizzabar.com/
+Phone: +1-202-234-0400
+Email: info@redlightbardc.com
+Opening Hours: Mo-Th 17:00+; Fr-Su 15:00+
+Wheelchair Accessibility: Not listed
+Latitude: 38.912787
+Longitude: -77.0321987
+OpenStreetMap URL: https://www.openstreetmap.org/node/2819277380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2819277380
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

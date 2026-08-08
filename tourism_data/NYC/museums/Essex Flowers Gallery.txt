@@ -1,0 +1,25 @@
+Name: Essex Flowers Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 19 Monroe Street, New York NY 10002
+Description: Not listed
+Website: https://essexflowers.us
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7117466
+Longitude: -73.9956636
+OpenStreetMap URL: https://www.openstreetmap.org/node/6231307189
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6231307189
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

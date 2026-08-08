@@ -1,0 +1,25 @@
+Name: MingHin Cuisine
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 333 East Benton Place, Chicago IL 60601
+Description: Not listed
+Website: https://www.minghincuisine.com/
+Phone: +1-312-228-1333
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 41.8851747
+Longitude: -87.6190605
+OpenStreetMap URL: https://www.openstreetmap.org/node/6326420731
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6326420731
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

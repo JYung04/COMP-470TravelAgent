@@ -1,0 +1,25 @@
+Name: NoMo SoHo
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 9 Crosby Street, New York NY 10013
+Description: Not listed
+Website: https://www.nomosoho.com/
+Phone: +1-646-218-6400
+Email: info@nomosoho.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7197439
+Longitude: -73.999815
+OpenStreetMap URL: https://www.openstreetmap.org/way/247892575
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/247892575
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

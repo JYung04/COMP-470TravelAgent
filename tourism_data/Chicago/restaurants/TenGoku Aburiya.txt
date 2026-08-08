@@ -1,0 +1,25 @@
+Name: TenGoku Aburiya
+City: Chicago
+Category: restaurants
+Cuisine: japanese
+Address: 651 West Washington Boulevard, Chicago IL 60661
+Description: Not listed
+Website: https://www.tengokuaburiya.com/
+Phone: +1-312-846-6633
+Email: Not listed
+Opening Hours: Tu-Th 11:30-13:30, 17:00-22:00; Sa 16:00-23:00; Su 17:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8830031
+Longitude: -87.6443758
+OpenStreetMap URL: https://www.openstreetmap.org/node/11673117986
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11673117986
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

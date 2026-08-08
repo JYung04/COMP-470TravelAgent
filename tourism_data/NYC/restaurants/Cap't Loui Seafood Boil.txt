@@ -1,0 +1,24 @@
+Name: Cap't Loui Seafood Boil
+City: NYC
+Category: restaurants
+Cuisine: cajun, seafood
+Address: 43-10 Queens Boulevard, Sunnyside NY 11104
+Description: Not listed
+Website: https://captloui.com
+Phone: +1-718-255-1014
+Email: Not listed
+Opening Hours: Mo-Su 11:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.743144
+Longitude: -73.9210367
+OpenStreetMap URL: https://www.openstreetmap.org/node/2844950257
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2844950257
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

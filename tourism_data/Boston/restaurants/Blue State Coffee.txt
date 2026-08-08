@@ -1,0 +1,25 @@
+Name: Blue State Coffee
+City: Boston
+Category: restaurants
+Cuisine: international
+Address: 155 Seaport Boulevard, 02210
+Description: Not listed
+Website: Not listed
+Phone: +1 857 250 2484
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-19:00; Sa 08:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3502312
+Longitude: -71.0424995
+OpenStreetMap URL: https://www.openstreetmap.org/node/4270153390
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4270153390
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

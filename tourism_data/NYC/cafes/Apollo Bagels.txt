@@ -1,0 +1,24 @@
+Name: Apollo Bagels
+City: NYC
+Category: cafes
+Cuisine: bagel, sandwich
+Address: 133 North 7th Street, Brooklyn NY 11249
+Description: Not listed
+Website: https://www.apollobagels.com
+Phone: +1-844-218-3081
+Email: hello@apollobagels.com
+Opening Hours: Mo-Th 07:00-15:00, Fr-Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.718457
+Longitude: -73.9585343
+OpenStreetMap URL: https://www.openstreetmap.org/node/5502443030
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5502443030
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

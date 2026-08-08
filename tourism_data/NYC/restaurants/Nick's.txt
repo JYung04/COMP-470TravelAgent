@@ -1,0 +1,25 @@
+Name: Nick's
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1814 2nd Avenue
+Description: Not listed
+Website: https://www.nicksnyc.com/
+Phone: +1 212-987-5700
+Email: info@nicksnyc.com
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7827672
+Longitude: -73.9479303
+OpenStreetMap URL: https://www.openstreetmap.org/node/5540462860
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5540462860
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Shokolad
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 2524 West Chicago Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://www.shokoladpastryandcafe.com/
+Phone: +1 773 276 6402
+Email: shokolad@sbcglobal.net
+Opening Hours: Tu-Fr 10:00-17:00; Sa 09:00-17:00; Su 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8958438
+Longitude: -87.6904051
+OpenStreetMap URL: https://www.openstreetmap.org/node/1786793074
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1786793074
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

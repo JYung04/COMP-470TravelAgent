@@ -1,0 +1,25 @@
+Name: Sunset Pizza Restaurant
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 645 Rossville Avenue, Staten Island NY 10309
+Description: Not listed
+Website: https://www.sunsetpizza.net/
+Phone: +1 718-356-5918
+Email: Not listed
+Opening Hours: 11:00-21:45
+Wheelchair Accessibility: yes
+Latitude: 40.5427501
+Longitude: -74.2077902
+OpenStreetMap URL: https://www.openstreetmap.org/node/1708724065
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1708724065
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Velvette Black
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, pastry
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6742229
+Longitude: -73.9752617
+OpenStreetMap URL: https://www.openstreetmap.org/node/4252917490
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4252917490
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,24 @@
+Name: Boston Conservative Club
+City: Boston
+Category: bars
+Cuisine: Social Club
+Address: 16b Main Ridge West, Boston PE21 6QQ
+Description: Not listed
+Website: http://www.bostonconservativeclub.co.uk
+Phone: 01205 362309
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9782713
+Longitude: -0.0205332
+OpenStreetMap URL: https://www.openstreetmap.org/way/321321069
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/321321069
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

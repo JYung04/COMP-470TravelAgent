@@ -1,0 +1,25 @@
+Name: Grand Brasserie
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 89 East 42nd Street, New York NY 10017
+Description: Not listed
+Website: https://www.grandbrasserie.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 5:30 - 2:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7524928
+Longitude: -73.9775859
+OpenStreetMap URL: https://www.openstreetmap.org/node/12377182082
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12377182082
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

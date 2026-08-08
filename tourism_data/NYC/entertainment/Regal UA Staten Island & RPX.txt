@@ -1,0 +1,25 @@
+Name: Regal UA Staten Island & RPX
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 2474 Forest Avenue, 10303
+Description: movie theater in Mariners Harbor, Staten Island, New York City, United States
+Website: https://regmovies.com/theatres/regal-ua-staten-island-rpx/1331
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6260851
+Longitude: -74.1728258
+OpenStreetMap URL: https://www.openstreetmap.org/way/241819049
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241819049
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

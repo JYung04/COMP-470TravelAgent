@@ -1,0 +1,25 @@
+Name: The Canary
+City: NYC
+Category: bars
+Cuisine: irish
+Address: 789 Franklin Avenue, 11238
+Description: Not listed
+Website: https://www.thecanarybk.com/
+Phone: +13472210881
+Email: Not listed
+Opening Hours: Mo-Tu 15:00-02:00; Su 10:00-02:00; Sa 10:00-04:00; We 16:00-02:00; Th 15:00-04:00; Fr 12:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6718715
+Longitude: -73.9573663
+OpenStreetMap URL: https://www.openstreetmap.org/node/13952247701
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13952247701
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

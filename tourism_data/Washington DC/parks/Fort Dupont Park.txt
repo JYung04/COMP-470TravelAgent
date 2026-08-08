@@ -1,0 +1,25 @@
+Name: Fort Dupont Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Fort Dupont Park is a 376-acre (1.52 km2) wooded park under the management of the National Park Service located in Washington, DC. The name of the park comes from the old Civil War earthwork fort that lies within the park. The fort was one of several designed to defend Washington from a Confederate attack during the Civil War. There are few remains of the actual fortifications.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.877225
+Longitude: -76.9509131
+OpenStreetMap URL: https://www.openstreetmap.org/relation/16518270
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/16518270
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

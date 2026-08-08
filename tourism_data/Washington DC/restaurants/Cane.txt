@@ -1,0 +1,25 @@
+Name: Cane
+City: Washington DC
+Category: restaurants
+Cuisine: caribbean
+Address: 403 H Street Northeast, Washington 20002
+Description: Not listed
+Website: https://www.cane-dc.com/
+Phone: +1-202-675-2011
+Email: Not listed
+Opening Hours: Su off; Mo-Th 11:00-21:00; Fr-Sa 11:00-21:30;
+Wheelchair Accessibility: Not listed
+Latitude: 38.900071
+Longitude: -77.0003301
+OpenStreetMap URL: https://www.openstreetmap.org/node/3137411785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3137411785
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

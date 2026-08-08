@@ -1,0 +1,25 @@
+Name: Mayahuel
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 3207 34th Avenue, Astoria NY 11106
+Description: Not listed
+Website: https://www.mayahuelastoria.com/
+Phone: +1-347-639-0409
+Email: mayahuelcorp@gmail.com
+Opening Hours: Mo-Fr 16:00-23:00; Sa-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7593073
+Longitude: -73.9261544
+OpenStreetMap URL: https://www.openstreetmap.org/node/12133056406
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12133056406
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

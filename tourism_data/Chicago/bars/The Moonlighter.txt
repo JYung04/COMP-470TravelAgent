@@ -1,0 +1,25 @@
+Name: The Moonlighter
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3204 West Armitage Avenue, Chicago IL 60647
+Description: At first glance, The Moonlighter seems like your typical neighborhood bar. But there are a few unexpected twists. First, there’s the world-class cocktail program designed by the team behind Scofflaw (the acclaimed cocktail bar just across the street). Then there’s the entire vegetarian-friendly menu that includes everything from vegan renditions of wings, tacos, and burgers. But the thing that keeps locals coming back? The spacious, dog-friendly patio where you can enjoy cold pints of more than
+Website: https://www.themoonlighterchicago.com/
+Phone: +1-773-360-8896
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9177215
+Longitude: -87.7072785
+OpenStreetMap URL: https://www.openstreetmap.org/node/5769288152
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5769288152
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: The Anthem
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: 901 Wharf Street Southwest, Washington DC 20024
+Description: Rock concert hall and club venue at The Wharf in Washington, DC with a maximum capacity of 6,000.
+Website: https://www.theanthemdc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8800652
+Longitude: -77.0258973
+OpenStreetMap URL: https://www.openstreetmap.org/node/5156179874
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5156179874
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

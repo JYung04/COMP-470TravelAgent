@@ -1,0 +1,25 @@
+Name: Yang Guo Fu
+City: NYC
+Category: restaurants
+Cuisine: sandwich
+Address: 213 West 35th Street
+Description: Not listed
+Website: https://ygfny.com/ygfmalatang1
+Phone: +1 6464558964
+Email: info@cutlets.co
+Opening Hours: Mo-Su 10:00-22:15
+Wheelchair Accessibility: Not listed
+Latitude: 40.7520011
+Longitude: -73.9906484
+OpenStreetMap URL: https://www.openstreetmap.org/node/9838737047
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9838737047
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

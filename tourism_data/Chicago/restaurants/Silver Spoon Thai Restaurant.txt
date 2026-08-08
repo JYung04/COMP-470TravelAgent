@@ -1,0 +1,24 @@
+Name: Silver Spoon Thai Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: thai, asian
+Address: 710 North Rush Street, Chicago IL 60611
+Description: Not listed
+Website: http://www.silverspoonasian.com/
+Phone: +1-312-944-7100
+Email: Not listed
+Opening Hours: Su-Th 11:00-23:00; Fr-Sa 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8954146
+Longitude: -87.6256607
+OpenStreetMap URL: https://www.openstreetmap.org/node/5457023054
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5457023054
+Price: Not listed
+Rating: 4.2
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

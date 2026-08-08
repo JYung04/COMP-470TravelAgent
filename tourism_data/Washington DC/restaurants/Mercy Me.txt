@@ -1,0 +1,25 @@
+Name: Mercy Me
+City: Washington DC
+Category: restaurants
+Cuisine: Breakfast and Brunch, American, Sandwiches
+Address: 1143 New Hampshire Avenue Northwest, Washington DC 20037
+Description: Not listed
+Website: https://www.mercymedc.com/
+Phone: +1 202-828-7762
+Email: Not listed
+Opening Hours: Mo-Th,Su 17:00-22:00; Fr-Sa 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9049514
+Longitude: -77.0474824
+OpenStreetMap URL: https://www.openstreetmap.org/node/10942461438
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10942461438
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

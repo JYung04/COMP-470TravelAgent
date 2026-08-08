@@ -1,0 +1,25 @@
+Name: Three Legged Cat
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 142 Waterbury Street, Brooklyn NY 11206
+Description: Not listed
+Website: https://www.threeleggedcatbk.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7122831
+Longitude: -73.9380103
+OpenStreetMap URL: https://www.openstreetmap.org/node/12549245008
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12549245008
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

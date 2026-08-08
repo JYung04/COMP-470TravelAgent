@@ -1,0 +1,25 @@
+Name: Izakaya
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 705 6th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.daikaya.com/location/daikaya/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8986189
+Longitude: -77.0196767
+OpenStreetMap URL: https://www.openstreetmap.org/node/2419113016
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2419113016
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

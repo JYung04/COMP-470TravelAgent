@@ -1,0 +1,25 @@
+Name: Charlestown Marina
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Located at the shores of beautiful Charlestown, Massachusetts, where our nation’s past, present, and future converge, the state-of-the-art Charlestown Marina offers a safe and comfortable harbor for all, while offering an ideal location from which to explore this amazing region.
+Website: https://charlestownmamarina.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3744878
+Longitude: -71.0493605
+OpenStreetMap URL: https://www.openstreetmap.org/way/838833842
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/838833842
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

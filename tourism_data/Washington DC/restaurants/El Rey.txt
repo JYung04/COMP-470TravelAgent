@@ -1,0 +1,25 @@
+Name: El Rey
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 919 U Street Northwest, Washington DC 20001-4019
+Description: Not listed
+Website: https://elreydc.com/
+Phone: +1 202-506-6418
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9171602
+Longitude: -77.0247933
+OpenStreetMap URL: https://www.openstreetmap.org/node/4516200579
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4516200579
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

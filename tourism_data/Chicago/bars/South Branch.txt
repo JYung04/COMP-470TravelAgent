@@ -1,0 +1,25 @@
+Name: South Branch
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 100 South Wacker Drive
+Description: Not listed
+Website: https://southbranchchicago.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Tu,Fr 11:00-21:00; We-Th 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.880497
+Longitude: -87.6378185
+OpenStreetMap URL: https://www.openstreetmap.org/node/2485002923
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2485002923
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

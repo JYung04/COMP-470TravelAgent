@@ -1,0 +1,25 @@
+Name: Bethesda Crab House
+City: Washington DC
+Category: restaurants
+Cuisine: Crab house
+Address: 4958 Bethesda Avenue, 20814
+Description: Not listed
+Website: https://www.bethesdacrabhouse.com/
+Phone: +1 301-652-3382
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.980565
+Longitude: -77.1003455
+OpenStreetMap URL: https://www.openstreetmap.org/way/117426033
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/117426033
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

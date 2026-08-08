@@ -1,0 +1,25 @@
+Name: Perry's Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 1811 Columbia Road Northwest, Washington DC 20009
+Description: Adams Morgan Thanks to its community-minded drag brunches, its idyllic yet low-key rooftop and its killer Japanese menu, Perry's is always a fan favorite. In 2022, Chef Masako Morishita became the first Japanese woman to helm the kitchen and refreshed the menu to reflect her adventurous brand of “modern comfort food," including parmesan-topped edamame dumplings, shrimp katsu burgers on potato buns (held together by pink flamingo cocktail picks), udon carbonara and a special Japanese breakfast se
+Website: https://www.perrysam.com/
+Phone: +1-202-234-6218
+Email: Not listed
+Opening Hours: Mo-Th 16:00-21:30; Fr-Sa 16:00-22:00; Su 10:00-12:00,13:00-15:00,17:30-21:30
+Wheelchair Accessibility: no
+Latitude: 38.922119
+Longitude: -77.04354
+OpenStreetMap URL: https://www.openstreetmap.org/node/814338243
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/814338243
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Jazz Gallery
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 1160 Broadway, 10001
+Description: 1158 Broadway, 5th fl. , Nomad The Jazz Gallery, first in Soho and now in Nomad, has been nurturing the newest generations of jazz masters since 1995, when it was founded by Dale Fitzgerald, Lezlie Harrison and the late Roy Hargrove. The cultural organization is more than a performance venue; it is a musical laboratory, offering residencies and other opportunities for players early in their careers, many of whom, like Vijay Iyer and Miguel Zenón, have gone on to stardom. It has concert-hall seat
+Website: https://jazzgallery.nyc/
+Phone: Not listed
+Email: info@jazzgallery.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7446396
+Longitude: -73.9886046
+OpenStreetMap URL: https://www.openstreetmap.org/node/6145702591
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6145702591
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; music

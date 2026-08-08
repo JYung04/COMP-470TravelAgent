@@ -1,0 +1,25 @@
+Name: The Hall of Presidents
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The Hall of Presidents is a theater attraction located in Liberty Square in the Magic Kingdom Park at the Walt Disney World Resort. The attraction is a multimedia presentation featuring Audio-Animatronic figures of all 45 individuals who have served as president of the United States. Originally conceived by Walt Disney as an attraction for Disneyland Park in California, the show opened on October 1, 1971, along with the rest of the Magic Kingdom.
+Website: https://disneyworld.disney.go.com/attractions/magic-kingdom/hall-of-presidents/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4196758
+Longitude: -81.582083
+OpenStreetMap URL: https://www.openstreetmap.org/way/296781801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/296781801
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

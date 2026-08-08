@@ -1,0 +1,25 @@
+Name: Capital Crescent Trail Special Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Special
+Website: https://www.montgomeryparks.org/parks_facilities_directory/capitalcrescenttrailsp.shtm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9403043
+Longitude: -77.1158731
+OpenStreetMap URL: https://www.openstreetmap.org/relation/13248624
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/13248624
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

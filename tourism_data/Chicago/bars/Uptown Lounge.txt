@@ -1,0 +1,25 @@
+Name: Uptown Lounge
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1136 West Lawrence Avenue, Chicago IL 60640
+Description: Not listed
+Website: https://uptownlounge.net/
+Phone: +1-773-878-1136
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9691542
+Longitude: -87.6591837
+OpenStreetMap URL: https://www.openstreetmap.org/node/3021698643
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3021698643
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: City Table
+City: Boston
+Category: restaurants
+Cuisine: American
+Address: 65 Exeter Street, Boston MA 02116
+Description: Not listed
+Website: https://citytableboston.com/
+Phone: +1-617-933-4800
+Email: info@citytableboston.com
+Opening Hours: Mo-Fr 07:00-11:00, Sa,Su 07:00-15:00, Mo-Su 16:30-18:00+
+Wheelchair Accessibility: Not listed
+Latitude: 42.3490394
+Longitude: -71.0794633
+OpenStreetMap URL: https://www.openstreetmap.org/node/7539230623
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7539230623
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Fort Jay
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Governor's Island
+Description: Fort Jay is a coastal bastion fort and the name of a former United States Army post on Governors Island in New York Harbor, within New York City. Fort Jay is the oldest existing defensive structure on the island, and was named for John Jay, a member of the Federalist Party, New York governor, Chief Justice of the United States, Secretary of State, and one of the Founding Fathers of the United States. It was built in 1794 to defend Upper New York Bay, but has served other purposes. From 1806 to 1904 it was named Fort Columbus, presumably for explorer Christopher Columbus. Today, the National Park Service administers Fort Jay and Castle Williams as the Governors Island National Monument.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6914175
+Longitude: -74.0160006
+OpenStreetMap URL: https://www.openstreetmap.org/way/1388461669
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1388461669
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; art

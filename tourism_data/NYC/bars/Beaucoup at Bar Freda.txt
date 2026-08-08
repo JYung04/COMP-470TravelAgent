@@ -1,0 +1,25 @@
+Name: Beaucoup at Bar Freda
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 801 Seneca Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-267-481-0677
+Email: Not listed
+Opening Hours: Mo-Fr 17:00-28:00; Sa, Su 14:00-28:00
+Wheelchair Accessibility: yes
+Latitude: 40.7015425
+Longitude: -73.9052425
+OpenStreetMap URL: https://www.openstreetmap.org/node/6679254459
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6679254459
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

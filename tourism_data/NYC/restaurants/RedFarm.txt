@@ -1,0 +1,25 @@
+Name: RedFarm
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 529 Hudson Street
+Description: Not listed
+Website: https://www.redfarmnyc.com/location/west-village/
+Phone: +1-212-792-9700
+Email: events@redfarmnyc.com
+Opening Hours: Mo-Fr 17:00-23:45; Sa 11:00-14:30, 17:00-23:45; Su 11:00-14:30, 17:00-23:00
+Wheelchair Accessibility: no
+Latitude: 40.7341879
+Longitude: -74.0064162
+OpenStreetMap URL: https://www.openstreetmap.org/node/6112597817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6112597817
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

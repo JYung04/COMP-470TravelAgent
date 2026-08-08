@@ -1,0 +1,25 @@
+Name: Raku
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 7240 Woodmont Avenue, 20814
+Description: Not listed
+Website: https://www.rakuasiandining.com/
+Phone: +1 301-718-8680
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9815302
+Longitude: -77.0960441
+OpenStreetMap URL: https://www.openstreetmap.org/node/1322345563
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1322345563
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

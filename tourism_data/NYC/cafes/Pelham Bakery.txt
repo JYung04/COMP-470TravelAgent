@@ -1,0 +1,25 @@
+Name: Pelham Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 121 5th Avenue, Pelham NY 10803
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9129638
+Longitude: -73.8091405
+OpenStreetMap URL: https://www.openstreetmap.org/way/885642705
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/885642705
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

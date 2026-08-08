@@ -1,0 +1,25 @@
+Name: The Oceanaire Seafood Room
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: Not listed
+Description: Sleek as a 1930s ocean liner, The Oceanaire offers a classy, special setting perfect for any event. With space to accommodate 15 to 315 guests, The Oceanaire’s private rooms and main dining room can host receptions, business lunches and dinners, company functions, celebrations, banquets, holiday parties and more. You and your guests will enjoy our menu of ultra-fresh fish, our excellent service and our relaxed, yet elegant atmosphere. Located at Government Center Plaza, The Oceanaire is directly across from City Hall Plaza, near Faneuil Hall and Quincy Market, Boston Common, The State House and The Financial District. We invite you to consider the Oceanaire for your next occasion, whether you are hosting a large party or smaller gathering. Special Events Whether you are hosting a large party or smaller gathering for special celebrations, The Oceanaire provides an excellent venue for.
+Website: https://www.theoceanaire.com/locations/boston/Locations.aspx
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3590304
+Longitude: -71.0591935
+OpenStreetMap URL: https://www.openstreetmap.org/node/2664022948
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2664022948
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

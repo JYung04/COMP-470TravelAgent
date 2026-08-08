@@ -1,0 +1,24 @@
+Name: Udupi Palace
+City: Chicago
+Category: restaurants
+Cuisine: indian, south_indian
+Address: 2543 West Devon Avenue
+Description: Not listed
+Website: https://udupichicago.com/
+Phone: +1-773-338-2152
+Email: Not listed
+Opening Hours: Mo-Fr, Su 11:00-21:00; Sa 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.997414
+Longitude: -87.694009
+OpenStreetMap URL: https://www.openstreetmap.org/way/209570127
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209570127
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

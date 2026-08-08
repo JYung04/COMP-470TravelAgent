@@ -1,0 +1,24 @@
+Name: ABC Fine Wine & Spirits
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 11951 Apopka Vineland Road, Orlando FL
+Description: Not listed
+Website: https://www.abcfws.com
+Phone: (407) 239-0775
+Email: orders@abcfws.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3917028
+Longitude: -81.5054821
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1126248
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1126248
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,25 @@
+Name: Pershing Square
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY
+Description: Pershing Square is a public plaza in Manhattan, New York City, located where Park Avenue and 42nd Street intersect in front of Grand Central Terminal. The main roadway of Park Avenue crosses over 42nd Street on the Park Avenue Viaduct, also known as the Pershing Square Viaduct. Two service roads, one northbound and one southbound, connect 42nd Street with the main roadway of Park Avenue, at 40th Street.
+Website: https://www.pershingsquare.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7517691
+Longitude: -73.9779054
+OpenStreetMap URL: https://www.openstreetmap.org/way/1238700037
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1238700037
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

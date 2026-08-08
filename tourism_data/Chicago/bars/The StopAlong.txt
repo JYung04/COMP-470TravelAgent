@@ -1,0 +1,25 @@
+Name: The StopAlong
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2210 North California Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.thestopalong.com
+Phone: +1-773-394-4694
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9221011
+Longitude: -87.6975093
+OpenStreetMap URL: https://www.openstreetmap.org/node/1262354575
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1262354575
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

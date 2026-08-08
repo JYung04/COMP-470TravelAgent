@@ -1,0 +1,25 @@
+Name: Al Capone's House
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 7244 South Prairie Avenue, Chicago IL 60619
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.762502
+Longitude: -87.6187848
+OpenStreetMap URL: https://www.openstreetmap.org/node/8968009470
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8968009470
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: Bolivar & Lincoln Venezuelan Cafe
+City: Chicago
+Category: restaurants
+Cuisine: venezuelan
+Address: 3349 North Sheffield Avenue, Chicago IL 60657
+Description: Not listed
+Website: https://bolivarandlincoln.com/
+Phone: +1 773-360-8203
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9431879
+Longitude: -87.654073
+OpenStreetMap URL: https://www.openstreetmap.org/node/11496827367
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11496827367
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

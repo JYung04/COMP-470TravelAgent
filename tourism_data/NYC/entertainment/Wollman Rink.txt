@@ -1,0 +1,25 @@
+Name: Wollman Rink
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://wollmanrinknyc.com/
+Phone: +1 833-615-3500
+Email: info@wollmanrinknyc.com
+Opening Hours: Mo, Tu 10:00-14:30; We, Th, Su 10:00-21:00; Fr, Sa 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7677418
+Longitude: -73.9744698
+OpenStreetMap URL: https://www.openstreetmap.org/way/136507647
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/136507647
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

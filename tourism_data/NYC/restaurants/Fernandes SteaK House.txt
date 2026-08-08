@@ -1,0 +1,24 @@
+Name: Fernandes SteaK House
+City: NYC
+Category: restaurants
+Cuisine: steak_house, brazilian
+Address: 158 Fleming Ave, Newark, NJ 07105, United States
+Description: Not listed
+Website: http://www.fernandessteakhouse.com/
+Phone: +1 973-589-4099
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7326393
+Longitude: -74.1399795
+OpenStreetMap URL: https://www.openstreetmap.org/way/438665781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/438665781
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Gari Columbus
+City: NYC
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 370 Columbus Avenue, New York NY 10023
+Description: Not listed
+Website: https://www.sushiofgari.com
+Phone: +1-212-362-4816
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-14:15, 17:00-21:45; Sa-Su 12:00-21:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.7811731
+Longitude: -73.976285
+OpenStreetMap URL: https://www.openstreetmap.org/node/2524934996
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2524934996
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

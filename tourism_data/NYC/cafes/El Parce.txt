@@ -1,0 +1,24 @@
+Name: El Parce
+City: NYC
+Category: cafes
+Cuisine: colombian, breakfast
+Address: Not listed
+Description: Not listed
+Website: https://caffeelparce.com
+Phone: +1-347-463-9183
+Email: Not listed
+Opening Hours: Mo-Th 07:00-21:00, Fr-Sa 07:00-22:00, Su 07:00-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7041358
+Longitude: -73.9046006
+OpenStreetMap URL: https://www.openstreetmap.org/node/13175355222
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13175355222
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

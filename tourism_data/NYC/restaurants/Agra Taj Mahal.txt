@@ -1,0 +1,25 @@
+Name: Agra Taj Mahal
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 1005 Manhattan Avenue, Brooklyn NY 11222
+Description: Not listed
+Website: Not listed
+Phone: +1-718-389-2200
+Email: Not listed
+Opening Hours: Mo-Su 12:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7333423
+Longitude: -73.9549468
+OpenStreetMap URL: https://www.openstreetmap.org/node/4109867476
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4109867476
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

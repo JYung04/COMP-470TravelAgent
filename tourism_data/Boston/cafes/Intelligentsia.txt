@@ -1,0 +1,25 @@
+Name: Intelligentsia
+City: Boston
+Category: cafes
+Cuisine: coffee_shop
+Address: 225 Franklin Street, Boston MA 02110
+Description: Not listed
+Website: https://www.intelligentsia.com/pages/post-office-square-coffeebar
+Phone: +1-857-707-3377
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-18:00, Sa 07:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3560643
+Longitude: -71.0545466
+OpenStreetMap URL: https://www.openstreetmap.org/node/5861990478
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5861990478
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

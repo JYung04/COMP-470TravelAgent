@@ -1,0 +1,24 @@
+Name: Prim's Cafe
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 1847 7th St NW, Washington, D.C. 20001
+Description: Not listed
+Website: https://www.primscafe.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-15:00; Sa 08:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9152204
+Longitude: -77.0217425
+OpenStreetMap URL: https://www.openstreetmap.org/node/11715031524
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11715031524
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

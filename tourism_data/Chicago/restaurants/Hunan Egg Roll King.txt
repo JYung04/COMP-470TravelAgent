@@ -1,0 +1,25 @@
+Name: Hunan Egg Roll King
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 4204 North Broadway, Chicago IL 60613
+Description: Not listed
+Website: Not listed
+Phone: +1 773-883-2647
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.958646
+Longitude: -87.6533339
+OpenStreetMap URL: https://www.openstreetmap.org/node/11242070859
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11242070859
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Night Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 215 West 94th Street, New York NY 10025
+Description: Not listed
+Website: https://www.nighthotelbroadway.com
+Phone: +1-212-866-6400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7932576
+Longitude: -73.9722071
+OpenStreetMap URL: https://www.openstreetmap.org/node/1809517485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1809517485
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

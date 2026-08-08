@@ -1,0 +1,25 @@
+Name: Old Europe
+City: Washington DC
+Category: restaurants
+Cuisine: german
+Address: 2434 Wisconsin Avenue Northwest, Washington DC 20007
+Description: Not listed
+Website: http://www.old-europe.com/
+Phone: +1-202-333-7600
+Email: info@old-europe.com
+Opening Hours: Mo-Tu off; We-Th 16:00-20:00; Fr 16:00-21:00; Sa 12:00-15:00,16:00-21:00; Su 12:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9218366
+Longitude: -77.0727455
+OpenStreetMap URL: https://www.openstreetmap.org/node/815428332
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/815428332
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

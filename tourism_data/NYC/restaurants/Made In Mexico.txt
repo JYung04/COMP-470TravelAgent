@@ -1,0 +1,25 @@
+Name: Made In Mexico
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 3950 10th Avenue
+Description: Not listed
+Website: https://madeinmexico.nyc/
+Phone: +1-646-726-4849
+Email: generalquestions@madeinmexico.nyc
+Opening Hours: 17:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 40.8672533
+Longitude: -73.9171554
+OpenStreetMap URL: https://www.openstreetmap.org/node/5709149508
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5709149508
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Teardrop Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Teardrop Park is a 1.8-acre (0.7 ha) public park in lower Manhattan, in Battery Park City, near the site of the World Trade Center. It was designed by Michael Van Valkenburgh Associates, a New York City landscape architecture firm. The park includes art designed for it by Ann Hamilton. The park sits between residential buildings toward the north end of Battery Park City at the corner of Warren Street and River Terrace. The creation of Teardrop Park is part of the ongoing construction of Battery Park City, a neighborhood on the southwest edge of Manhattan Island that was created in the 1970s by landfilling the Hudson River between the existing bulkhead and the historic pierhead line. Before construction, the site.
+Website: https://bpcparks.org/whats-here/parks/teardrop-park/
+Phone: Not listed
+Email: info@bpcparks.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7167801
+Longitude: -74.0156185
+OpenStreetMap URL: https://www.openstreetmap.org/way/372721441
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/372721441
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; architecture; art

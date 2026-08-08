@@ -1,0 +1,25 @@
+Name: TAO
+City: Chicago
+Category: restaurants
+Cuisine: asian
+Address: 632 North Dearborn Street, Chicago IL 60654
+Description: Not listed
+Website: https://taochicago.com/
+Phone: +1-224-888-0388
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8934847
+Longitude: -87.6300744
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322128138
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322128138
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

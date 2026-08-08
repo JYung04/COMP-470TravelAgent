@@ -1,0 +1,25 @@
+Name: Times Square
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 31 Times Square
+Description: Browse hotels for your next stay at the Crossroads of the World. The Times Square Alliance does not manage hotel reservations; by clicking out you will be taken to a third party vendor site Book a Room
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.758485
+Longitude: -73.9852838
+OpenStreetMap URL: https://www.openstreetmap.org/way/1315783397
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1315783397
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: times square
+Best For: sightseeing; art

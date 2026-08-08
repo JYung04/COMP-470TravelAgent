@@ -1,0 +1,25 @@
+Name: The Library
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 7 Avenue A, New York NY 10009
+Description: Not listed
+Website: Not listed
+Phone: +1-212-375-1352
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7225712
+Longitude: -73.9862492
+OpenStreetMap URL: https://www.openstreetmap.org/node/2696719558
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2696719558
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

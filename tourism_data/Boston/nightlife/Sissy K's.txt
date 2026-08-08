@@ -1,0 +1,24 @@
+Name: Sissy K's
+City: Boston
+Category: nightlife
+Cuisine: Not listed
+Address: 6 Commercial Street, Boston MA 02109
+Description: Not listed
+Website: https://www.sissyks.com/
+Phone: (617) 248-6511
+Email: sissyks1@comcast.net
+Opening Hours: Mo-Fr 11:30-26:00; Sa-Su 12:00-26:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3596157
+Longitude: -71.0537237
+OpenStreetMap URL: https://www.openstreetmap.org/node/12106580157
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12106580157
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

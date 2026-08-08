@@ -1,0 +1,25 @@
+Name: Artel Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 305 West 39th Street, 10018
+Description: Not listed
+Website: https://artelhotel.com/times-square
+Phone: +1 212-268-3040
+Email: tom.carpenter@bklynhousehotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: designated
+Latitude: 40.7557156
+Longitude: -73.9915693
+OpenStreetMap URL: https://www.openstreetmap.org/way/265296131
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265296131
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

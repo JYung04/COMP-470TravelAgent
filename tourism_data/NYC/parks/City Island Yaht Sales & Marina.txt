@@ -1,0 +1,25 @@
+Name: City Island Yaht Sales & Marina
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 691 Bridge Street, 10464
+Description: Not listed
+Website: www.cityislandyacht.com
+Phone: +1-718-885-2300
+Email: ciyachtsales@aol.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8567212
+Longitude: -73.7914486
+OpenStreetMap URL: https://www.openstreetmap.org/way/284827676
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284827676
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

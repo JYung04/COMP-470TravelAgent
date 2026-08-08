@@ -1,0 +1,25 @@
+Name: Shilling Canning Company
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 360 Water Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://shillingcanning.com/
+Phone: +1 202-554-7474
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8739414
+Longitude: -77.0011517
+OpenStreetMap URL: https://www.openstreetmap.org/node/9785626380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9785626380
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

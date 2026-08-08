@@ -1,0 +1,25 @@
+Name: Backlot Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 3982 North Avondale Avenue, Chicago IL 60641
+Description: Not listed
+Website: https://backlotcoffee.com/
+Phone: +1-773-657-3797
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9533558
+Longitude: -87.7321275
+OpenStreetMap URL: https://www.openstreetmap.org/node/5967983388
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5967983388
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

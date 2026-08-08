@@ -1,0 +1,25 @@
+Name: Boba Queen
+City: Orlando
+Category: cafes
+Cuisine: bubble_tea
+Address: 5600 West Colonial Drive, Orlando 32808
+Description: Cafe, Tea, Boba tea and quick bites.
+Website: Not listed
+Phone: +1-407-930-0277
+Email: Not listed
+Opening Hours: Th-Tu 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5509653
+Longitude: -81.4573361
+OpenStreetMap URL: https://www.openstreetmap.org/node/9368232490
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9368232490
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

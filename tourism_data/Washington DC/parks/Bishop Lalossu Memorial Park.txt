@@ -1,0 +1,25 @@
+Name: Bishop Lalossu Memorial Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Massachusetts Ave.,36th St.,Garfield St.,NW
+Description: Officially classified as triangle.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9272739
+Longitude: -77.0711759
+OpenStreetMap URL: https://www.openstreetmap.org/way/48207320
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48207320
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

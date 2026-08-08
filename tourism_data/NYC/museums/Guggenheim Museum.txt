@@ -1,0 +1,25 @@
+Name: Guggenheim Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1071 5th Avenue, New York NY 10128
+Description: Hint: Saturdays 18:00-20:00 Pay-What-You-Wish Admission
+Website: https://www.guggenheim.org/new-york
+Phone: +1 212-423-3500
+Email: Not listed
+Opening Hours: Mo-Su 10:30-17:30; Nov Th[4] off; Dec 24 10:30-16:00; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7829919
+Longitude: -73.9588842
+OpenStreetMap URL: https://www.openstreetmap.org/way/170149134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/170149134
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: guggenheim museum
+Best For: museums and culture

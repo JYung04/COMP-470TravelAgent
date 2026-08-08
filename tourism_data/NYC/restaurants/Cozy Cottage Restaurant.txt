@@ -1,0 +1,25 @@
+Name: Cozy Cottage Restaurant
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 4103 Boston Road
+Description: Not listed
+Website: Not listed
+Phone: +1-718-882-3040
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8862924
+Longitude: -73.8276151
+OpenStreetMap URL: https://www.openstreetmap.org/node/5179157096
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5179157096
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

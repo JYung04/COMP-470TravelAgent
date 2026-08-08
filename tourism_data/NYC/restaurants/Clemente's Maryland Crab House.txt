@@ -1,0 +1,25 @@
+Name: Clemente's Maryland Crab House
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 3939 Emmons Avenue, Brooklyn NY 11235
+Description: Not listed
+Website: https://www.clementescrabhouse.com/
+Phone: +1 718-646-7373
+Email: Not listed
+Opening Hours: 12:00-22:00; Fr,Sa 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5850493
+Longitude: -73.9263615
+OpenStreetMap URL: https://www.openstreetmap.org/node/7174929560
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7174929560
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

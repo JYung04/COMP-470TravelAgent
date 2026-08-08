@@ -1,0 +1,25 @@
+Name: Old Crow Smokehouse - River North
+City: Chicago
+Category: restaurants
+Cuisine: barbecue
+Address: 149 West Kinzie Street, Chicago IL 60654
+Description: Not listed
+Website: https://oldcrowsmokehouse.com/
+Phone: +1-773-348-8899
+Email: Not listed
+Opening Hours: Su-Th 11:00-00:00; Fr 11:00-02:00; Sa 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8890598
+Longitude: -87.6331472
+OpenStreetMap URL: https://www.openstreetmap.org/node/4629821760
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4629821760
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

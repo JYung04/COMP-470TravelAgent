@@ -1,0 +1,25 @@
+Name: King Wok
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 10829 Ascan Ave, Queens, NY 11375, United States
+Description: Not listed
+Website: https://www.kingwokflushingny.com/
+Phone: +1 718-263-3900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7182856
+Longitude: -73.8408244
+OpenStreetMap URL: https://www.openstreetmap.org/node/11862288391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11862288391
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

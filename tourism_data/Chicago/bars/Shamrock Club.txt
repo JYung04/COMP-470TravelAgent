@@ -1,0 +1,25 @@
+Name: Shamrock Club
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 210 West Kinzie Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.shamrockclubchicago.com/
+Phone: +1-312-321-9314
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.8892889
+Longitude: -87.6345753
+OpenStreetMap URL: https://www.openstreetmap.org/node/6297793997
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6297793997
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

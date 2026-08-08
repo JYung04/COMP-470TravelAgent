@@ -1,0 +1,25 @@
+Name: West Lake Underhill Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 501 Underhill Drive, Orlando, FL 32803
+Description: West Lake Underhill Park offers lakeside views and shaded areas.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/West-Lake-Underhill-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5365082
+Longitude: -81.3416078
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1272720
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1272720
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

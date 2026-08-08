@@ -1,0 +1,24 @@
+Name: Noodle Barn
+City: Boston
+Category: restaurants
+Cuisine: vietnamese, thai
+Address: 707 Centre Street
+Description: Not listed
+Website: https://noodlebarn.com/
+Phone: +1 617 522-2299
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 42.3114333
+Longitude: -71.1145883
+OpenStreetMap URL: https://www.openstreetmap.org/node/4058896653
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4058896653
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

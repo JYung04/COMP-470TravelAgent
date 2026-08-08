@@ -1,0 +1,24 @@
+Name: Cruz Blanca Brewery & Taquería
+City: Chicago
+Category: bars
+Cuisine: tacos, mexican
+Address: 904 West Randolph Street, Chicago IL 60607
+Description: Not listed
+Website: https://cruzblancachi.com
+Phone: +1-312-733-1975
+Email: Not listed
+Opening Hours: Tu-Th 11:00-22:00; Fr-Sa 11:00-00:00; Su 11:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 41.8846013
+Longitude: -87.6501403
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460599291
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460599291
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

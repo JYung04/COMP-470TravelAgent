@@ -1,0 +1,25 @@
+Name: Maria Hernandez Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Maria Hernandez Park is a municipal park in Bushwick, Brooklyn, New York City. It is located between Knickerbocker Avenue on the southwest to Irving Avenue on the northeast, and Starr Street on the northwest to Suydam Street on the southeast. The park is 6.87 acres (2.78 ha) and is near the Jefferson Street station of the New York City Subway.
+Website: https://www.nycgovparks.org/parks/maria-hernandez-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.703176
+Longitude: -73.9238644
+OpenStreetMap URL: https://www.openstreetmap.org/way/154374795
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/154374795
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

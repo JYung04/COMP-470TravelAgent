@@ -1,0 +1,25 @@
+Name: Kikuya Japanese Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: japanese
+Address: 1601 East 55th Street, Chicago IL 60615
+Description: delivery/take out only
+Website: https://kikuyaonline.com/
+Phone: +1-773-667-3727
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7950891
+Longitude: -87.5865743
+OpenStreetMap URL: https://www.openstreetmap.org/node/4114655790
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4114655790
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

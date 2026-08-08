@@ -1,0 +1,25 @@
+Name: The Village Vanguard
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 10014
+Description: 178 Seventh Ave. S., West Village As much a pilgrimage site as any in the jazz world, the Village Vanguard has been in place since 1935. This family business passed from founder Max Gordon to his widow, Lorraine, in 1989 and has been operated by their daughter Deborah since Lorraine died in 2018. Entering down the steep flight of stairs from Seventh Avenue feels like going back to another time. Apart from some small modernizations, this is the same hallowed space that has yielded dozens of treas
+Website: Not listed
+Phone: +12122554037
+Email: Not listed
+Opening Hours: Mo-Su 20:00-00:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7426244
+Longitude: -73.9969669
+OpenStreetMap URL: https://www.openstreetmap.org/node/5762582554
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5762582554
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

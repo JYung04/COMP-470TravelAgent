@@ -1,0 +1,25 @@
+Name: Noodleverse
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2002 South Wentworth Avenue, 60616
+Description: Not listed
+Website: http://noodleverseil.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 10:00-20:00; Fr-Su 10:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8549554
+Longitude: -87.632255
+OpenStreetMap URL: https://www.openstreetmap.org/node/12964880901
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12964880901
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

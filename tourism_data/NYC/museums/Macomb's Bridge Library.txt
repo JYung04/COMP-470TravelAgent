@@ -1,0 +1,25 @@
+Name: Macomb's Bridge Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 2623 Adam Clayton Powell Boulevard, 10039
+Description: Not listed
+Website: https://www.nypl.org/locations/macombs-bridge
+Phone: +1 212-281-4900
+Email: macombsbridge@nypl.org
+Opening Hours: Mo, Tu 10:00-18:00; We, Th 11:00-19:00; Fr, Sa 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8254056
+Longitude: -73.935961
+OpenStreetMap URL: https://www.openstreetmap.org/node/12636363656
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12636363656
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

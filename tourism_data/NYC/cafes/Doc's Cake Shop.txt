@@ -1,0 +1,25 @@
+Name: Doc's Cake Shop
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.docscakeshop.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6811639
+Longitude: -73.9283744
+OpenStreetMap URL: https://www.openstreetmap.org/node/9693909437
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9693909437
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

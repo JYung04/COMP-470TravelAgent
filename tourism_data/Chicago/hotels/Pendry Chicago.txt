@@ -1,0 +1,25 @@
+Name: Pendry Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 230 North Michigan Avenue, Chicago IL 60601
+Description: The Carbide & Carbon Building is an Art Deco high-rise built in 1929, located on Michigan Avenue in Chicago, Illinois. The 37-story, 503 ft (153 m) landmark is clad in black granite, green and gold terra cotta, with gold leaf and bronze trim. It was converted into a hotel in 2004, operating under license from Hard Rock International until 2017, rebranding as the St. Jane Hotel and then the Pendry Chicago Hotel.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8865264
+Longitude: -87.6250081
+OpenStreetMap URL: https://www.openstreetmap.org/way/148544831
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/148544831
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

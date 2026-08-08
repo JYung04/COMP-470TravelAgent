@@ -1,0 +1,25 @@
+Name: 1308
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 1308 North Elston Avenue, Chicago IL 60642
+Description: Not listed
+Website: https://www.1308chicago.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9057151
+Longitude: -87.6601202
+OpenStreetMap URL: https://www.openstreetmap.org/node/11809732269
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11809732269
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Tipsy Grape
+City: NYC
+Category: bars
+Cuisine: charcuterie, snack
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-We 15:00-22:00; Fr-Sa 15:00-23:00; Su 13:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6879531
+Longitude: -73.9897879
+OpenStreetMap URL: https://www.openstreetmap.org/node/2494057260
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2494057260
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

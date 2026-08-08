@@ -1,0 +1,25 @@
+Name: Washington Square Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY
+Description: Washington Square Park is a 9.75-acre (3.95 ha) public park in the Greenwich Village neighborhood of Lower Manhattan, New York City. It is an icon as well as a meeting place and center for cultural activity. The park is operated by the New York City Department of Parks and Recreation.
+Website: https://www.nycgovparks.org/parks/washington-square-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7308885
+Longitude: -73.9975932
+OpenStreetMap URL: https://www.openstreetmap.org/way/22899302
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/22899302
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

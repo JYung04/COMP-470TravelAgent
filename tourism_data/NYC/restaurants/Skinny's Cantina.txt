@@ -1,0 +1,25 @@
+Name: Skinny's Cantina
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 4705 Center Boulevard, Long Island City NY 11109
+Description: Not listed
+Website: https://www.skinnyscantina.com/
+Phone: Not listed
+Email: info@skinnyscantina.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7456176
+Longitude: -73.9567972
+OpenStreetMap URL: https://www.openstreetmap.org/node/1765445839
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1765445839
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

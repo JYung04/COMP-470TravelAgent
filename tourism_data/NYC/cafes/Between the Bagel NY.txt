@@ -1,0 +1,25 @@
+Name: Between the Bagel NY
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 31-13 30th Avenue
+Description: Busy and informal breakfast spot with classic NYC bagels and creative Asian fusion sandwiches
+Website: Not listed
+Phone: +1-718-932-1425
+Email: Not listed
+Opening Hours: 06:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 40.7667684
+Longitude: -73.9207779
+OpenStreetMap URL: https://www.openstreetmap.org/node/5155754582
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5155754582
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

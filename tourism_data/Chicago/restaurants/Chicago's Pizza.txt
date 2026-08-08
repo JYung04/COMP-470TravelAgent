@@ -1,0 +1,25 @@
+Name: Chicago's Pizza
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 1919 West Montrose Avenue, Chicago IL 60613
+Description: Not listed
+Website: https://www.chicagos-pizza.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Th 11:00-01:00, Fr,Sa 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9613426
+Longitude: -87.67683
+OpenStreetMap URL: https://www.openstreetmap.org/node/1317862200
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1317862200
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

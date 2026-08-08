@@ -1,0 +1,25 @@
+Name: Fuel America
+City: Boston
+Category: cafes
+Cuisine: coffee_shop
+Address: 152 Chestnut Hill Avenue, Brighton MA 02135
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 07:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3416642
+Longitude: -71.1543176
+OpenStreetMap URL: https://www.openstreetmap.org/node/8006948661
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8006948661
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

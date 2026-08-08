@@ -1,0 +1,25 @@
+Name: Troy Mediterranean Grill & Turkish Kitchen
+City: Chicago
+Category: restaurants
+Cuisine: turkish
+Address: 2908 North Broadway, Chicago IL 60657
+Description: Not listed
+Website: https://www.troymediterraneangrill.com/
+Phone: +1-773-770-3866
+Email: Not listed
+Opening Hours: Su 12:00-21:00; Mo-Th 12:00-22:00; Fr-Sa 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9352464
+Longitude: -87.6444633
+OpenStreetMap URL: https://www.openstreetmap.org/node/4718874637
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4718874637
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Afghan Bamyan Kabob
+City: Chicago
+Category: restaurants
+Cuisine: afghan
+Address: 5701 North California Avenue, Chicago IL 60659
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9850094
+Longitude: -87.6989856
+OpenStreetMap URL: https://www.openstreetmap.org/way/209486549
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209486549
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

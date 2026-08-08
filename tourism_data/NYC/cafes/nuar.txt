@@ -1,0 +1,24 @@
+Name: nuar
+City: NYC
+Category: cafes
+Cuisine: thai, dessert, tea
+Address: 48 West 27th Street, New York 10001
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7449407
+Longitude: -73.990409
+OpenStreetMap URL: https://www.openstreetmap.org/way/248143749
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248143749
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

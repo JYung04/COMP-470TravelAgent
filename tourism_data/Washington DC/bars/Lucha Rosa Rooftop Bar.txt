@@ -1,0 +1,25 @@
+Name: Lucha Rosa Rooftop Bar
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1011 K Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://moxydcdining.com/lucha-rosa/
+Phone: +1 771-999-3900
+Email: Not listed
+Opening Hours: We 16:00-22:00; Th-Sa 16:00-24:00; Su 14:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9027597
+Longitude: -77.0266445
+OpenStreetMap URL: https://www.openstreetmap.org/node/11115409505
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11115409505
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

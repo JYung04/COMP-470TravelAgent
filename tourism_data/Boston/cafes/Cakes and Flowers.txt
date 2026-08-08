@@ -1,0 +1,25 @@
+Name: Cakes and Flowers
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 11 Horncastle Road, Boston PE21 9BN
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9830603
+Longitude: -0.0187312
+OpenStreetMap URL: https://www.openstreetmap.org/node/7326762545
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7326762545
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

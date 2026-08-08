@@ -1,0 +1,25 @@
+Name: Buca di Beppo
+City: Orlando
+Category: restaurants
+Cuisine: italian
+Address: 6282 W Irlo Bronson Memorial Hwy, Celebration FL 34747
+Description: Not listed
+Website: https://dineatbuca.com/locations/celebration-kissimmee/
+Phone: +1-321-219-2822
+Email: Not listed
+Opening Hours: Mo-Th 11:00-21:30; Fr,Sa 11:00-22:30; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3304307
+Longitude: -81.5333326
+OpenStreetMap URL: https://www.openstreetmap.org/node/6965320640
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6965320640
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

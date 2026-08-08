@@ -1,0 +1,24 @@
+Name: BarTenders
+City: Orlando
+Category: restaurants
+Cuisine: american, ice_cream, chicken
+Address: 5487 Hamlin Groves Trail, Winter Garden FL 34787
+Description: Not listed
+Website: https://www.bartenderseatery.com/
+Phone: +1-407-614-6605
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4720833
+Longitude: -81.6265694
+OpenStreetMap URL: https://www.openstreetmap.org/node/13034685052
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13034685052
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

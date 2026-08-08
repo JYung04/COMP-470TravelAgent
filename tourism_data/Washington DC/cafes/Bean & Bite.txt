@@ -1,0 +1,25 @@
+Name: Bean & Bite
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 1152 15th Street Northwest, Washington DC 20005
+Description: Not listed
+Website: http://beanandbite.com
+Phone: +1 202-296-3078
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-18:00
+Wheelchair Accessibility: no
+Latitude: 38.9050245
+Longitude: -77.0348363
+OpenStreetMap URL: https://www.openstreetmap.org/node/1983196726
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1983196726
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Lakeville Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: A park with a playground and other amenities, operated by the Great Neck Park District. It is dedicated in memory of Peter Christopher Frank, who grew up down the road and was murdered on 9/11 at the World Trade Center.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7732025
+Longitude: -73.732285
+OpenStreetMap URL: https://www.openstreetmap.org/way/319663624
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/319663624
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Dupont Coffee Collective
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 1909 Q Street Northwest, Washington DC 20009
+Description: Not listed
+Website: https://dupontcoffee.com/
+Phone: +1-202-506-4961
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9112667
+Longitude: -77.0437646
+OpenStreetMap URL: https://www.openstreetmap.org/node/6864551688
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6864551688
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,24 @@
+Name: Prego Again
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop, sandwich, salad
+Address: 1617 17th Street Northwest, Washington DC 20009-2403
+Description: Not listed
+Website: https://pregoagain.com/
+Phone: +1 202-355-0311
+Email: Not listed
+Opening Hours: Mo-Su 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9117646
+Longitude: -77.0382617
+OpenStreetMap URL: https://www.openstreetmap.org/node/810396000
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/810396000
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Ancient and Honorable Artillery Company Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 1 Faneuil Hall Square, Boston MA 02109
+Description: Not listed
+Website: http://www.ahac.us.com/
+Phone: +1-617-227-1638
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3601131
+Longitude: -71.0561189
+OpenStreetMap URL: https://www.openstreetmap.org/node/367781413
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367781413
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

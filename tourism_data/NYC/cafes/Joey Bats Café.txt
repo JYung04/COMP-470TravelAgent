@@ -1,0 +1,25 @@
+Name: Joey Bats Café
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 129 Allen Street, New York NY 10002
+Description: Not listed
+Website: https://joeybatscafe.com
+Phone: +1-212-519-2289
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:00-21:00; Fr 11:00-00:00; Sa 11:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7200481
+Longitude: -73.9902485
+OpenStreetMap URL: https://www.openstreetmap.org/node/6236928056
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6236928056
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

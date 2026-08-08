@@ -1,0 +1,24 @@
+Name: Plaza Eatery
+City: NYC
+Category: restaurants
+Cuisine: american, latin_american, pakistani
+Address: 28 North Station Plaza, Great Neck NY 11021
+Description: Not listed
+Website: http://www.plazaeatery.com/
+Phone: +1-516-829-6300;+1-516-829-6301
+Email: Not listed
+Opening Hours: Mo-Fr 05:00-19:00; Sa-Su 06:00-07:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7872436
+Longitude: -73.7265393
+OpenStreetMap URL: https://www.openstreetmap.org/way/908226049
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/908226049
+Price: Not listed
+Rating: 4.0
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

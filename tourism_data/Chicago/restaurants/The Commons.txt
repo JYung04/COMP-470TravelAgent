@@ -1,0 +1,25 @@
+Name: The Commons
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 3201 South State Street, Chicago IL 60616
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8360394
+Longitude: -87.6255334
+OpenStreetMap URL: https://www.openstreetmap.org/way/157657353
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/157657353
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

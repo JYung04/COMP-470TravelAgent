@@ -1,0 +1,24 @@
+Name: Amaze
+City: NYC
+Category: restaurants
+Cuisine: asian, sushi
+Address: 694 3rd Avenue
+Description: Not listed
+Website: https://amaze43.com/
+Phone: +1-212-986-5555
+Email: Not listed
+Opening Hours: Mo-Th 11:00-23:00; Fr 11:00-23:30; Sa 12:00-23:30; Su 12:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7518926
+Longitude: -73.9738545
+OpenStreetMap URL: https://www.openstreetmap.org/node/5254559384
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5254559384
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Willye B. White Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1610 West Howard Street, Chicago IL 60626
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/white-willye-b-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0200069
+Longitude: -87.6710049
+OpenStreetMap URL: https://www.openstreetmap.org/way/163579904
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163579904
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: The Fly
+City: NYC
+Category: bars
+Cuisine: chicken
+Address: 549 Classon Avenue, 11238
+Description: Not listed
+Website: https://theflybrooklyn.com
+Phone: +1-347-405-5300
+Email: Not listed
+Opening Hours: Su-Th 17:30-23:00, Fr-Sa 17:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.682011
+Longitude: -73.9584752
+OpenStreetMap URL: https://www.openstreetmap.org/node/2565136713
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2565136713
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Park No. 588
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 10440 South Corliss Avenue, Chicago IL 60628
+Description: Officially classified as mini-park. Covers approximately 0.2 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/park-no-588
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7043472
+Longitude: -87.6042972
+OpenStreetMap URL: https://www.openstreetmap.org/way/736330512
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/736330512
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

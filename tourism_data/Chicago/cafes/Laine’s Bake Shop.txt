@@ -1,0 +1,25 @@
+Name: Laine’s Bake Shop
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 11057 South Homewood Avenue, Chicago IL 60643
+Description: Not listed
+Website: https://www.lainesbakeshop.com/
+Phone: +1-844-352-4637
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6923517
+Longitude: -87.6690744
+OpenStreetMap URL: https://www.openstreetmap.org/node/6324374053
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6324374053
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

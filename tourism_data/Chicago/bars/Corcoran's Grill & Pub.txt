@@ -1,0 +1,25 @@
+Name: Corcoran's Grill & Pub
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1615 North Wells Street, Chicago IL 60614
+Description: Not listed
+Website: https://www.corcoransoldtown.com/
+Phone: +1-312-440-0885
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-01:30; Sa 10:30-02:30; Su 10:30-01:30
+Wheelchair Accessibility: no
+Latitude: 41.9116012
+Longitude: -87.634437
+OpenStreetMap URL: https://www.openstreetmap.org/way/198549082
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/198549082
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

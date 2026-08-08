@@ -1,0 +1,25 @@
+Name: Dolo Restaurant and Bar
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2222 South Archer Avenue, Chicago IL 60616
+Description: Not listed
+Website: https://www.dolorestaurant.com/
+Phone: +1-312-877-5117
+Email: Not listed
+Opening Hours: 10:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 41.8525597
+Longitude: -87.6360949
+OpenStreetMap URL: https://www.openstreetmap.org/node/6284701969
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6284701969
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Pleasant House Pub
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2119 South Halsted Street, Chicago IL 60608
+Description: Not listed
+Website: https://www.pleasanthousepub.com/
+Phone: +1-773-523-7437
+Email: Not listed
+Opening Hours: Fr-Sa 10:00-22:00; Su, Tu-Th 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8535804
+Longitude: -87.6462098
+OpenStreetMap URL: https://www.openstreetmap.org/way/210222910
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210222910
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

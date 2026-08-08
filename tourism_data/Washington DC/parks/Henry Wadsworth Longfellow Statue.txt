@@ -1,0 +1,25 @@
+Name: Henry Wadsworth Longfellow Statue
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 38.9058571
+Longitude: -77.0415147
+OpenStreetMap URL: https://www.openstreetmap.org/node/358958523
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358958523
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

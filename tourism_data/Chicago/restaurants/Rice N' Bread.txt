@@ -1,0 +1,25 @@
+Name: Rice N' Bread
+City: Chicago
+Category: restaurants
+Cuisine: Korean, American, Asian fusion
+Address: 3435 North Sheffield Avenue, Chicago IL 60657
+Description: Not listed
+Website: https://www.ricenbread.com/
+Phone: +1 773-281-4452
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.944613
+Longitude: -87.6541003
+OpenStreetMap URL: https://www.openstreetmap.org/node/11294330858
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11294330858
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

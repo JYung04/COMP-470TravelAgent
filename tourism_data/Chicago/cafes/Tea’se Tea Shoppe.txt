@@ -1,0 +1,25 @@
+Name: Tea’se Tea Shoppe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 5755 West Irving Park Road, Chicago IL 60634
+Description: Not listed
+Website: http://www.teaseteashoppe.com/
+Phone: +1-773-599-4136
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9529153
+Longitude: -87.7716072
+OpenStreetMap URL: https://www.openstreetmap.org/node/6303929062
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6303929062
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

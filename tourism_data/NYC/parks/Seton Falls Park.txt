@@ -1,0 +1,25 @@
+Name: Seton Falls Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Seton Falls Park is a 36-acre (15 ha) wooded area in the Edenwald area of The Bronx in New York City. The park is named after the Seton family, who owned the land in the 19th century.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8868085
+Longitude: -73.8384314
+OpenStreetMap URL: https://www.openstreetmap.org/way/185014532
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/185014532
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

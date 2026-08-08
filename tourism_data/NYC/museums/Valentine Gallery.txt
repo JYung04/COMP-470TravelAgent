@@ -1,0 +1,25 @@
+Name: Valentine Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 581 Woodward Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-718-381-2962
+Email: Not listed
+Opening Hours: Sa, Su 13:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7065223
+Longitude: -73.9082034
+OpenStreetMap URL: https://www.openstreetmap.org/node/5556890746
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5556890746
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

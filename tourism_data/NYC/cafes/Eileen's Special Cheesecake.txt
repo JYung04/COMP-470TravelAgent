@@ -1,0 +1,25 @@
+Name: Eileen's Special Cheesecake
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 17 Cleveland Place, New York 10012
+Description: Not listed
+Website: https://www.eileenscheesecake.com/
+Phone: +1-212-966-5585
+Email: Not listed
+Opening Hours: Mo-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 11:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.721551
+Longitude: -73.997246
+OpenStreetMap URL: https://www.openstreetmap.org/node/2483685919
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2483685919
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

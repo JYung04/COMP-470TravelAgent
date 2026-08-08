@@ -1,0 +1,25 @@
+Name: Hanamizuki
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: 8255 International Drive, Orlando FL 32819
+Description: Not listed
+Website: https://hanamizuki.us
+Phone: +1-407-363-7200
+Email: Not listed
+Opening Hours: Tu-Sa 11:30-14:00, 17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.4454662
+Longitude: -81.4684552
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798635388
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10798635388
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

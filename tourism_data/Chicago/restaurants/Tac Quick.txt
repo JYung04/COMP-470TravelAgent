@@ -1,0 +1,25 @@
+Name: Tac Quick
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 3930 North Sheridan Road, Chicago IL 60613
+Description: Not listed
+Website: Not listed
+Phone: +1-773-327-5253
+Email: Not listed
+Opening Hours: Tu off; Su-Mo 11:00-21:30, We-Sa 11:00-21:20
+Wheelchair Accessibility: Not listed
+Latitude: 41.9543423
+Longitude: -87.6550918
+OpenStreetMap URL: https://www.openstreetmap.org/node/8822745250
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8822745250
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

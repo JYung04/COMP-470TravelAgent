@@ -1,0 +1,25 @@
+Name: Mercury Lounge
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 217 East Houston Street
+Description: Not listed
+Website: https://www.mercuryloungenyc.com/
+Phone: +1-212-260-4700
+Email: Not listed
+Opening Hours: Mo-Sa 17:30-04:00
+Wheelchair Accessibility: limited
+Latitude: 40.7221035
+Longitude: -73.9867932
+OpenStreetMap URL: https://www.openstreetmap.org/node/5552730464
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5552730464
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

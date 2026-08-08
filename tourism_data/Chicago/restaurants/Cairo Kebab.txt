@@ -1,0 +1,24 @@
+Name: Cairo Kebab
+City: Chicago
+Category: restaurants
+Cuisine: egyptian, middle_eastern
+Address: 730 West Maxwell Street, Chicago IL 60607
+Description: Not listed
+Website: https://cairokebab.com/
+Phone: +1 224-521-0649
+Email: Not listed
+Opening Hours: Mo off; Tu-Fr 11:00-21:00; Sa-Su 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8649119
+Longitude: -87.6463868
+OpenStreetMap URL: https://www.openstreetmap.org/node/11992487769
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11992487769
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

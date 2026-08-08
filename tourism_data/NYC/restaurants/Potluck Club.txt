@@ -1,0 +1,25 @@
+Name: Potluck Club
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 133 Chrystie Street, New York NY 10002-2810
+Description: Not listed
+Website: https://thepotluckclubny.com
+Phone: +1 646-484-8053
+Email: Not listed
+Opening Hours: Th-Fr 17:30-22:00; Sa-Su 11:00-14:00,17:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7195195
+Longitude: -73.9933301
+OpenStreetMap URL: https://www.openstreetmap.org/node/10270349362
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10270349362
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

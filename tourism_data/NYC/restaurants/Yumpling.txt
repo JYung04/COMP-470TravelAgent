@@ -1,0 +1,25 @@
+Name: Yumpling
+City: NYC
+Category: restaurants
+Cuisine: taiwanese
+Address: 49-11 Vernon Boulevard
+Description: Not listed
+Website: https://yumpling.com/
+Phone: +1 718-713-1839
+Email: info@yumpling.com
+Opening Hours: We-Su 11:30-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7430058
+Longitude: -73.9538492
+OpenStreetMap URL: https://www.openstreetmap.org/node/11660279301
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11660279301
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

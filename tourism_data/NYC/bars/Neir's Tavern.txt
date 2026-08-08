@@ -1,0 +1,25 @@
+Name: Neir's Tavern
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 87-48 78th Street
+Description: Not listed
+Website: https://www.neirstavern.com/
+Phone: +1-718-296-0600
+Email: loy@neirstavern.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6898155
+Longitude: -73.8637009
+OpenStreetMap URL: https://www.openstreetmap.org/node/5346070474
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5346070474
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

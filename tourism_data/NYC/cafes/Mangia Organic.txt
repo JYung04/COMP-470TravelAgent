@@ -1,0 +1,25 @@
+Name: Mangia Organic
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 45 West 39th Street, New York 10018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7526386
+Longitude: -73.9845169
+OpenStreetMap URL: https://www.openstreetmap.org/node/4711391870
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4711391870
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

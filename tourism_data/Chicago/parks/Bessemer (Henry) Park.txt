@@ -1,0 +1,25 @@
+Name: Bessemer (Henry) Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 8930 South Muskegon Avenue, Chicago IL 60617
+Description: Bessemer Park is a public park in Chicago, Illinois, United States. Created in 1904, it was named for Henry Bessemer, the inventor of the eponymous steelmaking process. The name is appropriate, since Chicago's most productive steel mill, the U.S. Steel South Works, was located just a mile away.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/bessemer-henry-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7318565
+Longitude: -87.557749
+OpenStreetMap URL: https://www.openstreetmap.org/way/125812227
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/125812227
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

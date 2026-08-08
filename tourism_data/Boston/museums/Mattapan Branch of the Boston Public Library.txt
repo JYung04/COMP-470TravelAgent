@@ -1,0 +1,25 @@
+Name: Mattapan Branch of the Boston Public Library
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 1350 Blue Hill Avenue, Mattapan 02126
+Description: Not listed
+Website: https://www.bpl.org/branches/mattapan.php
+Phone: +1 617 298 9218
+Email: Not listed
+Opening Hours: Mo,We 10:00-18:00; Tu,Th 12:00-20:00; Fr,Sa 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.2773132
+Longitude: -71.0930086
+OpenStreetMap URL: https://www.openstreetmap.org/relation/5422061
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/5422061
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: The Pearl
+City: Boston
+Category: restaurants
+Cuisine: seafood
+Address: 67 Guest St
+Description: One of the newer additions to Boston’s seafood scene, the Pearl is a prized local-owned restaurant amid the cookie-cutter chains at Dorchester’s South Bay Center—and now the Boston Landing section of Brighton, too, as of early 2025. To reach the original location, head past the Applebee’s and Olive Garden to this lovely, lively operation focused on fabulous, relatively straightforward renditions of seafood staples—spicy gumbo and shrimp scampi, for instance—as well as spectacular surprises like spinach-, crab-, and cheese-stuffed salmon with an apple cider glaze. Nifty cocktails complete the package. 20B District Ave., Dorchester, Boston, 617-288-8810; 67 Guest St., Brighton, Boston, 617-208-8461; thepearlsouthbay.com .
+Website: https://www.thepearlsouthbay.com/
+Phone: 617-288-8810
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3250969
+Longitude: -71.0623889
+OpenStreetMap URL: https://www.openstreetmap.org/node/11727103101
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11727103101
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

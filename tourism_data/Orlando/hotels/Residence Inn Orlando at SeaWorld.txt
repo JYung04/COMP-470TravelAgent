@@ -1,0 +1,25 @@
+Name: Residence Inn Orlando at SeaWorld
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 11000 Westwood Boulevard, Orlando FL
+Description: Not listed
+Website: https://www.marriott.com/mcosw
+Phone: +1-407-313-3600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4059346
+Longitude: -81.47672
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1983293
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1983293
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

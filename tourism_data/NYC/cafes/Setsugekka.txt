@@ -1,0 +1,24 @@
+Name: Setsugekka
+City: NYC
+Category: cafes
+Cuisine: pastry, japanese
+Address: 74 East 7th Street, 10003
+Description: Not listed
+Website: https://www.setsugekkany.com/
+Phone: +1-646-895-9586
+Email: info@setsugekkany.com
+Opening Hours: We-Su 13:00-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7272465
+Longitude: -73.9866334
+OpenStreetMap URL: https://www.openstreetmap.org/node/6916463756
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6916463756
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

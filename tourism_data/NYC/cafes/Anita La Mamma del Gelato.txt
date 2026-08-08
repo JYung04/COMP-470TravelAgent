@@ -1,0 +1,25 @@
+Name: Anita La Mamma del Gelato
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 1561 2nd Avenue, 10028
+Description: Not listed
+Website: https://www.anita-gelato.com
+Phone: +1 646-861-1957
+Email: Not listed
+Opening Hours: 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7748384
+Longitude: -73.9542112
+OpenStreetMap URL: https://www.openstreetmap.org/node/9690326825
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9690326825
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

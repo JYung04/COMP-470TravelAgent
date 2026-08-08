@@ -1,0 +1,25 @@
+Name: Thai Nara
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 64-02 35th Avenue, Woodside NY 11377
+Description: Not listed
+Website: Not listed
+Phone: +1 718-606-8842
+Email: Not listed
+Opening Hours: Mo-Tu 13:00-21:45; Th-Su 13:00-21:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.7500723
+Longitude: -73.898476
+OpenStreetMap URL: https://www.openstreetmap.org/node/12783574652
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12783574652
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

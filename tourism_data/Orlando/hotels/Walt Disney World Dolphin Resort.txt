@@ -1,0 +1,25 @@
+Name: Walt Disney World Dolphin Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1500 Epcot Resorts Boulevard, Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://disneyworld.disney.go.com/resorts/dolphin-hotel/
+Phone: +1-407-934-4000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 28.3672773
+Longitude: -81.560514
+OpenStreetMap URL: https://www.openstreetmap.org/way/295150465
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295150465
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

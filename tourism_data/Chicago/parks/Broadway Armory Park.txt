@@ -1,0 +1,25 @@
+Name: Broadway Armory Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 5917 North Broadway, Chicago IL 60660
+Description: Officially classified as community park. Covers approximately 2.1 acres. Facilities include fitness center, gymnasium.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/broadway-armory-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9893309
+Longitude: -87.6596375
+OpenStreetMap URL: https://www.openstreetmap.org/way/1509645561
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1509645561
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

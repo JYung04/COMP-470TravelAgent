@@ -1,0 +1,24 @@
+Name: Sake Bar Hagi
+City: NYC
+Category: restaurants
+Cuisine: japanese, ramen, sushi, yakitori
+Address: 245A West 51st Street, New York NY 10019
+Description: Not listed
+Website: https://sakebar-hagi.com/
+Phone: +1-212-956-2429
+Email: Not listed
+Opening Hours: Mo-We 17:00-23:00; Th 17:00-00:00; Fr 17:00-01:00; Sa 12:00-15:00,16:00-01:00; Su 12:00-15:00,16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7627414
+Longitude: -73.9849799
+OpenStreetMap URL: https://www.openstreetmap.org/node/9611990778
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9611990778
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

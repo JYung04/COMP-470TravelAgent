@@ -1,0 +1,25 @@
+Name: Vinmont Veteran Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Vinmont Veteran Park is a 3.5-acre (1.4-hectare) park and playground in the Riverdale section of The Bronx. It includes bathrooms, a playground, a woodland area and the Sid Augarten baseball field. The site was acquired by New York City in 1945 and 1947 and opened as a park in 1951. Originally named the PS 81 Playground after a neighboring public school it was renamed in 1986 in honor of military veterans in the Vinmont neighborhood.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9022222
+Longitude: -73.9052778
+OpenStreetMap URL: https://www.openstreetmap.org/node/357633384
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/357633384
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art

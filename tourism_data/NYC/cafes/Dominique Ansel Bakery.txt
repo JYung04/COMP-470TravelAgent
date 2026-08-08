@@ -1,0 +1,25 @@
+Name: Dominique Ansel Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 189 Spring Street, New York 10012
+Description: Not listed
+Website: https://www.dominiqueanselny.com
+Phone: +1 212-219-2773
+Email: info@dominiqueansel.com
+Opening Hours: Su 09:00-19:00; Mo-Sa 08:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.725171
+Longitude: -74.00295
+OpenStreetMap URL: https://www.openstreetmap.org/node/3925063780
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3925063780
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

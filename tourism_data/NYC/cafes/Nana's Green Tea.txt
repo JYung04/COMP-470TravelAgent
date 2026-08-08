@@ -1,0 +1,24 @@
+Name: Nana's Green Tea
+City: NYC
+Category: cafes
+Cuisine: japanese, tea, ice_cream, cake
+Address: 1250 Broadway, New York NY 10001
+Description: Not listed
+Website: https://www.nanasgreenteaus.com/
+Phone: +1-212-685-9670
+Email: Not listed
+Opening Hours: Fr-Su 11:00-21:00, Mo-Th 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7479234
+Longitude: -73.987814
+OpenStreetMap URL: https://www.openstreetmap.org/node/11860537157
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11860537157
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

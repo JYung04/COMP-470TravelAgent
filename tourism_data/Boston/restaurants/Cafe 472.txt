@@ -1,0 +1,25 @@
+Name: Cafe 472
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 472 Commonwealth Avenue, Boston MA 02215
+Description: Not listed
+Website: https://www.bostoncafe472.com/
+Phone: +1-617-236-4949
+Email: Not listed
+Opening Hours: Mo-Su 11:00-23:59
+Wheelchair Accessibility: Not listed
+Latitude: 42.3485727
+Longitude: -71.0936767
+OpenStreetMap URL: https://www.openstreetmap.org/node/7776200190
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7776200190
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

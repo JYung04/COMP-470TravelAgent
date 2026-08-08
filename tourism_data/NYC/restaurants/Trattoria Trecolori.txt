@@ -1,0 +1,25 @@
+Name: Trattoria Trecolori
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 254 West 47th Street, New York 10036
+Description: Not listed
+Website: https://www.trattoriatrecolori.com/
+Phone: (212) 997-4540
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7599596
+Longitude: -73.9867307
+OpenStreetMap URL: https://www.openstreetmap.org/node/2722857837
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2722857837
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Laviscount Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Official Boston park data lists features including Drinking Fountain, Fitness Equipment, Playground, Spray Play.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3165023
+Longitude: -71.0860782
+OpenStreetMap URL: https://www.openstreetmap.org/way/29862290
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29862290
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

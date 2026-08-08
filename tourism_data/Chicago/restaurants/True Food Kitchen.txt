@@ -1,0 +1,25 @@
+Name: True Food Kitchen
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 1 West Erie Street, Chicago IL 60654
+Description: The vegan spinach and mushroom pizza at True Food Kitchen Bring your meat-loving and veggie-obsessed friends together at True Food Kitchen . The airy downtown space has a thoughtful menu built around seasonality, with options for every type of diet. Even carnivores will love the edamame dumplings with white truffle oil, the spinach and mushroom pizza with caramelized onions and almond-milk ricotta, and the spaghetti squash casserole. Or they can opt for the grass-fed burger, steak tacos, or gril
+Website: https://www.truefoodkitchen.com/chicago
+Phone: +1-312-204-6981
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 10:00-23:00; Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8939282
+Longitude: -87.6286954
+OpenStreetMap URL: https://www.openstreetmap.org/node/5456981243
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5456981243
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

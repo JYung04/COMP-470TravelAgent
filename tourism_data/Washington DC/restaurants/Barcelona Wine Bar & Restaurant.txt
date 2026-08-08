@@ -1,0 +1,24 @@
+Name: Barcelona Wine Bar & Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: tapas, spanish, wine
+Address: 1622 14th Street Northwest, Washington DC 20009
+Description: Not listed
+Website: https://www.barcelonawinebar.com/location/14th-street/
+Phone: +1 202-588-5500
+Email: Not listed
+Opening Hours: Mo-We 16:00-24:00; Th 16:00-01:00; Fr 14:00-02:00; Sa 11:00-02:00; Su 11:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 38.9120904
+Longitude: -77.0322592
+OpenStreetMap URL: https://www.openstreetmap.org/node/2508944448
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2508944448
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

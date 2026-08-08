@@ -1,0 +1,25 @@
+Name: Deutsch House
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 2 Beaver Street, Boston MA 02108
+Description: Not listed
+Website: https://sah-archipedia.org/buildings/MA-01-BH48
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3560133
+Longitude: -71.0721334
+OpenStreetMap URL: https://www.openstreetmap.org/way/405911801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/405911801
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

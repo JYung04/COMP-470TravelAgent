@@ -1,0 +1,25 @@
+Name: Unix Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 520 West 24th Street, New York NY 10011
+Description: Not listed
+Website: https://www.unixgallery.com
+Phone: +1-212-209-1572
+Email: info@unixgallery.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7487261
+Longitude: -74.0048372
+OpenStreetMap URL: https://www.openstreetmap.org/node/10859974166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10859974166
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

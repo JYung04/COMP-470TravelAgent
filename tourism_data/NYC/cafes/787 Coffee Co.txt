@@ -1,0 +1,25 @@
+Name: 787 Coffee Co.
+City: NYC
+Category: cafes
+Cuisine: coffee
+Address: 131 East 7th Street, New York NY 10009
+Description: Not listed
+Website: https://www.787coffee.com/
+Phone: +1-646-649-2774
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7263237
+Longitude: -73.9838601
+OpenStreetMap URL: https://www.openstreetmap.org/node/6558563123
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6558563123
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

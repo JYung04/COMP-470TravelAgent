@@ -1,0 +1,25 @@
+Name: Nuns of the Battlefield Civil War Nurses Monument
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 1745 M Street Northwest, Washington DC 20036
+Description: Nuns of the Battlefield is a public artwork made in 1924 by Irish artist Jerome Connor, located at the intersection of Rhode Island Avenue NW, M Street, and Connecticut Avenue NW, in Washington, D.C., United States. A tribute to the more than 600 nuns who nursed soldiers of both the Union Army and the Confederate States Army during the American Civil War, it is one of two monuments in the District that mark women's roles in the conflict. It is a contributing monument to the Civil War Monuments in Washington, D.C., listed on the National Register of Historic Places. In 1993, it was surveyed for the Smithsonian Institution's Save Outdoor Sculpture! program.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9058119
+Longitude: -77.0402428
+OpenStreetMap URL: https://www.openstreetmap.org/way/58187071
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/58187071
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art

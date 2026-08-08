@@ -1,0 +1,25 @@
+Name: Trillium Brewing
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 369 Congress Street, Boston 02210
+Description: Not listed
+Website: https://www.trilliumbrewing.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3498759
+Longitude: -71.0480519
+OpenStreetMap URL: https://www.openstreetmap.org/node/3308602854
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3308602854
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

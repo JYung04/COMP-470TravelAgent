@@ -1,0 +1,25 @@
+Name: Adria Hotel & Conference Center
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 221-17 Northern Boulevard, Bayside NY 11361
+Description: Not listed
+Website: https://www.adriahotelny.com/
+Phone: +1-800-272-3742
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7620236
+Longitude: -73.7599266
+OpenStreetMap URL: https://www.openstreetmap.org/way/284434944
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284434944
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

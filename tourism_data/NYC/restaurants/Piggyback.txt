@@ -1,0 +1,25 @@
+Name: Piggyback
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 140 West 30th Street, 10001
+Description: Not listed
+Website: https://www.piggybacknyc.com
+Phone: +1-212-239-0570
+Email: Not listed
+Opening Hours: Mo 17:00-21:00; Tu-Th 11:30-14:30,17:00-21:00; Fr 11:30-14:30,17:00-22:00; Sa 11:00-15:00,17:00-22:00; Su 11:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7479876
+Longitude: -73.9915765
+OpenStreetMap URL: https://www.openstreetmap.org/node/12249202528
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12249202528
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

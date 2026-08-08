@@ -1,0 +1,25 @@
+Name: Spolem Café and Lounge
+City: NYC
+Category: cafes
+Cuisine: polish
+Address: 66-30 Fresh Pond Road, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-347-725-3379
+Email: Not listed
+Opening Hours: Su 10:00-22:00; Mo-We 12:00-22:00; Th 12:00-23:00; Fr 14:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7080471
+Longitude: -73.8979865
+OpenStreetMap URL: https://www.openstreetmap.org/node/5364972600
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5364972600
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

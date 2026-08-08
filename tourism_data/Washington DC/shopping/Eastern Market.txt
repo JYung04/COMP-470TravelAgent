@@ -1,0 +1,25 @@
+Name: Eastern Market
+City: Washington DC
+Category: shopping
+Cuisine: Not listed
+Address: 225 7th Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://easternmarket-dc.org/
+Phone: +1 202-698-5253
+Email: market.manager@dc.gov
+Opening Hours: Tu-Sa 08:00-18:00; Su 08:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 38.8865813
+Longitude: -76.9964839
+OpenStreetMap URL: https://www.openstreetmap.org/way/67460471
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/67460471
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

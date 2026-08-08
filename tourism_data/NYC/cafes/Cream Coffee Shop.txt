@@ -1,0 +1,25 @@
+Name: Cream Coffee Shop
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.creamcoffeeshop.com
+Phone: +1-718-333-5288
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-19:00; Sa 08:00-19:00; Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6332495
+Longitude: -74.0272357
+OpenStreetMap URL: https://www.openstreetmap.org/node/10203189775
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10203189775
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

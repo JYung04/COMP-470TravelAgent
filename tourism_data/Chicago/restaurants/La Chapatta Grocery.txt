@@ -1,0 +1,25 @@
+Name: La Chapatta Grocery
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 2500 South Whipple Street, Chicago IL 60623
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8462601
+Longitude: -87.7017746
+OpenStreetMap URL: https://www.openstreetmap.org/node/4470746300
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4470746300
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

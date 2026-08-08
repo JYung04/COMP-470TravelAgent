@@ -1,0 +1,25 @@
+Name: Berlin Döner
+City: NYC
+Category: restaurants
+Cuisine: kebab
+Address: 104 MacDougal Street, New York NY 10012
+Description: Not listed
+Website: Not listed
+Phone: +1-646-476-4444
+Email: Not listed
+Opening Hours: Mo-Su 12:00-23:50
+Wheelchair Accessibility: Not listed
+Latitude: 40.7294161
+Longitude: -74.0008633
+OpenStreetMap URL: https://www.openstreetmap.org/node/11865332476
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11865332476
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

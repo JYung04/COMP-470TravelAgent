@@ -1,0 +1,25 @@
+Name: UP Comedy Club
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 230 West North Avenue, Chicago IL 60614
+Description: Not listed
+Website: http://www.upcomedyclub.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9113354
+Longitude: -87.6356269
+OpenStreetMap URL: https://www.openstreetmap.org/node/2262364827
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2262364827
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

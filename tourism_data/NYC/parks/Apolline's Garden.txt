@@ -1,0 +1,25 @@
+Name: Apolline's Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Gates Avenue Plaza
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.68418
+Longitude: -73.9684285
+OpenStreetMap URL: https://www.openstreetmap.org/node/10757533390
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10757533390
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

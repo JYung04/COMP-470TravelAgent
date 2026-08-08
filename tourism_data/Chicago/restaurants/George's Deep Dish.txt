@@ -1,0 +1,25 @@
+Name: George's Deep Dish
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 6221 North Clark Street, Chicago IL 60660
+Description: Not listed
+Website: https://georgesdeepdish.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9951033
+Longitude: -87.6698779
+OpenStreetMap URL: https://www.openstreetmap.org/node/8991652578
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8991652578
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

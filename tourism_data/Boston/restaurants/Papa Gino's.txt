@@ -1,0 +1,25 @@
+Name: Papa Gino's
+City: Boston
+Category: restaurants
+Cuisine: pizza
+Address: 748;750 Gallivan Boulevard, Dorchester MA 02122
+Description: Not listed
+Website: https://locations.papaginos.com/ma/quincy/100-granite-street.html?utm_source=yext&utm_medium=local&utm_campaign=listings
+Phone: +16177869088
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2847099
+Longitude: -71.0454274
+OpenStreetMap URL: https://www.openstreetmap.org/way/29846283
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29846283
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

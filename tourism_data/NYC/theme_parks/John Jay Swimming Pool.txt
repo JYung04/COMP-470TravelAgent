@@ -1,0 +1,25 @@
+Name: John Jay Swimming Pool
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/john-jay-park-and-pool/facilities/outdoor-pools/john-jay-pool
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7693744
+Longitude: -73.9488626
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3094514
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3094514
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: Gaijin
+City: Chicago
+Category: restaurants
+Cuisine: japanese
+Address: 950 West Lake Street, Chicago IL 60607
+Description: Not listed
+Website: https://gaijinchicago.com/
+Phone: +1-312-265-1348
+Email: Not listed
+Opening Hours: Mo off; Tu-Fr 11:00-14:30,17:00-22:00; Sa-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8857881
+Longitude: -87.6515664
+OpenStreetMap URL: https://www.openstreetmap.org/node/11272453397
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11272453397
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

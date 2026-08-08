@@ -1,0 +1,25 @@
+Name: Little China Cafe
+City: Washington DC
+Category: restaurants
+Cuisine: chinese
+Address: 4830 MacArthur Boulevard Northwest
+Description: Not listed
+Website: https://www.littlechinacafewashington.com/
+Phone: +1 202-333-5678
+Email: Not listed
+Opening Hours: Mo off; Tu-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.916873
+Longitude: -77.096519
+OpenStreetMap URL: https://www.openstreetmap.org/node/750432405
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750432405
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

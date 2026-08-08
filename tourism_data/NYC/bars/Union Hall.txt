@@ -1,0 +1,24 @@
+Name: Union Hall
+City: NYC
+Category: bars
+Cuisine: pizza
+Address: 702 Union Street, 11215
+Description: bar and standup comedy venue
+Website: https://www.unionhallny.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 16:00-02:00, Fr 16:00-04:00, Sa 13:00-04:00, Su 13:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6760065
+Longitude: -73.980132
+OpenStreetMap URL: https://www.openstreetmap.org/way/248158548
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248158548
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

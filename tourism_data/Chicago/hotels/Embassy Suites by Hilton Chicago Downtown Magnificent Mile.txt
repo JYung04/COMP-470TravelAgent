@@ -1,0 +1,25 @@
+Name: Embassy Suites by Hilton Chicago Downtown Magnificent Mile
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 511 North Columbus Drive, Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chirees-embassy-suites-chicago-downtown-magnificent-mile/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8914142
+Longitude: -87.6196657
+OpenStreetMap URL: https://www.openstreetmap.org/way/173328328
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/173328328
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: El Dorado Bread
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 6209 Georgia Avenue Northwest, Washington DC 20011-5111
+Description: Not listed
+Website: Not listed
+Phone: +1 202-722-1440
+Email: Not listed
+Opening Hours: Mo-Su 07:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.96541
+Longitude: -77.027263
+OpenStreetMap URL: https://www.openstreetmap.org/node/1067837942
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1067837942
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

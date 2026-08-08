@@ -1,0 +1,25 @@
+Name: The Elephant Walk South End
+City: Boston
+Category: restaurants
+Cuisine: Cambodian, French
+Address: 1415 Washington St, Boston, MA 02118, United States
+Description: Recently relocating to Washington Street after operating for 20 years on Beacon Street, The Elephant Walk South End offers a unique combination of French and Cambodian cuisine by Chef Nadsa de Monteiro. Outdoor dining is available! See amenities below for more information. Dine Out Boston is August 1 – 15, 2026 See amenity tab for more information.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: +1 617-247-1500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3411783
+Longitude: -71.0704759
+OpenStreetMap URL: https://www.openstreetmap.org/node/13667305943
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13667305943
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

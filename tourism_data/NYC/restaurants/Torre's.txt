@@ -1,0 +1,24 @@
+Name: Torre's
+City: NYC
+Category: restaurants
+Cuisine: pizza, italian
+Address: 6808 Bay Parkway, Brooklyn NY 11204
+Description: Not listed
+Website: https://www.torresitalianrestaurantpizza.com/
+Phone: +1-718-232-3529
+Email: Not listed
+Opening Hours: Mo off; Tu-Th 11:00-21:00; Fr-Su 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6120152
+Longitude: -73.9836063
+OpenStreetMap URL: https://www.openstreetmap.org/node/7618918194
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7618918194
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

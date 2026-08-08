@@ -1,0 +1,25 @@
+Name: Double Nickel Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: park in Richmond County, New York, United States of America
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.5368747
+Longitude: -74.1626488
+OpenStreetMap URL: https://www.openstreetmap.org/way/35598421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/35598421
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

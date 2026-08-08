@@ -1,0 +1,25 @@
+Name: The Haven
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 284 Amory Street Jamaica Plain MA 02130
+Description: Come to Boston’s only Scottish pub for the Caledonian novelty of haggis, Scotch eggs, and deep-fried Mars bars; come back for the phenomenal burger, an 8-ounce puck of chuck with proper char, melty cheese, and sweet-salty bacon-onion marmalade. The pickle aioli sauce drips down your wrist by bite three; mop up the mess with the accompanying “chunky chips.” 284 Amory St. , Boston , thehavenjp.com
+Website: https://thehavenjp.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.975617
+Longitude: -0.0230268
+OpenStreetMap URL: https://www.openstreetmap.org/node/976945436
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/976945436
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

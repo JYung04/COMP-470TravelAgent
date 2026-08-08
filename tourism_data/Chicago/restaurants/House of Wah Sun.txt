@@ -1,0 +1,25 @@
+Name: House of Wah Sun
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 3234 West Irving Park Road, Chicago IL 60618
+Description: Not listed
+Website: https://www.houseofwahsunchicago.com/
+Phone: +1-773-267-0801
+Email: Not listed
+Opening Hours: Tu-Th, Su 14:00-21:15; Fr, Sa 14:00-21:45
+Wheelchair Accessibility: Not listed
+Latitude: 41.9541499
+Longitude: -87.7095548
+OpenStreetMap URL: https://www.openstreetmap.org/node/9354608512
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9354608512
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

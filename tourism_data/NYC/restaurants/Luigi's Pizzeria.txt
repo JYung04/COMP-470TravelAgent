@@ -1,0 +1,25 @@
+Name: Luigi's Pizzeria
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 1615 Avenue U, Brooklyn NY 11229
+Description: It’s somewhat cramped. The hot oven nearly touches one of the few tables. Pizza boxes are stacked up toward the ceiling. Service can be less than effusive. But once these expert pizza makers put their homemade pesto oil on a thin, crisp pie or slice—fresh mozzarella, grandma or Sicilian, preferably—and you take a bite, all other concerns cease. (Added cred: Gio, the owner, recently struck a blow for NYC, and its pizza, on The Chris Gethard Show .) —Andrew Rosenberg
+Website: http://www.luigispizzabrooklyn.com
+Phone: +1-718-382-9100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5991211
+Longitude: -73.9549395
+OpenStreetMap URL: https://www.openstreetmap.org/node/4380452052
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4380452052
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

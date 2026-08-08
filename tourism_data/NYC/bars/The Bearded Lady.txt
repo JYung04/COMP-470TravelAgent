@@ -1,0 +1,25 @@
+Name: The Bearded Lady
+City: NYC
+Category: bars
+Cuisine: snack
+Address: 686A Washington Avenue, Brooklyn NY 11238
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 14:00+; Sa-Su 12:00+ "Open Late"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6774342
+Longitude: -73.9638702
+OpenStreetMap URL: https://www.openstreetmap.org/node/1642772578
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1642772578
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

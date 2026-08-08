@@ -1,0 +1,25 @@
+Name: Hilton Orlando Buena Vista Palace Disney Springs Area
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1900 East Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/mcobuhh-hilton-orlando-buena-vista-palace-disney-springs-area/
+Phone: +1-407-827-2727
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3770162
+Longitude: -81.5146233
+OpenStreetMap URL: https://www.openstreetmap.org/way/292950902
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/292950902
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

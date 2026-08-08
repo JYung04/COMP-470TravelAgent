@@ -1,0 +1,25 @@
+Name: Green Mill Cocktail Lounge
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4802 North Broadway, Chicago IL 60640
+Description: The Green Mill is a staple of Chicago’s famed jazz scene. This former speakeasy in the bustling Uptown neighborhood dates back to 1907 — making it one of the oldest continuously operating jazz clubs in the country. Slip into one of the glamorous curved booths (you can even request Al Capone’s favorite spot) for a stellar lineup of live jazz every night, from sultry singers to big band and bebop.
+Website: https://www.greenmilljazz.com/
+Phone: +1-773-878-5552
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9691831
+Longitude: -87.6598913
+OpenStreetMap URL: https://www.openstreetmap.org/node/1370035488
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1370035488
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

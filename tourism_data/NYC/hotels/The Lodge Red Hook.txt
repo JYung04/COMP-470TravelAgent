@@ -1,0 +1,25 @@
+Name: The Lodge Red Hook
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 17 Seabring Street, Brooklyn NY 11231
+Description: Not listed
+Website: https://www.lodgeredhook.com/en/
+Phone: +1 718-675-5200
+Email: localguides@lodgeredhook.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6799991
+Longitude: -74.0059632
+OpenStreetMap URL: https://www.openstreetmap.org/way/278371860
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278371860
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

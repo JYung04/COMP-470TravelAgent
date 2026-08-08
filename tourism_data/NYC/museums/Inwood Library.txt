@@ -1,0 +1,25 @@
+Name: Inwood Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 4790 Broadway, New York NY 10034
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/inwood
+Phone: +1-212-942-2445
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.8657116
+Longitude: -73.9258248
+OpenStreetMap URL: https://www.openstreetmap.org/way/275118436
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/275118436
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Insignia Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 741 61st Street, Brooklyn NY 11220
+Description: Not listed
+Website: https://www.insigniabrooklyn.com/
+Phone: +1 718-567-5858
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6357357
+Longitude: -74.0111127
+OpenStreetMap URL: https://www.openstreetmap.org/way/249577635
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/249577635
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

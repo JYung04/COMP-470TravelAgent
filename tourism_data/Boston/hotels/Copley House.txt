@@ -1,0 +1,24 @@
+Name: Copley House
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 237 West Newton Street
+Description: Not listed
+Website: http://www.copleyhouse.com
+Phone: (617) 236-8300
+Email: info@copleyhouse.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3445279
+Longitude: -71.0801666
+OpenStreetMap URL: https://www.openstreetmap.org/way/405404584
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/405404584
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

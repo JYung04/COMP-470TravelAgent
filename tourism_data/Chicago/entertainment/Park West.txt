@@ -1,0 +1,25 @@
+Name: Park West
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 322 West Armitage Avenue, Chicago IL 60614
+Description: Since opening in 1916, this former movie house has hosted everything from silent films to burlesque and vaudeville performances. Today, it’s known for booking some of the top names in contemporary music, including Patti Smith, John Prine, B.B. King, Tom Waits, Hall & Oates, and more. Park West features a multi-level space with a unique mix of cabaret-style seating and standing room.
+Website: https://www.jamusa.com/venues/park-west
+Phone: +1-773-929-1322
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9185826
+Longitude: -87.6374383
+OpenStreetMap URL: https://www.openstreetmap.org/way/210685942
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210685942
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; music

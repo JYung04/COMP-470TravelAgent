@@ -1,0 +1,25 @@
+Name: Mattahunt Woods
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 20 Cannan Street (at Colorado Street)
+Description: Officially classified as urban wilds. Located in Mattapan. Covers approximately 8.9 acres.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2733547
+Longitude: -71.104427
+OpenStreetMap URL: https://www.openstreetmap.org/way/1491963097
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1491963097
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

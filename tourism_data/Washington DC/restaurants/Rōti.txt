@@ -1,0 +1,25 @@
+Name: Rōti
+City: Washington DC
+Category: restaurants
+Cuisine: mediterranean
+Address: 1629 K Street Northwest
+Description: Not listed
+Website: https://roti.com/location/dc-k-street-nw/
+Phone: +1-202-869-1791
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-16:00; Sa-Su off
+Wheelchair Accessibility: Not listed
+Latitude: 38.9027772
+Longitude: -77.0379969
+OpenStreetMap URL: https://www.openstreetmap.org/node/9379788938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9379788938
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

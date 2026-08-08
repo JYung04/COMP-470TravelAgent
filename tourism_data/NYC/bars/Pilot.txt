@@ -1,0 +1,25 @@
+Name: Pilot
+City: NYC
+Category: bars
+Cuisine: Oyster
+Address: Pier 6 Brooklyn Bridge Park, Brooklyn, NY 11201, United States
+Description: Not listed
+Website: https://crewny.com/pilot
+Phone: +1 917-810-8550
+Email: Not listed
+Opening Hours: Mo-Th 15:00-23:00; Fr 12:00-23:00; Sa-Su 10:30-23:00; Oct-Mar off
+Wheelchair Accessibility: Not listed
+Latitude: 40.6940266
+Longitude: -74.0031139
+OpenStreetMap URL: https://www.openstreetmap.org/node/11004529328
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11004529328
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

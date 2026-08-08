@@ -1,0 +1,25 @@
+Name: Blaze Pizza
+City: Boston
+Category: restaurants
+Cuisine: pizza
+Address: 1282 Boylston Street, Boston MA 02215
+Description: Not listed
+Website: https://www.blazepizza.com/locations/MA/Boston
+Phone: +18572568062
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 42.3444241
+Longitude: -71.0974206
+OpenStreetMap URL: https://www.openstreetmap.org/node/7711828650
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7711828650
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

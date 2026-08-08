@@ -1,0 +1,25 @@
+Name: Voorlezer's House
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: 3961 ARTHUR KILL ROAD
+Description: The Voorlezer's House is a historic clapboard frame house in Historic Richmond Town in Staten Island, New York. It was previously believed to be the oldest known schoolhouse in what is now the United States. The present structure became a private residence for more than a century and is now owned and operated by the Staten Island Historical Society. Despite being traditionally dated to before 1696 and sitting on land patented in 1680, it is more likely to have been constructed in the mid-eighteenth century, probably in the 1760s by Jacob Rezeau, whose family came into possession of the property in 1705.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.571402
+Longitude: -74.1474898
+OpenStreetMap URL: https://www.openstreetmap.org/way/246242284
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/246242284
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

@@ -1,0 +1,25 @@
+Name: Fresh Kitchen
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 32806
+Description: Not listed
+Website: https://eatfreshkitchen.com/
+Phone: +1-407-601-1127
+Email: Not listed
+Opening Hours: Tu-Sa 11:00-21:35; Su 11:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5109722
+Longitude: -81.3758305
+OpenStreetMap URL: https://www.openstreetmap.org/node/11433249769
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11433249769
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

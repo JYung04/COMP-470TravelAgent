@@ -1,0 +1,25 @@
+Name: sweatshop
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 232 Metropolitan Avenue, Brooklyn NY 11211
+Description: Not listed
+Website: https://sweatshop.coffee/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.714903
+Longitude: -73.9597145
+OpenStreetMap URL: https://www.openstreetmap.org/node/4811875621
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4811875621
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Harbor Defense Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 230 Sheridan Loop, 11209
+Description: The Harbor Defense Museum, sometimes called The Caponier, is a 19th-century fort within the grounds of Fort Hamilton in the Bay Ridge section of Brooklyn, New York, United States. It is New York City's only military museum and one of only seventy military museums in the United States that is funded and operated by the Defense Department.
+Website: https://www.harbordefensemuseum.com
+Phone: +1 718-630-4349
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6089145
+Longitude: -74.0320508
+OpenStreetMap URL: https://www.openstreetmap.org/way/249053508
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/249053508
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

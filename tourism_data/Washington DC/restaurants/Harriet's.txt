@@ -1,0 +1,25 @@
+Name: Harriet's
+City: Washington DC
+Category: restaurants
+Cuisine: breakfast
+Address: 432 11th Street Northwest, Washington DC 20004
+Description: Not listed
+Website: Not listed
+Phone: +1 202-255-2707
+Email: Not listed
+Opening Hours: 06:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8957792
+Longitude: -77.0272645
+OpenStreetMap URL: https://www.openstreetmap.org/node/738194955
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/738194955
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

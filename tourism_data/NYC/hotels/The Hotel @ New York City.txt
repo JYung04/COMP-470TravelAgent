@@ -1,0 +1,25 @@
+Name: The Hotel @ New York City
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 161 Lexington Avenue, New York NY 10016
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7438876
+Longitude: -73.9812009
+OpenStreetMap URL: https://www.openstreetmap.org/way/248143190
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248143190
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Lazy Bird
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 200 North Green Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.lazybirdchicago.com
+Phone: +1-312-761-1799
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8858782
+Longitude: -87.6488678
+OpenStreetMap URL: https://www.openstreetmap.org/node/6407444258
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6407444258
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

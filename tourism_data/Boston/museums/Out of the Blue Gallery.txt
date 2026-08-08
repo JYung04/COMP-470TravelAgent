@@ -1,0 +1,25 @@
+Name: Out of the Blue Gallery
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://outoftheblueartgallery.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3514871
+Longitude: -71.1318833
+OpenStreetMap URL: https://www.openstreetmap.org/node/9647708062
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9647708062
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

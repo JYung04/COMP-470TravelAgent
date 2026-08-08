@@ -1,0 +1,24 @@
+Name: Sam's Steaks & Chops
+City: NYC
+Category: restaurants
+Cuisine: steak_house, italian, pizza
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-718-596-3458
+Email: Not listed
+Opening Hours: closed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6858748
+Longitude: -73.9943817
+OpenStreetMap URL: https://www.openstreetmap.org/node/6448338516
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6448338516
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

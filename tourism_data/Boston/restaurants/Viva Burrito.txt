@@ -1,0 +1,25 @@
+Name: Viva Burrito
+City: Boston
+Category: restaurants
+Cuisine: mexican
+Address: 274 Franklin Street, Boston MA 02110
+Description: Not listed
+Website: https://www.vivaburrito.com/
+Phone: +1-617-523-6390
+Email: vivaburritoboston@gmail.com
+Opening Hours: Mo-Sa 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3569918
+Longitude: -71.05348
+OpenStreetMap URL: https://www.openstreetmap.org/node/13586061992
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13586061992
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

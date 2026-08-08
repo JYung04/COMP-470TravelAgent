@@ -1,0 +1,25 @@
+Name: Lir
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 903 Boylston Street, Boston MA 02115
+Description: Not listed
+Website: https://www.lironboylston.com/
+Phone: +1-617-778-0089
+Email: lironboylston@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3484206
+Longitude: -71.0842079
+OpenStreetMap URL: https://www.openstreetmap.org/node/7535642212
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7535642212
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

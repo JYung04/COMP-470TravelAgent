@@ -1,0 +1,24 @@
+Name: East of the Ryan
+City: Chicago
+Category: nightlife
+Cuisine: Not listed
+Address: 914 East 79th Street, Chicago IL 60619
+Description: Not listed
+Website: https://seatgeek.com/venues/east-of-the-ryan/tickets
+Phone: (773) 874-1500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.751536
+Longitude: -87.6018906
+OpenStreetMap URL: https://www.openstreetmap.org/node/6154659398
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6154659398
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

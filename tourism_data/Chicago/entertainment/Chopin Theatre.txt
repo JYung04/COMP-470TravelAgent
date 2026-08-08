@@ -1,0 +1,24 @@
+Name: Chopin Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 1541-1543 West Division Street, Chicago IL 60642
+Description: Chopin Theatre is an independent performing arts venue located in Wicker Park, Chicago. Reopened in 1990 by Zygmunt Dyrkacz, a Polish immigrant, the theater has become a significant cultural hub known for its eclectic programming and commitment to avant-garde and experimental performances. Since 1990, Chopin Theatre has hosted over 2,100 presentations as well as its own productions, ranging from theater and dance to music and literary events. The venue is particularly renowned for showcasing international works, especially from Eastern Europe.
+Website: http://www.chopintheatre.com
+Phone: (773) 278-1500
+Email: zygmunt.dyrkaz@chopintheatre.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9030495
+Longitude: -87.6668139
+OpenStreetMap URL: https://www.openstreetmap.org/way/209847708
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209847708
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art; music

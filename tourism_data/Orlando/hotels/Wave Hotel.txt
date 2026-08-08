@@ -1,0 +1,25 @@
+Name: Wave Hotel
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 6100 Wave Hotel Drive, Orlando FL 32827
+Description: Not listed
+Website: https://www.lakenonawavehotel.com/
+Phone: +1-407-675-2000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3740621
+Longitude: -81.281592
+OpenStreetMap URL: https://www.openstreetmap.org/way/1086357746
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1086357746
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

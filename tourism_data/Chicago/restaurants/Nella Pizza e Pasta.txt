@@ -1,0 +1,24 @@
+Name: Nella Pizza e Pasta
+City: Chicago
+Category: restaurants
+Cuisine: italian, pizza
+Address: 1125 East 55th Street, Chicago IL 60637
+Description: Not listed
+Website: https://nellachicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7948754
+Longitude: -87.5987636
+OpenStreetMap URL: https://www.openstreetmap.org/node/5773775704
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5773775704
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

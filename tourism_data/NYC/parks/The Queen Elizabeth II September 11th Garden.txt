@@ -1,0 +1,25 @@
+Name: The Queen Elizabeth II September 11th Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 11 Hanover Square, New York NY 10005
+Description: The Queen Elizabeth II September 11th Garden is located in Hanover Square in the Financial District of Lower Manhattan, New York City. It commemorates the Commonwealth of Nations member states' victims of the September 11 attacks on the World Trade Center. It was officially opened by Queen Elizabeth II on July 6, 2010, in a ceremony alongside her husband Prince Philip, Duke of Edinburgh, then-Mayor of New York City Michael Bloomberg, then-Governor of New York David Paterson, and then-Governor of New Jersey Chris Christie.
+Website: https://www.nycgovparks.org/parks/british-garden-at-hanover-square/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.704797
+Longitude: -74.0093346
+OpenStreetMap URL: https://www.openstreetmap.org/way/208360494
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/208360494
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

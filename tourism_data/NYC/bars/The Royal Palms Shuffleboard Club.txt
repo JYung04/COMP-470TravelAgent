@@ -1,0 +1,24 @@
+Name: The Royal Palms Shuffleboard Club
+City: NYC
+Category: bars
+Cuisine: tacos, burger
+Address: 514 Union Street, Brooklyn NY 11215
+Description: Not listed
+Website: https://www.royalpalmsbrooklyn.com
+Phone: +1-347-223-4410
+Email: Not listed
+Opening Hours: Mo-Th 18:00-24:00, Fr 18:00-02:00, Sa 12:00-02:00, Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6787406
+Longitude: -73.9868491
+OpenStreetMap URL: https://www.openstreetmap.org/node/3743290030
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3743290030
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

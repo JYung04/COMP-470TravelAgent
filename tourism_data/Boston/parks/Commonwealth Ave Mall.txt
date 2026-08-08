@@ -1,0 +1,25 @@
+Name: Commonwealth Ave Mall
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Commonwealth Ave btwn Arlington St & Charlesgate East
+Description: Officially classified as malls, squares & plazas. Located in Back Bay/Beacon Hill. Covers approximately 10.9 acres. Also known as Commonwealth Ave Mall (east of Charlesgate).
+Website: https://friendsofthepublicgarden.org/our-parks/the-mall/
+Phone: +1-617-723-8144
+Email: info@friendsofthepublicgarden.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3513219
+Longitude: -71.0832962
+OpenStreetMap URL: https://www.openstreetmap.org/way/820334088
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/820334088
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

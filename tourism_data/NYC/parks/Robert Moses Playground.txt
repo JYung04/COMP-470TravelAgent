@@ -1,0 +1,25 @@
+Name: Robert Moses Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY
+Description: Robert Moses Playground is a 1.3-acre (0.53 ha) playground and park in Manhattan, New York City. It is located in the Murray Hill neighborhood on First Avenue between 41st and 42nd streets, immediately south of the headquarters of the United Nations. The park is named for New York's "master builder" Robert Moses, the former head of the Triborough Bridge and Tunnel Authority, who later advocated to save the park when a skyscraper was proposed on the site in the early 1980s.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7481156
+Longitude: -73.9692894
+OpenStreetMap URL: https://www.openstreetmap.org/way/531580782
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/531580782
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art

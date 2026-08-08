@@ -1,0 +1,24 @@
+Name: Pokéworks
+City: NYC
+Category: restaurants
+Cuisine: Hawaiian Restaurant, Poke Restaurant
+Address: 169 Bedford Ave (N 8th St), Brooklyn, NY 11211
+Description: Not listed
+Website: https://www.pokeworks.com
+Phone: (718) 388-3121
+Email: info@pokeworks.com
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7181935
+Longitude: -73.9571885
+OpenStreetMap URL: https://www.openstreetmap.org/node/7061462485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7061462485
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

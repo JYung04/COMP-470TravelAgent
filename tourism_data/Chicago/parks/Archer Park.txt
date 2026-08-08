@@ -1,0 +1,25 @@
+Name: Archer Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4901 South Kilbourn Avenue, Chicago IL 60632
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/archer-william-beatty-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8040807
+Longitude: -87.7347578
+OpenStreetMap URL: https://www.openstreetmap.org/way/136510934
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/136510934
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

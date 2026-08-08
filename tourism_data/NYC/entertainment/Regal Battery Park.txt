@@ -1,0 +1,25 @@
+Name: Regal Battery Park
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 102 North End Avenue, New York NY 10282
+Description: movie theater in Battery Park City, Manhattan, New York City, United States
+Website: https://www.regmovies.com/Theatres/Theatre-Folder/Regal-Battery-Park-Stadium-11-6582
+Phone: +1 844 462 7342
+Email: Not listed
+Opening Hours: 11:00-23:30
+Wheelchair Accessibility: yes
+Latitude: 40.714742
+Longitude: -74.015169
+OpenStreetMap URL: https://www.openstreetmap.org/node/889115578
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/889115578
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

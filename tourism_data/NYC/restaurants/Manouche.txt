@@ -1,0 +1,25 @@
+Name: Manouche
+City: NYC
+Category: restaurants
+Cuisine: lebanese
+Address: 176 Broad Street, 07003
+Description: Not listed
+Website: https://www.manouchenj.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8001906
+Longitude: -74.1968714
+OpenStreetMap URL: https://www.openstreetmap.org/node/11163154905
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11163154905
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Snapping Turtle Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 534 North Albany Avenue, Chicago IL 60612
+Description: Officially classified as mini-park. Covers approximately 0.2 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/snapping-turtle-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8914733
+Longitude: -87.7043187
+OpenStreetMap URL: https://www.openstreetmap.org/way/351265937
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/351265937
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

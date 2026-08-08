@@ -1,0 +1,25 @@
+Name: Corner Social
+City: NYC
+Category: restaurants
+Cuisine: American
+Address: 321 Lenox Avenue, New York NY 10027
+Description: Not listed
+Website: https://cornersocialnyc.com/
+Phone: +1 212-510-8552
+Email: Not listed
+Opening Hours: Su-We 11:00-02:00; Th 11:00-03:00; Fr-Sa 11:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8086893
+Longitude: -73.9451659
+OpenStreetMap URL: https://www.openstreetmap.org/node/2562438634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2562438634
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

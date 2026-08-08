@@ -1,0 +1,25 @@
+Name: Alchemy Lounge
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 5389 Kirkman Road, Orlando FL 32819
+Description: Not listed
+Website: Not listed
+Phone: +1-407-720-6585
+Email: Not listed
+Opening Hours: Mo-Su 15:00-03:00
+Wheelchair Accessibility: limited
+Latitude: 28.4846946
+Longitude: -81.4582933
+OpenStreetMap URL: https://www.openstreetmap.org/node/6814285904
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6814285904
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

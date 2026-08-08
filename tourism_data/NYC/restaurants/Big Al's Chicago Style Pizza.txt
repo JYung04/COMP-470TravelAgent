@@ -1,0 +1,25 @@
+Name: Big Al's Chicago Style Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 9 Thames Street, New York NY 10006
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7088439
+Longitude: -74.0113831
+OpenStreetMap URL: https://www.openstreetmap.org/node/9120821898
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9120821898
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

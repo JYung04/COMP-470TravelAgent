@@ -1,0 +1,25 @@
+Name: Battery Kemble Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nps.gov/places/battery-kemble.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9271017
+Longitude: -77.0951284
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18194187
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/18194187
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

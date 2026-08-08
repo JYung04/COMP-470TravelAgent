@@ -1,0 +1,24 @@
+Name: The Jeffrey
+City: NYC
+Category: bars
+Cuisine: sandwich, snack
+Address: 311 East 60th Street, 10065
+Description: Not listed
+Website: Not listed
+Phone: +1 212-355-2337
+Email: Not listed
+Opening Hours: Mo-We 16:00-24:00, Th-Sa 12:00-01:00, Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7609957
+Longitude: -73.9630765
+OpenStreetMap URL: https://www.openstreetmap.org/node/4945939321
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4945939321
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

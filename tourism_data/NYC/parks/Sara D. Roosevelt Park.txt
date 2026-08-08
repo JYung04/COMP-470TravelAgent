@@ -1,0 +1,25 @@
+Name: Sara D. Roosevelt Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Sara Delano Roosevelt Park is a 7.8-acre (3.2 ha) park on the Lower East Side of the New York City borough of Manhattan. The park, named after Sara Roosevelt (1854–1941), the mother of President Franklin Delano Roosevelt, stretches north–south along seven blocks between East Houston Street on the Lower East Side and Canal Street in Chinatown, bordered by Chrystie Street on the west and Forsyth Street on the east. The park is operated and maintained by the New York City Department of Parks and Recreation.
+Website: https://www.nycgovparks.org/parks/sara-d-roosevelt-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7196275
+Longitude: -73.9925973
+OpenStreetMap URL: https://www.openstreetmap.org/relation/4099553
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/4099553
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

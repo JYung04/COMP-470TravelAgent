@@ -1,0 +1,24 @@
+Name: 3 Dollar Bill
+City: NYC
+Category: bars
+Cuisine: tacos, burger, burrito, nachos
+Address: 260 Meserole Street
+Description: A queer (LGBTQIA+) oriented bar with dancefloor and regular club nights.
+Website: https://www.3dollarbillbk.com/
+Phone: +1-718-366-3031
+Email: Not listed
+Opening Hours: Mo-Su 14:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7084122
+Longitude: -73.9381164
+OpenStreetMap URL: https://www.openstreetmap.org/node/6002923285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6002923285
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Thalia Hall
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 1805 South Allport Street, Chicago IL 60608
+Description: Thalia Hall is a landmark concert venue in Chicago’s Pilsen neighborhood . Designed after the Prague opera house, Thalia Hall first opened in 1892 as an arts and entertainment space for the community. Today, the concert hall hosts shows by well-known musical acts, up-and-coming local names, touring comedians, and more. The venue also houses a retro cocktail lounge, a piano bar, and a modern Mexican seafood restaurant.
+Website: https://www.thaliahallchicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.857716
+Longitude: -87.6572958
+OpenStreetMap URL: https://www.openstreetmap.org/way/210222291
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210222291
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art; music

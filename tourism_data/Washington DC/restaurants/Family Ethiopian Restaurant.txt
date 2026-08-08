@@ -1,0 +1,25 @@
+Name: Family Ethiopian Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: ethiopian
+Address: 1414 9th Street Northwest
+Description: Not listed
+Website: https://familyethiopianrestaurant.com/
+Phone: +1-202-629-2950
+Email: Not listed
+Opening Hours: Mo-Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9091358
+Longitude: -77.0241415
+OpenStreetMap URL: https://www.openstreetmap.org/node/4511030064
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4511030064
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

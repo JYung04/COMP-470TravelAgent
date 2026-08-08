@@ -1,0 +1,25 @@
+Name: Warka Coffee
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 500 New Jersey Avenue, Washington DC
+Description: Not listed
+Website: https://www.warkacoffee.com/
+Phone: +1-443-758-2038
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8962866
+Longitude: -77.0118172
+OpenStreetMap URL: https://www.openstreetmap.org/node/3590681663
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3590681663
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

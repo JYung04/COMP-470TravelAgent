@@ -1,0 +1,25 @@
+Name: Woodmont Deli
+City: Washington DC
+Category: restaurants
+Cuisine: Deli
+Address: 8225 Woodmont Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9923078
+Longitude: -77.0968378
+OpenStreetMap URL: https://www.openstreetmap.org/node/568132419
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/568132419
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

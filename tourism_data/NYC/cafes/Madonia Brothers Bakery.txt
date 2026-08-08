@@ -1,0 +1,25 @@
+Name: Madonia Brothers Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 2843 Arthur Avenue, 10458
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 06:00-19:00; Su 06:30-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8543725
+Longitude: -73.8884041
+OpenStreetMap URL: https://www.openstreetmap.org/node/2806937488
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2806937488
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

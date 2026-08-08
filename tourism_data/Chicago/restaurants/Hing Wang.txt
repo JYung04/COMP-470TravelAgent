@@ -1,0 +1,25 @@
+Name: Hing Wang
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 1122 West Wilson Avenue, Chicago IL 60640
+Description: Not listed
+Website: http://www.hingwang-restaurant.com/
+Phone: +1 773-271-2271
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9655203
+Longitude: -87.6586425
+OpenStreetMap URL: https://www.openstreetmap.org/node/5559919114
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5559919114
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

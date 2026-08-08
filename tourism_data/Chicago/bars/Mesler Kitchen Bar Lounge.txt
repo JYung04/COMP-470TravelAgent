@@ -1,0 +1,25 @@
+Name: Mesler Kitchen | Bar | Lounge
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1411 East 53rd Street, Chicago IL 60615
+Description: Not listed
+Website: https://sophyhotel.com/mesler-kitchen
+Phone: +1-773-289-1005
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7992767
+Longitude: -87.5915431
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322586993
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322586993
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

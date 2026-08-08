@@ -1,0 +1,25 @@
+Name: Back Bay Fens
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 100 Park Drive (Clemente Field House) 125 The Fenway (Emerald Necklace Conservancy) 50 Park Drive (Duck House) 1 Evans Way (Evans Way) Forsyth Way (Roadway) 70 Park Drive (Rose Garden) 35 The Fenway (Mother's Rest) 20 Park Drive (Victory Garden)
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Fenway/Longwood. Covers approximately 70.1 acres. Also known as Includes Evans Way Park, Forsyth Park, Westland Avenue Gates.
+Website: https://www.boston.gov/parks/back-bay-fens
+Phone: +1-617-635-4505
+Email: Not listed
+Opening Hours: Mo-Su 06:00-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3426937
+Longitude: -71.096474
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17488385
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/17488385
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Chicago Shakespeare Theater
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 800 East Grand Avenue, Chicago IL 60611
+Description: Chicago Shakespeare Theater (CST) is a non-profit, professional theater company located at Navy Pier in Chicago, Illinois. Its more than six hundred annual performances performed 48 weeks of the year include its critically acclaimed Shakespeare series, its World's Stage touring productions, and youth education and family oriented programming. The theater had garnered 77 Joseph Jefferson awards and three Laurence Olivier Awards. In 2008, it was the winner of the Regional Theatre Tony Award.
+Website: https://www.chicagoshakes.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.891318
+Longitude: -87.6057455
+OpenStreetMap URL: https://www.openstreetmap.org/way/753474606
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/753474606
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

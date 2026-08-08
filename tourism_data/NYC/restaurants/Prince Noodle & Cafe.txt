@@ -1,0 +1,25 @@
+Name: Prince Noodle & Cafe
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 40-09 Prince Street, 11354
+Description: Not listed
+Website: Not listed
+Phone: +1 718-888-9295
+Email: Not listed
+Opening Hours: Mo-We, Fr-Su 09:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7584826
+Longitude: -73.8314333
+OpenStreetMap URL: https://www.openstreetmap.org/node/2883466162
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2883466162
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

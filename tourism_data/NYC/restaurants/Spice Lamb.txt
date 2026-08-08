@@ -1,0 +1,25 @@
+Name: Spice Lamb
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 928 Amsterdam Avenue, New York NY 10025
+Description: Not listed
+Website: Not listed
+Phone: +1-646-984-8768
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8001788
+Longitude: -73.96613
+OpenStreetMap URL: https://www.openstreetmap.org/node/9654088076
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9654088076
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

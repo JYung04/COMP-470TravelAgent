@@ -1,0 +1,25 @@
+Name: Little Bad Wolf
+City: Chicago
+Category: restaurants
+Cuisine: New American, Asian, Cocktail
+Address: 1541 West Bryn Mawr Avenue, Chicago IL 60660
+Description: Not listed
+Website: https://www.littlebadwolfchicago.com/
+Phone: +1-773-942-6399
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9833736
+Longitude: -87.6690501
+OpenStreetMap URL: https://www.openstreetmap.org/node/6320700067
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6320700067
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

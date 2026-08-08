@@ -1,0 +1,25 @@
+Name: Diamond Club
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: 527 North Semoran Boulevard, Orlando FL 32807
+Description: Not listed
+Website: https://diamondcluborlando.com/
+Phone: +1-407-737-2130
+Email: Not listed
+Opening Hours: Tu-Su 19:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5493035
+Longitude: -81.3104125
+OpenStreetMap URL: https://www.openstreetmap.org/way/829475686
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/829475686
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

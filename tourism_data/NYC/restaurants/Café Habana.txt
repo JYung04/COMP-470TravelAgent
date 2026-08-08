@@ -1,0 +1,25 @@
+Name: Café Habana
+City: NYC
+Category: restaurants
+Cuisine: cuban
+Address: 17 Prince Street, New York 10012
+Description: Not listed
+Website: https://www.cafehabana.com/menu/cafe-habana-nyc/
+Phone: +1-212-625-2001
+Email: Not listed
+Opening Hours: Mo-Su 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7228449
+Longitude: -73.9942284
+OpenStreetMap URL: https://www.openstreetmap.org/node/3612291899
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3612291899
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

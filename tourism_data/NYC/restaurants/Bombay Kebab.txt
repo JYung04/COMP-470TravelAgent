@@ -1,0 +1,25 @@
+Name: Bombay Kebab
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: Not listed
+Description: Not listed
+Website: https://bombaykabab.site
+Phone: +1-347-889-7686
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:15
+Wheelchair Accessibility: Not listed
+Latitude: 40.676063
+Longitude: -73.9745541
+OpenStreetMap URL: https://www.openstreetmap.org/node/4252890214
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4252890214
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

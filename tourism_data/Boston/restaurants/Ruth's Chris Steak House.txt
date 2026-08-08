@@ -1,0 +1,24 @@
+Name: Ruth's Chris Steak House
+City: Boston
+Category: restaurants
+Cuisine: american, steak_house
+Address: 45 School Street, Boston MA 02108
+Description: Not listed
+Website: https://www.ruthschris.com/restaurant-locations/boston/
+Phone: +1-617-742-8401
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3580909
+Longitude: -71.0595739
+OpenStreetMap URL: https://www.openstreetmap.org/node/7623094006
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7623094006
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

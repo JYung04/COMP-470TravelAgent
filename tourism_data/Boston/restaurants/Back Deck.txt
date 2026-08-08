@@ -1,0 +1,24 @@
+Name: Back Deck
+City: Boston
+Category: restaurants
+Cuisine: Burger Joint
+Address: 2 West Street, Boston MA 02111
+Description: Not listed
+Website: http://www.backdeckboston.com
+Phone: (617) 670-0320
+Email: info@backdeckboston.com
+Opening Hours: Mo-Fr 11:30-16:00 "lunch"; Sa 11:30-15:00 "brunch"; Su 11:00-15:00 "brunch"; Su-Mo 16:00-21:00 "dinner"; Tu-We 16:00-22:00 "dinner"; Th 16:00-23:00 "dinner"; Fr-Sa 16:00-22:30 "dinner"
+Wheelchair Accessibility: Not listed
+Latitude: 42.3543481
+Longitude: -71.0618225
+OpenStreetMap URL: https://www.openstreetmap.org/node/5519369590
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5519369590
+Price: Not listed
+Rating: 4.0
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

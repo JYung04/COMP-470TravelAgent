@@ -1,0 +1,25 @@
+Name: The Gregorian New York City
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 42 West 35th Street, New York NY 10001
+Description: Not listed
+Website: https://www.gregorianhotel.com/
+Phone: +1 212 226 0800
+Email: info@gregorianhotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7497095
+Longitude: -73.98609
+OpenStreetMap URL: https://www.openstreetmap.org/way/265301933
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265301933
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

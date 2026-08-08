@@ -1,0 +1,24 @@
+Name: La Parisienne
+City: NYC
+Category: restaurants
+Cuisine: coffee_shop, sandwich
+Address: 9 Maiden Lane, New York NY 10038
+Description: Has at least 1 wall outlet to charge phone
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-19:30; Sa-Su 08:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.709609
+Longitude: -74.0093344
+OpenStreetMap URL: https://www.openstreetmap.org/node/5980089186
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5980089186
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

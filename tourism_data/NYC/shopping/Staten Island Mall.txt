@@ -1,0 +1,25 @@
+Name: Staten Island Mall
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Staten Island Mall is a shopping mall in New Springville, Staten Island, New York City, opened in 1973. It is the only indoor shopping mall in the borough. It is the largest retail center on the island and is the site of the island's third-largest public transit hub after the St. George Terminal and Eltingville Transit Center, with numerous bus routes that connect to the periphery of the mall area. It is the second largest shopping center in New York City. The mall features Primark, JCPenney, Lidl, and Macy's, in addition to an 11-screen dine-in AMC Theatres.
+Website: https://www.statenisland-mall.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5819453
+Longitude: -74.1652694
+OpenStreetMap URL: https://www.openstreetmap.org/way/1250546744
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1250546744
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

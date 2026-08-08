@@ -1,0 +1,25 @@
+Name: Rao’s
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 455 East 114th Street, 10029
+Description: Rao's is an Italian-American restaurant founded in 1896. It is located at 455 East 114th Street, on the corner of Pleasant Avenue in East Harlem, New York City. Rao's has sister restaurants in Los Angeles and Miami Beach.
+Website: http://raosrestaurants.com/location_ny.html
+Phone: +1 212-722-6709
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7939234
+Longitude: -73.9342665
+OpenStreetMap URL: https://www.openstreetmap.org/node/2765449317
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2765449317
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

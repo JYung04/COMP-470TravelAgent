@@ -1,0 +1,25 @@
+Name: Magnet Theater
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 254 West 29th Street, New York 10001
+Description: Not listed
+Website: https://magnettheater.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7487769
+Longitude: -73.9953514
+OpenStreetMap URL: https://www.openstreetmap.org/node/2703424343
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2703424343
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

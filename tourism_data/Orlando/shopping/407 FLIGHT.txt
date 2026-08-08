@@ -1,0 +1,25 @@
+Name: 407 FLIGHT
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 8001 S ORANGE BLOSSOM TRL, Orlando FL 32809
+Description: Not listed
+Website: https://www.simon.com/mall/the-florida-mall/stores/407-flight
+Phone: +1-407-868-1945
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4464457
+Longitude: -81.3931694
+OpenStreetMap URL: https://www.openstreetmap.org/node/8719286065
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8719286065
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

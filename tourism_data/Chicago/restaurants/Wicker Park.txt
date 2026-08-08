@@ -1,0 +1,24 @@
+Name: Wicker Park
+City: Chicago
+Category: restaurants
+Cuisine: sushi, seafood
+Address: 1425 North Damen Avenue Chicago IL 60622
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/wicker-charles-joel-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9769412
+Longitude: -87.9106418
+OpenStreetMap URL: https://www.openstreetmap.org/node/5845290597
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5845290597
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

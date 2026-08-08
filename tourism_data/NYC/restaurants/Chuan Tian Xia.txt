@@ -1,0 +1,24 @@
+Name: Chuan Tian Xia
+City: NYC
+Category: restaurants
+Cuisine: szechuan, seafood
+Address: 5502 7th Avenue, Brooklyn NY 11220
+Description: Not listed
+Website: http://chuantianxiaofficial.com/
+Phone: +1-929-295-0128
+Email: Not listed
+Opening Hours: Mo-Su 13:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6396384
+Longitude: -74.0090442
+OpenStreetMap URL: https://www.openstreetmap.org/node/2561561549
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2561561549
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Boston Logan International Airport 9/11 Memorial
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Two seperate glass panels which list names the of the crew and passengers of American Airlines Flight 11 and United Airlines Flight 175. On the other side, the times 7:59am and 8:14am, the times flights respectively departed.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3662652
+Longitude: -71.0225682
+OpenStreetMap URL: https://www.openstreetmap.org/node/4882074895
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4882074895
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history; art

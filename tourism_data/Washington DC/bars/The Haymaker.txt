@@ -1,0 +1,25 @@
+Name: The Haymaker
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1015 H Street Northeast, Washington 20002
+Description: Not listed
+Website: https://www.thehaymakerdc.com/
+Phone: +1-202-399-0020
+Email: Not listed
+Opening Hours: Mo-Su 18:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8999962
+Longitude: -76.9920594
+OpenStreetMap URL: https://www.openstreetmap.org/node/737404989
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737404989
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

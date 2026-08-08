@@ -1,0 +1,25 @@
+Name: Right Proper Brewing Company
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 920 Girard Street Northeast, Washington DC 20017
+Description: Not listed
+Website: https://www.rightproperbrewing.com/
+Phone: +1-202-526-5904
+Email: Not listed
+Opening Hours: We-Fr 17:00-22:00; Sa 13:00-22:00; Su 13:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9267501
+Longitude: -76.9930701
+OpenStreetMap URL: https://www.openstreetmap.org/way/296507900
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/296507900
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

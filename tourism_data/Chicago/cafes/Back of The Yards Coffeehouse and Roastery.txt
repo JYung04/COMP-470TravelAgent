@@ -1,0 +1,25 @@
+Name: Back of The Yards Coffeehouse and Roastery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2059 West 47th Street, Chicago IL 60609
+Description: Not listed
+Website: https://backoftheyardscoffee.com/
+Phone: +1-773-475-6381
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8083467
+Longitude: -87.6769419
+OpenStreetMap URL: https://www.openstreetmap.org/node/6264210687
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6264210687
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

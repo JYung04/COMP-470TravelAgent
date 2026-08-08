@@ -1,0 +1,25 @@
+Name: The Graham Georgetown
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1075 Thomas Jefferson Street Northwest, Washington DC 20007
+Description: Not listed
+Website: https://www.thegrahamgeorgetown.com
+Phone: +1-855-341-1292
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9047488
+Longitude: -77.0599159
+OpenStreetMap URL: https://www.openstreetmap.org/way/66693483
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66693483
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

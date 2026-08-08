@@ -1,0 +1,25 @@
+Name: Mama Ayesha's
+City: Washington DC
+Category: restaurants
+Cuisine: middle_eastern
+Address: 1967 Calvert Street Northwest
+Description: Not listed
+Website: https://mamaayeshas.com/
+Phone: +1-202-232-5431
+Email: Not listed
+Opening Hours: Tu-Th 17:00-21:30; Fr-Sa 17:00-22:30; Su 16:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9234344
+Longitude: -77.0467709
+OpenStreetMap URL: https://www.openstreetmap.org/node/737066573
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737066573
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

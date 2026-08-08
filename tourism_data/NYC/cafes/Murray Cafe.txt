@@ -1,0 +1,24 @@
+Name: Murray Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, asian, american
+Address: 165 Lexington Avenue, 10016
+Description: Not listed
+Website: https://murraycafe.com
+Phone: +1-646-452-2600
+Email: Not listed
+Opening Hours: Mo 07:00-21:00, Tu-We 07:00-22:00, Th-Fr 07:00-24:00, Sa 09:00-24:00, Su 09:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7440777
+Longitude: -73.9812369
+OpenStreetMap URL: https://www.openstreetmap.org/node/13991194718
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13991194718
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

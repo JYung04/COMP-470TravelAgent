@@ -1,0 +1,25 @@
+Name: New Century Carryout
+City: Washington DC
+Category: restaurants
+Cuisine: chinese
+Address: 5400 Queens Chapel Rd, Hyattsville, MD 20782, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 301-559-5301
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9561632
+Longitude: -76.9621284
+OpenStreetMap URL: https://www.openstreetmap.org/way/228608883
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/228608883
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

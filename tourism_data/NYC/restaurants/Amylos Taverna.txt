@@ -1,0 +1,25 @@
+Name: Amylos Taverna
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 33-19 Broadway, 11106
+Description: Not listed
+Website: https://www.amylos.com/
+Phone: +1 718-215-0228
+Email: amylosgroup@amylos.com
+Opening Hours: Mo-Th, Su 12:00-23:00; Fr, Sa 12:00-23:30
+Wheelchair Accessibility: yes
+Latitude: 40.7610154
+Longitude: -73.9230367
+OpenStreetMap URL: https://www.openstreetmap.org/node/8599156659
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8599156659
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

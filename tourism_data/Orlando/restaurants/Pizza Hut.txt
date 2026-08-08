@@ -1,0 +1,25 @@
+Name: Pizza Hut
+City: Orlando
+Category: restaurants
+Cuisine: pizza
+Address: 9100 International Drive, Orlando FL 32819
+Description: Not listed
+Website: https://locations.pizzahut.com/fl/orlando/9100-international-dr
+Phone: +1 407-345-8833
+Email: Not listed
+Opening Hours: 10:30-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4327716
+Longitude: -81.472221
+OpenStreetMap URL: https://www.openstreetmap.org/way/140619634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/140619634
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Anchor
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 1 Shipyard Park, Charlestown MA 02129
+Description: Seasonal outdoor beer garden, closed late fall through spring
+Website: https://theanchorboston.com/
+Phone: +1-617-286-2404
+Email: Not listed
+Opening Hours: Mo-Th 16:00-22:30; Fr-Sa 11:00-23:30; Su 11:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 42.3740401
+Longitude: -71.0533109
+OpenStreetMap URL: https://www.openstreetmap.org/node/7901570905
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7901570905
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; gardens

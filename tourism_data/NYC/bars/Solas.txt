@@ -1,0 +1,25 @@
+Name: Solas
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 232 East 9th Street, New York NY 10003
+Description: Not listed
+Website: https://www.solasbar.com
+Phone: +1-212-375-0297
+Email: Not listed
+Opening Hours: Tu-Th 16:00-01:00+, Fr-Sa 16:00-03:00+, Su 16:00-01:00+
+Wheelchair Accessibility: Not listed
+Latitude: 40.7294285
+Longitude: -73.9880625
+OpenStreetMap URL: https://www.openstreetmap.org/node/9978637391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9978637391
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

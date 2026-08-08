@@ -1,0 +1,25 @@
+Name: Nomi Sushi
+City: Orlando
+Category: restaurants
+Cuisine: sushi
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Th 11:00-22:00; Fr,Sa 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5679327
+Longitude: -81.2000184
+OpenStreetMap URL: https://www.openstreetmap.org/node/13670141537
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13670141537
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Causa
+City: Washington DC
+Category: restaurants
+Cuisine: peruvian
+Address: 920 Blagden Alley Northwest, Washington DC 20001
+Description: Shaw Led by Michelin's Young Chef Award-winner Carlos Delgado, Causa provides a Peruvian culinary journey that highlights the coastline and Andes mountains. The $125 six-course menu features the nation's abundant ingredients and fresh fish. Enhance your experience with wine pairings or explore Peru’s national spirit with North America's largest Pisco library. Reservations are made available two months in advance, so be sure to plan ahead – Delgado earned Chef of the Year and Formal Fine Dining R
+Website: https://www.causadc.com
+Phone: +1 202-629-3942
+Email: info@causadc.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9065532
+Longitude: -77.0247508
+OpenStreetMap URL: https://www.openstreetmap.org/node/11137503405
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11137503405
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

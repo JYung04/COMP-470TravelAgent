@@ -1,0 +1,25 @@
+Name: Tabu
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: 46 North Orange Avenue, Orlando FL
+Description: The Beacham Theatre is a cinema built in 1921 by Braxton Beacham Sr. in the city of Orlando, Florida. The current address of the theater is 46 North Orange Avenue, and it is located at the southwest corner of Orange Avenue and Washington Street. The building's current lack of impressive architecture is offset by its significant cultural history. The Beacham Theatre was considered an important contributing structure when the Downtown Orlando historic district was created in 1980 and the building was granted local landmark status in 1987.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5429874
+Longitude: -81.3793825
+OpenStreetMap URL: https://www.openstreetmap.org/way/80644900
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/80644900
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; architecture

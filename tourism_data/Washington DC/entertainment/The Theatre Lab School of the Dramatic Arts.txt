@@ -1,0 +1,25 @@
+Name: The Theatre Lab School of the Dramatic Arts
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: 900 Massachusetts Avenue Northwest
+Description: Not listed
+Website: https://theatrelab.org
+Phone: +1 202-824-0449
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9029354
+Longitude: -77.0250018
+OpenStreetMap URL: https://www.openstreetmap.org/node/11170819142
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11170819142
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

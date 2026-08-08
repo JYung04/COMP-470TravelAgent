@@ -1,0 +1,25 @@
+Name: Prohibition
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 503 Columbus Avenue
+Description: Not listed
+Website: https://prohibitionny.com
+Phone: +1-212-579-3100
+Email: Not listed
+Opening Hours: Mo, Tu 16:30-01:00; We 16:30-01:30; Th 16:30-02:00; Fr, Sa 16:30-03:00; Sa 12:00-01:00
+Wheelchair Accessibility: yes
+Latitude: 40.7852443
+Longitude: -73.9728265
+OpenStreetMap URL: https://www.openstreetmap.org/node/6606909410
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6606909410
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: AMC River East 21
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 322 East Illinois Street, Chicago IL 60611
+Description: Not listed
+Website: https://www.amctheatres.com/movie-theatres/chicago/amc-river-east-21
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8914092
+Longitude: -87.6187573
+OpenStreetMap URL: https://www.openstreetmap.org/node/1892871989
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1892871989
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

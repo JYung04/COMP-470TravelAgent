@@ -1,0 +1,25 @@
+Name: BCD Tofu House
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 220-05 Northern Boulevard, 11361
+Description: Not listed
+Website: https://www.bcdtofuhouse.com/
+Phone: +1-718-224-8889
+Email: Not listed
+Opening Hours: Mo-Th 11:00-21:00; Fr-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7616804
+Longitude: -73.7617197
+OpenStreetMap URL: https://www.openstreetmap.org/way/284434923
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284434923
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

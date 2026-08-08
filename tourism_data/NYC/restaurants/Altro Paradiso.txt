@@ -1,0 +1,25 @@
+Name: Altro Paradiso
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 234 Spring Street, New York NY 10013
+Description: Not listed
+Website: https://altroparadiso.com/
+Phone: Not listed
+Email: info@altroparadiso.com
+Opening Hours: Su 12:00-22:00; Mo-Sa 12:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.7254542
+Longitude: -74.0047415
+OpenStreetMap URL: https://www.openstreetmap.org/node/4953706821
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4953706821
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

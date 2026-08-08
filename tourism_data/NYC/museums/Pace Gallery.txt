@@ -1,0 +1,25 @@
+Name: Pace Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 510 West 25th Street, New York NY 10001
+Description: Not listed
+Website: https://www.pacegallery.com
+Phone: +1-212-421-3292
+Email: info@pacegallery.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7491212
+Longitude: -74.0039931
+OpenStreetMap URL: https://www.openstreetmap.org/node/10861507198
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10861507198
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

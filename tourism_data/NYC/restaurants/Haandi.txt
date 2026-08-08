@@ -1,0 +1,25 @@
+Name: Haandi
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 113 Lexington Avenue, New York NY 10016
+Description: Not listed
+Website: https://haandiny.com/
+Phone: +1-212-685-5200
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-14:30; Sa-Su 11:00-22:00
+Wheelchair Accessibility: no
+Latitude: 40.7424095
+Longitude: -73.9824519
+OpenStreetMap URL: https://www.openstreetmap.org/node/2300348739
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2300348739
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

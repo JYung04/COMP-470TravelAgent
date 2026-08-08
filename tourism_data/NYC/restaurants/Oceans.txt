@@ -1,0 +1,25 @@
+Name: Oceans
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 233 Park Avenue South, 10003
+Description: Not listed
+Website: https://oceansnewyork.com
+Phone: +1-212-209-1055
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7375364
+Longitude: -73.9880227
+OpenStreetMap URL: https://www.openstreetmap.org/node/2562374842
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2562374842
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Lobby Bar
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 224 7th Street Southeast Washington DC 20003-4420
+Description: Not listed
+Website: https://www.lobbybardc.com/
+Phone: +1 202-422-8663
+Email: Not listed
+Opening Hours: Mo-Su 14:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9871218
+Longitude: -76.9353434
+OpenStreetMap URL: https://www.openstreetmap.org/node/6549793427
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6549793427
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

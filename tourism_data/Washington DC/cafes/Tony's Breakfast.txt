@@ -1,0 +1,24 @@
+Name: Tony's Breakfast
+City: Washington DC
+Category: cafes
+Cuisine: american, breakfast, sandwich
+Address: 1387 H Street Northeast, Washington DC 20002
+Description: Not listed
+Website: http://tonysbreakfast.com/
+Phone: +1-202-397-7750
+Email: Not listed
+Opening Hours: Mo-Sa 05:30-19:00; Su 06:00-15:30
+Wheelchair Accessibility: limited
+Latitude: 38.8998328
+Longitude: -76.9856967
+OpenStreetMap URL: https://www.openstreetmap.org/node/11367470787
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11367470787
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

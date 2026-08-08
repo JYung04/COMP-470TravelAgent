@@ -1,0 +1,25 @@
+Name: Mary Bartelme Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 115 South Sangamon Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/bartelme-mary-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8798044
+Longitude: -87.6502158
+OpenStreetMap URL: https://www.openstreetmap.org/way/130282534
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/130282534
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

@@ -1,0 +1,25 @@
+Name: Trio
+City: Washington DC
+Category: bars
+Cuisine: american
+Address: 1537 17th Street Northwest, Washington DC 20036-6233
+Description: Not listed
+Website: https://www.triodc.com/
+Phone: +1 202-232-6305
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.9109803
+Longitude: -77.0382643
+OpenStreetMap URL: https://www.openstreetmap.org/node/810399207
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/810399207
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

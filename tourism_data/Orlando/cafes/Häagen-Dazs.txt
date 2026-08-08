@@ -1,0 +1,25 @@
+Name: Häagen-Dazs
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: International Drive, Orlando FL 32819
+Description: Not listed
+Website: Not listed
+Phone: +1 407 248 0140
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4755902
+Longitude: -81.4508032
+OpenStreetMap URL: https://www.openstreetmap.org/node/8691985029
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8691985029
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

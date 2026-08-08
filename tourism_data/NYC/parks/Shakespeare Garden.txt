@@ -1,0 +1,25 @@
+Name: Shakespeare Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: A Shakespeare garden is a themed garden that cultivates some or all of the 175 plants mentioned in the works of William Shakespeare. In English-speaking countries, particularly the United States, these are often public gardens associated with parks, universities, and Shakespeare festivals. Shakespeare gardens are sites of cultural, educational, and romantic interest and can be locations for outdoor weddings.
+Website: https://www.centralparknyc.org/locations/shakespeare-garden
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7798173
+Longitude: -73.9699595
+OpenStreetMap URL: https://www.openstreetmap.org/way/429887431
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/429887431
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; gardens

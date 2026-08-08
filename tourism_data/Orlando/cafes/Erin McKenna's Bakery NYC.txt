@@ -1,0 +1,25 @@
+Name: Erin McKenna's Bakery NYC
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 1642 East Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3714899
+Longitude: -81.5175066
+OpenStreetMap URL: https://www.openstreetmap.org/node/3481628500
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3481628500
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Empire
+City: Boston
+Category: restaurants
+Cuisine: Pan-Asian, Asian, Sushi
+Address: 1 Marina Park Drive, Boston, MA 02210, United States
+Description: Not listed
+Website: http://www.empireboston.com/
+Phone: +1 617-295-0001
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3529933
+Longitude: -71.0454994
+OpenStreetMap URL: https://www.openstreetmap.org/node/4421257468
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4421257468
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Omai
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 158 9th Avenue, New York NY
+Description: Not listed
+Website: https://omainyc.com/
+Phone: +1 212-633-0575; +1 212-633-0550
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7442217
+Longitude: -74.0027401
+OpenStreetMap URL: https://www.openstreetmap.org/node/2411595316
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2411595316
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

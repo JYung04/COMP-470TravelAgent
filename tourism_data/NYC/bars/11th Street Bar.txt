@@ -1,0 +1,25 @@
+Name: 11th Street Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 510 East 11th Street, New York
+Description: Not listed
+Website: https://11thstbar.com
+Phone: +1-212-982-3929
+Email: Not listed
+Opening Hours: Mo-Tu 14:00-02:00, We-Th 14:00-03:00, Fr 14:00-04:00, Sa-Su 11:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7280803
+Longitude: -73.9812286
+OpenStreetMap URL: https://www.openstreetmap.org/node/6991451741
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6991451741
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

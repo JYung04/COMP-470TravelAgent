@@ -1,0 +1,25 @@
+Name: Rock Creek & Potomac Parkway
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: The Rock Creek and Potomac Parkway, informally called the Rock Creek Parkway, is a parkway maintained by the National Park Service as part of Rock Creek Park in Washington, D.C. It runs next to the Potomac River and Rock Creek in a generally north–south direction, carrying four lanes of traffic from the Lincoln Memorial and Arlington Memorial Bridge north to a junction with Beach Drive near Connecticut Avenue at Calvert Street, N.W., just south of the National Zoological Park. During rush hours, the parkway is converted to one-way traffic corresponding to the peak direction of travel: southbound in the morning and northbound in the afternoon.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9092901
+Longitude: -77.0545202
+OpenStreetMap URL: https://www.openstreetmap.org/way/41964871
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/41964871
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

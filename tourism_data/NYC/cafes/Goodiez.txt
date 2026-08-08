@@ -1,0 +1,25 @@
+Name: Goodiez
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 232 7th Avenue, 11215
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6700617
+Longitude: -73.9791358
+OpenStreetMap URL: https://www.openstreetmap.org/node/2494187914
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2494187914
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

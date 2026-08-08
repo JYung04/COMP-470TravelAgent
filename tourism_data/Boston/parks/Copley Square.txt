@@ -1,0 +1,25 @@
+Name: Copley Square
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 560 Boylston Street
+Description: Officially classified as malls, squares & plazas. Located in Back Bay/Beacon Hill. Covers approximately 1.8 acres. Also known as Copley Square.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3499981
+Longitude: -71.0762177
+OpenStreetMap URL: https://www.openstreetmap.org/way/1239199995
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1239199995
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Base Community Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1200 West 35th Street, Chicago IL 60609-1305
+Description: Not listed
+Website: https://8a5e.square.site
+Phone: +1-773-609-2347
+Email: info.8a5e@gmail.com
+Opening Hours: Mo-Sa 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8309312
+Longitude: -87.6563758
+OpenStreetMap URL: https://www.openstreetmap.org/node/6256333210
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6256333210
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Maxie's Luncheonette
+City: NYC
+Category: restaurants
+Cuisine: burger
+Address: 95-04 Sutphin Boulevard, Jamaica 11435
+Description: Not listed
+Website: Not listed
+Phone: +1 718 526-9819
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6981682
+Longitude: -73.8065984
+OpenStreetMap URL: https://www.openstreetmap.org/way/282896349
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/282896349
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

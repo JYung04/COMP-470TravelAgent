@@ -1,0 +1,25 @@
+Name: Dillon's
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 955 Boylston Street, Boston MA 02115
+Description: Dillion is known for it's warm hospitality, friendly staff, and friendly staff. Thanks to it's all - American Manu, two floors of space to gather, and the best patio in the Back Bay, Dillion's is a local favorite.
+Website: https://www.dillonsboston.com/
+Phone: +1-617-421-1818
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3479607
+Longitude: -71.0858938
+OpenStreetMap URL: https://www.openstreetmap.org/node/4838586925
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4838586925
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

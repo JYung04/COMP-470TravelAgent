@@ -1,0 +1,25 @@
+Name: College Park Pool
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 2411 Elizabeth Avenue, Orlando FL 32804
+Description: Not listed
+Website: http://www.cityoforlando.net/recreation/college-park-pool/
+Phone: +1 407-245-0478
+Email: dwaine.campayne@orlando.gov
+Opening Hours: Mo-Fr 06:00-08:00, 11:00-12:00, 19:00-21:00; Sa-Su 10:00-12:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5732948
+Longitude: -81.3845283
+OpenStreetMap URL: https://www.openstreetmap.org/way/77079185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/77079185
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

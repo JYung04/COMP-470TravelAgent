@@ -1,0 +1,25 @@
+Name: Mount Greenwood Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 3721 West 111th Street, Chicago IL 60655
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/mount-greenwood-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Yes
+Latitude: 41.6876864
+Longitude: -87.7152909
+OpenStreetMap URL: https://www.openstreetmap.org/way/131817392
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/131817392
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

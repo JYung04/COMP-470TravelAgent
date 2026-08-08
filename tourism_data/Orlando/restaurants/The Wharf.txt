@@ -1,0 +1,25 @@
+Name: The Wharf
+City: Orlando
+Category: restaurants
+Cuisine: seafood
+Address: 3274 Margaritaville Boulevard, Kissimmee FL 34747
+Description: Not listed
+Website: https://wharfatsunsetwalk.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3456569
+Longitude: -81.6091772
+OpenStreetMap URL: https://www.openstreetmap.org/node/6452953891
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6452953891
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Cafe Paradiso
+City: NYC
+Category: restaurants
+Cuisine: wine, italian
+Address: 144 West 65th Street, New York NY 10023
+Description: Not listed
+Website: https://www.cafeparadisonyc.com/
+Phone: +1-212-869-8800
+Email: Not listed
+Opening Hours: Mo-We 08:00-20:00; Th-Sa 08:00-21:00; Su 11:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7734245
+Longitude: -73.9834903
+OpenStreetMap URL: https://www.openstreetmap.org/node/7298030171
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7298030171
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

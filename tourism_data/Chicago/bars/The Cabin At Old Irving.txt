@@ -1,0 +1,25 @@
+Name: The Cabin At Old Irving
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4104 North Pulaski Road, Chicago IL 60641
+Description: Not listed
+Website: https://www.thecabinatoldirving.com/
+Phone: +1-773-481-4183
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9557745
+Longitude: -87.7278715
+OpenStreetMap URL: https://www.openstreetmap.org/node/6306526919
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6306526919
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

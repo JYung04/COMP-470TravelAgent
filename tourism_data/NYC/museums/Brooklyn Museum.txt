@@ -1,0 +1,25 @@
+Name: Brooklyn Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 200 Eastern Parkway, Brooklyn 11238
+Description: The Brooklyn Museum is an art museum in the New York City borough of Brooklyn. At 560,000 square feet (52,000 m2), the museum is New York City's second largest and contains an art collection with around 500,000 objects. Located near the Prospect Heights, Crown Heights, Flatbush, and Park Slope neighborhoods of Brooklyn, the museum's Beaux-Arts building was designed by McKim, Mead & White.
+Website: https://www.brooklynmuseum.org/
+Phone: +1 718-638-5000
+Email: Not listed
+Opening Hours: We-Su 11:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.6709677
+Longitude: -73.963695
+OpenStreetMap URL: https://www.openstreetmap.org/way/1432069915
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1432069915
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

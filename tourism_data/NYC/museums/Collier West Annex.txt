@@ -1,0 +1,25 @@
+Name: Collier West Annex
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://collierwest.com
+Phone: Not listed
+Email: info@collierwest.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6874549
+Longitude: -73.9857205
+OpenStreetMap URL: https://www.openstreetmap.org/node/5808889072
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5808889072
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

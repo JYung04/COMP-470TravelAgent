@@ -1,0 +1,24 @@
+Name: Sunnyside Bro's Cafe
+City: NYC
+Category: restaurants
+Cuisine: greek, mexican
+Address: 43-47 40th Street
+Description: Not listed
+Website: https://www.thebrotherscafe.com/Welcome.tpl#
+Phone: +1 718-349-3413
+Email: Not listed
+Opening Hours: Mo-Sa 06:30-20:30; Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7442397
+Longitude: -73.9240432
+OpenStreetMap URL: https://www.openstreetmap.org/node/5721476603
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5721476603
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

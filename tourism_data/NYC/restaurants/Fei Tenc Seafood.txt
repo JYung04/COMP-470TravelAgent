@@ -1,0 +1,25 @@
+Name: Fei Tenc Seafood
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 68 Market Street, New York NY 10002
+Description: Not listed
+Website: https://jinlianfoochow.com
+Phone: +1-212-274-8659
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7138263
+Longitude: -73.9948732
+OpenStreetMap URL: https://www.openstreetmap.org/node/2826472442
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2826472442
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

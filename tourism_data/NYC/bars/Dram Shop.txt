@@ -1,0 +1,24 @@
+Name: Dram Shop
+City: NYC
+Category: bars
+Cuisine: burger, mexican
+Address: Not listed
+Description: Not listed
+Website: https://www.dramshopbrooklyn.com
+Phone: +1-929-276-3452
+Email: Not listed
+Opening Hours: Mo-Th 17:00-24:00; Fr 15:00-02:00; Sa 12:00-02:00; Su 12:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 40.6687941
+Longitude: -73.9851157
+OpenStreetMap URL: https://www.openstreetmap.org/node/5706864741
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5706864741
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

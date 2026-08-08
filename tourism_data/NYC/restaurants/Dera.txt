@@ -1,0 +1,24 @@
+Name: Dera
+City: NYC
+Category: restaurants
+Cuisine: indian, nepali, pakistani, bengali
+Address: 72-09 Broadway, Jackson Heights NY 11372
+Description: Not listed
+Website: https://deraeats.com/
+Phone: +1 718-898-3372
+Email: info@deraeats.com
+Opening Hours: Mo-Th 10:00-12:00; Fr-Su 10:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7477257
+Longitude: -73.8934828
+OpenStreetMap URL: https://www.openstreetmap.org/way/280400647
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/280400647
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Evil Twin Brewery
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 1616 George Street
+Description: Not listed
+Website: https://eviltwin.nyc
+Phone: +1-718-366-1850
+Email: info@eviltwin.dk
+Opening Hours: Mo-We 14:00-22:00; Th 14:00-24:00; Fr 12:00-24:00; Sa 10:00-24:00; Su 10:00-22:00 "taproom"||Mo-Fr 07:00-15:00; Sa-Su 08:00-15:00 "coffee"
+Wheelchair Accessibility: yes
+Latitude: 40.6962173
+Longitude: -73.9040269
+OpenStreetMap URL: https://www.openstreetmap.org/node/6854261485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6854261485
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

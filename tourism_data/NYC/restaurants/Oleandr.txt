@@ -1,0 +1,25 @@
+Name: Oleandr
+City: NYC
+Category: restaurants
+Cuisine: Eastern European
+Address: 410 Brighton Beach Avenue, 11235
+Description: Not listed
+Website: http://oleandrny.com/
+Phone: +1 718-648-5484
+Email: Not listed
+Opening Hours: Mo-Tu off; We-Th,Su 12:00-22:00; Fr-Sa 12:00-24:00
+Wheelchair Accessibility: no
+Latitude: 40.5771366
+Longitude: -73.9628679
+OpenStreetMap URL: https://www.openstreetmap.org/node/11931618254
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11931618254
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

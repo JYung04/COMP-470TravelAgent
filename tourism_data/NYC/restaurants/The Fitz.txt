@@ -1,0 +1,25 @@
+Name: The Fitz
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 687 Lexington Avenue, New York 10022
+Description: Not listed
+Website: https://www.fitzpatrickhotels.com/fitzpatrick-manhattan-the-fitz.shtml
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7605307
+Longitude: -73.969238
+OpenStreetMap URL: https://www.openstreetmap.org/node/2977035158
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2977035158
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

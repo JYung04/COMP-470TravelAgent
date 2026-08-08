@@ -1,0 +1,24 @@
+Name: Slowloris
+City: NYC
+Category: restaurants
+Cuisine: korean, japanese
+Address: 556 Flatbush Avenue, 11225
+Description: Not listed
+Website: Not listed
+Phone: +1-718-484-9799
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6602754
+Longitude: -73.9608132
+OpenStreetMap URL: https://www.openstreetmap.org/node/10247709087
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10247709087
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

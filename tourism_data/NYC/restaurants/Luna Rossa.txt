@@ -1,0 +1,25 @@
+Name: Luna Rossa
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 347 East 85th Street, 10128
+Description: Not listed
+Website: https://lunarossanyc.com
+Phone: +1 212-517-3118
+Email: lunarossanyc@gmail.com
+Opening Hours: Mo-Sa 15:00-22:30, Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7765138
+Longitude: -73.9503813
+OpenStreetMap URL: https://www.openstreetmap.org/node/10893577514
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10893577514
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

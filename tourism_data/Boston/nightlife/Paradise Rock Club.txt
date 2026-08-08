@@ -1,0 +1,24 @@
+Name: Paradise Rock Club
+City: Boston
+Category: nightlife
+Cuisine: Not listed
+Address: 967 Commonwealth Avenue
+Description: The Paradise Rock Club is a 933-capacity music venue in Boston, Massachusetts. The venue accommodates small music festivals and non-music-related events. The Paradise is located on the edge of Boston University's campus and draws a student-based crowd. Most shows have an age requirement of eighteen or older.
+Website: https://thedise.com/
+Phone: (617) 562-8800
+Email: informationdise@crossroadspresents.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.35183
+Longitude: -71.1194989
+OpenStreetMap URL: https://www.openstreetmap.org/node/2140478568
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2140478568
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; music

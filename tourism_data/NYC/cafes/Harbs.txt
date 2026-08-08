@@ -1,0 +1,24 @@
+Name: Harbs
+City: NYC
+Category: cafes
+Cuisine: pastry, sandwich
+Address: 1374 3rd Avenue, 10075
+Description: Not listed
+Website: https://www.harbsnyc.com
+Phone: +1 646-896-1511
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00, Fr-Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7737711
+Longitude: -73.9578856
+OpenStreetMap URL: https://www.openstreetmap.org/node/2723965261
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2723965261
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

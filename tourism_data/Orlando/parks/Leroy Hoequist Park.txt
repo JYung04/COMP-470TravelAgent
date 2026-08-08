@@ -1,0 +1,25 @@
+Name: Leroy Hoequist Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 1450 S Alder Avenue, Orlando, FL 32807
+Description: LeRoy Hoequist Park has a playground, picnic tables and lakeside views for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/LeRoy-Hoequist-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5254289
+Longitude: -81.2978969
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1174162
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1174162
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; views

@@ -1,0 +1,25 @@
+Name: Small Cheval - West Loop
+City: Chicago
+Category: restaurants
+Cuisine: burger
+Address: 1352 West Lake Street, Chicago IL 60607
+Description: Not listed
+Website: https://smallcheval.com/lake/
+Phone: +1-312-248-8439
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8858352
+Longitude: -87.661005
+OpenStreetMap URL: https://www.openstreetmap.org/way/661265990
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/661265990
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

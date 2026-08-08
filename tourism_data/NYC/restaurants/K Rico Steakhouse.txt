@@ -1,0 +1,24 @@
+Name: K Rico Steakhouse
+City: NYC
+Category: restaurants
+Cuisine: steak_house, american
+Address: 772 9th Ave, New York, NY 10019, United States
+Description: Not listed
+Website: http://kriconyc.com/
+Phone: +1 212-757-9393
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7643751
+Longitude: -73.988007
+OpenStreetMap URL: https://www.openstreetmap.org/node/7173360085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7173360085
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

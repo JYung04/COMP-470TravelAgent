@@ -1,0 +1,24 @@
+Name: Dear Maud
+City: NYC
+Category: restaurants
+Cuisine: Cocktail Bar
+Address: Hoboken, NJ 07030
+Description: Not listed
+Website: https://www.dearmaud.com/
+Phone: +1 201-792-2337
+Email: Not listed
+Opening Hours: Mo-Th 16:00-02:00, Fr 12:00-03:00, Sa 10:00-03:00, Su 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7377491
+Longitude: -74.0330843
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978868303
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978868303
+Price: Not listed
+Rating: 4.3
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

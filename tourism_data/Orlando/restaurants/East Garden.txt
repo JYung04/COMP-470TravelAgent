@@ -1,0 +1,25 @@
+Name: East Garden
+City: Orlando
+Category: restaurants
+Cuisine: chinese
+Address: 5136 West Colonial Drive, 32808
+Description: Not listed
+Website: https://eastgardenorlando.kwickmenu.com/
+Phone: +1-407-203-6001
+Email: Not listed
+Opening Hours: Th-Tu 10:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5505393
+Longitude: -81.4508148
+OpenStreetMap URL: https://www.openstreetmap.org/node/10557007710
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10557007710
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

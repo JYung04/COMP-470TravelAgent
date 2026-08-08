@@ -1,0 +1,25 @@
+Name: Maxwell Street Market
+City: Chicago
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.cityofchicago.org/city/en/depts/dca/supp_info/maxwell_street_market.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su
+Wheelchair Accessibility: Not listed
+Latitude: 41.8708405
+Longitude: -87.6437791
+OpenStreetMap URL: https://www.openstreetmap.org/way/406628807
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/406628807
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,24 @@
+Name: West Side Wok & Konata Sushi
+City: NYC
+Category: restaurants
+Cuisine: chinese, sushi
+Address: 691 Amsterdam Avenue, New York NY 10025
+Description: Not listed
+Website: https://www.westsidewok.com
+Phone: +1-212-222-2373
+Email: Not listed
+Opening Hours: Mo-Th, Su; 11:00-23:00; Fr 11:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7923619
+Longitude: -73.9713503
+OpenStreetMap URL: https://www.openstreetmap.org/node/2111692824
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2111692824
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Copper & Oak
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 157 Allen Street, New York NY 10002
+Description: Serves hundreds of whiskeys and other liquors in a lean space with stand-up and sit-down bars.
+Website: https://copperandoak.com
+Phone: +1-212-460-5546
+Email: Not listed
+Opening Hours: Mo-Sa 17:00-01:00; Su 14:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7210247
+Longitude: -73.9897308
+OpenStreetMap URL: https://www.openstreetmap.org/node/6236943854
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6236943854
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

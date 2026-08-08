@@ -1,0 +1,25 @@
+Name: Eavesdrop
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 674 Manhattan Avenue, Brooklyn NY 11222
+Description: Not listed
+Website: https://www.eavesdrop.nyc
+Phone: Not listed
+Email: hello@eavesdrop.nyc
+Opening Hours: Su 14:00-01:00; Mo-Th 17:00-01:00; Fr 17:00-02:00; Sa 14:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7248795
+Longitude: -73.9512955
+OpenStreetMap URL: https://www.openstreetmap.org/node/11517820569
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11517820569
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Evil Twin Brewing DUMBO
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 43 Main Street, Brooklyn NY 11201
+Description: Not listed
+Website: https://eviltwin.nyc
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-We 12:00-23:00; Th 12:00-24:00; Fr 12:00-01:00; Sa 10:00-01:00; Su 10:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7029844
+Longitude: -73.9905451
+OpenStreetMap URL: https://www.openstreetmap.org/node/8807180556
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8807180556
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

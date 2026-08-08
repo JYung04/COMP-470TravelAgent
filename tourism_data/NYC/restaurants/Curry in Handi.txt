@@ -1,0 +1,25 @@
+Name: Curry in Handi
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: Not listed
+Description: Not listed
+Website: https://curryinhandi.com
+Phone: +1-718-381-1333
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7023091
+Longitude: -73.936981
+OpenStreetMap URL: https://www.openstreetmap.org/node/12844709779
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12844709779
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

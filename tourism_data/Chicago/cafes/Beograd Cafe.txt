@@ -1,0 +1,25 @@
+Name: Beograd Cafe
+City: Chicago
+Category: cafes
+Cuisine: serbian
+Address: 2933 West Irving Park Road, Chicago IL 60618
+Description: Not listed
+Website: https://www.beogradchicago.com/index.html
+Phone: +1-773-478-7575
+Email: Not listed
+Opening Hours: Mo-Su 08:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9537838
+Longitude: -87.702057
+OpenStreetMap URL: https://www.openstreetmap.org/node/3015667206
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3015667206
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

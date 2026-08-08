@@ -1,0 +1,25 @@
+Name: Petit Robert Bistro
+City: Boston
+Category: restaurants
+Cuisine: french
+Address: 480;480A Columbus Avenue
+Description: Petit Robert Bistro is a small and intimate restaurant, located in South End. The menu features traditional French dishes such as boeuf Bourguignon, coq au vin, and other classic French fare. The restaurant boasts a large terrace alongside a beautiful church, providing a truly pleasant place in the summer. As a beloved neighborhood spot, Petit Robert Bistro is highly favored by locals due to its cozy atmosphere, welcoming staff, and family-friendly environment. Despite its small size, the restaurant also offers a festive and youthful vibe, often hosting themed events and parties to keep things fresh and exciting. Dine Out Boston is August 1 – 15, 2026 See amenity tab for more information.
+Website: https://www.petitrobertbistro.com/
+Phone: +16178670600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3428439
+Longitude: -71.0786064
+OpenStreetMap URL: https://www.openstreetmap.org/way/407834635
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/407834635
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

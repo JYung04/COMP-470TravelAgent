@@ -1,0 +1,24 @@
+Name: Jacky Kung Fu
+City: NYC
+Category: restaurants
+Cuisine: japanese, chinese
+Address: 1950A Bath Avenue, 11214
+Description: Not listed
+Website: https://www.jackykungfuchinese.com
+Phone: +1-718-265-4488
+Email: Not listed
+Opening Hours: Tu-Sa 11:00-22:30, Su 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6017194
+Longitude: -74.0023156
+OpenStreetMap URL: https://www.openstreetmap.org/node/12636191546
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12636191546
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

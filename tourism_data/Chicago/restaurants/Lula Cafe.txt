@@ -1,0 +1,25 @@
+Name: Lula Cafe
+City: Chicago
+Category: restaurants
+Cuisine: New American, Eclectic
+Address: 2537 North Kedzie Boulevard, Chicago IL 60647
+Description: Not listed
+Website: https://www.lulacafe.com/
+Phone: +1 773-489-9554
+Email: Not listed
+Opening Hours: Mo,We-Su 09:00-15:00,16:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.9276884
+Longitude: -87.7068069
+OpenStreetMap URL: https://www.openstreetmap.org/node/1700855300
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1700855300
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

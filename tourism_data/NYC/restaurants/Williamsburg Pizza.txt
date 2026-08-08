@@ -1,0 +1,25 @@
+Name: Williamsburg Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 617 2nd Avenue, 10028
+Description: Not listed
+Website: https://www.williamsburgpizza.com
+Phone: +1 212-457-3114
+Email: Not listed
+Opening Hours: Mo-Th 10:30-22:00; Fr, Sa 11:30-02:00; Su 11:30-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7765368
+Longitude: -73.9529397
+OpenStreetMap URL: https://www.openstreetmap.org/node/9275805190
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9275805190
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

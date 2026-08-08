@@ -1,0 +1,24 @@
+Name: Lowerline
+City: NYC
+Category: restaurants
+Cuisine: creole, seafood
+Address: Not listed
+Description: Not listed
+Website: https://www.lowerlinebk.com
+Phone: +1-347-533-7110
+Email: Not listed
+Opening Hours: Tu-Fr 17:00-22:00; Sa 12:00-22:00; Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6742194
+Longitude: -73.9632572
+OpenStreetMap URL: https://www.openstreetmap.org/node/5747704994
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5747704994
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

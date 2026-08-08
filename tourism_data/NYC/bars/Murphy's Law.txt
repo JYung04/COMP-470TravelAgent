@@ -1,0 +1,25 @@
+Name: Murphy's Law
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 417 East 70th Street, 10021
+Description: Not listed
+Website: https://murphyslawnyc.wordpress.com
+Phone: +1-212-628-3724
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7660677
+Longitude: -73.9556957
+OpenStreetMap URL: https://www.openstreetmap.org/node/11405963750
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11405963750
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

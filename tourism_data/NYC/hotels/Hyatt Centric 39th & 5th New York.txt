@@ -1,0 +1,25 @@
+Name: Hyatt Centric 39th & 5th New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 16 East 39th Street, New York NY 10016
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/new-york/grayson-hotel/nycub
+Phone: +1 212-229-4729
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7509276
+Longitude: -73.9816924
+OpenStreetMap URL: https://www.openstreetmap.org/way/265424380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265424380
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Louis Armstrong House Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 34-56 107th Street, Corona NY 11368
+Description: The house in Queens’ Corona neighborhood that Louis Armstrong and his wife Lucille purchased in 1943 is now a historic site and museum . The house gives visitors a peek into the couple’s life, while the museum’s collection of personal and donated memorabilia, recordings, scrapbooks, instruments and awards pays tribute to Satchmo’s accomplishments and legacy in the world of jazz. It’s just one stop you can make on a self-guided exploration of the Queens Jazz Trail. As a place where hundreds of ja
+Website: https://www.louisarmstronghouse.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.75457
+Longitude: -73.8615384
+OpenStreetMap URL: https://www.openstreetmap.org/way/284714245
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284714245
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

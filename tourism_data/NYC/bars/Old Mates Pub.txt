@@ -1,0 +1,25 @@
+Name: Old Mates Pub
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 170 John Street, New York NY 10038
+Description: Australian Pub with a menu of Aussie beers, wine and cocktails along with classics like chicken parma, sausage rolls and burgers.
+Website: https://oldmates.com
+Phone: Not listed
+Email: gday@oldmates.com
+Opening Hours: Mo-Th 12:00-01:00; Fr-Sa 12:00-02:00; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.70579
+Longitude: -74.0041784
+OpenStreetMap URL: https://www.openstreetmap.org/node/13924051472
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13924051472
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

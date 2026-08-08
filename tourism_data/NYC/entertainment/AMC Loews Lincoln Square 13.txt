@@ -1,0 +1,25 @@
+Name: AMC Loews Lincoln Square 13
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 1998 Broadway, New York NY 10023
+Description: movie theater on the Upper West Side of Manhattan, New York City, United States
+Website: https://www.amctheatres.com/movie-theatres/new-york-city/amc-loews-lincoln-square-13
+Phone: +1 212-336-5020
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7750135
+Longitude: -73.9817481
+OpenStreetMap URL: https://www.openstreetmap.org/node/368043799
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368043799
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

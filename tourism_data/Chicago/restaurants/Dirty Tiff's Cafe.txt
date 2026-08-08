@@ -1,0 +1,25 @@
+Name: Dirty Tiff's Cafe
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 225 East 47th Street, Chicago IL 60653
+Description: Not listed
+Website: http://www.dirtytiffscafe.com/
+Phone: +17739663451
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8091967
+Longitude: -87.6200842
+OpenStreetMap URL: https://www.openstreetmap.org/node/2361072387
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2361072387
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

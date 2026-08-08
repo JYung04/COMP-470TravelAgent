@@ -1,0 +1,25 @@
+Name: John F. Kennedy Memorial Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: public library in Wallington, New Jersey, United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8551655
+Longitude: -74.1125371
+OpenStreetMap URL: https://www.openstreetmap.org/way/110581380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/110581380
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

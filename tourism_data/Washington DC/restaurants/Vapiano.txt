@@ -1,0 +1,25 @@
+Name: Vapiano
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 1800 M Street Northwest, Washington DC 20036
+Description: Not listed
+Website: http://vapianowashington.com
+Phone: +1 202-640-1868
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9052182
+Longitude: -77.041914
+OpenStreetMap URL: https://www.openstreetmap.org/node/739528167
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739528167
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

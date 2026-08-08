@@ -1,0 +1,24 @@
+Name: Yolk Up
+City: NYC
+Category: restaurants
+Cuisine: burger, breakfast
+Address: 78-47 Springfield Boulevard, Queens Village 11364
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7359971
+Longitude: -73.7465407
+OpenStreetMap URL: https://www.openstreetmap.org/node/2871487704
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2871487704
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

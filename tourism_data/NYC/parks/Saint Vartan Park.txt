@@ -1,0 +1,25 @@
+Name: Saint Vartan Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 1 Ave.,2 Ave. bet. E. 35 St. and E. 36 St. New York NY
+Description: St. Vartan Park is a 2.76-acre (1.12 ha) public park in the Murray Hill neighborhood of Manhattan, New York City. Originally called St. Gabriel's Park, it is located on the block bounded by First Avenue, Second Avenue, and 35th and 36th streets. In the late 1930s, construction of the Queens–Midtown Tunnel resulted in the removal of a portion of the park for an approach roadway and the demolition of St. Gabriel Church, the park's namesake. The park was renamed in 1978 after St. Vartan Armenian Cathedral, which had opened across the street from the park in 1968. St. Vartan Park includes basketball and handball courts, a turf athletic field, a playground, and a garden.
+Website: https://www.nycgovparks.org/parks/st-vartan-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7456086
+Longitude: -73.9748201
+OpenStreetMap URL: https://www.openstreetmap.org/way/1082729243
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1082729243
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art; gardens

@@ -1,0 +1,25 @@
+Name: Ponty Bistro
+City: NYC
+Category: restaurants
+Cuisine: West African, French, Modern French
+Address: 2375 Adam Clayton Powell Jr. Boulevard, New York 10030
+Description: Not listed
+Website: https://www.pontybistroharlem.com/
+Phone: +1 212 2346475
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8176235
+Longitude: -73.9416508
+OpenStreetMap URL: https://www.openstreetmap.org/node/6511917719
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6511917719
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

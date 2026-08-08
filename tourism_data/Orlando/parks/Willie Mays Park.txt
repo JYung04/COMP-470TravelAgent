@@ -1,0 +1,25 @@
+Name: Willie Mays Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 2092 Willie Mays Parkway, Orlando, FL 32811
+Description: Willie Mays Park has a grilling area, playground and other amenities for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Willie-Mays-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5176429
+Longitude: -81.437846
+OpenStreetMap URL: https://www.openstreetmap.org/way/77069285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/77069285
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

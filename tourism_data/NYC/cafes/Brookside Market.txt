@@ -1,0 +1,25 @@
+Name: Brookside Market
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 43-15 Queens Boulevard
+Description: Not listed
+Website: https://brooksidemarketnyc.com/
+Phone: +1 718-806-1902
+Email: carrie@vortexhospitality.com
+Opening Hours: Mo-Su 07:00-16:00 open "Cafe" || Mo-Su 17:00-23:00 open "Wine Bar"
+Wheelchair Accessibility: Not listed
+Latitude: 40.743706
+Longitude: -73.9207774
+OpenStreetMap URL: https://www.openstreetmap.org/node/11651290841
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11651290841
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

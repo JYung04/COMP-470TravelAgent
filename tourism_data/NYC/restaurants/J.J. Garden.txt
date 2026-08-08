@@ -1,0 +1,25 @@
+Name: J.J. Garden
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 75-21 31st Avenue
+Description: Not listed
+Website: https://jjchangarden.m988.com/
+Phone: +1 718-898-6686
+Email: Not listed
+Opening Hours: 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7593146
+Longitude: -73.89218
+OpenStreetMap URL: https://www.openstreetmap.org/node/12201937678
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12201937678
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

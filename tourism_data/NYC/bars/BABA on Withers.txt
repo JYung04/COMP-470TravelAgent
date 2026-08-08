@@ -1,0 +1,25 @@
+Name: BABA on Withers
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 47 Withers Street, Brooklyn NY 11211
+Description: Baba is a bar du vin in the heart of Williamsburg with a focus on dancing, drinking, meeting new and old friends and celebrating. BABA is the place to find flowing wine carafes for the table, craft cocktails, and a Marseille inspired food menu.
+Website: https://www.babaonwithers.com
+Phone: +1-929-295-8424
+Email: hello@babaonwithers.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7170163
+Longitude: -73.9507374
+OpenStreetMap URL: https://www.openstreetmap.org/way/280075385
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/280075385
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

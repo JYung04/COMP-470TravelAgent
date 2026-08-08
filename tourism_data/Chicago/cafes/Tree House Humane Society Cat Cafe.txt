@@ -1,0 +1,25 @@
+Name: Tree House Humane Society Cat Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 7225 North Western Avenue, Chicago IL 60645
+Description: Not listed
+Website: https://treehouseanimals.org/cafe/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 10:00-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.0131114
+Longitude: -87.6900082
+OpenStreetMap URL: https://www.openstreetmap.org/node/11167197705
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11167197705
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

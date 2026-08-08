@@ -1,0 +1,25 @@
+Name: JCPenney
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: Florida Mall Avenue, Orlando FL 32809
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.446298
+Longitude: -81.398245
+OpenStreetMap URL: https://www.openstreetmap.org/node/1952919867
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1952919867
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

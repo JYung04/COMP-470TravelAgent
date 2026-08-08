@@ -1,0 +1,24 @@
+Name: Pueblo Querido
+City: NYC
+Category: cafes
+Cuisine: colombian, coffee_shop
+Address: 195 Greenpoint Avenue, Brooklyn NY 11222
+Description: Not listed
+Website: https://www.pqcoffeeroasters.com
+Phone: +1-929-346-2986
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-15:00; Sa 07:30-15:00; Su 08:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7305282
+Longitude: -73.9517696
+OpenStreetMap URL: https://www.openstreetmap.org/node/5052125055
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5052125055
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

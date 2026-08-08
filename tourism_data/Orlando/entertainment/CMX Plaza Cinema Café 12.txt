@@ -1,0 +1,24 @@
+Name: CMX Plaza Cinema Café 12
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 155 S Orange Ave (at E. Church St.), Orlando, FL 32801
+Description: Not listed
+Website: https://www.cmxcinemas.com/Locationdetail/Plaza-Cinema
+Phone: (407) 982-5444
+Email: t.johnson@plazacinemacafe.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.5408362
+Longitude: -81.3783927
+OpenStreetMap URL: https://www.openstreetmap.org/node/4026646278
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4026646278
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

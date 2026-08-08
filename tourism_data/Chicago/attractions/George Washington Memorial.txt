@@ -1,0 +1,25 @@
+Name: George Washington Memorial
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: This statue of George Washington at the time of the Revolutionary War is a duplicate of one in Paris.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8024808
+Longitude: -87.6164298
+OpenStreetMap URL: https://www.openstreetmap.org/node/354234605
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/354234605
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: The Knickerbocker Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 6 Times Square, New York NY 10036
+Description: Not listed
+Website: https://theknickerbocker.com/
+Phone: +1 212 204 4980
+Email: reservations@theknickerbocker.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.755243
+Longitude: -73.9860271
+OpenStreetMap URL: https://www.openstreetmap.org/way/265302168
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265302168
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

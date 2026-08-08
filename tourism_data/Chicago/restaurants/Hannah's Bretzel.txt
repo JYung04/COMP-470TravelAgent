@@ -1,0 +1,24 @@
+Name: Hannah's Bretzel
+City: Chicago
+Category: restaurants
+Cuisine: Sandwich Spot
+Address: 107 S Franklin Ave, Chicago, IL 60606
+Description: Not listed
+Website: http://hannahsbretzel.com
+Phone: (312) 621-1111
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8804995
+Longitude: -87.6351173
+OpenStreetMap URL: https://www.openstreetmap.org/node/12650075136
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12650075136
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

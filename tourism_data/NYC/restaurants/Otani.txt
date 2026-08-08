@@ -1,0 +1,24 @@
+Name: Otani
+City: NYC
+Category: restaurants
+Cuisine: sushi, ramen
+Address: 59 Nassau Street, New York NY 10038
+Description: Not listed
+Website: Not listed
+Phone: +1-212-732-9250
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00;Fr-Sa 11:00-10:30;Su 12:00-22:00
+Wheelchair Accessibility: no
+Latitude: 40.70932
+Longitude: -74.008734
+OpenStreetMap URL: https://www.openstreetmap.org/node/2897876736
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2897876736
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

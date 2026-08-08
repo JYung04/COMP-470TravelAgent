@@ -1,0 +1,25 @@
+Name: The Graves
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: The Graves is an aggregation of rock outcroppings in Massachusetts Bay, Massachusetts, United States. Situated some 11 miles (18 km) offshore of downtown Boston, it is the outermost island in the Boston Harbor Islands National Recreation Area.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3654032
+Longitude: -70.8691429
+OpenStreetMap URL: https://www.openstreetmap.org/way/29694146
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29694146
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

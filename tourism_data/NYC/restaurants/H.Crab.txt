@@ -1,0 +1,24 @@
+Name: H.Crab
+City: NYC
+Category: restaurants
+Cuisine: seafood, cajun
+Address: 25-93 Francis Lewis Boulevard, Flushing NY 11358
+Description: Not listed
+Website: https://www.hcrabflushing.com/
+Phone: +1-718-819-8835
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr-Sa 11:30-22:30; Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7732178
+Longitude: -73.7953918
+OpenStreetMap URL: https://www.openstreetmap.org/node/2883527110
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2883527110
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

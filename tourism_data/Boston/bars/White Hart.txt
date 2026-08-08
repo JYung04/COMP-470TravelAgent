@@ -1,0 +1,25 @@
+Name: White Hart
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 31 Church Road, Boston PE22 9NS
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 53.0316199
+Longitude: 0.0982118
+OpenStreetMap URL: https://www.openstreetmap.org/node/7295322076
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7295322076
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

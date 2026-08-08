@@ -1,0 +1,25 @@
+Name: AMC Loews Georgetown 14
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: 3111 K Street, Northwest, Washington DC 20007
+Description: movie theater in Washington, D. C., United States
+Website: https://www.amctheatres.com/movie-theatres/washington-d-c/amc-loews-georgetown-14
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9027426
+Longitude: -77.0617112
+OpenStreetMap URL: https://www.openstreetmap.org/node/584504777
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/584504777
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

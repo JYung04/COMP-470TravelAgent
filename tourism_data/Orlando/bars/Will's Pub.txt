@@ -1,0 +1,25 @@
+Name: Will's Pub
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 1042 Mills Avenue, Orlando FL 32803
+Description: Not listed
+Website: https://www.willspub.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5598904
+Longitude: -81.3646316
+OpenStreetMap URL: https://www.openstreetmap.org/node/11221627727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11221627727
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

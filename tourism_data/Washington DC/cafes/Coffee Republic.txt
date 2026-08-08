@@ -1,0 +1,25 @@
+Name: Coffee Republic
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 601 13th Street Northwest, Washington DC 20005-3800
+Description: Not listed
+Website: https://locations.peets.com/ll/US/DC/Washington/601-13th-St-NW
+Phone: +1 202-290-1188
+Email: Not listed
+Opening Hours: Mo-Th 07:00-18:00; Fr 07:00-19:00; Sa,Su 08:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 38.8979714
+Longitude: -77.0293891
+OpenStreetMap URL: https://www.openstreetmap.org/node/11216187330
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11216187330
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

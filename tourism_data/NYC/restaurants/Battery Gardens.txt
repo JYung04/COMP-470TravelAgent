@@ -1,0 +1,25 @@
+Name: Battery Gardens
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 1 Battery Place, 10004
+Description: The Battery, formerly known as Battery Park, is a 25-acre (10 ha) public park located at the southern tip of Manhattan Island in New York City facing New York Harbor. The park is bounded by Battery Place on the north, with Bowling Green to the northeast, State Street on the east, New York Harbor to the south, and the Hudson River to the west. The park contains attractions such as an early 19th-century fort named Castle Clinton; multiple monuments; and the SeaGlass Carousel. The surrounding area, known as South Ferry, contains multiple ferry terminals, including the Staten Island Ferry's Whitehall Terminal; a boat launch to the Statue of Liberty National Monument ; and a boat launch to Governors Island.
+Website: http://www.batterygardens.com/restaurant.html
+Phone: +1 212-809-5508
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7013567
+Longitude: -74.0150152
+OpenStreetMap URL: https://www.openstreetmap.org/way/278053568
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278053568
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: food; gardens

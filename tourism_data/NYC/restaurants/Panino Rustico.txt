@@ -1,0 +1,25 @@
+Name: Panino Rustico
+City: NYC
+Category: restaurants
+Cuisine: sandwich
+Address: 8222 17th Avenue, Brooklyn NY 11214
+Description: Not listed
+Website: Not listed
+Phone: +1-718-236-6343
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6104646
+Longitude: -74.0030964
+OpenStreetMap URL: https://www.openstreetmap.org/node/2557077657
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2557077657
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

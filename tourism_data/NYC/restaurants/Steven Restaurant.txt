@@ -1,0 +1,25 @@
+Name: Steven Restaurant
+City: NYC
+Category: restaurants
+Cuisine: Dominican, Meal delivery
+Address: 2233 Boston Rd, Bronx, NY 10467, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 718-652-7778
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8584939
+Longitude: -73.8680873
+OpenStreetMap URL: https://www.openstreetmap.org/node/6439808292
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6439808292
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: AMC 34th Street 14
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 312 West 34th Street, New York NY 10001
+Description: movie theater in Chelsea, Manhattan, New York City, United States
+Website: https://www.amctheatres.com/movie-theatres/new-york-city/amc-34th-street-14
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7524154
+Longitude: -73.9944494
+OpenStreetMap URL: https://www.openstreetmap.org/node/663103163
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/663103163
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

@@ -1,0 +1,25 @@
+Name: Moonbowls
+City: Chicago
+Category: restaurants
+Cuisine: korean
+Address: 4131 North Rockwell Street, Chicago IL 60618
+Description: Not listed
+Website: https://www.moonbowls.com/
+Phone: +1-312-940-1790
+Email: Not listed
+Opening Hours: 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9567963
+Longitude: -87.693146
+OpenStreetMap URL: https://www.openstreetmap.org/node/8931810587
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8931810587
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Gub Khao Thai
+City: NYC
+Category: restaurants
+Cuisine: Thai
+Address: 951 Main St, Paterson, NJ 07503, United States
+Description: Not listed
+Website: https://order.gubkhaothai.com/
+Phone: +1 973-925-9595
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8953059
+Longitude: -74.1599001
+OpenStreetMap URL: https://www.openstreetmap.org/node/11300150105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11300150105
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

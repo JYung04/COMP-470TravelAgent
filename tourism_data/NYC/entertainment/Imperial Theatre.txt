@@ -1,0 +1,25 @@
+Name: Imperial Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 249 West 45th Street, New York NY 10036
+Description: A designated New York City interior landmark. Status: DESIGNATED. Designation date: 11/17/1987.
+Website: https://shubert.nyc/theatres/imperial
+Phone: (815) 477-5076
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7591087
+Longitude: -73.9871438
+OpenStreetMap URL: https://www.openstreetmap.org/way/266149345
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266149345
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

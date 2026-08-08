@@ -1,0 +1,24 @@
+Name: Lundy Bros.
+City: NYC
+Category: restaurants
+Cuisine: seafood, american
+Address: Not listed
+Description: Not listed
+Website: https://www.lundysofbrooklyn.com
+Phone: +1-718-310-6110
+Email: Not listed
+Opening Hours: Mo 17:00-21:30, We-Sa 17:00-22:00, Su 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6731585
+Longitude: -74.0122509
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550085658
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550085658
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

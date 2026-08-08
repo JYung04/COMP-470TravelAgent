@@ -1,0 +1,25 @@
+Name: Whiskey Girl Tavern
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 6318 North Clark Street, Chicago IL
+Description: Not listed
+Website: https://whiskeygirltavern.com/
+Phone: +1-312-344-3190
+Email: Not listed
+Opening Hours: Mo 16:00-23:00; Tu off; We-Th 16:00-23:00; Fr 16:00-01:00; Sa 14:00-01:00; Su 14:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9970416
+Longitude: -87.6706498
+OpenStreetMap URL: https://www.openstreetmap.org/node/8991665139
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8991665139
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

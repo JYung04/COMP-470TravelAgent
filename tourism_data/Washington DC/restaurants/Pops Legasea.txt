@@ -1,0 +1,25 @@
+Name: Pops Legasea
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 1831 M Street Northwest, 20036
+Description: Not listed
+Website: https://popslegasea.com/
+Phone: +1-443-820-6014
+Email: Not listed
+Opening Hours: Tu,Th 19:00-02:00; Fr-Sa 22:00-05:00; Su 19:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9057895
+Longitude: -77.0430038
+OpenStreetMap URL: https://www.openstreetmap.org/node/1912289096
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1912289096
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Amazing Adventures of Spider-Man
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The Amazing Adventures of Spider-Man, also known as The Amazing Adventures of Spider-Man – The Ride is a 3D motion simulator and dark ride located at Universal Islands of Adventure in Orlando, Florida. Based on the Marvel Comics superhero Spider-Man, it was originally built for Islands of Adventure's grand opening in 1999. A second version of the attraction also existed at Universal Studios Japan from 2004 to 2024. The attraction has a hybrid configuration that combines motion vehicles with 3D projection and elaborate physical sets.
+Website: https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/the-amazing-adventures-of-spider-man
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4700548
+Longitude: -81.4696594
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2453688
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2453688
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: Doubletree by Hilton Hotel Metropolitan
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 569 Lexington Avenue, New York 10022
+Description: Not listed
+Website: https://www.hilton.com/en/doubletree/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7566578
+Longitude: -73.971425
+OpenStreetMap URL: https://www.openstreetmap.org/way/265884678
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265884678
+Price: Not listed
+Rating: 5.0
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

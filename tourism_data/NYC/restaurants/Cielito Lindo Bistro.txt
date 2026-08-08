@@ -1,0 +1,25 @@
+Name: Cielito Lindo Bistro
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 665 Nostrand Avenue, 11216
+Description: Not listed
+Website: Not listed
+Phone: +1-347-425-1140
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.674543
+Longitude: -73.9499139
+OpenStreetMap URL: https://www.openstreetmap.org/node/10627463300
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10627463300
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

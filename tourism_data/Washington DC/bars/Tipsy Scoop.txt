@@ -1,0 +1,25 @@
+Name: Tipsy Scoop
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 675 I Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://tipsyscoop.com/pages/washington-dc
+Phone: +1-202-516-4182
+Email: Not listed
+Opening Hours: Th-Su 13:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9010196
+Longitude: -77.0214499
+OpenStreetMap URL: https://www.openstreetmap.org/node/11715238327
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11715238327
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

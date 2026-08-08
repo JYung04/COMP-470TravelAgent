@@ -1,0 +1,25 @@
+Name: SRV
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 569 Columbus Avenue, Boston MA 02118
+Description: Not listed
+Website: https://www.srvboston.com/
+Phone: +1 617-536-9500
+Email: Not listed
+Opening Hours: Su-We 17:00-23:00; Th-Sa 17:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3409018
+Longitude: -71.0816593
+OpenStreetMap URL: https://www.openstreetmap.org/node/6813212892
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6813212892
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

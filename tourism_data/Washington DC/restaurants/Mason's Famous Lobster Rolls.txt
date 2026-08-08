@@ -1,0 +1,25 @@
+Name: Mason's Famous Lobster Rolls
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 1303 19th Street Northwest, Washington DC 20036
+Description: Not listed
+Website: https://www.masonslobster.com/locations/washington-dc/
+Phone: +1 202-733-1450
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.90756
+Longitude: -77.0432047
+OpenStreetMap URL: https://www.openstreetmap.org/node/11218574852
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11218574852
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

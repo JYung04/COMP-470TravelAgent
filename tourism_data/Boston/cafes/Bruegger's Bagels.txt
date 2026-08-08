@@ -1,0 +1,25 @@
+Name: Bruegger's Bagels
+City: Boston
+Category: cafes
+Cuisine: bagel
+Address: 7 School Street, Boston MA 02108
+Description: Not listed
+Website: https://locations.brueggers.com/us/ma/boston/7-school-street?y_source=1_OTczMjEyNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Phone: +16173674702
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-17:00; Sa, Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3575444
+Longitude: -71.0585756
+OpenStreetMap URL: https://www.openstreetmap.org/node/5749774088
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5749774088
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

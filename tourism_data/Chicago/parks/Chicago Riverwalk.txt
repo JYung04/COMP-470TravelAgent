@@ -1,0 +1,25 @@
+Name: Chicago Riverwalk
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: The Chicago Riverwalk is a multi-use public open space located on the south bank of the main branch of the Chicago River in Chicago, extending from Lake Michigan and the Outer Drive Bridge westward to the Wolf Point area and Lake Street. The Chicago Riverwalk contains restaurants, bars, cafes, small parks, boat and kayak rentals, a Vietnam War memorial, and other amenities.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8872333
+Longitude: -87.6258243
+OpenStreetMap URL: https://www.openstreetmap.org/way/504093803
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/504093803
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: chicago riverwalk
+Best For: outdoors

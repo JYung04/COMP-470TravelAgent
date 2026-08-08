@@ -1,0 +1,25 @@
+Name: Sleeping Village
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3734 West Belmont Avenue, Chicago IL 60618
+Description: Sleeping Village Sleeping Village in the hip Avondale neighborhood is a bar and concert venue inside a former post office building. The bar area features sleek retro vibes and a robust beer menu, plus an adjoining patio. The venue space hosts an eclectic mix of concerts, talks, and events that feature local, national, and international talent.
+Website: https://sleeping-village.com/
+Phone: +1-773-654-3971
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9392866
+Longitude: -87.7212467
+OpenStreetMap URL: https://www.openstreetmap.org/node/6050593221
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6050593221
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

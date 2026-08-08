@@ -1,0 +1,25 @@
+Name: Cafe Atelier
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 112 Hudson Street, New York NY 10013
+Description: Not listed
+Website: https://www.cafeateliershop.com
+Phone: +1-646-895-0133
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 08:00-16:00
+Wheelchair Accessibility: yes
+Latitude: 40.719582
+Longitude: -74.0084712
+OpenStreetMap URL: https://www.openstreetmap.org/node/8851156980
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8851156980
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

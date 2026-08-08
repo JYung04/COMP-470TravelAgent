@@ -1,0 +1,25 @@
+Name: Cathedral Station
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 1222 Washington Street, Boston MA 02118
+Description: Neighborhood Sports Pub & Bar catering to the LGBT community and our neighbors.
+Website: http://cathedralstation.com/
+Phone: +1-617-338-6060
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3427838
+Longitude: -71.0668409
+OpenStreetMap URL: https://www.openstreetmap.org/node/9325563295
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9325563295
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

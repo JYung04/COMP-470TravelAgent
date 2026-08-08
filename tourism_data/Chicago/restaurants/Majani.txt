@@ -1,0 +1,25 @@
+Name: Majani
+City: Chicago
+Category: restaurants
+Cuisine: southern
+Address: 7167 South Exchange Avenue, Chicago IL 60649
+Description: Not listed
+Website: https://www.majani.biz
+Phone: +1 773-359-4019
+Email: Majani7167@gmail.com
+Opening Hours: Tu-Sa 12:00-21:00; Su 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7646306
+Longitude: -87.5648983
+OpenStreetMap URL: https://www.openstreetmap.org/node/8847506407
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8847506407
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

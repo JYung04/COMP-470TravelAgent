@@ -1,0 +1,25 @@
+Name: Cedric Baker Studio
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 716 Monroe Street Northeast
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu,Th-Fr 12:00-19:00; "by appointment"
+Wheelchair Accessibility: Not listed
+Latitude: 38.9331515
+Longitude: -76.994999
+OpenStreetMap URL: https://www.openstreetmap.org/node/10674682226
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10674682226
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

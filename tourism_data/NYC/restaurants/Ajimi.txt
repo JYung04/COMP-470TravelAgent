@@ -1,0 +1,24 @@
+Name: Ajimi
+City: NYC
+Category: restaurants
+Cuisine: Ramen Restaurant
+Address: 8500 18th Ave (85th st), Brooklyn, NY 11214
+Description: Not listed
+Website: Not listed
+Phone: (718) 650-5588
+Email: Not listed
+Opening Hours: Fr, Sa 11:30-23:00; Mo-Th, Su 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6078249
+Longitude: -74.0021801
+OpenStreetMap URL: https://www.openstreetmap.org/node/9845263680
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9845263680
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

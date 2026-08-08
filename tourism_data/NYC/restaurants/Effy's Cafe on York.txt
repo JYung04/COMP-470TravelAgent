@@ -1,0 +1,25 @@
+Name: Effy's Cafe on York
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 1688 York Avenue, 10128
+Description: Not listed
+Website: https://www.effyscafeonyork.com
+Phone: +1 646-490-6751
+Email: 1688yorkavenue@gmail.com
+Opening Hours: 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7775912
+Longitude: -73.9456744
+OpenStreetMap URL: https://www.openstreetmap.org/node/9579615888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9579615888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

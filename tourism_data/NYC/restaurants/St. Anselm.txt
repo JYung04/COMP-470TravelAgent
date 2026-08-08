@@ -1,0 +1,24 @@
+Name: St. Anselm
+City: NYC
+Category: restaurants
+Cuisine: american, steak_house
+Address: 355 Metropolitan Avenue, Brooklyn 11211
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th, Su 17:00-23:00; Fr-Sa 17:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7142784
+Longitude: -73.9560431
+OpenStreetMap URL: https://www.openstreetmap.org/way/279777184
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/279777184
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

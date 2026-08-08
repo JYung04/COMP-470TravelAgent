@@ -1,0 +1,25 @@
+Name: The Lost Hours
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 5256 N Broadway, Chicago IL 60640
+Description: Not listed
+Website: https://www.the-lost-hours.com/
+Phone: Not listed
+Email: thelosthourscoffeeshop@gmail.com
+Opening Hours: Mo-Sa 06:30-15:30; Su 07:30-15:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9780323
+Longitude: -87.6601369
+OpenStreetMap URL: https://www.openstreetmap.org/node/12598896647
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12598896647
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

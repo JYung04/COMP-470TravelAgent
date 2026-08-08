@@ -1,0 +1,25 @@
+Name: CAVA
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 678 Avenue Of The Americas New York NY 10010
+Description: Not listed
+Website: https://cava.com/locations/jersey-city-nj
+Phone: +1 201-205-1309
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.716734
+Longitude: -74.0354382
+OpenStreetMap URL: https://www.openstreetmap.org/node/9661654064
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9661654064
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

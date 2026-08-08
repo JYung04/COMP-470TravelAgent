@@ -1,0 +1,25 @@
+Name: Bub City
+City: Chicago
+Category: restaurants
+Cuisine: barbecue
+Address: 435 North Clark Street, Chicago IL 60654
+Description: Bub City Combining great tunes and tastes is Bub City , an always-entertaining mashup of bourbon, barbecue, and live country music. Satisfy your cravings early in the morning — go for the beef brisket benedict served with cheesy grits — and all the way into the wee hours of the morning. After a night out, “the big pig” on the late-night menu will be calling your name… a massive pile of pulled pork, hot links, Carolina gold sauce, and jalapenos on a pretzel roll.
+Website: http://bub-city.com/
+Phone: +1-312-610-4200
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-02:00; Sa 10:00-03:00; Su 10:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 41.8902171
+Longitude: -87.6308242
+OpenStreetMap URL: https://www.openstreetmap.org/way/275391882
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/275391882
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; music

@@ -1,0 +1,25 @@
+Name: Swinburne Island
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Swinburne Island in honor of Civil War hero and surgeon Dr. John S. Swinburne, who as port health officer oversaw the development of the quarantine islands.
+Website: https://www.nps.gov/gate/learn/historyculture/hoffman-and-swinburne-islands.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5659602
+Longitude: -74.0500366
+OpenStreetMap URL: https://www.openstreetmap.org/way/21808038
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/21808038
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

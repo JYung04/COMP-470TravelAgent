@@ -1,0 +1,25 @@
+Name: Amici - Chicago
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 3933 North Broadway, Chicago IL 60613
+Description: Not listed
+Website: http://www.amicifood.com/
+Phone: +1-773-904-8492
+Email: Not listed
+Opening Hours: Tu-Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9537142
+Longitude: -87.6498295
+OpenStreetMap URL: https://www.openstreetmap.org/node/10080657722
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10080657722
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

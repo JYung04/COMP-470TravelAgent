@@ -1,0 +1,25 @@
+Name: Gravitas
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1401 Okie Street Northeast, Washington DC 20002
+Description: Ivy City Chef Matt Baker has turned a former tomato cannery in Ivy City into Gravitas , a farm-to-table restaurant highlighting the delicious bounty of the Chesapeake in a modern space with plenty of exposed brick. You can choose your own culinary adventure with the flexible three-, four- or six-course tasting menu options, allowing you to sample a range of Baker’s popular dishes (think yellowfin sashimi and an exceptional chocolate ganache that snakes across your plate). Green thumbs can get th
+Website: http://www.gravitasdc.com/
+Phone: +1 202-763-7942
+Email: Not listed
+Opening Hours: We 17:00-21:00; Th, Su 17:00-21:00+; Fr-Sa 17:00-22:00+
+Wheelchair Accessibility: Not listed
+Latitude: 38.9144796
+Longitude: -76.9843765
+OpenStreetMap URL: https://www.openstreetmap.org/node/6374435194
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6374435194
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

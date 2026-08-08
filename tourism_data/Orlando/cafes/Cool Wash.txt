@@ -1,0 +1,25 @@
+Name: Cool Wash
+City: Orlando
+Category: cafes
+Cuisine: ice_cream
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/epcot/test-track-cool-wash/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3731175
+Longitude: -81.5482716
+OpenStreetMap URL: https://www.openstreetmap.org/way/295315983
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295315983
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

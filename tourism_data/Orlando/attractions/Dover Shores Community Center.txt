@@ -1,0 +1,25 @@
+Name: Dover Shores Community Center
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 1400 Gaston Foster Road, Orlando FL 32812
+Description: Not listed
+Website: http://www.cityoforlando.net/recreation/dover-shores-neighborhood-center/
+Phone: +1 407-246-4451
+Email: dustin.wheeler@orlando.gov
+Opening Hours: Mo-Sa 09:00-21:00; Su 13:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 28.5252738
+Longitude: -81.325954
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1279006
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1279006
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

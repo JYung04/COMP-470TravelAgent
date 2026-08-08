@@ -1,0 +1,25 @@
+Name: Forever Coffee
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 714 West 181st Street, New York NY 10033
+Description: Not listed
+Website: https://www.forevercoffeenyc.com/
+Phone: +1-646-882-0009
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-17:00; Sa-Su 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8502767
+Longitude: -73.9365435
+OpenStreetMap URL: https://www.openstreetmap.org/node/11963623561
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11963623561
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

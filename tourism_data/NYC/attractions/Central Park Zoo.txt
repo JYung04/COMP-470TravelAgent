@@ -1,0 +1,25 @@
+Name: Central Park Zoo
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://centralparkzoo.com/
+Phone: +1 212-439-6500
+Email: Not listed
+Opening Hours: Nov-Mar: 10:00-16:00; Apr-Oct: 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7677015
+Longitude: -73.9716988
+OpenStreetMap URL: https://www.openstreetmap.org/way/354587586
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/354587586
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

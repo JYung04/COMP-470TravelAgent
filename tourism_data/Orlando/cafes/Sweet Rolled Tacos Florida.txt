@@ -1,0 +1,25 @@
+Name: Sweet Rolled Tacos Florida
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 534 Chickasaw Trail, 32825
+Description: Not listed
+Website: https://www.sweetrolledtacosfl.com/
+Phone: +1-407-349-7339
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5365943
+Longitude: -81.2756746
+OpenStreetMap URL: https://www.openstreetmap.org/node/13446355201
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13446355201
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

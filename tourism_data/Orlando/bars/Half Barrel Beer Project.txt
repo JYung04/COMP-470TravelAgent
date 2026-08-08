@@ -1,0 +1,25 @@
+Name: Half Barrel Beer Project
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 9650 Universal Boulevard, 32819
+Description: Not listed
+Website: https://www.halfbarrelproject.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.430011
+Longitude: -81.4483257
+OpenStreetMap URL: https://www.openstreetmap.org/node/10896037283
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10896037283
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

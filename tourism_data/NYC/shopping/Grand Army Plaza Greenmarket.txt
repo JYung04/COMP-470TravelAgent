@@ -1,0 +1,25 @@
+Name: Grand Army Plaza Greenmarket
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.grownyc.org/greenmarket/brooklyn-grand-army-plaza
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6724077
+Longitude: -73.9699763
+OpenStreetMap URL: https://www.openstreetmap.org/node/6129204883
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6129204883
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,25 @@
+Name: Distinguished Wakamba Lounge
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 543 8th Avenue, New York NY 10018
+Description: Not listed
+Website: Not listed
+Phone: +1-212-564-2042
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7543853
+Longitude: -73.9921719
+OpenStreetMap URL: https://www.openstreetmap.org/node/3526528960
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3526528960
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

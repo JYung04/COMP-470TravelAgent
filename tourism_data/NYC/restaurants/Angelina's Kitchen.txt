@@ -1,0 +1,25 @@
+Name: Angelina's Kitchen
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 280 Marsh Avenue, Staten Island NY 10314
+Description: Not listed
+Website: https://angelinaskitchennyc.com/
+Phone: +1 718-698-2000
+Email: Not listed
+Opening Hours: Mo off; Tu-Sa 12:00-22:00; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5785053
+Longitude: -74.164064
+OpenStreetMap URL: https://www.openstreetmap.org/way/904206142
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/904206142
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

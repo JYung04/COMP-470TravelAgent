@@ -1,0 +1,25 @@
+Name: Beat The Bomb
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 255 Water Street, 11201
+Description: Not listed
+Website: https://www.beatthebomb.com/locations/brooklyn
+Phone: +1-917-983-1115
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7030845
+Longitude: -73.9839154
+OpenStreetMap URL: https://www.openstreetmap.org/node/13296626418
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13296626418
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

@@ -1,0 +1,24 @@
+Name: Bake A Bagel
+City: NYC
+Category: cafes
+Cuisine: bagel, breakfast, sandwich
+Address: 60-94 Flushing Avenue, Maspeth NY 11378
+Description: Not listed
+Website: https://bakeabagel.com/
+Phone: +1-718-326-2197
+Email: Not listed
+Opening Hours: Mo-Fr 04:30-15:30, Sa-Su 05:30-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7207384
+Longitude: -73.9043224
+OpenStreetMap URL: https://www.openstreetmap.org/node/10780593448
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10780593448
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

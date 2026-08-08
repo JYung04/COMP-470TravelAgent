@@ -1,0 +1,25 @@
+Name: Taquiera Jalisco
+City: Boston
+Category: restaurants
+Cuisine: mexican
+Address: 291 Bennington Street, East Boston MA 02128
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3787485
+Longitude: -71.0281603
+OpenStreetMap URL: https://www.openstreetmap.org/node/10801804207
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10801804207
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

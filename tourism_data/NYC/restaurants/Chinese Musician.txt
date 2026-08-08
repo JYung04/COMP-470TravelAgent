@@ -1,0 +1,25 @@
+Name: Chinese Musician
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 11222
+Description: Not listed
+Website: Not listed
+Phone: +1-718-383-2413
+Email: Not listed
+Opening Hours: Mo-Su 11:15-22:15
+Wheelchair Accessibility: Not listed
+Latitude: 40.7303643
+Longitude: -73.9537452
+OpenStreetMap URL: https://www.openstreetmap.org/node/4803999022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4803999022
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; music

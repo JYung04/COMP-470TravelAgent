@@ -1,0 +1,24 @@
+Name: Alex Cafe & Deli
+City: NYC
+Category: cafes
+Cuisine: sandwich, breakfast
+Address: 421 East 72nd Street
+Description: Not listed
+Website: Not listed
+Phone: +1-917-261-2206
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7674269
+Longitude: -73.9547221
+OpenStreetMap URL: https://www.openstreetmap.org/node/12070920014
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12070920014
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

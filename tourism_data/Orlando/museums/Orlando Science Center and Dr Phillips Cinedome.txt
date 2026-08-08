@@ -1,0 +1,25 @@
+Name: Orlando Science Center and Dr Phillips Cinedome
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: 777 E. Princeton St., Orlando FL 32803
+Description: The Orlando Science Center (OSC) is a private science museum located in Orlando, Florida. Its purposes are to provide experience-based opportunities for learning about science and technology and to promote public understanding of science.
+Website: https://www.osc.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5722847
+Longitude: -81.3683651
+OpenStreetMap URL: https://www.openstreetmap.org/way/308386066
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/308386066
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

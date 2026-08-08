@@ -1,0 +1,25 @@
+Name: Cosmo
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 600 Maryland Avenue Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.cosmocafedc.com/
+Phone: +1 202-554-4040
+Email: Not listed
+Opening Hours: Mo-Su 07:00-14:30
+Wheelchair Accessibility: yes
+Latitude: 38.8860812
+Longitude: -77.0211574
+OpenStreetMap URL: https://www.openstreetmap.org/node/793933186
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/793933186
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

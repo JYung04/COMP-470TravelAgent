@@ -1,0 +1,25 @@
+Name: Sólás Irish Pub
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 710 Boylston Street, Boston MA 02116
+Description: Not listed
+Website: https://www.solasboston.com/
+Phone: +1-617-933-4803
+Email: info@solasboston.com
+Opening Hours: Mo-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3492607
+Longitude: -71.0797749
+OpenStreetMap URL: https://www.openstreetmap.org/node/7535710987
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7535710987
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

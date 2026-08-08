@@ -1,0 +1,25 @@
+Name: Pho 60
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 1001 60th Street, Brooklyn NY 11219
+Description: Not listed
+Website: https://www.pho60statenisland.com/
+Phone: +1-718-885-7722
+Email: Not listed
+Opening Hours: Tu-Su 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6328708
+Longitude: -74.0048964
+OpenStreetMap URL: https://www.openstreetmap.org/node/11795950199
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11795950199
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

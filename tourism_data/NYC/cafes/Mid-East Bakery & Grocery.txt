@@ -1,0 +1,25 @@
+Name: Mid-East Bakery & Grocery
+City: NYC
+Category: cafes
+Cuisine: lebanese
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-718-680-0561
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6290839
+Longitude: -74.0289354
+OpenStreetMap URL: https://www.openstreetmap.org/node/10773959524
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10773959524
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Shun Wang
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 81-25 Broadway
+Description: Not listed
+Website: Not listed
+Phone: +1 718 779 3330
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7431352
+Longitude: -73.8830364
+OpenStreetMap URL: https://www.openstreetmap.org/node/8177596503
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8177596503
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

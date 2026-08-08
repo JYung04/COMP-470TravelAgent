@@ -1,0 +1,24 @@
+Name: Fullerton Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: breakfast, lunch
+Address: 2400 West Fullerton Avenue, Chicago IL 60647
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Tu 06:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9250761
+Longitude: -87.6878723
+OpenStreetMap URL: https://www.openstreetmap.org/node/3572612797
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3572612797
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

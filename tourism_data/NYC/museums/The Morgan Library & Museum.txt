@@ -1,0 +1,25 @@
+Name: The Morgan Library & Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 225 Madison Avenue, New York NY 10016
+Description: Not listed
+Website: https://www.themorgan.org/
+Phone: +1-212-685-0008
+Email: Not listed
+Opening Hours: Tu-Su 10:30-17:00; Fr 10:30-20:00; Mo off; Nov Th[4]; Jan 01, Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7492685
+Longitude: -73.9814652
+OpenStreetMap URL: https://www.openstreetmap.org/node/4462440249
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4462440249
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

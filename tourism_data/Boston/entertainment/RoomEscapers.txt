@@ -1,0 +1,25 @@
+Name: RoomEscapers
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 3 School Street, Boston MA 02108-4317
+Description: Not listed
+Website: https://roomescapersboston.com
+Phone: +1-857-400-9144
+Email: info@roomescapers.com
+Opening Hours: Mo-Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3575256
+Longitude: -71.0584992
+OpenStreetMap URL: https://www.openstreetmap.org/node/13510339714
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13510339714
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

@@ -1,0 +1,25 @@
+Name: Midland Beach
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/facilities/beaches/9
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.5726183
+Longitude: -74.0838287
+OpenStreetMap URL: https://www.openstreetmap.org/way/1428322431
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1428322431
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: America's Islamic Heritage Museum
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 2315 Martin Luther King Junior Avenue Southeast, Washington DC 20020
+Description: Monday - Closed; Tuesday - Saturday 11-5pm, Sunday 12-5pm
+Website: https://aihmuseum.org/
+Phone: +1 202-610-0586
+Email: Not listed
+Opening Hours: 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8632003
+Longitude: -76.9918493
+OpenStreetMap URL: https://www.openstreetmap.org/node/3688609913
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3688609913
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

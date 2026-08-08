@@ -1,0 +1,25 @@
+Name: Best Western Grant Park Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1100 South Michigan Avenue, Chicago IL 60605
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-grant-park-hotel/propertyCode.14120.html
+Phone: +1 312-922-2900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8691033
+Longitude: -87.6246903
+OpenStreetMap URL: https://www.openstreetmap.org/way/147217807
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/147217807
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

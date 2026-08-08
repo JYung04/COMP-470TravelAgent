@@ -1,0 +1,25 @@
+Name: The SoLita SoHo Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 159 Grand Street, 10013
+Description: Not listed
+Website: https://www.solitasohohotel.com/
+Phone: +1-212-925-3600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7198375
+Longitude: -73.9989137
+OpenStreetMap URL: https://www.openstreetmap.org/node/8622609142
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8622609142
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

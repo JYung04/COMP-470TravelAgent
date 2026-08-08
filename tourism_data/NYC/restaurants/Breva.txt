@@ -1,0 +1,25 @@
+Name: Breva
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 3145 Brighton 4th Street, 11235
+Description: Not listed
+Website: https://www.brevabrightonbeach.com/location/breva-brighton-beach/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Tu off; We-Fr 12:00-22:00; Sa-Su 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.5752969
+Longitude: -73.9627591
+OpenStreetMap URL: https://www.openstreetmap.org/node/5937385486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5937385486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

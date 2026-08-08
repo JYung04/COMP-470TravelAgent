@@ -1,0 +1,25 @@
+Name: Pisco y Nazca
+City: Washington DC
+Category: restaurants
+Cuisine: peruvian
+Address: 1823 L Street, Washington DC 20036
+Description: Not listed
+Website: https://piscoynazca.com/washington-dc/
+Phone: +1 202-559-3726
+Email: pndupont@piscoynazca.com
+Opening Hours: Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9038913
+Longitude: -77.0426358
+OpenStreetMap URL: https://www.openstreetmap.org/node/7168224178
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7168224178
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

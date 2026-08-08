@@ -1,0 +1,25 @@
+Name: Petals Pool Bar
+City: Orlando
+Category: restaurants
+Cuisine: steak_house
+Address: FL
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/pop-century-resort/petals-pool-bar/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 11:00-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.3507044
+Longitude: -81.543426
+OpenStreetMap URL: https://www.openstreetmap.org/way/358773529
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/358773529
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

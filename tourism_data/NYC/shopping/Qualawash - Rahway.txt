@@ -1,0 +1,25 @@
+Name: Qualawash - Rahway
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5990996
+Longitude: -74.2589901
+OpenStreetMap URL: https://www.openstreetmap.org/way/230772426
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/230772426
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

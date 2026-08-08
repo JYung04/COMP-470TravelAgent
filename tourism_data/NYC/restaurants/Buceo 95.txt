@@ -1,0 +1,25 @@
+Name: Buceo 95
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 201 West 95th Street, New York NY 10025
+Description: Not listed
+Website: https://buceo95.com
+Phone: +1-212-662-7010
+Email: Not listed
+Opening Hours: Mo-Su 17:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7936012
+Longitude: -73.9711217
+OpenStreetMap URL: https://www.openstreetmap.org/node/11530514625
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11530514625
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

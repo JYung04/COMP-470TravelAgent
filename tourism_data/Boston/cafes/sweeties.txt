@@ -1,0 +1,25 @@
+Name: sweeties
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 48 Corinth Street, Boston MA 02131
+Description: Not listed
+Website: https://www.sweeties-social.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo 14:00-20:30; Tu-Th 11:00-20:30; Fr-Sa 11:00-21:00; Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.285937
+Longitude: -71.1291937
+OpenStreetMap URL: https://www.openstreetmap.org/node/12069985164
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12069985164
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

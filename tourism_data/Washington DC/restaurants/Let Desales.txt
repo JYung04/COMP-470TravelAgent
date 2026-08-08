@@ -1,0 +1,25 @@
+Name: Let Desales
+City: Washington DC
+Category: restaurants
+Cuisine: french
+Address: 1725 Desales Street Northwest, Washington DC 20036
+Description: Not listed
+Website: https://www.ledesales.com/
+Phone: +1 202-450-3998
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9048862
+Longitude: -77.0397327
+OpenStreetMap URL: https://www.openstreetmap.org/node/739150325
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739150325
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

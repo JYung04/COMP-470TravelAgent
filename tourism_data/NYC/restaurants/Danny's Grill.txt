@@ -1,0 +1,25 @@
+Name: Danny's Grill
+City: NYC
+Category: restaurants
+Cuisine: barbecue
+Address: 73-06 Bell Boulevard, Queens NY 11364
+Description: Not listed
+Website: https://www.dannysgrillinc.com/
+Phone: +1-718-268-2568
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7405182
+Longitude: -73.7583955
+OpenStreetMap URL: https://www.openstreetmap.org/node/2553360483
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2553360483
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Elephant & Castle
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 161 Devonshire Street, Boston 02110
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3562793
+Longitude: -71.0574902
+OpenStreetMap URL: https://www.openstreetmap.org/node/2586592467
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2586592467
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

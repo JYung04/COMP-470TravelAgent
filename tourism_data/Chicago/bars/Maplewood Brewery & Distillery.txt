@@ -1,0 +1,25 @@
+Name: Maplewood Brewery & Distillery
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2717 North Maplewood Avenue, Chicago IL 60647
+Description: Courtesy of Maplewood Brewing Company​ What you’ll find: Maplewood , located down a quiet Logan Square block, is a two-for-one — a neighborhood brewery and distillery, all under one roof. The hybrid spot, the first of its kind in the state, makes both handmade beer and an always-fluid lineup of spirits. Tasting room: The Lounge exudes a laid-back vibe, with its exposed brick, comfy chairs, and large windows that give guests a sneak peek into the production process. You’ll find their beers on tap
+Website: https://www.maplewoodbrew.com/
+Phone: +1-773-270-1061
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9308446
+Longitude: -87.6911398
+OpenStreetMap URL: https://www.openstreetmap.org/node/6321460385
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6321460385
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

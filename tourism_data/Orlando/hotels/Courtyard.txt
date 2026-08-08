@@ -1,0 +1,25 @@
+Name: Courtyard
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 6955 Lake Nona Boulevard, Orlando FL 32827
+Description: Not listed
+Website: https://www.marriott.com/mcolc
+Phone: +1 407-856-9165
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3716078
+Longitude: -81.2786679
+OpenStreetMap URL: https://www.openstreetmap.org/relation/7966829
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/7966829
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

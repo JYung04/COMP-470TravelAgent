@@ -1,0 +1,25 @@
+Name: El Pulgacito
+City: Washington DC
+Category: restaurants
+Cuisine: central_american
+Address: 5313 Georgia Avenue Northwest, Washington DC 20011-3948
+Description: Not listed
+Website: http://www.elpulgarcitodc.com
+Phone: +1 202-733-5262
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9545796
+Longitude: -77.0276122
+OpenStreetMap URL: https://www.openstreetmap.org/node/12615735731
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12615735731
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

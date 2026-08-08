@@ -1,0 +1,25 @@
+Name: Orale Mexican Kitchen
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 341 Grove Street, Jersey City 07302
+Description: Not listed
+Website: https://www.oralemk.com/
+Phone: +1 201 3330001
+Email: Not listed
+Opening Hours: Mo-Th 16:00-22:00; Fr 16:00-23:00; Sa12:00-23:00; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7205167
+Longitude: -74.0431003
+OpenStreetMap URL: https://www.openstreetmap.org/way/245352091
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/245352091
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

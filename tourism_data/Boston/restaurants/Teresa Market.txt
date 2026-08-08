@@ -1,0 +1,25 @@
+Name: Teresa Market
+City: Boston
+Category: restaurants
+Cuisine: mexican
+Address: 02134
+Description: Not listed
+Website: Not listed
+Phone: +1 617-202-5074
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-22:00; Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.350188
+Longitude: -71.164815
+OpenStreetMap URL: https://www.openstreetmap.org/node/12110541503
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12110541503
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Kurt R Schmeller Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 222-05 56th Avenue, NY 11364
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7559512
+Longitude: -73.7565431
+OpenStreetMap URL: https://www.openstreetmap.org/way/250023693
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250023693
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

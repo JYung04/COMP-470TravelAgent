@@ -1,0 +1,25 @@
+Name: Spritzenhaus
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 33 Nassau Avenue, Brooklyn NY 11222
+Description: Not listed
+Website: https://www.spritzenhaus33.com/
+Phone: +1 347 987-4632
+Email: Not listed
+Opening Hours: Mo-We 16:00-04:00; Th-Su 12:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7232306
+Longitude: -73.9527481
+OpenStreetMap URL: https://www.openstreetmap.org/node/2842861216
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2842861216
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Chinatown Express
+City: Washington DC
+Category: restaurants
+Cuisine: chinese
+Address: 746 6th Street Northwest, Washington DC
+Description: Not listed
+Website: http://www.chinatownexpressdc.com/
+Phone: +1 202-638-0424
+Email: Not listed
+Opening Hours: 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8995738
+Longitude: -77.0201268
+OpenStreetMap URL: https://www.openstreetmap.org/node/738194960
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/738194960
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

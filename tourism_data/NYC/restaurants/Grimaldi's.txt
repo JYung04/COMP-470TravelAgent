@@ -1,0 +1,25 @@
+Name: Grimaldi's
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 411 Washington Street, 07030
+Description: Not listed
+Website: https://www.ordergrimaldispizzeria.com/
+Phone: +1-201-792-0800
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:30; Fr-Sa 11:30-22:30; Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7416703
+Longitude: -74.0294165
+OpenStreetMap URL: https://www.openstreetmap.org/node/6140954583
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6140954583
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

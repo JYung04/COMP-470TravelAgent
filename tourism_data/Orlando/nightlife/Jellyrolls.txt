@@ -1,0 +1,24 @@
+Name: Jellyrolls
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: 2100 Epcot Resorts Blvd (Disney's BoardWalk), Lake Buena Vista, FL 32830
+Description: Not listed
+Website: https://disneyworld.disney.go.com/entertainment/boardwalk/jellyrolls/
+Phone: (407) 560-8770
+Email: Not listed
+Opening Hours: Mo-Su 19:00-01:45
+Wheelchair Accessibility: Not listed
+Latitude: 28.3672895
+Longitude: -81.5578381
+OpenStreetMap URL: https://www.openstreetmap.org/node/2986112972
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2986112972
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

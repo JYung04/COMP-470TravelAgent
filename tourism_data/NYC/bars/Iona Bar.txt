@@ -1,0 +1,25 @@
+Name: Iona Bar
+City: NYC
+Category: bars
+Cuisine: snack
+Address: 180 Grand Street, 11211
+Description: Not listed
+Website: https://www.ionabrooklyn.com/
+Phone: +1-718-384-5008
+Email: Not listed
+Opening Hours: Mo-We 13:00-02:00, Th-Fr 13:00-04:00, Sa 12:00-04:00, Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7142662
+Longitude: -73.9610178
+OpenStreetMap URL: https://www.openstreetmap.org/node/12959524802
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12959524802
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

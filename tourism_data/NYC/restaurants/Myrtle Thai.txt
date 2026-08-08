@@ -1,0 +1,25 @@
+Name: Myrtle Thai
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 438 Myrtle Avenue, 11205
+Description: Not listed
+Website: https://www.myrtlethaibk.com
+Phone: +1-718-422-1142
+Email: Not listed
+Opening Hours: Mo-Su 12:00-15:45,17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6930747
+Longitude: -73.9680559
+OpenStreetMap URL: https://www.openstreetmap.org/node/2494064857
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2494064857
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

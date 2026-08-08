@@ -1,0 +1,25 @@
+Name: The Cloud One New York-Downtown
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 133 Greenwich Street, New York NY 10006
+Description: Not listed
+Website: https://www.the-cloud-one.com/
+Phone: +1-646-434-4649
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7093399
+Longitude: -74.0126549
+OpenStreetMap URL: https://www.openstreetmap.org/way/369962304
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/369962304
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

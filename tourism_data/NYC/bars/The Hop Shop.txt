@@ -1,0 +1,24 @@
+Name: The Hop Shop
+City: NYC
+Category: bars
+Cuisine: hot_dog, snack
+Address: Not listed
+Description: Not listed
+Website: https://www.thehopshopbrooklyn.com/
+Phone: +1-718-852-2184
+Email: Not listed
+Opening Hours: Tu-Fr 17:00-23:00+; Sa 12:00-24:00+; Su 14:00-23:00+
+Wheelchair Accessibility: yes
+Latitude: 40.6874926
+Longitude: -74.0013482
+OpenStreetMap URL: https://www.openstreetmap.org/node/6501029664
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6501029664
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

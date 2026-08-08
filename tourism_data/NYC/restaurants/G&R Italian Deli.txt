@@ -1,0 +1,24 @@
+Name: G&R Italian Deli
+City: NYC
+Category: restaurants
+Cuisine: deli, italian
+Address: 1928 Williamsbridge Road, 10461
+Description: Not listed
+Website: Not listed
+Phone: +1-718-931-3450
+Email: Not listed
+Opening Hours: Mo-Su 07:30-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8530309
+Longitude: -73.8532661
+OpenStreetMap URL: https://www.openstreetmap.org/node/2857006237
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2857006237
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

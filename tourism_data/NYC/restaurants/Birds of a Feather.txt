@@ -1,0 +1,25 @@
+Name: Birds of a Feather
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 191 Grand Street, Brooklyn NY 11211
+Description: Not listed
+Website: https://birdsofafeatherny.com
+Phone: +1-718-969-6800
+Email: birdsofafeather.nyc@gmail.com
+Opening Hours: Mo-Th 12:00-15:00,17:00-22:00; Fr 12:00-15:00,17:00-22:30; Sa 12:00-22:30; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7143133
+Longitude: -73.9605332
+OpenStreetMap URL: https://www.openstreetmap.org/node/2839628066
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2839628066
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

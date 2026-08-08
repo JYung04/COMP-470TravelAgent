@@ -1,0 +1,25 @@
+Name: The Gyro Project
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 2151 Lemoine Ave, Fort Lee, NJ 07024, United States
+Description: Not listed
+Website: http://www.thegyroproject.com/
+Phone: +1 201-571-4501
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8563646
+Longitude: -73.9680411
+OpenStreetMap URL: https://www.openstreetmap.org/node/8514846272
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8514846272
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

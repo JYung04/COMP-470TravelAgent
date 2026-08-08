@@ -1,0 +1,25 @@
+Name: Limani
+City: Washington DC
+Category: restaurants
+Cuisine: greek
+Address: 652 Wharf Street Southwest, Washington DC 20024
+Description: Not listed
+Website: https://limani.com/
+Phone: +1 202-804-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8772567
+Longitude: -77.0229621
+OpenStreetMap URL: https://www.openstreetmap.org/node/9914480379
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9914480379
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

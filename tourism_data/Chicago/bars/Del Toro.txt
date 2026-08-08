@@ -1,0 +1,25 @@
+Name: Del Toro
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2133 South Halsted Street, Chicago IL 60608
+Description: Not listed
+Website: http://deltorochicago.com/
+Phone: +1-312-733-7144
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8532108
+Longitude: -87.6462872
+OpenStreetMap URL: https://www.openstreetmap.org/node/6284354686
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6284354686
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

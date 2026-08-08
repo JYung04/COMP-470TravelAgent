@@ -1,0 +1,25 @@
+Name: Clinton Hall 36
+City: NYC
+Category: restaurants
+Cuisine: new_american
+Address: 16 West 36th Street, 10018
+Description: Not listed
+Website: https://clintonhallny.com/36th-street/
+Phone: +1-212-695-0036
+Email: info@clintonhallny.com
+Opening Hours: Mo-We 12:00-01:00; Th-Sa 12:00-02:00; Su 12:00-12:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7500481
+Longitude: -73.9847324
+OpenStreetMap URL: https://www.openstreetmap.org/node/6348576200
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6348576200
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

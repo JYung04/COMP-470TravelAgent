@@ -1,0 +1,25 @@
+Name: DoubleTree by Hilton Boston Bayside
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 240 Mount Vernon Street, Boston MA 02125
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/boschdt-doubletree-boston-bayside/
+Phone: +1 617-822-3600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3202865
+Longitude: -71.047972
+OpenStreetMap URL: https://www.openstreetmap.org/way/29847645
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29847645
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

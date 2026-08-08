@@ -1,0 +1,25 @@
+Name: Das Ethiopian Cuisine
+City: Washington DC
+Category: restaurants
+Cuisine: ethiopian
+Address: 1201 28th Street Northwest, Washington DC 20007
+Description: Not listed
+Website: https://dasethiopian.com/
+Phone: +1-202-333-4710
+Email: Not listed
+Opening Hours: Mo off; Tu-We 17:00-21:30; Th-Su 11:00-22:00;
+Wheelchair Accessibility: Not listed
+Latitude: 38.9053977
+Longitude: -77.056874
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272435
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272435
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

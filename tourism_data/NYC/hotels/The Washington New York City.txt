@@ -1,0 +1,25 @@
+Name: The Washington New York City
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 8 Albany Street, New York 10006
+Description: W New York - Downtown Hotel and Residences is a 630-foot-tall building (190 m) at 8 Albany Street in the Financial District of Lower Manhattan in New York City. The 58-story building was completed in 2010, and is tied with two other buildings, Home Insurance Plaza and the W.R. Grace Building as the 106th tallest building in New York. It is divided between a 217-room hotel, on floors 5-22, and 223 luxury residential condominiums, on floors 23–56, with lobbies for both on floors 1–4. There is a residential observation deck on the 57th floor, with views of the Hudson River, and a terrace on the 58th floor with panoramic views of lower Manhattan.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7092071
+Longitude: -74.0136681
+OpenStreetMap URL: https://www.openstreetmap.org/way/278033597
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278033597
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; views

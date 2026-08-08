@@ -1,0 +1,25 @@
+Name: Pineapple and Pearls
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 715 8th Street Southeast, Washington DC 20003
+Description: Capitol Hill Chef Aaron Silverman’s tasting menu is the stuff of perfection. Venture into Barracks Row for a night filled with meticulously crafted courses – each paired with a drink. Tip: You can belly up to the bar for the same tasting menu sans drinks and save $100. Rose's Luxury
+Website: http://www.pineappleandpearls.com/
+Phone: +1 202-595-7375
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.8807042
+Longitude: -76.9952133
+OpenStreetMap URL: https://www.openstreetmap.org/node/6300462567
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6300462567
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

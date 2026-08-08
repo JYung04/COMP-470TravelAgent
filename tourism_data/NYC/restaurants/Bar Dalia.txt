@@ -1,0 +1,25 @@
+Name: Bar Dalia
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 33-17 31st Avenue, Astoria 11106
+Description: Not listed
+Website: https://www.bardalia.nyc
+Phone: +1-347-507-1218
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7634157
+Longitude: -73.9212273
+OpenStreetMap URL: https://www.openstreetmap.org/node/8640802183
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8640802183
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

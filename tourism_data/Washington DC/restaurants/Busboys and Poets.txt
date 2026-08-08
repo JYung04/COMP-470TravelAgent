@@ -1,0 +1,25 @@
+Name: Busboys and Poets
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 2021 14th Street Northwest, Washington DC 20009
+Description: Busboys and Poets is a full-service restaurant, bar, bookstore, coffee shop, and events venue in the Washington, D.C. area, founded in 2005 by Andy Shallal. The original Busboys and Poets is located at 14th & V streets in the U Street Corridor of Washington, D.C. There are now eight locations in the DMV: a second location opened in Shirlington, Virginia, in 2007; a third location opened in DC's Mount Vernon Triangle neighborhood in 2008; a fourth in Hyattsville, Maryland, opened in July 2011; a fifth opened in the Takoma neighborhood on Valentine's Day in 2015; a sixth at D.C.'s Brookland neighborhood opened on New Year's Eve in 2016; a seventh location opened in D.C.'s Anacostia neighborhood in early 2019; and.
+Website: https://www.busboysandpoets.com/locations/?location=14th-v&venue=14th-v
+Phone: +1-202-387-7638
+Email: Not listed
+Opening Hours: Mo-Th 08:00-22:00; Fr 08:00-23:00; Sa 09:00-23:00; Su 09:00-22:00
+Wheelchair Accessibility: limited
+Latitude: 38.917929
+Longitude: -77.031697
+OpenStreetMap URL: https://www.openstreetmap.org/node/750467842
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750467842
+Price: $$
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

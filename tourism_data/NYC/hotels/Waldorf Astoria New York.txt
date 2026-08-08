@@ -1,0 +1,25 @@
+Name: Waldorf Astoria New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 301 Park Avenue, New York NY 10022
+Description: The Waldorf Astoria New York is a luxury hotel and residential condominium building in Midtown Manhattan, New York City. Located at 301 Park Avenue between 49th and 50th Streets, it is a 47-story, 625 ft (191 m) Art Deco structure designed by architects Schultze and Weaver and completed in 1931. The building was the world's tallest hotel until 1957, when it was surpassed by Moscow's Hotel Ukraina. An icon of glamor and luxury, the Waldorf Astoria is one of the world's most prestigious and best-known hotels. Both the exterior and the interior of the Waldorf Astoria are designated by the New York City Landmarks Preservation Commission as official landmarks.
+Website: https://www.hilton.com/en/hotels/nycwawa-waldorf-astoria-new-york/
+Phone: +1 212 355 3000
+Email: nycwa-sales@waldorfastoria.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7565021
+Longitude: -73.9733615
+OpenStreetMap URL: https://www.openstreetmap.org/way/85393997
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/85393997
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

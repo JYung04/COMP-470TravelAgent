@@ -1,0 +1,25 @@
+Name: Feather Factory Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 26-32 Skillman Avenue, Long Island City NY 11101
+Description: Not listed
+Website: http://www.hotelfeatherfactory.com/
+Phone: +1 718-786-7869
+Email: fd@anzymgt.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7441797
+Longitude: -73.9406498
+OpenStreetMap URL: https://www.openstreetmap.org/node/2847093111
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2847093111
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

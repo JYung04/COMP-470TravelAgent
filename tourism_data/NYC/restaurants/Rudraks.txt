@@ -1,0 +1,25 @@
+Name: Rudraks
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 706 Amsterdam Avenue, New York NY 10025
+Description: Not listed
+Website: Not listed
+Phone: +1-212-222-4800
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:30-22:30; Fr-Sa 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7930225
+Longitude: -73.9713526
+OpenStreetMap URL: https://www.openstreetmap.org/node/2125873482
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2125873482
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

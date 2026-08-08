@@ -1,0 +1,24 @@
+Name: Kaya
+City: Orlando
+Category: restaurants
+Cuisine: filipino, fine_dining
+Address: 618 North Thornton Avenue, Orlando FL 32803
+Description: Not listed
+Website: https://www.kayaorlando.com
+Phone: Not listed
+Email: kaya@kayaorlando.com
+Opening Hours: Tu-Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5520296
+Longitude: -81.3656643
+OpenStreetMap URL: https://www.openstreetmap.org/node/10733937005
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10733937005
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

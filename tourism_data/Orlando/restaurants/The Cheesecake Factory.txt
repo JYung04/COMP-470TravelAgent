@@ -1,0 +1,25 @@
+Name: The Cheesecake Factory
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: 520 N Orlando Ave Suite 100, Winter Park, FL 32789, United States
+Description: Not listed
+Website: https://locations.thecheesecakefactory.com/fl/winter-park-45.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+Phone: +1 407-644-4220
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6028119
+Longitude: -81.3626322
+OpenStreetMap URL: https://www.openstreetmap.org/node/6680742134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6680742134
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

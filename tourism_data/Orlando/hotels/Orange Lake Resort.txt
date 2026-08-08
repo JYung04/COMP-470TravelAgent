@@ -1,0 +1,25 @@
+Name: Orange Lake Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8505 W Irlo Bronson Memorial Hwy Kissimmee FL 34747
+Description: Designed by Arnold Palmer, The Legends is one of Orlando’s best-kept golf secrets — and you can only play it at Orange Lake Resort in Kissimmee. In addition to The Legends, which evokes Scottish-style golf on the front nine and the Carolinas on the back, this resort also offers 18 holes at The Reserve, specifically designed to be in harmony with local nature, and the nine-hole Cranes Bend. Want to stay where you play? Book accommodations at Holiday Inn Club Vacations® at Orange Lake Resort .
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3617362
+Longitude: -81.6154885
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1113637
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1113637
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

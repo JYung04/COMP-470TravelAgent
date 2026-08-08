@@ -1,0 +1,25 @@
+Name: Umi Japanese Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: 525 S Park Ave, Winter Park, FL 32789, United States
+Description: Not listed
+Website: https://www.umiwinterpark.com/
+Phone: +1 407-960-3993
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5936637
+Longitude: -81.3508688
+OpenStreetMap URL: https://www.openstreetmap.org/node/3411777862
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3411777862
+Price: Not listed
+Rating: 4.3
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

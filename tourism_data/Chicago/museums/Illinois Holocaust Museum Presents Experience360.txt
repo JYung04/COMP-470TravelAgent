@@ -1,0 +1,25 @@
+Name: Illinois Holocaust Museum Presents Experience360
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 360 North State Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.ilholocaustmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8890241
+Longitude: -87.6285862
+OpenStreetMap URL: https://www.openstreetmap.org/way/153291623
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/153291623
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

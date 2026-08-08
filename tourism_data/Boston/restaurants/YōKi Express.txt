@@ -1,0 +1,25 @@
+Name: YōKi Express
+City: Boston
+Category: restaurants
+Cuisine: sushi
+Address: 53 Boston Wharf Road, Boston MA 02210
+Description: Not listed
+Website: https://www.yokiexpress.com/
+Phone: +1-857-263-7418
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:30; Sa-Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3511488
+Longitude: -71.0457434
+OpenStreetMap URL: https://www.openstreetmap.org/node/12147776020
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12147776020
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

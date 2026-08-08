@@ -1,0 +1,25 @@
+Name: Paul & Jimmy's Ristorante
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 123 East 18th Street, New York NY 10003
+Description: Not listed
+Website: https://www.paulandjimmys.com/
+Phone: +1-212-475-9540
+Email: Not listed
+Opening Hours: Tu 12:00-22:00; We-Fr 12:00-23:00; Sa 13:00-23:00; Su 13:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7367294
+Longitude: -73.9873227
+OpenStreetMap URL: https://www.openstreetmap.org/node/5866143628
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5866143628
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

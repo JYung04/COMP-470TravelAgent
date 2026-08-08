@@ -1,0 +1,24 @@
+Name: Bodega
+City: Chicago
+Category: nightlife
+Cuisine: Not listed
+Address: 355 North Clark Street, Chicago IL 60654
+Description: Not listed
+Website: http://www.bodegaimports.com
+Phone: (312) 561-4666
+Email: servicedirectory494@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8890366
+Longitude: -87.6308404
+OpenStreetMap URL: https://www.openstreetmap.org/node/5912453485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5912453485
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

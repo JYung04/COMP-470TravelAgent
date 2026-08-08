@@ -1,0 +1,25 @@
+Name: Moo Burger
+City: NYC
+Category: restaurants
+Cuisine: burger
+Address: 240 Court Street, 11201
+Description: Not listed
+Website: http://mooburger.net
+Phone: +1-718-246-8259
+Email: Not listed
+Opening Hours: Mo-Th 12:00-21:00; Fr-Sa 12:00-22:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6858251
+Longitude: -73.9944064
+OpenStreetMap URL: https://www.openstreetmap.org/node/2387017404
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2387017404
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

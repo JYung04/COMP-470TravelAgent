@@ -1,0 +1,25 @@
+Name: Bunker Hill
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: IL
+Description: Not listed
+Website: https://fpdcc.com/places/locations/bunker-hill/
+Phone: +1-800-870-3666
+Email: Not listed
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 42.0040491
+Longitude: -87.7814728
+OpenStreetMap URL: https://www.openstreetmap.org/node/10874811379
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10874811379
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Brookvalley Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 5599 Holmes Run Parkway, Alexandria
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8145134
+Longitude: -77.1156979
+OpenStreetMap URL: https://www.openstreetmap.org/way/220554765
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/220554765
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

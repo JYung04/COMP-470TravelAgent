@@ -1,0 +1,25 @@
+Name: Finestra Restaurant
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1370 York Avenue
+Description: Not listed
+Website: https://www.finestrarestaurant.com/
+Phone: +1 212-717-8595
+Email: Not listed
+Opening Hours: 12:00-21:00
+Wheelchair Accessibility: limited
+Latitude: 40.7675579
+Longitude: -73.9529698
+OpenStreetMap URL: https://www.openstreetmap.org/node/6670244827
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6670244827
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

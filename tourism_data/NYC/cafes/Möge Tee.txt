@@ -1,0 +1,24 @@
+Name: Möge Tee
+City: NYC
+Category: cafes
+Cuisine: asian, bubble_tea
+Address: 69 Cooper Square, 10003
+Description: Not listed
+Website: https://mogeteeusa.com
+Phone: +1-929-350-2833
+Email: Not listed
+Opening Hours: Mo-Fr 12:30-23:30; Sa-Su 12:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7291644
+Longitude: -73.9899477
+OpenStreetMap URL: https://www.openstreetmap.org/node/9875403134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9875403134
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

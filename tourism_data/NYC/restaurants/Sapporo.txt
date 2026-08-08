@@ -1,0 +1,25 @@
+Name: Sapporo
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: Not listed
+Description: Not listed
+Website: https://sapporobk.com
+Phone: +1-718-748-3322
+Email: Not listed
+Opening Hours: Mo 11:30-22:30, We-Th 11:30-22:30, Fr-Sa 11:30-22:45, Su 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6289914
+Longitude: -74.0289734
+OpenStreetMap URL: https://www.openstreetmap.org/node/9780522588
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9780522588
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

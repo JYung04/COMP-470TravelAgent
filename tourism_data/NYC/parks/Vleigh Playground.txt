@@ -1,0 +1,25 @@
+Name: Vleigh Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Vleigh Playground is a 2.243-acre (0.908 ha) park in Kew Gardens Hills, Queens, New York City. It takes its name from Head of the Vleigh Road, a colonial period path that ran along the northern boundary of the playground site. This path is presently followed by Vleigh Place and 70th Road. This road connected the town of Flushing to Brooklyn during colonial times, allowing travelers to circumvent Flushing Meadows, then an impassible swamp.
+Website: https://www.nycgovparks.org/parks/vleigh-playground
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7298411
+Longitude: -73.8165337
+OpenStreetMap URL: https://www.openstreetmap.org/way/382669634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/382669634
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

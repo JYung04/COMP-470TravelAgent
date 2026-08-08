@@ -1,0 +1,25 @@
+Name: Ryerson & Burnham Libraries
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 111 South Michigan Avenue, Chicago IL 60603
+Description: The Ryerson and Burnham Libraries are the art and architecture research collection of the Art Institute of Chicago. The libraries cover all periods with extensive holdings in the areas of 18th-, 19th- and 20th-century architecture and 19th-century painting, prints, drawings, and decorative arts. A variety of materials important to scholarly research includes architects' diaries, correspondence, job files, photographs, sketchbooks, scrapbooks, articles, transcripts, and personal papers.
+Website: https://www.artic.edu/collection/research_resources
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8793892
+Longitude: -87.6236689
+OpenStreetMap URL: https://www.openstreetmap.org/way/765296578
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/765296578
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; architecture; art

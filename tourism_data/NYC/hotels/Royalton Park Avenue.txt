@@ -1,0 +1,25 @@
+Name: Royalton Park Avenue
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 420 Park Avenue South, 10016
+Description: Not listed
+Website: https://www.royaltonparkavenue.com/
+Phone: +12123172900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7438908
+Longitude: -73.9838903
+OpenStreetMap URL: https://www.openstreetmap.org/node/4252963690
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4252963690
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

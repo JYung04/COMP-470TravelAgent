@@ -1,0 +1,25 @@
+Name: Yi Soon Bakery
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 112 Brighton Avenue, Allston MA 02134
+Description: Not listed
+Website: https://yisoonbakery.wordpress.com/
+Phone: +1-617-254-3099
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3526534
+Longitude: -71.1304813
+OpenStreetMap URL: https://www.openstreetmap.org/node/4728935495
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4728935495
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

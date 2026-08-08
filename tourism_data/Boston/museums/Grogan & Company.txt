@@ -1,0 +1,25 @@
+Name: Grogan & Company
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 20 Charles Street, Boston MA 02108
+Description: Not listed
+Website: https://www.groganco.com/
+Phone: +1-617-720-2020
+Email: info@groganco.com
+Opening Hours: Mo-Fr 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3565516
+Longitude: -71.0698032
+OpenStreetMap URL: https://www.openstreetmap.org/node/7914577736
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7914577736
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

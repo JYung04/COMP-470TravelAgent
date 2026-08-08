@@ -1,0 +1,24 @@
+Name: Luo's Burgers
+City: NYC
+Category: restaurants
+Cuisine: american, latin_american, chinese
+Address: 568 4th Avenue, 11215
+Description: Not listed
+Website: https://luosburgers.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00, Fr-Sa 11:00-01:00, Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6663224
+Longitude: -73.9923591
+OpenStreetMap URL: https://www.openstreetmap.org/node/2562126671
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2562126671
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

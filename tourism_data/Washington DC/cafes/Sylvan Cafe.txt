@@ -1,0 +1,25 @@
+Name: Sylvan Cafe
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 104 Rhode Island Avenue Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.sylvancafe.com/
+Phone: +1-571-388-0035
+Email: info@sylvancafe.com
+Opening Hours: Mo-We 08:00-14:00; Th-Su 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9153462
+Longitude: -77.0125825
+OpenStreetMap URL: https://www.openstreetmap.org/node/2348914810
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2348914810
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Manhattan Building
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 431 South Dearborn Street, Chicago IL 60605
+Description: The Manhattan Building is a 16-story building at 431 South Dearborn Street in Chicago, Illinois. It was designed by architect William Le Baron Jenney and constructed from 1889 to 1891. It is the oldest surviving skyscraper in the world to use a purely skeletal supporting structure. It is the sixth oldest surviving building in the city. The building was the first home of the Paymaster Corporation, and is listed on the National Register of Historic Places on March 16, 1976, and designated a Chicago Landmark on July 7, 1978.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8760691
+Longitude: -87.6289817
+OpenStreetMap URL: https://www.openstreetmap.org/way/73636095
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/73636095
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

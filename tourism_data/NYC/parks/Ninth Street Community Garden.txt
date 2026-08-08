@@ -1,0 +1,25 @@
+Name: Ninth Street Community Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.facebook.com/pages/9C-Community-Garden-Park/107365335999995
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa-Su 00:00-18:00 "or week-nights whenever garden members are present"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7253819
+Longitude: -73.9774646
+OpenStreetMap URL: https://www.openstreetmap.org/way/237586859
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/237586859
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

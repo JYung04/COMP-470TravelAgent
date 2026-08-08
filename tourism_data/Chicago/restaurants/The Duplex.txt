@@ -1,0 +1,25 @@
+Name: The Duplex
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 3137 West Logan Boulevard, Chicago IL 60647
+Description: Not listed
+Website: https://www.merchantchicago.com/
+Phone: +1-773-687-8822
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9277163
+Longitude: -87.706427
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322584582
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322584582
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

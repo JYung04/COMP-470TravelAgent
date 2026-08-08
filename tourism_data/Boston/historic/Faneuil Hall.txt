@@ -1,0 +1,25 @@
+Name: Faneuil Hall
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 1 Faneuil Hall Square, Boston MA 02109
+Description: Massachusetts Attractions in Greater Boston and Cambridge. Find parks, museums for children and for fine art, outdoor activities, entertainments and fun year-round.
+Website: http://www.faneuilhall.com/
+Phone: 781-648-4300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3600335
+Longitude: -71.0562341
+OpenStreetMap URL: https://www.openstreetmap.org/way/29551702
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29551702
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: faneuil hall
+Best For: history; families; art

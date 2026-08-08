@@ -1,0 +1,25 @@
+Name: Bossa Nova Civic Club
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 1271 Myrtle Avenue, 11221
+Description: Tropical Techno Cocktail bar
+Website: https://bossanovacivicclub.com/
+Phone: +1-718-443-1271
+Email: Not listed
+Opening Hours: Mo-Su 19:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6979017
+Longitude: -73.9278919
+OpenStreetMap URL: https://www.openstreetmap.org/node/3141134043
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3141134043
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

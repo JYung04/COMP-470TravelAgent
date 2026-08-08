@@ -1,0 +1,25 @@
+Name: Wrigley Rooftops
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3609 North Sheffield Avenue, Chicago IL 60613
+Description: Not listed
+Website: https://www.wrigleyrooftopsllc.com/rooftop/3609%20N%20Sheffield
+Phone: +1 773 248 7663
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9476002
+Longitude: -87.6540349
+OpenStreetMap URL: https://www.openstreetmap.org/node/9657684102
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9657684102
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

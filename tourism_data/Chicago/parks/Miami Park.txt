@@ -1,0 +1,25 @@
+Name: Miami Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2754 South Trumbull Avenue, Chicago IL 60623
+Description: Officially classified as mini-park. Covers approximately 0.2 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/miami-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.840935
+Longitude: -87.7113856
+OpenStreetMap URL: https://www.openstreetmap.org/way/354938475
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/354938475
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

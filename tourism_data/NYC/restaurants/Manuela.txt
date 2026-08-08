@@ -1,0 +1,25 @@
+Name: Manuela
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 130 Prince Street, New York City NY 10012
+Description: Not listed
+Website: https://manuela-nyc.com
+Phone: +1-917-245-2770
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.725385
+Longitude: -74.000397
+OpenStreetMap URL: https://www.openstreetmap.org/node/2547223602
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2547223602
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

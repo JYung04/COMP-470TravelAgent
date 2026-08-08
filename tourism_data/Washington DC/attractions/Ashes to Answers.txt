@@ -1,0 +1,25 @@
+Name: Ashes to Answers
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Ashes to Answers is an outdoor 2013 sculpture by Austin Weishel, installed at Fifth and F streets NW in Washington, D.C., in the United States. The work serves as a monument to arson dogs.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.897163
+Longitude: -77.0191398
+OpenStreetMap URL: https://www.openstreetmap.org/node/12497066484
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12497066484
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

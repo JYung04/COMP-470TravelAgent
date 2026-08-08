@@ -1,0 +1,24 @@
+Name: Fat Rabbit Diner
+City: NYC
+Category: restaurants
+Cuisine: american, breakfast
+Address: Not listed
+Description: Not listed
+Website: https://fatrabbitdiner.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6895853
+Longitude: -73.9694747
+OpenStreetMap URL: https://www.openstreetmap.org/node/11951864818
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11951864818
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

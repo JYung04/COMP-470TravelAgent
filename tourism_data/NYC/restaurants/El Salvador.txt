@@ -1,0 +1,25 @@
+Name: El Salvador
+City: NYC
+Category: restaurants
+Cuisine: salvadoran
+Address: 1544 Myrtle Avenue, Brooklyn NY
+Description: Not listed
+Website: Not listed
+Phone: +1-718-628-0606
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-22:00; Sa, Su 10:00-23:30
+Wheelchair Accessibility: yes
+Latitude: 40.6993461
+Longitude: -73.9118597
+OpenStreetMap URL: https://www.openstreetmap.org/node/5567725628
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5567725628
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

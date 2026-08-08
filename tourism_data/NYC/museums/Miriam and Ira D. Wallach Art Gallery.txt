@@ -1,0 +1,25 @@
+Name: Miriam and Ira D. Wallach Art Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 615 West 129th Street, New York NY 10027
+Description: Not listed
+Website: https://wallach.columbia.edu/
+Phone: +1-212-854-6800
+Email: wallach@columbia.edu
+Opening Hours: We-Fr 12:00-20:00; Sa-Su 12:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.8172422
+Longitude: -73.9586445
+OpenStreetMap URL: https://www.openstreetmap.org/node/5813555226
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5813555226
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

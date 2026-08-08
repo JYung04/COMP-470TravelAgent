@@ -1,0 +1,25 @@
+Name: Cafe 26
+City: Boston
+Category: cafes
+Cuisine: breakfast
+Address: 26 Temple Place, 02108
+Description: Not listed
+Website: http://cafe26boston.com
+Phone: +1 617 292 2626
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-19:00; Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3554274
+Longitude: -71.0622593
+OpenStreetMap URL: https://www.openstreetmap.org/node/5398657321
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5398657321
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

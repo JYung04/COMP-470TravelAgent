@@ -1,0 +1,25 @@
+Name: West Potomac Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: West Potomac Park is a U.S. national park in Washington, D.C., adjacent to the National Mall. It includes the parkland that extends south of the Lincoln Memorial Reflecting Pool, from the Lincoln Memorial to the grounds of the Washington Monument. The park is the site of several national landmarks including the Korean War Veterans Memorial, Jefferson Memorial, Franklin Delano Roosevelt Memorial, George Mason Memorial, and the Martin Luther King Jr. Memorial.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8872151
+Longitude: -77.0479174
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2999110
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2999110
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

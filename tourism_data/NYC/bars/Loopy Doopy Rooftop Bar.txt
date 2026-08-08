@@ -1,0 +1,25 @@
+Name: Loopy Doopy Rooftop Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 102 North End Avenue, New York 10282
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/nyccici-conrad-new-york-downtown/dining/loopy-doopy-rooftop-bar/
+Phone: +1 646-769-4250
+Email: Not listed
+Opening Hours: Su-Th 12:00-24:00; Fr-Sa 12:00-01:00
+Wheelchair Accessibility: yes
+Latitude: 40.7149555
+Longitude: -74.0153365
+OpenStreetMap URL: https://www.openstreetmap.org/node/4957663866
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4957663866
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

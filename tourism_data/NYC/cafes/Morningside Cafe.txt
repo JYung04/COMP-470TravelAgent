@@ -1,0 +1,24 @@
+Name: Morningside Cafe
+City: NYC
+Category: cafes
+Cuisine: seafood, coffee_shop
+Address: New York NY 10026
+Description: Not listed
+Website: https://crabmanmikeatmorningsidecafe.square.site/
+Phone: +1-917-564-7016
+Email: Not listed
+Opening Hours: Mo-Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8024228
+Longitude: -73.959075
+OpenStreetMap URL: https://www.openstreetmap.org/way/1498878042
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1498878042
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

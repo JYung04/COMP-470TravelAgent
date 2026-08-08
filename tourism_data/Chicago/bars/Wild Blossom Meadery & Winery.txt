@@ -1,0 +1,25 @@
+Name: Wild Blossom Meadery & Winery
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 9030 South Hermitage Avenue, Chicago IL 60620
+Description: Not listed
+Website: https://wildblossommeadery.com/
+Phone: +1-773-840-4642
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7296629
+Longitude: -87.6672066
+OpenStreetMap URL: https://www.openstreetmap.org/node/6316902658
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6316902658
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

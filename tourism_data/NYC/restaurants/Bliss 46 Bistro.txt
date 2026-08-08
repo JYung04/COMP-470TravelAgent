@@ -1,0 +1,24 @@
+Name: Bliss 46 Bistro
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 43-46 46th Street, 11104
+Description: Not listed
+Website: http://www.bliss46bistro.com
+Phone: +1 718-361-0690
+Email: Not listed
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.743505
+Longitude: -73.9187481
+OpenStreetMap URL: https://www.openstreetmap.org/node/2844976428
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2844976428
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

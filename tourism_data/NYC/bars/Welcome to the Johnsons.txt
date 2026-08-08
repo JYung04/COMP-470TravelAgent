@@ -1,0 +1,25 @@
+Name: Welcome to the Johnsons
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 123 Rivington Street, New York NY 10002
+Description: Eclectic, grungy hole-in-the-wall bar featuring affortable libations and $2 PBR cans.
+Website: Not listed
+Phone: +1 212-420-9911
+Email: Not listed
+Opening Hours: Sa, Su 13:00-04:00; Mo-Fr 15:00-04:00
+Wheelchair Accessibility: no
+Latitude: 40.7196706
+Longitude: -73.9873004
+OpenStreetMap URL: https://www.openstreetmap.org/node/4282785789
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4282785789
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

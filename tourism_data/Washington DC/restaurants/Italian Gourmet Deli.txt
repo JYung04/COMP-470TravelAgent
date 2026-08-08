@@ -1,0 +1,25 @@
+Name: Italian Gourmet Deli
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 1707 L St NW, Washington, DC, 20036
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9038832
+Longitude: -77.0393066
+OpenStreetMap URL: https://www.openstreetmap.org/node/4960921726
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4960921726
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

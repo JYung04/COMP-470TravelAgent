@@ -1,0 +1,25 @@
+Name: Häagen-Dazs
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 3120 M Street Northwest, Washington DC 20007
+Description: Not listed
+Website: http://www.haagendazsdc.com/
+Phone: +1-202-333-3443
+Email: Not listed
+Opening Hours: Fr-Sa 11:00-14:00; Su 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9050314
+Longitude: -77.0618382
+OpenStreetMap URL: https://www.openstreetmap.org/node/580411197
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/580411197
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

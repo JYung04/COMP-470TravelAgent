@@ -1,0 +1,25 @@
+Name: 103rd Street Community Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nyrp.org/green-spaces/garden-details/103rd-street-community-garden/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7909569
+Longitude: -73.948655
+OpenStreetMap URL: https://www.openstreetmap.org/way/225189391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/225189391
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

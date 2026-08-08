@@ -1,0 +1,25 @@
+Name: The Grange
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 1635 Amsterdam Avenue, 10031
+Description: Not listed
+Website: https://thegrangebarnyc.com
+Phone: +1-212-491-1635
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8225009
+Longitude: -73.9493735
+OpenStreetMap URL: https://www.openstreetmap.org/node/2768171701
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2768171701
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

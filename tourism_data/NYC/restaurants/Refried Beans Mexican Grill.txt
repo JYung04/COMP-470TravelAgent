@@ -1,0 +1,25 @@
+Name: Refried Beans Mexican Grill
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 591 Fort Washington Avenue, 10033
+Description: Not listed
+Website: https://refriedbeansnyc.com/
+Phone: +1-212-568-2299
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8549554
+Longitude: -73.9371041
+OpenStreetMap URL: https://www.openstreetmap.org/node/2797600871
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2797600871
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

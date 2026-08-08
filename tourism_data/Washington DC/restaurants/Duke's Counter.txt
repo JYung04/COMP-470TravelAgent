@@ -1,0 +1,24 @@
+Name: Duke's Counter
+City: Washington DC
+Category: restaurants
+Cuisine: english, burger
+Address: 3000 Connecticut Avenue Northwest, Washington DC 20008
+Description: Not listed
+Website: http://dukescounter.com/
+Phone: +1-202-733-4808
+Email: Not listed
+Opening Hours: Mo-Th 11:00-02:00, Fr 11:00-3:00, Sa 10:00-03:00, Su 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9300563
+Longitude: -77.0555823
+OpenStreetMap URL: https://www.openstreetmap.org/node/4411526728
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4411526728
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

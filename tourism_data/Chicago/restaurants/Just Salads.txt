@@ -1,0 +1,25 @@
+Name: Just Salads
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 120 South Riverside Plaza, 60606
+Description: Not listed
+Website: https://www.justsalad.com/
+Phone: +1-212-244-1111
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 41.8797234
+Longitude: -87.6388869
+OpenStreetMap URL: https://www.openstreetmap.org/node/13416540209
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13416540209
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

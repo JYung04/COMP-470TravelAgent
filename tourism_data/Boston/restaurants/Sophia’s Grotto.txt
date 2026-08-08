@@ -1,0 +1,25 @@
+Name: Sophia’s Grotto
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 22r Birch Street, Boston MA 02131
+Description: Nestled in the courtyard in Roslindale Village, Sophia's Grotto awaits your discovery. Upon entering, the aroma of the wood-oven, the warm glowing decor and the delectable Mediterranean dishes will greet you and you will have discovered your "home away from home". Dine Out Boston is August 1 – 15, 2026 See amenity tab for more information.
+Website: https://www.sophiasgrotto.com/
+Phone: +1-617-323-4595
+Email: Not listed
+Opening Hours: Mo-Fr 1630-2130, Sa-su 12:00-2130
+Wheelchair Accessibility: Not listed
+Latitude: 42.2866778
+Longitude: -71.1301438
+OpenStreetMap URL: https://www.openstreetmap.org/node/12068389265
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12068389265
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

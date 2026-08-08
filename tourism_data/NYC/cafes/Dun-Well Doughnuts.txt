@@ -1,0 +1,25 @@
+Name: Dun-Well Doughnuts
+City: NYC
+Category: cafes
+Cuisine: donut
+Address: 222 Montrose Avenue, Brooklyn 11206
+Description: Not listed
+Website: https://www.dunwelldoughnuts.com/
+Phone: +1-347-294-0871
+Email: Not listed
+Opening Hours: Mo-Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7074571
+Longitude: -73.9402479
+OpenStreetMap URL: https://www.openstreetmap.org/node/3061926346
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3061926346
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

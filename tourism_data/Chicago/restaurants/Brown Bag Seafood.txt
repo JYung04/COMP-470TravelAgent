@@ -1,0 +1,25 @@
+Name: Brown Bag Seafood
+City: Chicago
+Category: restaurants
+Cuisine: seafood
+Address: 340 Upper East Randolph Street Chicago IL 60601
+Description: Not listed
+Website: https://www.brownbagseafood.com/home/
+Phone: +1-312-496-3999
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8783761
+Longitude: -87.6357615
+OpenStreetMap URL: https://www.openstreetmap.org/node/9294100630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9294100630
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: La Piazza Pizzeria & Restaurant
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 1445 Richmond Avenue, Staten Island NY 10314
+Description: Not listed
+Website: https://www.lapiazzasi.com/
+Phone: +1 718-370-0707
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6118549
+Longitude: -74.1576239
+OpenStreetMap URL: https://www.openstreetmap.org/node/5148767289
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5148767289
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

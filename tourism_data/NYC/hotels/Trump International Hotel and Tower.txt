@@ -1,0 +1,25 @@
+Name: Trump International Hotel and Tower
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 1 Central Park West, New York NY 10023
+Description: The Trump International Hotel and Tower, originally the Gulf and Western Building, is a high-rise building at 15 Columbus Circle and 1 Central Park West on the Upper West Side of Manhattan, New York City. It was originally designed by Thomas E. Stanley as an office building and completed in 1970 as the headquarters of Gulf and Western Industries. In the mid-1990s, a joint venture composed of the General Electric Pension Fund, Galbreath Company, and developer Donald Trump renovated the building into a hotel and residential tower. The renovation was designed by Philip Johnson and Costas Kondylis.
+Website: https://www.trumphotelcollection.com/central-park/
+Phone: +1 212-299-1000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7691208
+Longitude: -73.9815441
+OpenStreetMap URL: https://www.openstreetmap.org/way/150520452
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/150520452
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

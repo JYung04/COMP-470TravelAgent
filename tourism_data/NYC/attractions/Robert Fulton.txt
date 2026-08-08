@@ -1,0 +1,25 @@
+Name: Robert Fulton
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Created in 1872 by Bhonemian artist Caspar Buberl. It was moved to this location in 1930. It was restored in 1935 and and the corroded zinc original was replaced by a bronze replica in 1955.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6797609
+Longitude: -73.9328794
+OpenStreetMap URL: https://www.openstreetmap.org/node/12136647648
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12136647648
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing; art

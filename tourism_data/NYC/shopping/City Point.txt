@@ -1,0 +1,25 @@
+Name: City Point
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 445 Albee Square West, 11201
+Description: Not listed
+Website: https://citypointbrooklyn.com
+Phone: +1-718-673-8800
+Email: Not listed
+Opening Hours: Mo-Su 07:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 40.6908837
+Longitude: -73.982907
+OpenStreetMap URL: https://www.openstreetmap.org/way/1144377891
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1144377891
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,25 @@
+Name: The Tuscan Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 1000 Richmond Terrace, Staten Island NY 10301
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 40.6419504
+Longitude: -74.1012835
+OpenStreetMap URL: https://www.openstreetmap.org/way/1441540391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1441540391
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

@@ -1,0 +1,25 @@
+Name: Make My Cake
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 2380 Adam Clayton Powell Jr. Boulevard, New York 10030
+Description: Not listed
+Website: http://www.makemycake.com/
+Phone: +1 212 2342344
+Email: Not listed
+Opening Hours: Mo 08:00-18:00; Tu-Fr 08:00-19:00; Sa 09:00-19:00; Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8180893
+Longitude: -73.9420069
+OpenStreetMap URL: https://www.openstreetmap.org/node/6511912113
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6511912113
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

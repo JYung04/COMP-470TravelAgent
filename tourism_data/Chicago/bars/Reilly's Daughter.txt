@@ -1,0 +1,24 @@
+Name: Reilly's Daughter
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: Central Market (MDW Airport), Chicago, IL 60638
+Description: Not listed
+Website: http://reillysdaughter.com
+Phone: (773) 838-1496
+Email: Not listed
+Opening Hours: 05:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 41.788139
+Longitude: -87.7421309
+OpenStreetMap URL: https://www.openstreetmap.org/way/1295101065
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1295101065
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: GAMBA Forest
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 630 Humboldt Street
+Description: GAMBA Forest is a multi-purpose art space that houses a gallery, a literary lounge, a design shop and a recording studio for all things indie.
+Website: https://gambazine.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7234078
+Longitude: -73.94493
+OpenStreetMap URL: https://www.openstreetmap.org/node/6590113931
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6590113931
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

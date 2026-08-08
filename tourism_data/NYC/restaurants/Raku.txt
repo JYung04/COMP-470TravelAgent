@@ -1,0 +1,24 @@
+Name: Raku
+City: NYC
+Category: restaurants
+Cuisine: japanese, sushi
+Address: Not listed
+Description: Not listed
+Website: https://rakujapanese.com
+Phone: +1-212-355-3272
+Email: Not listed
+Opening Hours: Mo-Tu 10:00-22:00, We-Fr 10:00-23:00, Sa-Su 11:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7566827
+Longitude: -73.9692284
+OpenStreetMap URL: https://www.openstreetmap.org/node/12917611586
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12917611586
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

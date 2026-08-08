@@ -1,0 +1,24 @@
+Name: Harry Caray's Italian Steakhouse
+City: Chicago
+Category: restaurants
+Cuisine: steak_house, steak, italian
+Address: 33 West Kinzie Street, Chicago IL 60654
+Description: The Chicago Varnish Company Building is a building built in 1895 as the headquarters of one of the leading varnish manufacturers in the United States, the Chicago Varnish Company. The building is a rare example of Dutch Renaissance Revival-style architecture in Chicago, and is marked by a steeply pitched roof paired with stepped gables of red brick and light stone in contrasting colors. The building was designed by Henry Ives Cobb, a nationally recognized architect whose other significant works include the former Chicago Historical Society Building, the Newberry Library, and the original buildings for the University of Chicago campus. The building was listed on the National Register of Historic Places on June 14, 2001, and was designated a Chicago Landmark.
+Website: https://www.harrycarays.com/
+Phone: +1-312-828-0966
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:30; Fr-Sa 11:30-23:00; Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8890171
+Longitude: -87.6292767
+OpenStreetMap URL: https://www.openstreetmap.org/way/153320976
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/153320976
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; architecture; art

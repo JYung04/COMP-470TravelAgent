@@ -1,0 +1,25 @@
+Name: Talon Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 220 Wyckoff Avenue
+Description: Not listed
+Website: https://www.talonbar.com/
+Phone: +1-718-366-3192
+Email: Not listed
+Opening Hours: Su 13:00-02:00; Mo-Th 16:00-02:00; Fr 16:00-04:00; Sa 13:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.701142
+Longitude: -73.9143303
+OpenStreetMap URL: https://www.openstreetmap.org/node/5367390412
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5367390412
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

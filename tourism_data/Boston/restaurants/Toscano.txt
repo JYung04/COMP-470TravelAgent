@@ -1,0 +1,24 @@
+Name: Toscano
+City: Boston
+Category: restaurants
+Cuisine: italian, wine, seafood
+Address: 47 Charles Street, Boston MA 02114
+Description: Toscano is a Tuscan-style restaurant in the heart of Beacon Hill, serving lunch and dinner with private dining available, offering a warm European ambiance and authentic, traditional Tuscan cuisine.
+Website: https://www.toscanoboston.com/beacon-hill/
+Phone: +1-617-723-4090
+Email: richard@toscanoboston.com
+Opening Hours: Mo-Fr 16:30-21:30; Sa,Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3574284
+Longitude: -71.0699156
+OpenStreetMap URL: https://www.openstreetmap.org/node/4630751455
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4630751455
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

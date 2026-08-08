@@ -1,0 +1,25 @@
+Name: The Escape Game
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 8145 International Drive, Orlando FL 32819
+Description: Located in the heart of I-Drive, and rated as Orlando’s No. 1 escape room by TripAdvisor, The Escape Game offers immersive, 60-minute adventures that bring epic stories to life in a one-of-a-kind tactile experience. You and your team will work together to find clues, overcome challenges and ultimately complete a mission. Escaping will require teamwork, communication, wits, a sense of adventure and most importantly: you.
+Website: https://theescapegame.com/orlando/
+Phone: +1 407 501 7222
+Email: Not listed
+Opening Hours: 08:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4481663
+Longitude: -81.4705292
+OpenStreetMap URL: https://www.openstreetmap.org/node/4093977086
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4093977086
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

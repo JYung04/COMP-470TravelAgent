@@ -1,0 +1,25 @@
+Name: Tori Tori
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: 720 North Mills Avenue, Orlando FL 32803
+Description: Not listed
+Website: https://toritoripub.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 17:00-01:00; Fr-Sa 17:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 28.554048
+Longitude: -81.3647861
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455406781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11455406781
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

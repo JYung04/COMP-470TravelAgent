@@ -1,0 +1,25 @@
+Name: Seawalk Restaurant
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 261 Dyckman Street
+Description: Contemporary seafood restaurant serving modern cuisine in a chic nautical setting with an extensive selection of wine and beer, plus a full bar.
+Website: http://seawalkrestaurant.com/
+Phone: +1-212-568-9014
+Email: info@seawalkrestaurant.com
+Opening Hours: Mo-We, Su 12:00-00:00; Th-Sa 12:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 40.8666758
+Longitude: -73.9283593
+OpenStreetMap URL: https://www.openstreetmap.org/node/5711614094
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5711614094
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: World War II Memorial
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: 1964 Independence Avenue Southwest, Washington DC 20227
+Description: Not listed
+Website: https://www.nps.gov/wwii/index.htm
+Phone: +1 800-639-4992
+Email: WWII.CustomerService@Oaktreesys.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8893949
+Longitude: -77.0403098
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418767
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66418767
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

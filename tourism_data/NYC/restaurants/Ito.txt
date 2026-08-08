@@ -1,0 +1,25 @@
+Name: Ito
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 75 Barclay Street, New York NY 10007
+Description: Not listed
+Website: https://itotribeca.com/
+Phone: Not listed
+Email: info@itotribeca.com
+Opening Hours: Tu-Sa 18:00-20:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.7130439
+Longitude: -74.01008
+OpenStreetMap URL: https://www.openstreetmap.org/node/10619086494
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10619086494
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hillstone Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: 215 S Orlando Ave, Winter Park, FL 32789, United States
+Description: Not listed
+Website: http://hillstonerestaurant.com/locations/winterpark/
+Phone: +1 407-740-4005
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.596952
+Longitude: -81.3659238
+OpenStreetMap URL: https://www.openstreetmap.org/way/670458546
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/670458546
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Pilgrim Fathers
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Pilgrim Fathers Memorial is located on the north bank of The Haven at the site of the former Scotia Creek, Fishtoft, seaward of Boston in Lincolnshire, England, and consists of a small granite obelisk mounted on a granite block. It commemorates the attempt at finding religious freedom in September, 1607 by the Scrooby Congregation, a group of English Separatist Protestants who left for Holland. They were precursors of the Pilgrims who later crossed the Atlantic to New England.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9418857
+Longitude: 0.023699
+OpenStreetMap URL: https://www.openstreetmap.org/node/3596693100
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3596693100
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

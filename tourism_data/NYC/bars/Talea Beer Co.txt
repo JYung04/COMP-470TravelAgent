@@ -1,0 +1,25 @@
+Name: Talea Beer Co.
+City: NYC
+Category: bars
+Cuisine: snack
+Address: Not listed
+Description: Not listed
+Website: https://www.taleabeer.com/location/talea-cobble-hill/
+Phone: +1-716-466-2126
+Email: Not listed
+Opening Hours: Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6870564
+Longitude: -73.9909226
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575097893
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575097893
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

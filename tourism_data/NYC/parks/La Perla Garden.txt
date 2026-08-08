@@ -1,0 +1,25 @@
+Name: La Perla Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: http://www.manhattanlandtrust.org/our-gardens/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7982215
+Longitude: -73.9631431
+OpenStreetMap URL: https://www.openstreetmap.org/way/1298851327
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1298851327
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

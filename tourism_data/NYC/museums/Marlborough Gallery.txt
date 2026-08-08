@@ -1,0 +1,25 @@
+Name: Marlborough Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 545 West 25th Street, New York NY 10001
+Description: Marlborough Fine Art was founded in London in 1946 by Frank Lloyd and Harry Fischer. In 1963, a gallery was opened as Marlborough-Gerson in Manhattan, New York, at the Fuller Building on Madison Avenue and 57th Street, which later relocated in 1971 to its present location, 40 West 57th Street. The gallery operates another New York space on West 25th Street, which opened in 2007. It briefly opened a Lower East Side space on Broome Street, and later spaces in Madrid and Barcelona.
+Website: https://www.marlboroughnewyork.com
+Phone: +1-212-541-4900
+Email: mny@marlboroughgallery.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7498665
+Longitude: -74.005004
+OpenStreetMap URL: https://www.openstreetmap.org/node/10859974146
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10859974146
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

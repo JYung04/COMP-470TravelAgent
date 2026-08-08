@@ -1,0 +1,25 @@
+Name: Cape May Cafe
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: Not listed
+Description: Join Minnie Mouse and friends dressed in their coastal best at this relaxed New England-style eatery with a delectable breakfast buffet. Enjoy a spread of flavorful breakfast favorites like Mickey Mouse waffles, scrambled eggs, cheddar biscuits and gravy, salted caramel “beach buns” and more, and snap photos with Minnie Mouse, Goofy, Daisy Duck and Donald Duck in outfits exclusive to Cape May Cafe. Soak up this seaside character dining experience at Disney’s Beach Club Resort .
+Website: https://disneyworld.disney.go.com/dining/beach-club-resort/cape-may-cafe/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3710528
+Longitude: -81.5568041
+OpenStreetMap URL: https://www.openstreetmap.org/node/2988671384
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2988671384
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

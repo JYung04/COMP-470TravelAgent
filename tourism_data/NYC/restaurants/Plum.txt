@@ -1,0 +1,25 @@
+Name: Plum
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 210 West 94th Street, New York NY 10025
+Description: Not listed
+Website: https://plumny.com/
+Phone: +1-646-884-4289
+Email: Not listed
+Opening Hours: Mo-Su 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7930112
+Longitude: -73.9722352
+OpenStreetMap URL: https://www.openstreetmap.org/node/2535746202
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2535746202
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

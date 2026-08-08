@@ -1,0 +1,25 @@
+Name: Leyla
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 108 West 74th Street, New York NY 10023
+Description: Not listed
+Website: https://www.leylanyc.com
+Phone: +1-347-334-7939
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7788358
+Longitude: -73.9783508
+OpenStreetMap URL: https://www.openstreetmap.org/node/11948944397
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11948944397
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

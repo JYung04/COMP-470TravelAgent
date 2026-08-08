@@ -1,0 +1,25 @@
+Name: Madras Dosa Company
+City: Boston
+Category: restaurants
+Cuisine: indian
+Address: 55 Boston Wharf Road, 02210
+Description: Not listed
+Website: https://madrasdosaco.com/
+Phone: +1-857-233-5188
+Email: hello@madrasdosaco.com
+Opening Hours: Su-Th 11:00-02:00; Fr-Sa 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3513142
+Longitude: -71.0456374
+OpenStreetMap URL: https://www.openstreetmap.org/node/12451713601
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12451713601
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

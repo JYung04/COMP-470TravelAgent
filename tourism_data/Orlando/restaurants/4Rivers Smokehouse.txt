@@ -1,0 +1,24 @@
+Name: 4Rivers Smokehouse
+City: Orlando
+Category: restaurants
+Cuisine: regional, barbecue
+Address: Not listed
+Description: Texas-style BBQ in a Christian environment.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3391755
+Longitude: -81.4112005
+OpenStreetMap URL: https://www.openstreetmap.org/node/6316876986
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6316876986
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: P.J. Moran's
+City: NYC
+Category: bars
+Cuisine: irish
+Address: 3 East 48th Street, New York NY 10017
+Description: Not listed
+Website: https://www.pjmorans.com/
+Phone: +1 212-753-6444
+Email: Not listed
+Opening Hours: Mo-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7571671
+Longitude: -73.9775351
+OpenStreetMap URL: https://www.openstreetmap.org/node/3116410275
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3116410275
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

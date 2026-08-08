@@ -1,0 +1,25 @@
+Name: Ay Kebab
+City: NYC
+Category: restaurants
+Cuisine: turkish
+Address: 8602 4th Avenue, 11209
+Description: Not listed
+Website: Not listed
+Phone: +1 718 491 1300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6227094
+Longitude: -74.0286001
+OpenStreetMap URL: https://www.openstreetmap.org/node/2552604088
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2552604088
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

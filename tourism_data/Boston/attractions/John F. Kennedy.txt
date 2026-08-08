@@ -1,0 +1,25 @@
+Name: John F. Kennedy
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: A statue of John F. Kennedy by Isabel McIlvain is installed outside the Massachusetts State House in Boston, Massachusetts, United States.
+Website: https://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=ariall&source=~!siartinventories&uri=full=3100001~!333467~!0#focus
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3579714
+Longitude: -71.0641217
+OpenStreetMap URL: https://www.openstreetmap.org/node/7619024094
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7619024094
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

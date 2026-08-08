@@ -1,0 +1,25 @@
+Name: Met Cafe
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 1725 F Street Northwest, Washington DC 20006
+Description: Not listed
+Website: http://www.metcafedc.com
+Phone: +1 202-962-0250
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8975533
+Longitude: -77.0407728
+OpenStreetMap URL: https://www.openstreetmap.org/node/801352530
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/801352530
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

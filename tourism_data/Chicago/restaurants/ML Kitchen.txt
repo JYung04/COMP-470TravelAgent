@@ -1,0 +1,25 @@
+Name: ML Kitchen
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 1138 West Taylor Street, Chicago IL 60607
+Description: Not listed
+Website: https://mleats.com/
+Phone: +-1-312-631-3793
+Email: Not listed
+Opening Hours: Mo,We-Su 11:00-22:00
+Wheelchair Accessibility: no
+Latitude: 41.8696012
+Longitude: -87.6557887
+OpenStreetMap URL: https://www.openstreetmap.org/node/11999275130
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11999275130
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

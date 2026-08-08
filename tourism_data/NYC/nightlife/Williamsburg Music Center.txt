@@ -1,0 +1,25 @@
+Name: Williamsburg Music Center
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 367 Bedford Avenue, 11211
+Description: Not listed
+Website: https://wmcjazz.com
+Phone: +1-718-384-1654
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7112983
+Longitude: -73.9631927
+OpenStreetMap URL: https://www.openstreetmap.org/node/2839586588
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2839586588
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; music

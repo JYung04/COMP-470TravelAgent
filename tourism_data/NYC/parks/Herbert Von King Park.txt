@@ -1,0 +1,25 @@
+Name: Herbert Von King Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Herbert Von King Park is an urban park in the Bedford–Stuyvesant neighborhood of Brooklyn in New York City. It was one of the first parks established in Brooklyn, from land originally acquired in 1857. The park was originally named Tompkins Park, after former New York governor Daniel D. Tompkins, and was renamed in 1985 in honor of Herbert Von King, a longtime local community organizer who was nicknamed the "mayor of Bedford–Stuyvesant". The park is bounded on the north by Lafayette Avenue, to the east by Tompkins Avenue, to the south by Greene Avenue, and to the west by Marcy Avenue.
+Website: https://www.nycgovparks.org/parks/herbert-von-king-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6896819
+Longitude: -73.9466087
+OpenStreetMap URL: https://www.openstreetmap.org/way/112168175
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/112168175
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Noble Thai
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 1371 West Chicago Avenue, Chicago IL 60642
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8959969
+Longitude: -87.6621632
+OpenStreetMap URL: https://www.openstreetmap.org/node/6324088187
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6324088187
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

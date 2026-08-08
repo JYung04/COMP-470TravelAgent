@@ -1,0 +1,24 @@
+Name: The Bushwick Diner
+City: NYC
+Category: restaurants
+Cuisine: american, coffee, burger, bagel
+Address: 299 Wyckoff Avenue, Brooklyn NY 11237
+Description: Not listed
+Website: http://thebushwickbagelhousebrooklyn.com/
+Phone: +1-718-552-2455
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 40.700512
+Longitude: -73.9126039
+OpenStreetMap URL: https://www.openstreetmap.org/node/5517243775
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5517243775
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

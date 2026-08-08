@@ -1,0 +1,25 @@
+Name: Stony Brook Reservation
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 95 Turtle Pond Parkway
+Description: Stony Brook Reservation is a woodland park in Boston and Dedham, Massachusetts, a unit of the Metropolitan Park System of Greater Boston, part of the state park system of Massachusetts. It was established in 1894 as one of the five original reservations created by the Metropolitan Park Commission. The park is served by the Stony Brook Reservation Parkways, a road system that was entered into the National Register of Historic Places in 2006.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2608854
+Longitude: -71.1391998
+OpenStreetMap URL: https://www.openstreetmap.org/way/29744330
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29744330
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

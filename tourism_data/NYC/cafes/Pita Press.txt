@@ -1,0 +1,25 @@
+Name: Pita Press
+City: NYC
+Category: cafes
+Cuisine: greek
+Address: 25 Cedar Street, New York NY 10038
+Description: Not listed
+Website: https://pitapress.com/
+Phone: +1-212-344-9737
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7070318
+Longitude: -74.0080353
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978558008
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978558008
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Peaches
+City: NYC
+Category: restaurants
+Cuisine: southern
+Address: 393 Lewis Avenue, Brooklyn 11233
+Description: Not listed
+Website: http://peachesbrooklyn.com/
+Phone: +1 718 942-4162
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6818236
+Longitude: -73.9346549
+OpenStreetMap URL: https://www.openstreetmap.org/way/247916261
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/247916261
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

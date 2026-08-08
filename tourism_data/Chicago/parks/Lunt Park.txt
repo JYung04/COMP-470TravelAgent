@@ -1,0 +1,25 @@
+Name: Lunt Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2239 West Lunt Avenue, Chicago IL 60645
+Description: Officially classified as mini-park. Covers approximately 0.2 acres. Facilities include community center.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/lunt-orrington-stephen-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0083984
+Longitude: -87.6875235
+OpenStreetMap URL: https://www.openstreetmap.org/way/182326415
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/182326415
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

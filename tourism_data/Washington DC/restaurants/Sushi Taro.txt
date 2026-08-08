@@ -1,0 +1,25 @@
+Name: Sushi Taro
+City: Washington DC
+Category: restaurants
+Cuisine: sushi
+Address: 1503 17th Street Northwest
+Description: Not listed
+Website: https://www.sushitaro.com/
+Phone: +1-202-462-8999
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.909944
+Longitude: -77.0382421
+OpenStreetMap URL: https://www.openstreetmap.org/node/739339929
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739339929
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

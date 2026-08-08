@@ -1,0 +1,25 @@
+Name: Parla
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 230 Hanover Street, Boston MA 02113
+Description: Take your chances rolling the 20-sided die that this quirky, contemporary Italian tavern offers to guests adventurous enough to accept a random selection from its secret list of numbered cocktails—no matter what you end up with, you won’t be disappointed. That said, if you’d rather know what you’re getting into, there’s plenty of spicy, sweet, and herbal tinctures described on the rotating menus of themed drinks, as well as the option to pair your favorite spirit with a shrub, offered in flavors like pineapple-hibiscus and cucumber-dill. All the tipples are equally excellent for washing down Parla’s modern small plates, which tap into some broader Mediterranean influences: lamb skewers with cucumber labneh and a parsley, vidalia, and sumac salad, for instance.
+Website: https://www.parlaboston.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3632331
+Longitude: -71.0552539
+OpenStreetMap URL: https://www.openstreetmap.org/node/6219962092
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6219962092
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

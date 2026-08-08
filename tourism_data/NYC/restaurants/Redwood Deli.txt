@@ -1,0 +1,25 @@
+Name: Redwood Deli
+City: NYC
+Category: restaurants
+Cuisine: sandwich
+Address: 118-18 Queens Boulevard, 11375
+Description: Not listed
+Website: https://www.redwooddeli.com
+Phone: +1 718-261-9326
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-17:00; Sa 06:00-15:30; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7145106
+Longitude: -73.8319851
+OpenStreetMap URL: https://www.openstreetmap.org/node/7495767705
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7495767705
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

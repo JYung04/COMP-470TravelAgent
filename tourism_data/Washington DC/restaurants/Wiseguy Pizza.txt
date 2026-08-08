@@ -1,0 +1,25 @@
+Name: Wiseguy Pizza
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 1205 19th Street Northwest, Washington DC 20036-2401
+Description: Not listed
+Website: https://www.wiseguypizza.com/
+Phone: +1 954-284-0630
+Email: Not listed
+Opening Hours: Mo-We 10:30-23:00; Th 10:30-24:00; Fr 10:30-03:00; Sa 11:00-03:00; Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9059824
+Longitude: -77.0432315
+OpenStreetMap URL: https://www.openstreetmap.org/node/11848289630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11848289630
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

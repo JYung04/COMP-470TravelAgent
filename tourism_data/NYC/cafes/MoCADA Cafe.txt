@@ -1,0 +1,25 @@
+Name: MoCADA Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 10 Lafayette Avenue, Brooklyn 11217
+Description: Not listed
+Website: https://mocada.org/#tab-mocada-cafe-l10-942
+Phone: Not listed
+Email: Not listed
+Opening Hours: Fr-Sa 12:00-19:30; Su 12:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6863918
+Longitude: -73.9784444
+OpenStreetMap URL: https://www.openstreetmap.org/node/13695739589
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13695739589
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

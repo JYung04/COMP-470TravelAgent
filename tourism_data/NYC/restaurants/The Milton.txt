@@ -1,0 +1,24 @@
+Name: The Milton
+City: NYC
+Category: restaurants
+Cuisine: british, american, irish
+Address: 1754 2nd Avenue, New York NY 10128
+Description: Not listed
+Website: http://themiltonnyc.com
+Phone: +1 212-369-1900
+Email: info@themiltonnyc.com
+Opening Hours: Mo-Fr 12:00-04:00; Sa, Su 11:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.781267
+Longitude: -73.9490461
+OpenStreetMap URL: https://www.openstreetmap.org/node/5599232076
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5599232076
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

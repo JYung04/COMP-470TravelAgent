@@ -1,0 +1,25 @@
+Name: Jewish Childrens Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 792 Eastern Parkway, 11213
+Description: Not listed
+Website: https://www.jcm.museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6688925
+Longitude: -73.9419611
+OpenStreetMap URL: https://www.openstreetmap.org/way/250220500
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250220500
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; families

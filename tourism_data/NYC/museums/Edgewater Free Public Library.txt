@@ -1,0 +1,25 @@
+Name: Edgewater Free Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 49 Hudson Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-We 10:00-21:00; Th-Fr 10:00-18:00; Sa 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8297761
+Longitude: -73.9743087
+OpenStreetMap URL: https://www.openstreetmap.org/node/1752676614
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1752676614
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

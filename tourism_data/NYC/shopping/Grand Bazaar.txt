@@ -1,0 +1,25 @@
+Name: Grand Bazaar
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 100 West 77th Street, New York NY 10024
+Description: Not listed
+Website: https://grandbazaarnyc.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7804227
+Longitude: -73.9770351
+OpenStreetMap URL: https://www.openstreetmap.org/node/5163436611
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5163436611
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

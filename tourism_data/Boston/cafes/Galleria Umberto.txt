@@ -1,0 +1,25 @@
+Name: Galleria Umberto
+City: Boston
+Category: cafes
+Cuisine: pizza
+Address: 289 Hanover St
+Description: From appearances, you wouldn’t know there’s anything special about this nondescript North End pizzeria: The cash-only operation kind of looks like a cafeteria, has no website, offers only a few items, and closes once everything sells out (usually by mid-afternoon). But anyone who has ever tasted the decades-spanning institution’s perfect, doughy-delicious Sicilian slices knows that even in a historic neighborhood flush with competition, these are truly landmark squares. 289 Hanover St., North End, Boston, 617-227-5709. La Famiglia Giorgio’s. / Photograph by Nina Gallant
+Website: Not listed
+Phone: 617-227-5709
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3636985
+Longitude: -71.0543744
+OpenStreetMap URL: https://www.openstreetmap.org/node/3937039206
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3937039206
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

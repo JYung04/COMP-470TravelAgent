@@ -1,0 +1,25 @@
+Name: SoCo
+City: NYC
+Category: restaurants
+Cuisine: southern
+Address: 509 Myrtle Avenue
+Description: Not listed
+Website: https://socobklyn.com
+Phone: +1-718-783-1936
+Email: Not listed
+Opening Hours: Tu-Th 12:00-16:00,17:00-22:00, Fr-Sa 12:00-16:00,17:00-23:00, Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6937269
+Longitude: -73.9644988
+OpenStreetMap URL: https://www.openstreetmap.org/node/5206200737
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5206200737
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

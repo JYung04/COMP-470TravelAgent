@@ -1,0 +1,25 @@
+Name: Salvatore's Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 124 Shore Rd, Port Washington, NY 11050, United States
+Description: Not listed
+Website: http://salvatorescoalovenpizzeria.com/
+Phone: +1 516-883-8457
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8416084
+Longitude: -73.7070296
+OpenStreetMap URL: https://www.openstreetmap.org/node/11371157543
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11371157543
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

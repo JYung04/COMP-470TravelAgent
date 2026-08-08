@@ -1,0 +1,25 @@
+Name: Chelsea international hostel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 251 West 20th Street, 10011
+Description: Not listed
+Website: https://www.chelseahostel.com/
+Phone: +1-212-647-0010
+Email: reservations@chelseahostel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7432235
+Longitude: -73.9990189
+OpenStreetMap URL: https://www.openstreetmap.org/node/4596542825
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4596542825
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

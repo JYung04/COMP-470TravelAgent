@@ -1,0 +1,25 @@
+Name: Cafe el Puente
+City: NYC
+Category: restaurants
+Cuisine: latin_american
+Address: 231 South 4th Street, Brooklyn NY 11211
+Description: Not listed
+Website: Not listed
+Phone: +1 718 388-2416
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7105003
+Longitude: -73.9588041
+OpenStreetMap URL: https://www.openstreetmap.org/node/4320078395
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4320078395
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hampton Inn Orlando/Lake Buena Vista
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8150 Palm Parkway, Orlando FL 32836
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/mcolvhx-hampton-orlando-lake-buena-vista/
+Phone: +1 407-465-8150
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3900347
+Longitude: -81.4960726
+OpenStreetMap URL: https://www.openstreetmap.org/way/840698710
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/840698710
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

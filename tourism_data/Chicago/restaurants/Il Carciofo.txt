@@ -1,0 +1,25 @@
+Name: Il Carciofo
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 1045 West Fulton Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.ilcarciofochicago.com/
+Phone: +1-872-274-5862
+Email: Not listed
+Opening Hours: Su-Th 16:30-22:00; Fr-Sa 16:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8865381
+Longitude: -87.6542837
+OpenStreetMap URL: https://www.openstreetmap.org/node/12660991130
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12660991130
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

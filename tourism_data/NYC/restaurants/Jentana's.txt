@@ -1,0 +1,25 @@
+Name: Jentana's
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: Fort Hamilton Parkway
+Description: Not listed
+Website: https://www.jentanaspizza.com/
+Phone: +1-718-871-4050
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6374442
+Longitude: -73.9993534
+OpenStreetMap URL: https://www.openstreetmap.org/node/5747117629
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5747117629
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

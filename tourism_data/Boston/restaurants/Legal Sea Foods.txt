@@ -1,0 +1,25 @@
+Name: Legal Sea Foods
+City: Boston
+Category: restaurants
+Cuisine: seafood
+Address: 1 Harborside Drive, Boston MA 02128
+Description: Best of Boston winner, 1998 , 2010 , 2011 , 2017 , 2021 , 2024 , and 2025 Thick and richly flavored with salt pork and herbs, this perennial favorite is as delicious as it is iconic. The recipe developed in Cambridge has been on the seafood company’s menus since 1981. It’s ladled into cups at Fenway Park, and it was served at six consecutive presidential inaugurations . Multiple locations, legalseafoods.com .
+Website: https://www.legalseafoods.com/restaurants/boston-logan-airport-terminal-e-447
+Phone: +16174758785
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3708752
+Longitude: -71.0205461
+OpenStreetMap URL: https://www.openstreetmap.org/node/5046894204
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5046894204
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

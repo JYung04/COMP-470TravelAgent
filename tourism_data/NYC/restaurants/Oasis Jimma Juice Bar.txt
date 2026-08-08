@@ -1,0 +1,24 @@
+Name: Oasis Jimma Juice Bar
+City: NYC
+Category: restaurants
+Cuisine: juice, smoothie
+Address: 3163 Broadway, New York NY 10027
+Description: Not listed
+Website: Not listed
+Phone: +12019364432
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8149795
+Longitude: -73.9591551
+OpenStreetMap URL: https://www.openstreetmap.org/node/9509211693
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9509211693
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

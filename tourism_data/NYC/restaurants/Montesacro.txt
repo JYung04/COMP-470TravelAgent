@@ -1,0 +1,24 @@
+Name: Montesacro
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: Not listed
+Description: Not listed
+Website: https://montesacro.com
+Phone: +1-347-916-1062
+Email: Not listed
+Opening Hours: Mo-Th 12:00-15:30,17:00-21:30; Fr 12:00-15:30,17:00-22:00; Sa 11:00-15:30,17:00-22:00; Su 11:00-15:30,17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7133696
+Longitude: -73.9513545
+OpenStreetMap URL: https://www.openstreetmap.org/node/10968324911
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10968324911
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

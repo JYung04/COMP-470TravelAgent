@@ -1,0 +1,24 @@
+Name: Sunshine Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 21-76 21st Street, Astoria NY 11105
+Description: Not listed
+Website: Not listed
+Phone: +1 718 255 1206
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7807046
+Longitude: -73.9167888
+OpenStreetMap URL: https://www.openstreetmap.org/node/13631119409
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13631119409
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

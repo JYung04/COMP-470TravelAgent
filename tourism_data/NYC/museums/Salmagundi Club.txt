@@ -1,0 +1,25 @@
+Name: Salmagundi Club
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 47 5 AVENUE
+Description: The Salmagundi Club, sometimes referred to as the Salmagundi Art Club, is a fine arts center founded in 1871 in the Greenwich Village section of Manhattan, New York City. Since 1917, it has been located at 47 Fifth Avenue. As of 2021, its membership roster totaled roughly 1,250 members.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7343016
+Longitude: -73.9945529
+OpenStreetMap URL: https://www.openstreetmap.org/node/4319632990
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4319632990
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

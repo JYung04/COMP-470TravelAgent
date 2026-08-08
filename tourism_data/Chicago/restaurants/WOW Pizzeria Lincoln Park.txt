@@ -1,0 +1,25 @@
+Name: WOW Pizzeria Lincoln Park
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 2557 North Halsted Street, Chicago IL 60614
+Description: Not listed
+Website: https://www.wowpizzeriachicago.com/il/chicago/60614/wow-pizza-chicago
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9289805
+Longitude: -87.6487489
+OpenStreetMap URL: https://www.openstreetmap.org/node/11244979497
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11244979497
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Unconventional Diner
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1207 9th Street Northwest, Washington DC 20001
+Description: Forget everything you think you know about diners. As the 2026 RAMMY Award winner for Best Brunch , Unconventional Diner elevates American comfort food with creative twists, from sweet potato shakshuka and Caribbean-inspired shrimp and grits to wagyu cheeseburgers and fried chicken and waffles. The Shaw favorite has also earned a spot on the Michelin Guide's Bib Gourmand list every year since 2018, making it just as worthy of a leisurely brunch as an all-day meal.
+Website: https://www.unconventionaldiner.com/
+Phone: +1 202-847-0122
+Email: hello@eatunconventional.com
+Opening Hours: Mo-Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9062642
+Longitude: -77.0237092
+OpenStreetMap URL: https://www.openstreetmap.org/node/5471097623
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5471097623
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

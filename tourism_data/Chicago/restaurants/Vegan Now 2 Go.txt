@@ -1,0 +1,25 @@
+Name: Vegan Now 2 Go
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1536 East 75th Street, Chicago IL
+Description: Not listed
+Website: https://www.vegannow2go.com
+Phone: +1-773-891-1433
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7589846
+Longitude: -87.5868867
+OpenStreetMap URL: https://www.openstreetmap.org/node/11433520944
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11433520944
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

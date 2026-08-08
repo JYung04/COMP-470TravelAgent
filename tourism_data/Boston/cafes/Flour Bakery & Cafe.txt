@@ -1,0 +1,25 @@
+Name: Flour Bakery & Cafe
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 30 Dalton Street, Boston MA 02115
+Description: Not listed
+Website: https://flourbakery.com/
+Phone: +1-857-233-2255
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3459617
+Longitude: -71.0846119
+OpenStreetMap URL: https://www.openstreetmap.org/node/7597407134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7597407134
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

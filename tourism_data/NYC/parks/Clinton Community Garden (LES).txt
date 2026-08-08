@@ -1,0 +1,25 @@
+Name: Clinton Community Garden (LES)
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 171 Stanton Street, New York NY 10002
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Apr-Oct
+Wheelchair Accessibility: Not listed
+Latitude: 40.720001
+Longitude: -73.9844546
+OpenStreetMap URL: https://www.openstreetmap.org/way/1018683271
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1018683271
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

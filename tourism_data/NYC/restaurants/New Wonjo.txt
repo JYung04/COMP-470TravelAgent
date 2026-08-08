@@ -1,0 +1,25 @@
+Name: New Wonjo
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 23 West 32nd Street, 10001
+Description: Not listed
+Website: https://newwonjo.com/
+Phone: +1 212-695-5815
+Email: newwonjo@gmail.com
+Opening Hours: 24/7
+Wheelchair Accessibility: limited
+Latitude: 40.7477885
+Longitude: -73.9867366
+OpenStreetMap URL: https://www.openstreetmap.org/node/6064439585
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6064439585
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

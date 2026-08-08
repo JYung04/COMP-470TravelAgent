@@ -1,0 +1,25 @@
+Name: Chuck's LLC
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 2718 Georgia Avenue Northwest
+Description: Not listed
+Website: Not listed
+Phone: +1 202-741-0401
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9256514
+Longitude: -77.0229694
+OpenStreetMap URL: https://www.openstreetmap.org/node/11404402482
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11404402482
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

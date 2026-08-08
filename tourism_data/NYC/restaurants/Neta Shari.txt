@@ -1,0 +1,25 @@
+Name: Neta Shari
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 1718 86th Street
+Description: Not listed
+Website: https://www.netashari.nyc/
+Phone: +1 347-210-8438
+Email: info@netashari.nyc
+Opening Hours: Mo-Tu off; We-Th,Su 16:30-21:30; Fr-Sa 16:30-22:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.6081692
+Longitude: -74.0044434
+OpenStreetMap URL: https://www.openstreetmap.org/node/10213668654
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10213668654
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

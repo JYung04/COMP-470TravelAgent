@@ -1,0 +1,24 @@
+Name: Clementine Cafe & Bakery
+City: NYC
+Category: cafes
+Cuisine: sandwich, coffee_shop, ice_cream
+Address: 395 Classon Avenue, 11238
+Description: Not listed
+Website: https://clementinebakery.com/
+Phone: +1-713-483-8788
+Email: info@clementinebakery.com
+Opening Hours: Mo-Fr 08:00-17:00; Sa-Su 09:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6875468
+Longitude: -73.9595811
+OpenStreetMap URL: https://www.openstreetmap.org/node/2568120017
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2568120017
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

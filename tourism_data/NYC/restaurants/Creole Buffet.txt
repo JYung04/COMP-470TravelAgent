@@ -1,0 +1,25 @@
+Name: Creole Buffet
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 127 Hempstead Turnpike, Elmont NY 11003
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7091434
+Longitude: -73.7223007
+OpenStreetMap URL: https://www.openstreetmap.org/node/6997330308
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6997330308
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

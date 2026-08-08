@@ -1,0 +1,25 @@
+Name: DeCarlo's Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 4000 Cathedral Avenue Northwest, Washington DC 20016
+Description: Not listed
+Website: https://www.decarlosrestaurant.com/
+Phone: +1 202-363-4220
+Email: decarlosrestaurant@outlook.com
+Opening Hours: Mo-Su 11:00-14:30; Mo-Sa 17:00-22:00; Su 17:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9280801
+Longitude: -77.0798854
+OpenStreetMap URL: https://www.openstreetmap.org/node/12407235441
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12407235441
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

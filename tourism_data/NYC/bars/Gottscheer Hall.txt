@@ -1,0 +1,24 @@
+Name: Gottscheer Hall
+City: NYC
+Category: bars
+Cuisine: coffee, german
+Address: 657 Fairview Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: https://www.gottscheerhall.com/
+Phone: +1-718-366-3030
+Email: info@gottscheerhall.com
+Opening Hours: Mo-Su 13:00-04:00
+Wheelchair Accessibility: no
+Latitude: 40.7068011
+Longitude: -73.9056815
+OpenStreetMap URL: https://www.openstreetmap.org/node/2568876406
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2568876406
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

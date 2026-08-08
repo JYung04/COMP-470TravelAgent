@@ -1,0 +1,25 @@
+Name: Gee's Caribbean Restaurant
+City: NYC
+Category: restaurants
+Cuisine: caribbean
+Address: 770 Nostrand Avenue, Brooklyn NY 11216
+Description: Not listed
+Website: https://rotibrooklyn.com
+Phone: +1-347-830-7897
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:00; Sa 11:00-22:00; Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6722793
+Longitude: -73.9504213
+OpenStreetMap URL: https://www.openstreetmap.org/node/9546812464
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9546812464
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

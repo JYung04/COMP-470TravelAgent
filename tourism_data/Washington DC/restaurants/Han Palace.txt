@@ -1,0 +1,24 @@
+Name: Han Palace
+City: Washington DC
+Category: restaurants
+Cuisine: chinese, dim_sum
+Address: 1728 Wisconsin Avenue Northwest, 20007
+Description: Not listed
+Website: https://www.hanpalacedc.com/
+Phone: +1-202-355-6725
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-22:00; Sa-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9144374
+Longitude: -77.0672393
+OpenStreetMap URL: https://www.openstreetmap.org/node/11727400437
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11727400437
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

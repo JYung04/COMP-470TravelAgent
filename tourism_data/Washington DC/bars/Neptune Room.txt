@@ -1,0 +1,25 @@
+Name: Neptune Room
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 5405 Georgia Avenue Northwest, Washington DC 20011-3909
+Description: Not listed
+Website: https://linktr.ee/NeptuneroomDC
+Phone: +1 240-731-6757
+Email: Not listed
+Opening Hours: Mo-Su 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9554079
+Longitude: -77.0276401
+OpenStreetMap URL: https://www.openstreetmap.org/way/297531779
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/297531779
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

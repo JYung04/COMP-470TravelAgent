@@ -1,0 +1,25 @@
+Name: Tandoori Hut
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 119-08 94th Avenue, NY 11419
+Description: Not listed
+Website: https://www.tandoorihutqueens.com
+Phone: +1-718-850-8919
+Email: Not listed
+Opening Hours: Mo-Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6937246
+Longitude: -73.8273979
+OpenStreetMap URL: https://www.openstreetmap.org/node/11756646533
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11756646533
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

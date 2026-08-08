@@ -1,0 +1,25 @@
+Name: Terence Cardinal Cooke - Cathedral Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 560 Lexington Avenue, New York 10022
+Description: Not listed
+Website: https://www.nypl.org/locations/cathedral
+Phone: +1 212-752-3824
+Email: Not listed
+Opening Hours: Mo-Th 10:00-18:00; Fr 10:00-17:00
+Wheelchair Accessibility: limited
+Latitude: 40.7568577
+Longitude: -73.9726269
+OpenStreetMap URL: https://www.openstreetmap.org/way/265947377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265947377
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

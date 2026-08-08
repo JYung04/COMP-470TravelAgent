@@ -1,0 +1,25 @@
+Name: Pizzoli's
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 1418 12th Street Northwest
+Description: Not listed
+Website: https://pizzolis.com/
+Phone: +1 202-234-3333
+Email: Not listed
+Opening Hours: Mo-Tu 10:45-23:00; We-Th 10:45-00:00; Fr 10:30-03:00; Sa 11:00-03:00; Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.909143
+Longitude: -77.0282939
+OpenStreetMap URL: https://www.openstreetmap.org/way/66816392
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66816392
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

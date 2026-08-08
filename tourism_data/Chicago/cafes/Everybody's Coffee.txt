@@ -1,0 +1,25 @@
+Name: Everybody's Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 935 West Wilson Avenue, Chicago IL 60640
+Description: Not listed
+Website: https://everybodyscoffee.com/
+Phone: +1-773-303-6220
+Email: Not listed
+Opening Hours: 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9652873
+Longitude: -87.6538143
+OpenStreetMap URL: https://www.openstreetmap.org/node/5900065640
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5900065640
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Cobra Lounge
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 235 North Ashland Avenue, Chicago IL 60607
+Description: The unpretentious Cobra Lounge has showcased regional underground and emerging music talent since opening its doors in 2006. The laidback venue prides itself on its dynamic sound, intimate feel, and welcoming attitude. The space also holds an in-house brewery and serves their beers on tap for concert-goers.
+Website: https://www.cobralounge.com/
+Phone: +1-312-226-6300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8863874
+Longitude: -87.6667991
+OpenStreetMap URL: https://www.openstreetmap.org/node/3240592096
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3240592096
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; music

@@ -1,0 +1,24 @@
+Name: Baymont Inn & Suites Kissimmee
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 4156 W Vine St, Kissimmee, FL 34741
+Description: Not listed
+Website: https://www.wyndhamhotels.com/baymont/kissimmee-florida/baymont-inn-and-suites-kissimmee/overview
+Phone: (407) 994-1900
+Email: kfbaymont@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3029509
+Longitude: -81.4476811
+OpenStreetMap URL: https://www.openstreetmap.org/way/309356632
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/309356632
+Price: Not listed
+Rating: 2.0
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

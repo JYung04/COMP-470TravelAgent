@@ -1,0 +1,25 @@
+Name: Yosaku Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 4712 Wisconsin Avenue Northwest, Washington DC 20016
+Description: Not listed
+Website: https://www.yosakusushi.com/
+Phone: +1-202-363-4453
+Email: yosakurestaurant@gmail.com
+Opening Hours: Mo-Th 11:30-14:30,17:00-22:00; Fr 11:30-22:00; Sa 12:00-23:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9514729
+Longitude: -77.0813473
+OpenStreetMap URL: https://www.openstreetmap.org/node/736998220
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/736998220
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

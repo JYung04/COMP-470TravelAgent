@@ -1,0 +1,24 @@
+Name: September
+City: NYC
+Category: cafes
+Cuisine: breakfast, coffee_shop
+Address: 83 Saratoga Avenue
+Description: Not listed
+Website: https://www.septemberbk.com/
+Phone: +1-347-221-0295
+Email: Not listed
+Opening Hours: Sa, Su 09:00-17:00; Mo-Fr 07:00-16:00
+Wheelchair Accessibility: yes
+Latitude: 40.6839299
+Longitude: -73.9172262
+OpenStreetMap URL: https://www.openstreetmap.org/node/5715379617
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5715379617
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

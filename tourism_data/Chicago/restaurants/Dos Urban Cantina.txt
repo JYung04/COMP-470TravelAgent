@@ -1,0 +1,25 @@
+Name: Dos Urban Cantina
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 2829 West Armitage Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://dosurbancantina.com
+Phone: +1-773-661-6452
+Email: Not listed
+Opening Hours: Tu-Th 17:00-21:00; Fr-Sa 17:00-23:00; Su 17:00-21:00
+Wheelchair Accessibility: no
+Latitude: 41.9173555
+Longitude: -87.6984206
+OpenStreetMap URL: https://www.openstreetmap.org/node/2789537651
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2789537651
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

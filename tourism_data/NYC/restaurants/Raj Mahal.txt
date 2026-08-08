@@ -1,0 +1,25 @@
+Name: Raj Mahal
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 322 East 6th Street, New York NY 10003
+Description: Not listed
+Website: https://www.rajmahalnycity.com/
+Phone: +1-212-982-3632
+Email: Not listed
+Opening Hours: Tu-Th 13:00-01:00, Fr-Su 12:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7268373
+Longitude: -73.9874547
+OpenStreetMap URL: https://www.openstreetmap.org/node/11865385956
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11865385956
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

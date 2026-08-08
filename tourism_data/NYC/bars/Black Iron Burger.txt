@@ -1,0 +1,25 @@
+Name: Black Iron Burger
+City: NYC
+Category: bars
+Cuisine: burger
+Address: 245 West 38th Street, 10018
+Description: Not listed
+Website: https://www.blackironburger.com/location/black-iron-burger-midtown-west/
+Phone: +1-646-476-3116
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-24:00, Sa-Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.754263
+Longitude: -73.990254
+OpenStreetMap URL: https://www.openstreetmap.org/node/5483625196
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5483625196
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

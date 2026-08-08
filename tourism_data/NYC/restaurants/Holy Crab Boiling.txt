@@ -1,0 +1,24 @@
+Name: Holy Crab Boiling
+City: NYC
+Category: restaurants
+Cuisine: cajun, creole, seafood
+Address: 5915 7th Avenue, Brooklyn NY 11220
+Description: Not listed
+Website: https://www.holycrabboiling.com
+Phone: +1-347-889-6663
+Email: Not listed
+Opening Hours: Mo-Su 13:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.636985
+Longitude: -74.0113838
+OpenStreetMap URL: https://www.openstreetmap.org/node/6906966997
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6906966997
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

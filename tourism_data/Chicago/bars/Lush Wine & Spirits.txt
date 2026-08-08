@@ -1,0 +1,25 @@
+Name: Lush Wine & Spirits
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1412 West Chicago Avenue, Chicago IL 60622
+Description: Not listed
+Website: http://www.luswineandspirits.com/
+Phone: +1-312-666-6900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8963372
+Longitude: -87.6629342
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575084296
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575084296
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

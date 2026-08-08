@@ -1,0 +1,25 @@
+Name: Ipoh Kitchen Asian Cuisine
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: Not listed
+Description: Not listed
+Website: https://www.ipohkitchennyc.com
+Phone: +1-718-256-0023
+Email: Not listed
+Opening Hours: Mo-Su 10:30-20:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.6167056
+Longitude: -73.9854672
+OpenStreetMap URL: https://www.openstreetmap.org/node/11687884605
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11687884605
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

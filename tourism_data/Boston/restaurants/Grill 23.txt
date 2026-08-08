@@ -1,0 +1,25 @@
+Name: Grill 23
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: Not listed
+Description: 2016 Best Steakhouse Grill 23 Boston If Boston’s love affair with all things techy and new ever wears you down, remember: Practice makes perfect, and few steakhouses have fed us for [...] read more»
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3494568
+Longitude: -71.0719203
+OpenStreetMap URL: https://www.openstreetmap.org/node/5164129069
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5164129069
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

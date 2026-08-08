@@ -1,0 +1,24 @@
+Name: American Legion Post 398
+City: NYC
+Category: bars
+Cuisine: Community Center
+Address: 248 W 132nd St, New York, NY 10027
+Description: Not listed
+Website: http://www.legion.org
+Phone: (212) 283-9701
+Email: familysupport@legion.org
+Opening Hours: Su 20:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8139532
+Longitude: -73.9467615
+OpenStreetMap URL: https://www.openstreetmap.org/node/5004045121
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5004045121
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

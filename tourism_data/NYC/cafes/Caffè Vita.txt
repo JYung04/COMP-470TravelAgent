@@ -1,0 +1,25 @@
+Name: Caffè Vita
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 124 Ludlow Street, New York NY 10002
+Description: Pacific Northwest chain serving house-roasted coffee in hip, relaxed surroundings.
+Website: https://caffevita.com
+Phone: +1-212-260-8482
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-21:00; Sa-Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7197029
+Longitude: -73.9884286
+OpenStreetMap URL: https://www.openstreetmap.org/node/6233803805
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6233803805
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

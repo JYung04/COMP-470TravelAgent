@@ -1,0 +1,25 @@
+Name: William Lloyd Garrison School
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The William Lloyd Garrison School is a historic school building at 20 Hutchings Street in Boston, Massachusetts. Built in stages between 1910 and 1929 and named for abolitionist William Lloyd Garrison, it is a high-quality example of period school architecture, noted at the time for its state-of-the-art features. It was added to the National Register of Historic Places in 1980, and has since been converted into residences.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3092987
+Longitude: -71.0887554
+OpenStreetMap URL: https://www.openstreetmap.org/way/29944604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29944604
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history; architecture; art

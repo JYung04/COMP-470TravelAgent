@@ -1,0 +1,25 @@
+Name: Regal UA Sheepshead Bay
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 3907 Shore Parkway, Brooklyn NY 11235
+Description: movie theater in Sheepshead Bay, Brooklyn, New York City, United States
+Website: https://www.regmovies.com/theatres/regal-ua-sheepshead-bay-1159
+Phone: +1-844-462-7342
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.5860131
+Longitude: -73.9300278
+OpenStreetMap URL: https://www.openstreetmap.org/way/285139431
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/285139431
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

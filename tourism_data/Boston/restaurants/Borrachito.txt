@@ -1,0 +1,25 @@
+Name: Borrachito
+City: Boston
+Category: restaurants
+Cuisine: mexican
+Address: 70 Pier Four Boulevard, Boston MA 02210
+Description: Not listed
+Website: https://www.borrachito.com/
+Phone: +1-857-277-7232
+Email: borrachitoboston@thegarretgroup.com
+Opening Hours: Mo-Sa 11:00-26:00; Su 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.349845
+Longitude: -71.0435602
+OpenStreetMap URL: https://www.openstreetmap.org/node/13011106324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13011106324
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

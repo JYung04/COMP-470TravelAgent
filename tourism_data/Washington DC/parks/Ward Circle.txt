@@ -1,0 +1,25 @@
+Name: Ward Circle
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Ward Circle is a traffic circle at the intersection of Nebraska and Massachusetts Avenues in Northwest, Washington, D.C. The circle, totaling 30,243 sq ft (2,809.7 m2), is owned and administered by the National Park Service through its Rock Creek Park unit. On three sides is the campus of American University, while the fourth is occupied by the Nebraska Avenue Complex, a U.S. government facility.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9379219
+Longitude: -77.0859059
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18238215
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/18238215
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

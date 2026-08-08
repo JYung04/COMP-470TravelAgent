@@ -1,0 +1,25 @@
+Name: Kavi Gupta Gallery
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 835 West Washington Boulevard, Chicago IL 60607-2763
+Description: Not listed
+Website: https://kavigupta.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: +1-708-480-2882
+Wheelchair Accessibility: Not listed
+Latitude: 41.8828847
+Longitude: -87.6490376
+OpenStreetMap URL: https://www.openstreetmap.org/node/13395760105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13395760105
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

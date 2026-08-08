@@ -1,0 +1,25 @@
+Name: The Michelangelo New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 152 West 51st Street, New York NY 10019
+Description: Not listed
+Website: https://www.michelangelohotel.com/
+Phone: +1 212 765 1900
+Email: reservations@michelangelohotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7612693
+Longitude: -73.9825628
+OpenStreetMap URL: https://www.openstreetmap.org/way/266170798
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266170798
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Flavors of India
+City: Washington DC
+Category: restaurants
+Cuisine: indian
+Address: 2524 L Street Northwest, 20037
+Description: Not listed
+Website: https://www.orderflavorsofindia.com/
+Phone: +1-202-333-1155
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr-Sa 11:30-22:30; Su 11:30-21:45
+Wheelchair Accessibility: Not listed
+Latitude: 38.9035909
+Longitude: -77.05418
+OpenStreetMap URL: https://www.openstreetmap.org/node/3000859352
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3000859352
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

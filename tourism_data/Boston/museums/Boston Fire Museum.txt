@@ -1,0 +1,25 @@
+Name: Boston Fire Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 344 Congress Street, Boston MA
+Description: Not listed
+Website: https://bostonfiremuseum.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 42.350814
+Longitude: -71.048725
+OpenStreetMap URL: https://www.openstreetmap.org/node/367781329
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367781329
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

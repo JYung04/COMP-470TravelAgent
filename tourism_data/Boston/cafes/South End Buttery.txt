@@ -1,0 +1,25 @@
+Name: South End Buttery
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 314 Shawmut Avenue
+Description: The Buttery quickly became a neighborhood mainstay with award-winning specialty coffees and teas, house made biscuit breakfast sandwiches and signature cupcakes, gourmet sandwiches and salads, seasonal soups and scratch pastries. In 2008, the owners expanded to add a restaurant and bar with dinner service daily and brunch on weekends
+Website: https://www.southendbuttery.com
+Phone: +1-617-482-1015
+Email: Not listed
+Opening Hours: Mo-Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3453632
+Longitude: -71.0724637
+OpenStreetMap URL: https://www.openstreetmap.org/node/10787156993
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10787156993
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

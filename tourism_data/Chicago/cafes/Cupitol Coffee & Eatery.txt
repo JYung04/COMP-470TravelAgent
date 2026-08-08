@@ -1,0 +1,25 @@
+Name: Cupitol Coffee & Eatery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 455 East Illinois Street, Chicago IL 60611
+Description: Not listed
+Website: https://cupitol.com/
+Phone: +1-312-414-1400
+Email: Not listed
+Opening Hours: Mo-Su 07:30-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8909189
+Longitude: -87.6155741
+OpenStreetMap URL: https://www.openstreetmap.org/node/6284038647
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6284038647
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

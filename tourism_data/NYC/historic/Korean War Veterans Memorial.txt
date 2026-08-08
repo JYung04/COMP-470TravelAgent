@@ -1,0 +1,25 @@
+Name: Korean War Veterans Memorial
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Korean War Veterans Memorial in Jersey City, New Jersey is located on the Hudson River Waterfront Walkway in Paulus Hook in the Morris Canal section of Liberty State Park. It pays tribute to the Hudson County residents who died during the Korean War. Originally installed in 2002, it was renovated and completed 2015.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7113034
+Longitude: -74.0384963
+OpenStreetMap URL: https://www.openstreetmap.org/node/6579162051
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6579162051
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

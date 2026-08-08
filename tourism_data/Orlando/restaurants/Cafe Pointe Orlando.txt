@@ -1,0 +1,25 @@
+Name: Cafe Pointe Orlando
+City: Orlando
+Category: restaurants
+Cuisine: pizza
+Address: 8651 Treasure Cay Lane, Orlando FL 32836
+Description: Not listed
+Website: https://cafepointeorlando.com
+Phone: +1-407-778-3666
+Email: Not listed
+Opening Hours: Mo-Th 09:00-20:00; Fr-Su 09:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3904587
+Longitude: -81.503167
+OpenStreetMap URL: https://www.openstreetmap.org/node/9781571902
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9781571902
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

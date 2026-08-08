@@ -1,0 +1,25 @@
+Name: New Taste
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 19 Bridge Street, Boston PE21 8QF
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9763722
+Longitude: -0.025182
+OpenStreetMap URL: https://www.openstreetmap.org/node/7320092949
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7320092949
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

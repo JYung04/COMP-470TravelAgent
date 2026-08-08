@@ -1,0 +1,25 @@
+Name: Norma
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 801 9th Avenue New York NY 10019
+Description: Not listed
+Website: https://normarestaurant.com
+Phone: +1-212-889-0600
+Email: Not listed
+Opening Hours: Mo-Th 12:00-22:00; Fr-Sa 12:00-22:30; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7435141
+Longitude: -73.979963
+OpenStreetMap URL: https://www.openstreetmap.org/node/5143907528
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5143907528
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

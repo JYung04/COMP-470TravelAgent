@@ -1,0 +1,25 @@
+Name: Kissena Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Kissena Park is a 235-acre (95 ha) park located in the neighborhood of Flushing in Queens, New York City. It is located along the subterranean Kissena Creek, which flows into the Flushing River. It is bordered on the west by Kissena Boulevard; on the north by Rose, Oak, Underhill, and Lithonia Avenues; on the east by Fresh Meadow Lane; and on the south by Booth Memorial Avenue. The park contains the city's only remaining velodrome, a lake of the same name, two war memorials, and various playgrounds and sports fields.
+Website: https://www.nycgovparks.org/parks/kissena-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7460495
+Longitude: -73.8085237
+OpenStreetMap URL: https://www.openstreetmap.org/way/264695281
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/264695281
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Silky Kitchen
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 30-02 39th Avenue
+Description: Not listed
+Website: https://silkykitchen.com/
+Phone: +1 845-617-6578
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-20:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.757981
+Longitude: -73.9840072
+OpenStreetMap URL: https://www.openstreetmap.org/node/12917522706
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12917522706
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

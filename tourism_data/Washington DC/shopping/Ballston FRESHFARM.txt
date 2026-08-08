@@ -1,0 +1,25 @@
+Name: Ballston FRESHFARM
+City: Washington DC
+Category: shopping
+Cuisine: Not listed
+Address: 901 North Taylor Street, Arlington
+Description: Not listed
+Website: https://www.freshfarm.org/markets/ballston
+Phone: Not listed
+Email: Not listed
+Opening Hours: Jun 18-Nov 19 Th 15:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 38.8813205
+Longitude: -77.1119681
+OpenStreetMap URL: https://www.openstreetmap.org/node/3200174426
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3200174426
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

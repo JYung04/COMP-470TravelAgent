@@ -1,0 +1,24 @@
+Name: The Clonard
+City: NYC
+Category: bars
+Cuisine: burger, sandwich
+Address: Not listed
+Description: Not listed
+Website: https://www.theclonard.com
+Phone: +1-347-889-7793
+Email: Not listed
+Opening Hours: Mo-We 16:00-00:00; Th-Fr 16:00-02:00; Sa 11:00-02:00; Su 11:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7108448
+Longitude: -73.9508448
+OpenStreetMap URL: https://www.openstreetmap.org/node/7173664038
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7173664038
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

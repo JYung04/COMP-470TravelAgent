@@ -1,0 +1,25 @@
+Name: DeWitt Clinton Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY
+Description: DeWitt Clinton Park is a 5.8-acre (23,000 m2) New York City public park in the Hell's Kitchen neighborhood of Manhattan, New York City, between West 52nd and 54th Streets, and Eleventh and Twelfth Avenues.
+Website: https://www.nycgovparks.org/parks/de-witt-clinton-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7682011
+Longitude: -73.9942676
+OpenStreetMap URL: https://www.openstreetmap.org/way/22941918
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/22941918
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

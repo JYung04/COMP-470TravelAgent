@@ -1,0 +1,25 @@
+Name: Peter Jay Sharp Theater
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 155 West 65th Street, New York NY 10023
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7739607
+Longitude: -73.9837063
+OpenStreetMap URL: https://www.openstreetmap.org/node/9327765068
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9327765068
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

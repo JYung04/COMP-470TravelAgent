@@ -1,0 +1,25 @@
+Name: La Mexicana Taqueria
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 815 West 35th Street, Chicago IL 60609
+Description: Not listed
+Website: Not listed
+Phone: +1-773-890-1090
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8306362
+Longitude: -87.6467179
+OpenStreetMap URL: https://www.openstreetmap.org/node/12293928453
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12293928453
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

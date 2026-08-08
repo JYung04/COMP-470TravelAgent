@@ -1,0 +1,24 @@
+Name: Szechuan Mountain House - 川山甲
+City: NYC
+Category: restaurants
+Cuisine: chinese, sichuan
+Address: 23 Saint Mark's Place, New York NY 10003
+Description: Not listed
+Website: https://www.szechuanmountainhouse.com/
+Phone: +19173883866
+Email: Not listed
+Opening Hours: Mo-Su 11:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7291717
+Longitude: -73.9885755
+OpenStreetMap URL: https://www.openstreetmap.org/node/9566829985
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9566829985
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

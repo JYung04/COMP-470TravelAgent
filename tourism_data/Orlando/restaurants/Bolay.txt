@@ -1,0 +1,25 @@
+Name: Bolay
+City: Orlando
+Category: restaurants
+Cuisine: Health, Gluten-free, Vegetarian
+Address: 1969 Aloma Avenue, Winter Park FL 32792
+Description: Not listed
+Website: https://www.bolay.com/locations/winter-park
+Phone: +1-407-794-0360
+Email: JSMITH@EMAIL.COM
+Opening Hours: Mo-Su 10:45-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.601251
+Longitude: -81.3257163
+OpenStreetMap URL: https://www.openstreetmap.org/node/8668482833
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8668482833
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

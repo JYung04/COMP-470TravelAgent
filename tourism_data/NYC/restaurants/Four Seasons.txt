@@ -1,0 +1,25 @@
+Name: Four Seasons
+City: NYC
+Category: restaurants
+Cuisine: new_american
+Address: 99 East 52nd Street, New York 10152
+Description: The Four Seasons Restaurant was a New American cuisine restaurant in the Midtown Manhattan neighborhood of New York City from 1959 to 2019. The Four Seasons operated within the Seagram Building at 99 East 52nd Street for most of its existence, although it relocated to 42 East 49th Street in its final year of operation. The restaurant was themed around the seasons of the year, with menus, decorations, and vegetation that changed every three months. It attracted numerous high-profile personalities and often hosted "power lunches". Despite mixed commentary of the restaurant's food, the Four Seasons was highly popular, winning the James Beard Award many times.
+Website: https://www.fourseasonsrestaurant.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7580948
+Longitude: -73.9720223
+OpenStreetMap URL: https://www.openstreetmap.org/node/1290043792
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1290043792
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

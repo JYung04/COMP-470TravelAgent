@@ -1,0 +1,25 @@
+Name: AC Hotel by Marriott Boston Downtown
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 225 Albany Street, Boston MA 02118
+Description: 205 guestrooms located in Boston's historic South End; near attractions, theatre, businesses and convention centers. For the traveler that appreciates inspiring design with a European soul. Featuring the latest technology and social spaces that blend work and play under one roof. Let us host your next event! Learn more here. Boston FIFA World Cup 26 Express Bus Stop Shuttle seats are not guaranteed. Check with hotel for purchase options or buy directly from the official shuttle site.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3449988
+Longitude: -71.0619311
+OpenStreetMap URL: https://www.openstreetmap.org/way/406123607
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/406123607
+Price: Not listed
+Rating: 5.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

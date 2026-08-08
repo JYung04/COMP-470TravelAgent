@@ -1,0 +1,25 @@
+Name: Hyodonggak
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 51 35th street west
+Description: Korean Chinese food
+Website: Not listed
+Phone: +1-212-695-6674
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7501089
+Longitude: -73.9861942
+OpenStreetMap URL: https://www.openstreetmap.org/node/10963961481
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10963961481
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

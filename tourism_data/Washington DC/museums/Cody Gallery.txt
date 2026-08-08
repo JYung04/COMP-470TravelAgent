@@ -1,0 +1,25 @@
+Name: Cody Gallery
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://marymount.edu/academics/college-of-business-innovation-leadership-and-technology/school-of-design-and-art/cody-gallery/
+Phone: +1-703-908-7782
+Email: Not listed
+Opening Hours: Mo-We,Fr 12:30-17:00
+Wheelchair Accessibility: yes
+Latitude: 38.8824729
+Longitude: -77.1165189
+OpenStreetMap URL: https://www.openstreetmap.org/node/11214347312
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11214347312
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

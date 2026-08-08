@@ -1,0 +1,25 @@
+Name: The Boil Prime
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 242 Flatbush Avenue, 11217
+Description: Not listed
+Website: https://www.theboilny.com
+Phone: +1-718-208-1102
+Email: Not listed
+Opening Hours: Mo,We-Th 17:00-22:00; Fr 17:00-23:00; Sa 16:00-23:00; Su 16:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6802145
+Longitude: -73.9749066
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550054007
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550054007
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Ruth's Chris Steak House
+City: NYC
+Category: restaurants
+Cuisine: american, steak_house
+Address: 148 West 51st Street 10019
+Description: Not listed
+Website: https://www.ruthschris.com/
+Phone: +1 212 265 9600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9142597
+Longitude: -74.0599716
+OpenStreetMap URL: https://www.openstreetmap.org/node/13189796881
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13189796881
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Don Ceviche
+City: NYC
+Category: restaurants
+Cuisine: peruvian
+Address: 115 Delancey Street, New York NY 10002-4373
+Description: Not listed
+Website: https://doncevicheny.com/
+Phone: +1 646-484-5527
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7179878
+Longitude: -73.9882622
+OpenStreetMap URL: https://www.openstreetmap.org/node/9374707281
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9374707281
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

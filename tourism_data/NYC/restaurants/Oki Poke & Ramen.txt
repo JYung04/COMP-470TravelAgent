@@ -1,0 +1,24 @@
+Name: Oki Poke & Ramen
+City: NYC
+Category: restaurants
+Cuisine: ramen, japanese
+Address: 135 East 45th Street, New York NY 10017
+Description: Not listed
+Website: https://www.okipokeramen.com/
+Phone: +1 212-922-1900
+Email: Not listed
+Opening Hours: Mo-Th 11:00-21:30; Fr 11:00-21:00; Sa-Su 12:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.753269
+Longitude: -73.9741075
+OpenStreetMap URL: https://www.openstreetmap.org/node/12453392832
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12453392832
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

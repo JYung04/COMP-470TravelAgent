@@ -1,0 +1,25 @@
+Name: La Josie
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 740 West Randolph Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.lajosie.com/
+Phone: +1-312-929-2900
+Email: Not listed
+Opening Hours: Mo-Th 11:00-01:00; Fr-Sa 11:00-02:00; Su 11:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8846338
+Longitude: -87.6472898
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460688022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460688022
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

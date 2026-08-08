@@ -1,0 +1,25 @@
+Name: Dream Station
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 3809 White Plains Road, Bronx NY 10467
+Description: Not listed
+Website: Not listed
+Phone: +1-718-798-6936
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8839147
+Longitude: -73.8628499
+OpenStreetMap URL: https://www.openstreetmap.org/node/9240344121
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9240344121
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

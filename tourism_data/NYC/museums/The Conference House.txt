@@ -1,0 +1,25 @@
+Name: The Conference House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 7455 Hylan Boulevard, Staten Island NY 10307
+Description: A designated New York City individual landmark. Status: DESIGNATED. Designation date: 2/28/1967.
+Website: https://conferencehouse.org/
+Phone: +1-718-984-6046
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.503129
+Longitude: -74.25322
+OpenStreetMap URL: https://www.openstreetmap.org/way/241857895
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241857895
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

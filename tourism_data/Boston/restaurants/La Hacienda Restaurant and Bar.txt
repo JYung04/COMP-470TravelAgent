@@ -1,0 +1,25 @@
+Name: La Hacienda Restaurant and Bar
+City: Boston
+Category: restaurants
+Cuisine: mexican
+Address: 150 Meridian Street, East Boston 02128
+Description: Not listed
+Website: https://www.lahaciendaboston.com/
+Phone: +1 617 561-3737
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3739221
+Longitude: -71.0392151
+OpenStreetMap URL: https://www.openstreetmap.org/node/2474771286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2474771286
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The GAF
+City: NYC
+Category: bars
+Cuisine: irish
+Address: 1696 2nd Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-212-722-6300
+Email: Not listed
+Opening Hours: Mo-Su 15:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7789493
+Longitude: -73.9507243
+OpenStreetMap URL: https://www.openstreetmap.org/node/5683379031
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5683379031
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

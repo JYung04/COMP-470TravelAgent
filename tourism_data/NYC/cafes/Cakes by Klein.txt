@@ -1,0 +1,25 @@
+Name: Cakes by Klein
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 102 Saint Marks Place, New York NY 10009
+Description: Not listed
+Website: https://www.cakesbyklein.com/
+Phone: Not listed
+Email: cakesbyklein@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7272019
+Longitude: -73.984626
+OpenStreetMap URL: https://www.openstreetmap.org/node/13357755804
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13357755804
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Vines Grille & Wine Bar
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 7533 Sand Lake Road, Orlando FL
+Description: An Orlando original, Vines Grille & Wine Bar is part of Restaurant Row. In keeping with their name — and “Best of Award of Excellence” from Wine Spectator Magazine — they’re passionate about wine, including vintages from boutique wineries and top global producers alike. They’re also no slouch when it comes to food, offering a chef-driven menu centered around steaks, chops and seafood.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4507058
+Longitude: -81.4849402
+OpenStreetMap URL: https://www.openstreetmap.org/node/1548125171
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1548125171
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

@@ -1,0 +1,25 @@
+Name: Boston Common
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Boston MA
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Back Bay/Beacon Hill. Covers approximately 45.7 acres. Also known as The Common.
+Website: http://www.cityofboston.gov/freedomtrail/bostoncommon.asp
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3550422
+Longitude: -71.0656548
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17995454
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/17995454
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: boston common
+Best For: outdoors

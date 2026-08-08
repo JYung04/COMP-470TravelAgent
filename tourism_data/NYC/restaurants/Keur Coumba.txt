@@ -1,0 +1,24 @@
+Name: Keur Coumba
+City: NYC
+Category: restaurants
+Cuisine: african, senegalese
+Address: 125 West 116th Street, 10026
+Description: Not listed
+Website: Not listed
+Phone: +1 212-866-1551
+Email: Not listed
+Opening Hours: Sa-Th 08:30-03:00; Fr 08:30-03:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.8026563
+Longitude: -73.9507343
+OpenStreetMap URL: https://www.openstreetmap.org/node/9553068947
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9553068947
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

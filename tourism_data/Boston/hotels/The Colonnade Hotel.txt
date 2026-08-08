@@ -1,0 +1,25 @@
+Name: The Colonnade Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 120 Huntington Avenue, Boston MA 02116
+Description: Boston's independent lifestyle hotel that takes pride in its ability to pay the utmost attention to every detail. Located in Boston's historic Back Bay neighborhood, the hotel offers weekend packages and suites. Rooftop pool and parking. Click here to find out more about LUCIE drink + dine, Local Bar. Global Kitchen. Neighborhood Charm. Boston FIFA World Cup 26 Express Bus Stop Shuttle seats are not guaranteed. Check with hotel for purchase options or buy directly from the official shuttle site.
+Website: https://www.colonnadehotel.com/
+Phone: +1-617-424-7000
+Email: reservations@colonnadehotel.com
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 42.3457259
+Longitude: -71.0809307
+OpenStreetMap URL: https://www.openstreetmap.org/node/1667360408
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1667360408
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

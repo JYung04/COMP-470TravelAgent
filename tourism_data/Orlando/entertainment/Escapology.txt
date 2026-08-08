@@ -1,0 +1,25 @@
+Name: Escapology
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 11951 International Drive, Orlando FL 32821
+Description: At Escapology on International Drive, you and up to seven companions race against the clock to find clues, solve puzzles and escape inside of 60 minutes. Scenarios include Scooby-Doo and the Spooky Castle Adventure, Murder on the Orient Express, Antidote, 7 Deadly Sins, Mansion Murder, Narco, and Under Pressure, with Star Trek : Quantum Filament and Lost City coming soon. Discover: Tips for Beating Orlando Escape Rooms
+Website: https://www.escapology.com/en/orlando-fl
+Phone: +1 407-278-1515
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3905479
+Longitude: -81.4672139
+OpenStreetMap URL: https://www.openstreetmap.org/node/10593438286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10593438286
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

@@ -1,0 +1,25 @@
+Name: Full House China Buffet
+City: Orlando
+Category: restaurants
+Cuisine: chinese
+Address: 5737 West Irlo Bronson Memorial Highway, Kissimmee FL 34746
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.333489
+Longitude: -81.5143014
+OpenStreetMap URL: https://www.openstreetmap.org/node/3268335817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3268335817
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

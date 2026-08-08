@@ -1,0 +1,25 @@
+Name: Little Red Lighthouse
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The Little Red Lighthouse, officially Jeffrey's Hook Light, is a small lighthouse located in Fort Washington Park along the Hudson River in Manhattan, New York City, under the George Washington Bridge. It was made notable by the 1942 children's book The Little Red Lighthouse and The Great Gray Bridge, written by Hildegarde Swift and illustrated by Lynd Ward.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8502552
+Longitude: -73.946963
+OpenStreetMap URL: https://www.openstreetmap.org/way/397678729
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/397678729
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; families

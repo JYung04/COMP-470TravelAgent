@@ -1,0 +1,25 @@
+Name: Banca Italia
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Banca Italia building was built in 1888 and was owned by Antonio Cuneo. The beautiful carved-stone entrance on the corner of the building still exists.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7143844
+Longitude: -73.9994286
+OpenStreetMap URL: https://www.openstreetmap.org/way/278106015
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278106015
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

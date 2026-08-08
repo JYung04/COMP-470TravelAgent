@@ -1,0 +1,25 @@
+Name: Meli Cafe
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 540 North Wells Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.melicafe.com/
+Phone: +1-312-527-1850
+Email: Not listed
+Opening Hours: Mo-Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8917434
+Longitude: -87.6342963
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458001688
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458001688
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

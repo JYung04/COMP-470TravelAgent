@@ -1,0 +1,25 @@
+Name: Mala Project
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 41 W 46th St, New York, NY 10036, United States
+Description: Not listed
+Website: https://www.malaproject.nyc
+Phone: +1-917-261-7520
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:15; Sa-Su 12:00-21:15
+Wheelchair Accessibility: Not listed
+Latitude: 40.7568355
+Longitude: -73.9806333
+OpenStreetMap URL: https://www.openstreetmap.org/node/11674339847
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11674339847
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

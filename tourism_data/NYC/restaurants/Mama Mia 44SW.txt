@@ -1,0 +1,25 @@
+Name: Mama Mia 44SW
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 621 9th Avenue, New York NY 10036
+Description: Not listed
+Website: www.44southwest.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.75972
+Longitude: -73.9919266
+OpenStreetMap URL: https://www.openstreetmap.org/node/2273972179
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2273972179
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

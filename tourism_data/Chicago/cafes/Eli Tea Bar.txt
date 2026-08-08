@@ -1,0 +1,24 @@
+Name: Eli Tea Bar
+City: Chicago
+Category: cafes
+Cuisine: tea, bubble_tea
+Address: 5507 North Clark Street, Chicago IL 60640
+Description: Not listed
+Website: https://www.eliteabar.com/
+Phone: +17739617111
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-22:00; Su 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9820162
+Longitude: -87.6682856
+OpenStreetMap URL: https://www.openstreetmap.org/node/13854420705
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13854420705
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

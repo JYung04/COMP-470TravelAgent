@@ -1,0 +1,25 @@
+Name: Plern Thai Restaurant & Noodle Bar
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 30-78 Steinway Street
+Description: Not listed
+Website: https://www.plernthainyc.com/
+Phone: +1 347-242-3533
+Email: Not listed
+Opening Hours: Mo-Su 11:30-16:00, 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7619866
+Longitude: -73.9167215
+OpenStreetMap URL: https://www.openstreetmap.org/node/5526584391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5526584391
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

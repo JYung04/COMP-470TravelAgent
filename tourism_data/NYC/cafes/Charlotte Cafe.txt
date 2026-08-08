@@ -1,0 +1,25 @@
+Name: Charlotte Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 1158 2nd Avenue, 10065
+Description: Not listed
+Website: https://www.charlottecafe.com
+Phone: +1-929-655-1251
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-19:30, Sa-Su 07:00-19:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7616926
+Longitude: -73.9633311
+OpenStreetMap URL: https://www.openstreetmap.org/node/2717840346
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2717840346
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

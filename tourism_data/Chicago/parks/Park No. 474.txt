@@ -1,0 +1,25 @@
+Name: Park No. 474
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 3231 South Dearborn Street, Chicago IL 60616
+Description: Park No. 474 is the smallest public park in Chicago, Illinois, located in the Douglas community on the South Side. The area of the park is officially listed as the minimum 0.01 acres, rounded up from 54 square feet (5.0 m2). The Chicago Park District refers to Park No. 474 as a "parklet", but unlike other American parklets, the park is a permanent space away from sidewalks and listed as an independent park in the city records. It is within the historic Black Metropolis–Bronzeville District in Chicago's 4th Ward.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/park-no-474
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8355094
+Longitude: -87.6275114
+OpenStreetMap URL: https://www.openstreetmap.org/way/817967276
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/817967276
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

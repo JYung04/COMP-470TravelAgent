@@ -1,0 +1,24 @@
+Name: Sheeba Mandi House
+City: Chicago
+Category: restaurants
+Cuisine: middle_eastern, yemeni
+Address: 3456 West Foster Avenue, Chicago IL 60625
+Description: Yemeni restaurant.
+Website: https://sheebamandihouse.com/
+Phone: +17736543349
+Email: Not listed
+Opening Hours: Mo-Th 10:00-00:00; Fr-Su 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9759097
+Longitude: -87.7155352
+OpenStreetMap URL: https://www.openstreetmap.org/node/7016080361
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7016080361
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Table d'Hôte
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 44 East 92nd Street, 10128
+Description: Not listed
+Website: https://tabledhote.co
+Phone: +1 212-348-8125
+Email: tabledhoterestaurant@gmail.com
+Opening Hours: Tu-Su 12:00-15:00, 17:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7844621
+Longitude: -73.9557959
+OpenStreetMap URL: https://www.openstreetmap.org/node/9571408097
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9571408097
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

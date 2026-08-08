@@ -1,0 +1,25 @@
+Name: Club Quarters Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 161 Devonshire Street, Boston MA 02110
+Description: Not listed
+Website: https://clubquartershotels.com/boston/faneuil-hall
+Phone: +1-617-357-6400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3563563
+Longitude: -71.0574951
+OpenStreetMap URL: https://www.openstreetmap.org/node/9413871104
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9413871104
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

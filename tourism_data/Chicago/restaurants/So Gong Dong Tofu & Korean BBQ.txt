@@ -1,0 +1,25 @@
+Name: So Gong Dong Tofu & Korean BBQ
+City: Chicago
+Category: restaurants
+Cuisine: korean
+Address: 711 West Jackson Boulevard, Chicago IL 60661
+Description: Not listed
+Website: https://www.sgdrestaurant.com/
+Phone: +1-773-362-8702
+Email: Not listed
+Opening Hours: Mo-Su 11:00-19:30
+Wheelchair Accessibility: yes
+Latitude: 41.8777357
+Longitude: -87.6445669
+OpenStreetMap URL: https://www.openstreetmap.org/node/12027016696
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12027016696
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

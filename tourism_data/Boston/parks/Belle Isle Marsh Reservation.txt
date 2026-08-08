@@ -1,0 +1,25 @@
+Name: Belle Isle Marsh Reservation
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 1399 Bennington Street, East Boston MA 02128
+Description: Belle Isle Marsh Reservation in East Boston, Suffolk County, Massachusetts, is an urban nature preserve and public recreation area containing mostly coastal wetlands. The 350-acre (1.4 km2) Reservation includes the largest remaining salt marsh in the Boston area. The marsh also borders the towns of Revere and Winthrop.
+Website: https://www.mass.gov/locations/belle-isle-marsh-reservation
+Phone: Not listed
+Email: Not listed
+Opening Hours: 09:00-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 42.3879982
+Longitude: -70.989596
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3359434
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3359434
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

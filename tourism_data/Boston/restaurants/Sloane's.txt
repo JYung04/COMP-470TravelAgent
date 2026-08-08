@@ -1,0 +1,25 @@
+Name: Sloane's
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: 197 North Harvard Street, Allston MA 02134
+Description: Not listed
+Website: https://www.sloanesboston.com/
+Phone: +1-617-693-8220
+Email: Not listed
+Opening Hours: Su 10:00-22:00; Mo-We 11:00-22:00; Th-Fr 11:00-24:00; Sa 10:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3635867
+Longitude: -71.1294978
+OpenStreetMap URL: https://www.openstreetmap.org/node/12110489210
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12110489210
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

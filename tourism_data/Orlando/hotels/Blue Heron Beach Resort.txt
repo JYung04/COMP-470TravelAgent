@@ -1,0 +1,24 @@
+Name: Blue Heron Beach Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 13428 Blue Heron Beach Drive, FL
+Description: Not listed
+Website: Not listed
+Phone: (407) 387-2200
+Email: blueheron@pattonhospitality.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3687227
+Longitude: -81.5011563
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1925355
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1925355
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

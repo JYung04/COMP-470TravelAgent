@@ -1,0 +1,24 @@
+Name: The Izakaya at Momotaro
+City: Chicago
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 820 West Lake Street, Chicago IL 60607
+Description: Not listed
+Website: https://momotarochicago.com/
+Phone: +1-312-733-4818
+Email: Not listed
+Opening Hours: Su 16:30-22:30; Mo-Th 17:00-22:30; Fr 16:30-23:00; Sa 16:30-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8858519
+Longitude: -87.648447
+OpenStreetMap URL: https://www.openstreetmap.org/node/4726220389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4726220389
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

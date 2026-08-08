@@ -1,0 +1,25 @@
+Name: Pata Cafe
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 56-14 Van Horn Street, Elmhurst NY 11373
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7325404
+Longitude: -73.8767897
+OpenStreetMap URL: https://www.openstreetmap.org/node/5401946316
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5401946316
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

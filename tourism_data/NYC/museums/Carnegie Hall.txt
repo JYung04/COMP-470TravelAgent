@@ -1,0 +1,25 @@
+Name: Carnegie Hall
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: New York NY
+Description: Carnegie Hall is a concert venue at 881 Seventh Avenue, between 56th and 57th Streets, in Midtown Manhattan, New York City. Designed by architect William Burnet Tuthill and built by its namesake, industrialist and philanthropist Andrew Carnegie, the venue is one of the most prestigious in the world for both classical music and popular music. Carnegie Hall has its own artistic programming, development, and marketing departments and presents about 250 performances each season. It is also rented out to performing groups, though it has not had a resident company since the New York Philharmonic moved to Lincoln Center in 1962.
+Website: https://www.carnegiehall.org
+Phone: +1-212-247-7800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7649977
+Longitude: -73.9799125
+OpenStreetMap URL: https://www.openstreetmap.org/way/265148502
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265148502
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art; music

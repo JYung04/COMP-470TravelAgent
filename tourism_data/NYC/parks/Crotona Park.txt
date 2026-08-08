@@ -1,0 +1,25 @@
+Name: Crotona Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Crotona Park is a public park in the South Bronx in New York City, covering 127.5 acres (51.6 ha). The park is bounded by streets of the same name on its northern, eastern, southern, and western borders, and is adjacent to the Crotona Park East and Morrisania neighborhoods of the Bronx. It is divided into four portions by Claremont Parkway and Crotona Avenue, which run through it.
+Website: https://www.nycgovparks.org/parks/crotona-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8389527
+Longitude: -73.893954
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3791761
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3791761
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

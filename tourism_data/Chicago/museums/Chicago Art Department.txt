@@ -1,0 +1,25 @@
+Name: Chicago Art Department
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 1926 South Halsted Street, Chicago IL 60608
+Description: Not listed
+Website: https://www.chicagoartdepartment.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8559404
+Longitude: -87.6467837
+OpenStreetMap URL: https://www.openstreetmap.org/node/9950117758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9950117758
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

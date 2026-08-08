@@ -1,0 +1,25 @@
+Name: Skinny House
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 44 Hull Street, Boston MA
+Description: The Skinny House is an extremely narrow four-story house at 44 Hull Street in the North End of Boston, Massachusetts, United States. It is reported by The Boston Globe as having the "uncontested distinction of being the narrowest house in Boston." According to the executive director of the Boston Landmarks Commission, "In a city where there are many narrow lots, this far exceeds the norm. ... As far as we know, it is the narrowest house in Boston." According to local legend, it was built as a spite house.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3669142
+Longitude: -71.0561979
+OpenStreetMap URL: https://www.openstreetmap.org/node/4362209489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4362209489
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

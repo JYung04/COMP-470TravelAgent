@@ -1,0 +1,25 @@
+Name: Franklin Park Overlook Shelter Ruins
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Pier Point Road, Jamaica Plain MA 02130
+Description: Part of Frederick Law Olmsted's original plans. Burned down in the 1940s. Site of the Playhouse in the Park from 1966 to 1978.
+Website: http://www.franklinparkcoalition.org/about-franklin-park/places/overlook-shelter-ruins/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3080391
+Longitude: -71.0968215
+OpenStreetMap URL: https://www.openstreetmap.org/way/544393958
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/544393958
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history; art

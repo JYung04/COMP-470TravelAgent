@@ -1,0 +1,25 @@
+Name: Joy's Noodles & Rice
+City: Chicago
+Category: restaurants
+Cuisine: asian
+Address: 3257 North Broadway, Chicago IL 60657
+Description: Not listed
+Website: http://joysnoodlesandrice.com/
+Phone: +1 773-327-8330
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9426831
+Longitude: -87.6443288
+OpenStreetMap URL: https://www.openstreetmap.org/node/2282741031
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2282741031
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

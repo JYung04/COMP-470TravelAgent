@@ -1,0 +1,25 @@
+Name: Los Tacos del Viejon
+City: NYC
+Category: restaurants
+Cuisine: tacos
+Address: 62-08 Roosevelt Avenue, 11377
+Description: Not listed
+Website: Not listed
+Phone: +1 347-848-0058
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7456404
+Longitude: -73.9017067
+OpenStreetMap URL: https://www.openstreetmap.org/node/2844631244
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2844631244
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Korean War Veterans Plaza
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Cadman Plaza West, Brooklyn NY 11201
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/cadman-plaza-park-and-brooklyn-war-memorial/monuments/175
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-25:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6956091
+Longitude: -73.9905371
+OpenStreetMap URL: https://www.openstreetmap.org/way/20518483
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/20518483
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

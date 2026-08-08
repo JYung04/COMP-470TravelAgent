@@ -1,0 +1,25 @@
+Name: rumi Middle Eastern Grill
+City: Chicago
+Category: restaurants
+Cuisine: greek
+Address: 1534 North Milwaukee Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://rumigrill.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9093179
+Longitude: -87.6760582
+OpenStreetMap URL: https://www.openstreetmap.org/node/12066832727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12066832727
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Devil Dawgs
+City: Chicago
+Category: restaurants
+Cuisine: hot_dog
+Address: 5259 North Clark Street, Chicago IL 60640
+Description: Not listed
+Website: https://www.devildawgs.com/location/andersonville/
+Phone: +1 312-500-1769
+Email: Not listed
+Opening Hours: 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9779152
+Longitude: -87.6682085
+OpenStreetMap URL: https://www.openstreetmap.org/node/13285490427
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13285490427
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

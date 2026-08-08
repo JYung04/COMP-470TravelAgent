@@ -1,0 +1,25 @@
+Name: Polpette 71
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 71 West 71st Street, New York NY 10023
+Description: Not listed
+Website: https://www.polpetteny.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.776731
+Longitude: -73.978826
+OpenStreetMap URL: https://www.openstreetmap.org/node/8651758954
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8651758954
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

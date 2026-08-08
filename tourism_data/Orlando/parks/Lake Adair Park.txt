@@ -1,0 +1,25 @@
+Name: Lake Adair Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 951 Lake Adair Boulevard, Orlando, FL 32804
+Description: park in Orange County, Florida, United States of America
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Adair-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5595295
+Longitude: -81.3909781
+OpenStreetMap URL: https://www.openstreetmap.org/relation/19026477
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/19026477
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

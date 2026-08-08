@@ -1,0 +1,24 @@
+Name: Zia Maria
+City: NYC
+Category: restaurants
+Cuisine: italian, italian_pizza
+Address: 138 Mulberry Street, 10013
+Description: Not listed
+Website: Not listed
+Phone: +16465907873
+Email: ziamarianyc@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7186398
+Longitude: -73.997516
+OpenStreetMap URL: https://www.openstreetmap.org/node/13458596602
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13458596602
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

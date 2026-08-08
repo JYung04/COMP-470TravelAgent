@@ -1,0 +1,25 @@
+Name: Fort Tilden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Fort Tilden, also known as Fort Tilden Historic District, is a former United States Army installation on the coast in the New York City borough of Queens. Fort Tilden now forms part of the Gateway National Recreation Area, and is administered by the National Park Service.
+Website: https://www.nps.gov/gate/learn/historyculture/fort-tilden.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5614127
+Longitude: -73.8955926
+OpenStreetMap URL: https://www.openstreetmap.org/relation/9462551
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/9462551
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

@@ -1,0 +1,25 @@
+Name: Winter Garden Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 1634 Broadway, New York NY
+Description: The Winter Garden Theatre is the Shubert Organization’s longest-held theater, which was originally built in 1896 as the American Horse Exchange. It has been home to hit musicals School of Rock, Beetlejuice and The Music Man, starring Hugh Jackman.
+Website: https://shubert.nyc/theatres/winter-garden/
+Phone: (212) 239-6200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7616146
+Longitude: -73.9834231
+OpenStreetMap URL: https://www.openstreetmap.org/way/163502865
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163502865
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; music; gardens

@@ -1,0 +1,25 @@
+Name: USS Constitution Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 22 First Avenue, Charlestown MA 02129
+Description: The USS Constitution Museum serves as the memory and educational voice of USS Constitution, by collecting, preserving and interpreting the stories of "Old Ironsides." Open 7 days a week, the Museum is located directly across from the USS Constitution and invites families and guests to swing in a hammock, furl a sail or enlist onboard the USS Constitution as a sailor in 1812! Our hands-on, minds-on, award-winning exhibitions create positive and memorable experiences for all. Admission is by donation. This Museum is Group Friendly! We welcome individuals, families and group tours. Please call ahead to arrange a group visit. Set sail on a voyage of discovery by visiting the USS Constitution Museum! Located in the Charlestown Navy Yard, the Museum provides a hands-on, minds-on environment where groups can have fun and learn as they explore Constitution ’s history together. Self-guided.
+Website: https://www.nps.gov/bost/learn/historyculture/cny.htm
+Phone: +1-617-426-1812
+Email: Not listed
+Opening Hours: PH,Mo-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 42.3739234
+Longitude: -71.0555113
+OpenStreetMap URL: https://www.openstreetmap.org/way/29520758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29520758
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

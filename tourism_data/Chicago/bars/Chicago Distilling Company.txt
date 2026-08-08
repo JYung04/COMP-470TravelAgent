@@ -1,0 +1,25 @@
+Name: Chicago Distilling Company
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2359-2361 North Milwaukee Avenue
+Description: What you’ll find: This Chicago Distilling Company is owned and operated by one family who distill, bottle, and package everything by hand in their Logan Square facility. And they keep busy — the distillery produces vodka, gin, single malt whiskey, white whiskey, absinthe, and more. Tasting room: The tasting room on bustling Milwaukee Avenue serves small-batch spirits crafted on the premises from Illinois grains. They also serve specialty cocktails (like the Chicago Mule) on draft and made to ord
+Website: https://www.chicagodistilling.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9242747
+Longitude: -87.6990883
+OpenStreetMap URL: https://www.openstreetmap.org/way/209454050
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209454050
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

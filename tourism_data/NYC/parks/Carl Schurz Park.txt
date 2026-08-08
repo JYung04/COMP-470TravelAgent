@@ -1,0 +1,25 @@
+Name: Carl Schurz Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Carl Schurz Park is a 14.9-acre (6.0 ha) public park in the Yorkville neighborhood of Manhattan, New York City, named for German-born Secretary of the Interior Carl Schurz in 1910, at the edge of what was then the solidly German-American community of Yorkville. The park contains Gracie Mansion, the official residence of the Mayor of New York.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7752127
+Longitude: -73.9437574
+OpenStreetMap URL: https://www.openstreetmap.org/way/108159406
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/108159406
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

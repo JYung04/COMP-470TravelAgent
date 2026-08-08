@@ -1,0 +1,25 @@
+Name: The Elan - Catering & Events
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 111 US-46th West, Lodi
+Description: Not listed
+Website: https://www.theelan.com/
+Phone: +1-973-777-0503
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.8799731
+Longitude: -74.0780457
+OpenStreetMap URL: https://www.openstreetmap.org/way/272074287
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/272074287
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

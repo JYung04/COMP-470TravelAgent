@@ -1,0 +1,24 @@
+Name: Port of Call Buffet
+City: NYC
+Category: restaurants
+Cuisine: sushi, japanese, american
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9098134
+Longitude: -74.0315181
+OpenStreetMap URL: https://www.openstreetmap.org/node/5895190250
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5895190250
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

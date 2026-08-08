@@ -1,0 +1,25 @@
+Name: Madison Square Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 11 Madison Avenue, New York NY 10010
+Description: The heart of the Flatiron District is Madison Square Park . Bounded by Madison Avenue, Broadway and Fifth Avenue between 23rd and 26th Streets, the park formally opened in 1847 right before the neighborhood began to rapidly develop—its history, before and after that debut , is worthy of exploration. Today the Madison Square Park Conservancy , a public-private partnership, works hard to maintain the park’s flower-filled gardens and puts on an annual summer art display, special outdoor concerts an
+Website: https://madisonsquarepark.org/
+Phone: +1-212-520-7600
+Email: Not listed
+Opening Hours: 06:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7421868
+Longitude: -73.987872
+OpenStreetMap URL: https://www.openstreetmap.org/way/22899286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/22899286
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; gardens

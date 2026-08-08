@@ -1,0 +1,25 @@
+Name: Cafe Gigú & Lounge
+City: Boston
+Category: restaurants
+Cuisine: latin_american
+Address: 102 Meridian Street, East Boston MA 02128
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3727215
+Longitude: -71.0391726
+OpenStreetMap URL: https://www.openstreetmap.org/node/9337559560
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9337559560
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

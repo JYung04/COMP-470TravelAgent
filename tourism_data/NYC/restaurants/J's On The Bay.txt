@@ -1,0 +1,25 @@
+Name: J's On The Bay
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 1189 Bay Street, Staten Island NY 10305
+Description: Not listed
+Website: https://www.jsonthebaysiny.com/
+Phone: +1 718-720-0922
+Email: Not listed
+Opening Hours: Mo off; Tu-Th 10:00-21:00; Fr 10:00-22:00; Sa 09:00-22:00; Su 09:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6143144
+Longitude: -74.0661415
+OpenStreetMap URL: https://www.openstreetmap.org/node/11040468185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11040468185
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Astoria Pizza
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 32-04 30th Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7663001
+Longitude: -73.9204838
+OpenStreetMap URL: https://www.openstreetmap.org/node/5481498114
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5481498114
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

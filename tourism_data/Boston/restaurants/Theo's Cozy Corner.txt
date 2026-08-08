@@ -1,0 +1,25 @@
+Name: Theo's Cozy Corner
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: 162 Salem St
+Description: This casual Salem Street nook is breakfast-and-lunch favorite of locals. A few Brazilian dishes—including the seafood stew moqueca, fried tilapia, açaí bowls, and, when available, picanha steak—round out the classic American and Italian options. Cash only (with prices that won’t break the bank!), no frills, all smiles. 162 Salem St., North End, Boston, 617-241-0202. Tony & Elaine’s upgrades nostalgic Italian-American comfort-food joints. / Photos by Justin Power
+Website: https://drive.google.com/file/d/14YkrjtO_Ft9sCs6AlBwCQTYjyx1WFtBg/view?usp=sharing
+Phone: 617-241-0202
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3660458
+Longitude: -71.0550471
+OpenStreetMap URL: https://www.openstreetmap.org/node/4452187144
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4452187144
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

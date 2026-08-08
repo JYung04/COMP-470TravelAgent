@@ -1,0 +1,24 @@
+Name: Pizza y Pan pa'ya
+City: Chicago
+Category: restaurants
+Cuisine: bakery, colombian
+Address: 6344 West Irving Park Road, Chicago IL 60634
+Description: Not listed
+Website: https://www.pizzaypanpayachicago.com/
+Phone: +17736471176
+Email: Not listed
+Opening Hours: Mo-Su 07:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9530748
+Longitude: -87.786002
+OpenStreetMap URL: https://www.openstreetmap.org/node/10752030604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10752030604
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

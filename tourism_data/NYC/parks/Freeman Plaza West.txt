@@ -1,0 +1,25 @@
+Name: Freeman Plaza West
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY
+Description: Not listed
+Website: https://hudsonsquarebid.org/neighborhood/outdoor-spaces/freeman-plaza-west/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7242186
+Longitude: -74.0074996
+OpenStreetMap URL: https://www.openstreetmap.org/way/270791455
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/270791455
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

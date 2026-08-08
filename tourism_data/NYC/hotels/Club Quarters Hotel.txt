@@ -1,0 +1,25 @@
+Name: Club Quarters Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 128 East 45th Street, New York 10017
+Description: Not listed
+Website: Not listed
+Phone: +1 212-986-6400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.753146
+Longitude: -73.9744245
+OpenStreetMap URL: https://www.openstreetmap.org/node/3576702128
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3576702128
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

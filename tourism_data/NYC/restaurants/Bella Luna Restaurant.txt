@@ -1,0 +1,25 @@
+Name: Bella Luna Restaurant
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 574 Columbus Avenue, New York NY 10024
+Description: Not listed
+Website: https://www.bellalunanyc.com
+Phone: +1-212-877-2267
+Email: Not listed
+Opening Hours: Mo-Th 12:00-21:30; Fr-Sa 12:00-22:00; Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7877722
+Longitude: -73.9714975
+OpenStreetMap URL: https://www.openstreetmap.org/node/6644248562
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6644248562
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

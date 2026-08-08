@@ -1,0 +1,25 @@
+Name: Langone Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 529-543 Commercial Street, Boston MA 02109
+Description: Official Boston park data lists features including Athletic Field, Athletic Seating, Bocce, Drinking Fountain, Flagpole, Playground, Restroom.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3684693
+Longitude: -71.0551947
+OpenStreetMap URL: https://www.openstreetmap.org/way/29861123
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29861123
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

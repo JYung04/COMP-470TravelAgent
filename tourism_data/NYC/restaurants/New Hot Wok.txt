@@ -1,0 +1,25 @@
+Name: New Hot Wok
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 4912 Avenue K, Brooklyn NY 11234
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6256393
+Longitude: -73.9281637
+OpenStreetMap URL: https://www.openstreetmap.org/node/9756124149
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9756124149
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

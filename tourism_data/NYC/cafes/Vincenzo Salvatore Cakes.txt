@@ -1,0 +1,25 @@
+Name: Vincenzo Salvatore Cakes
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.vincenzosalvatorecakes.com
+Phone: +1-201-875-2264
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5370103
+Longitude: -74.2400959
+OpenStreetMap URL: https://www.openstreetmap.org/node/11725197630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11725197630
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

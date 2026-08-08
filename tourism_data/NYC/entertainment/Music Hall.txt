@@ -1,0 +1,25 @@
+Name: Music Hall
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 10301
+Description: The Snug Harbor Music Hall is a 686-seat Greek Revival auditorium on the grounds of Sailors' Snug Harbor in the New Brighton neighborhood of Staten Island, New York. It opened in July 1892, making it the second-oldest music hall in New York City, following Carnegie Hall. It was designed by the English immigrant architect Robert W. Gibson. Its inaugural performance was the cantata, "The Rose Maiden." In attendance were around 600 residents in plain wooden seats and 300 trustees with their guests in upholstered balcony seats. Entertainment in the decades that followed included the Georgia Minstrels and the Boston Ladies Schubert Quartet. It added film screenings in 1911 and sound projection in 1930. The building closed sometime in the 1970s.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6436147
+Longitude: -74.1012783
+OpenStreetMap URL: https://www.openstreetmap.org/way/244178743
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/244178743
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art; music

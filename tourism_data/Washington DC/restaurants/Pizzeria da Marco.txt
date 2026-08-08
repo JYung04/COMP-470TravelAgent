@@ -1,0 +1,25 @@
+Name: Pizzeria da Marco
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 8008 Woodmont Ave, Bethesda, MD 20814, United States
+Description: Not listed
+Website: http://www.pizzeriadamarco.net/
+Phone: +1 301-654-6083
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9902092
+Longitude: -77.0966958
+OpenStreetMap URL: https://www.openstreetmap.org/node/3632310649
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3632310649
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

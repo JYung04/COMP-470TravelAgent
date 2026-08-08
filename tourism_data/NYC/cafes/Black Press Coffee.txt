@@ -1,0 +1,25 @@
+Name: Black Press Coffee
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 274 Columbus Avenue, New York NY 10023
+Description: Not listed
+Website: https://www.blackpresscoffee.com/
+Phone: +1-646-490-6499
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-17:00; Sa-Su 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7780161
+Longitude: -73.978577
+OpenStreetMap URL: https://www.openstreetmap.org/node/8427233988
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8427233988
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

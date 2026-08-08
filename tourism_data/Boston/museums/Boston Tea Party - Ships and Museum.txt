@@ -1,0 +1,25 @@
+Name: Boston Tea Party - Ships and Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 306 Congress Street, Boston MA 02210
+Description: Boston Tea Party Ships & Museum showcases a live theatrical performance reenacting the "single most important event leading up to The American Revolution", with state-of-the-art technology and an original tea crate from the Boston Tea Party in 1773. This Business is Group Friendly! You and your group will have a personalized “colonial character” host that will guide you through this never-before-seen museum experience. You’ll “meet” Sam Adams, you’ll participate in the re-enactment of the destruction of the tea; you’ll be invited to board a tall ship, you’ll marvel at one of only two known surviving tea crates and you’ll be inspired by the film Let It Begin Here in the Minuteman Theatre. Learn the role that you will play in one of the most important events in American history. The Boston Tea Party Ships & Museum is open 10:00am-5:00pm; 7.
+Website: https://www.bostonteapartyship.com/
+Phone: +1-866-955-0667
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3521988
+Longitude: -71.0513039
+OpenStreetMap URL: https://www.openstreetmap.org/node/358275870
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358275870
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: boston tea party ships and museum
+Best For: museums and culture; art

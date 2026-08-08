@@ -1,0 +1,25 @@
+Name: Park of the Americas
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 201 Andes Avenue, Orlando, FL 32807
+Description: Park of the Americas is located just north of the 408 and west of the Executive Airport. Park amenties include a 12-foot wide, half mile long path, dog Park, shade pavilions, picnic tables, grills, a tot lot with swings, climbers and motion activities geared towards 2-5 year olds and a satellite Commissioner District 2 office offering a meeting place for the community.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Park-of-the-Americas
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5412567
+Longitude: -81.3170286
+OpenStreetMap URL: https://www.openstreetmap.org/way/583830813
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/583830813
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

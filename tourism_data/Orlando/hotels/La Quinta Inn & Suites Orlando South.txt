@@ -1,0 +1,25 @@
+Name: La Quinta Inn & Suites Orlando South
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: FL
+Description: Not listed
+Website: https://www.wyndhamhotels.com/laquinta/orlando-florida/la-quinta-orlando-south/overview
+Phone: +1 407-240-0500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4289996
+Longitude: -81.405686
+OpenStreetMap URL: https://www.openstreetmap.org/way/313653284
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/313653284
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

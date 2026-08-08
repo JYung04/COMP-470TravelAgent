@@ -1,0 +1,25 @@
+Name: PS Bangkok
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 3345 N Clark St, Chicago, IL 60657, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 773-871-7777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9429745
+Longitude: -87.6529045
+OpenStreetMap URL: https://www.openstreetmap.org/node/5695558674
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5695558674
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

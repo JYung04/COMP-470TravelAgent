@@ -1,0 +1,25 @@
+Name: Meadowlands Plaza Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 40 Wood Ave
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.797408
+Longitude: -74.0636008
+OpenStreetMap URL: https://www.openstreetmap.org/way/277937983
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/277937983
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

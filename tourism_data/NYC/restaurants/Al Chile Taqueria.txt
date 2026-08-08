@@ -1,0 +1,25 @@
+Name: Al Chile Taqueria
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 38-09 69th Street, Woodside NY 11377
+Description: Not listed
+Website: Not listed
+Phone: +1 347-813-4382
+Email: Not listed
+Opening Hours: Th-Tu 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7468256
+Longitude: -73.8962467
+OpenStreetMap URL: https://www.openstreetmap.org/node/12762609920
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12762609920
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

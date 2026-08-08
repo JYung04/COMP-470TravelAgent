@@ -1,0 +1,25 @@
+Name: NYC Bagel Deli
+City: Chicago
+Category: restaurants
+Cuisine: sandwich
+Address: 515 North Clark Street, Chicago IL 60654
+Description: Not listed
+Website: http://www.nycbd.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 05:30-20:00; Sa 06:00-20:00; Su 06:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8914217
+Longitude: -87.6294449
+OpenStreetMap URL: https://www.openstreetmap.org/node/2578986751
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2578986751
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

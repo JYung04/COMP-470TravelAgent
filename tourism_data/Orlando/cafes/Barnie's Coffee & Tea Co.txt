@@ -1,0 +1,25 @@
+Name: Barnie's Coffee & Tea Co.
+City: Orlando
+Category: cafes
+Cuisine: coffee_shop
+Address: 12701 Pegasus Drive, Orlando FL 32816
+Description: Not listed
+Website: https://ucf.campusdish.com/LocationsAndMenus/CafeLibrary
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 07:30-22:00; Fr 07:30-17:00; Sa 11:00-16:30; Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.6001263
+Longitude: -81.2014219
+OpenStreetMap URL: https://www.openstreetmap.org/node/3456763131
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3456763131
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

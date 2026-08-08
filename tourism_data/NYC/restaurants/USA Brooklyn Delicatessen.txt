@@ -1,0 +1,24 @@
+Name: USA Brooklyn Delicatessen
+City: NYC
+Category: restaurants
+Cuisine: sandwich, pizza
+Address: 200 West 57th Street, New York 10019
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7653848
+Longitude: -73.980359
+OpenStreetMap URL: https://www.openstreetmap.org/node/1383955419
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1383955419
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Snail
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 1649 East 55th Street, Chicago IL 60615
+Description: Not listed
+Website: https://snailthai.com/
+Phone: +1-773-667-5423
+Email: Not listed
+Opening Hours: Tu-Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7951291
+Longitude: -87.584784
+OpenStreetMap URL: https://www.openstreetmap.org/node/2968215000
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2968215000
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

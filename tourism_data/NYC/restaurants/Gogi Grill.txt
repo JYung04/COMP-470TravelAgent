@@ -1,0 +1,25 @@
+Name: Gogi Grill
+City: NYC
+Category: restaurants
+Cuisine: Korean
+Address: 79 Hudson Street 07030
+Description: Not listed
+Website: Not listed
+Phone: +1 201-253-0885
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7362054
+Longitude: -74.029944
+OpenStreetMap URL: https://www.openstreetmap.org/node/6789145022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6789145022
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

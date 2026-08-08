@@ -1,0 +1,25 @@
+Name: M Social Hotel New York Times Square
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 226 West 52nd Street, New York NY 10019
+Description: Not listed
+Website: https://www.msocial.com/en/new-york/m-social-new-york/
+Phone: +1 212 315 0100
+Email: info@msocialhotelnewyork.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7627592
+Longitude: -73.9835908
+OpenStreetMap URL: https://www.openstreetmap.org/node/2717355355
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2717355355
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Hotel Riu Plaza New York Times Square
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 305 West 46th Street, New York NY 10036
+Description: Located a few steps from the iconic Times Square in Manhattan, the Riu Plaza New York Times Square Hotel offers its guests many services and facilities such as modern rooms, gym, meeting rooms, free Wi-Fi, restaurant and bar.
+Website: https://www.riu.com/en/hotel/united-states/new-york/hotel-riu-plaza-new-york-times-square
+Phone: +1-646-864-1100
+Email: hotel.plazanewyorkts@riu.com
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 40.7602043
+Longitude: -73.98819
+OpenStreetMap URL: https://www.openstreetmap.org/way/288431450
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/288431450
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

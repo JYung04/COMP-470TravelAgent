@@ -1,0 +1,24 @@
+Name: Almondine Bakery
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, pastry, sandwich
+Address: Not listed
+Description: Not listed
+Website: https://www.almondinebakery.com/
+Phone: +1-718-797-5026
+Email: Not listed
+Opening Hours: Mo-Sa 07:30-18:30; Su 09:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7033645
+Longitude: -73.9912069
+OpenStreetMap URL: https://www.openstreetmap.org/node/6719106993
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6719106993
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

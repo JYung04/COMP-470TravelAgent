@@ -1,0 +1,25 @@
+Name: TRYP Newark
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 24 East Park Street
+Description: Not listed
+Website: https://trypnewark.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7382189
+Longitude: -74.1680302
+OpenStreetMap URL: https://www.openstreetmap.org/way/413234888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/413234888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

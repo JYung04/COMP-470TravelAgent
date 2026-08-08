@@ -1,0 +1,25 @@
+Name: Wallace Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 607 West 92nd Street, Chicago IL 60620
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/wallace-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7265414
+Longitude: -87.6388424
+OpenStreetMap URL: https://www.openstreetmap.org/way/173011818
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/173011818
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Sugar Monk
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 2292 Frederick Douglass Boulevard, New York NY 10027
+Description: Not listed
+Website: https://sugarmonklounge.com/
+Phone: +1-917-409-0028
+Email: Not listed
+Opening Hours: Mo-Tu 18:00-24:00; We-Th 18:00-01:00; Fr-Sa 18:00-01:30; Su 18:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8089408
+Longitude: -73.9518174
+OpenStreetMap URL: https://www.openstreetmap.org/node/11580920969
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11580920969
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

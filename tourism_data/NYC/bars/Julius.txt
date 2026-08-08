@@ -1,0 +1,25 @@
+Name: Julius
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 159 West 10th Street, 10014
+Description: Not listed
+Website: https://www.timeout.com/newyork/bars/julius
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7345357
+Longitude: -74.00163
+OpenStreetMap URL: https://www.openstreetmap.org/node/2562439843
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2562439843
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Belli Osteria
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 860 Fulton Street, 11238
+Description: Not listed
+Website: https://www.bellibrooklyn.com
+Phone: +1-347-799-1230
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:30; Fr 17:00-23:00; Sa 11:00-16:00,17:00-23:00; Su 11:00-16:00,17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6833048
+Longitude: -73.9666221
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550153208
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550153208
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

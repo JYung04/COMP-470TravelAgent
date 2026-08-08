@@ -1,0 +1,25 @@
+Name: Rosebar
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1215 Connecticut Avenue Northwest, Washington DC 20036-2606
+Description: Not listed
+Website: https://rosebarlounge.com/
+Phone: +1-202-955-5525
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.906403
+Longitude: -77.041181
+OpenStreetMap URL: https://www.openstreetmap.org/node/4887024363
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4887024363
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

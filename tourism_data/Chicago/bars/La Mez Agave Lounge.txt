@@ -1,0 +1,25 @@
+Name: La Mez Agave Lounge
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 108 West Kinzie Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.mercaditorestaurants.com/la-mez/
+Phone: +1-312-329-9555
+Email: Not listed
+Opening Hours: Tu 16:00-01:00; We 16:00-00:00; Th 16:00-01:00; Fr 16:00-02:00; Sa 18:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8894187
+Longitude: -87.6315977
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458095753
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458095753
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

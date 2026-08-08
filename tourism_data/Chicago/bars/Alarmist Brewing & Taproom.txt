@@ -1,0 +1,25 @@
+Name: Alarmist Brewing & Taproom
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4055 West Peterson Avenue, Chicago IL 60646
+Description: rear building
+Website: https://alarmistbrewing.com
+Phone: +1-773-681-0877
+Email: Not listed
+Opening Hours: Mo-Th 16:00-23:00; Fr 12:00-00:00; Sa 23:00-00:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9898423
+Longitude: -87.7312928
+OpenStreetMap URL: https://www.openstreetmap.org/node/4923194675
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4923194675
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

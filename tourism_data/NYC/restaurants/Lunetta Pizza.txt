@@ -1,0 +1,24 @@
+Name: Lunetta Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza, italian
+Address: 1162 1st Avenue, New York NY 10065
+Description: Not listed
+Website: https://lunetta.pizza
+Phone: +1-212-758-8100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7624401
+Longitude: -73.959689
+OpenStreetMap URL: https://www.openstreetmap.org/node/12300150548
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12300150548
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

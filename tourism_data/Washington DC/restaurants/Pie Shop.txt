@@ -1,0 +1,25 @@
+Name: Pie Shop
+City: Washington DC
+Category: restaurants
+Cuisine: pie
+Address: 1339 H Street Northeast, Washington DC 20002
+Description: Restaurant, bar, and live music venue in Washington, DC
+Website: https://pieshopdc.com
+Phone: +1 202-398-7437
+Email: info@pieshopdc.com
+Opening Hours: We-Fr 12:00-24:00; Sa 11:00-24:00; Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.899918
+Longitude: -76.9869222
+OpenStreetMap URL: https://www.openstreetmap.org/way/55321103
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/55321103
+Price: $$
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; music

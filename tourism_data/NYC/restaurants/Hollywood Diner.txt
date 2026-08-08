@@ -1,0 +1,25 @@
+Name: Hollywood Diner
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 574 6th Avenue, 10011
+Description: Not listed
+Website: Not listed
+Phone: +1 212-691-8465
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 40.7387142
+Longitude: -73.9956231
+OpenStreetMap URL: https://www.openstreetmap.org/node/2478897572
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2478897572
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

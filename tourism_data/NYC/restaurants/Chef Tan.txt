@@ -1,0 +1,25 @@
+Name: Chef Tan
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 37 Saint Marks Place, 10003
+Description: Not listed
+Website: https://www.cheftannyc.com
+Phone: +1-212-253-5476
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7288592
+Longitude: -73.9880038
+OpenStreetMap URL: https://www.openstreetmap.org/node/9966728719
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9966728719
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

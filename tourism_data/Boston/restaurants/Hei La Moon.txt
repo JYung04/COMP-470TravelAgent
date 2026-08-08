@@ -1,0 +1,25 @@
+Name: Hei La Moon
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 83, 02111
+Description: Not listed
+Website: http://heilamoonrestaurant.com
+Phone: +1-617-338-8813
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-20:00; Sa-Su 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3524077
+Longitude: -71.0602069
+OpenStreetMap URL: https://www.openstreetmap.org/node/12451563501
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12451563501
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

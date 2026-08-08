@@ -1,0 +1,25 @@
+Name: Cabin
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 205 East 4th Street New York NY 10009
+Description: Not listed
+Website: https://thecabinnyc.com
+Phone: +1-212-777-0454
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6862404
+Longitude: -74.0256304
+OpenStreetMap URL: https://www.openstreetmap.org/way/1101688334
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1101688334
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: La Quinta Inn & Suites
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 333 West 38th Street, New York NY 10018
+Description: Not listed
+Website: https://www.wyndhamhotels.com/laquinta/new-york-city-new-york/la-quinta-by-wyndham-manhattan-midtown/overview
+Phone: +1 718-690-3294
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7555504
+Longitude: -73.993029
+OpenStreetMap URL: https://www.openstreetmap.org/way/265296151
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265296151
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

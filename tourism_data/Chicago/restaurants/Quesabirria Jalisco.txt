@@ -1,0 +1,25 @@
+Name: Quesabirria Jalisco
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1314 West 18th Street, Chicago IL 60608
+Description: Not listed
+Website: Not listed
+Phone: +17737712123
+Email: Not listed
+Opening Hours: Tu-Sa 11:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8580162
+Longitude: -87.6595637
+OpenStreetMap URL: https://www.openstreetmap.org/node/5928912596
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5928912596
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

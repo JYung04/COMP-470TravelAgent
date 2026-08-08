@@ -1,0 +1,25 @@
+Name: Bund Dumpling House
+City: NYC
+Category: restaurants
+Cuisine: shanghaiese
+Address: 25-08 Broadway, 11106
+Description: Not listed
+Website: https://www.bundumplingsnyc.com/
+Phone: +1 718-971-5465
+Email: bunddumplinghouse@gmail.com
+Opening Hours: Mo-Th 11:30-15:30, 16:30-21:30; Fr 11:30-15:00, 16:30-21:45; Sa 11:30-21:45; Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.76315
+Longitude: -73.9282227
+OpenStreetMap URL: https://www.openstreetmap.org/node/12729352579
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12729352579
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

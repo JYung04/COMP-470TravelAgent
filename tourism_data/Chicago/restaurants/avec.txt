@@ -1,0 +1,25 @@
+Name: avec
+City: Chicago
+Category: restaurants
+Cuisine: mediterranean
+Address: 615 West Randolph Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.avecrestaurant.com/
+Phone: +1-312-377-2002
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-14:00; Su-Th 15:30-23:00; Fr-Sa 15:30-00:00; Su 10:00-12:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8842277
+Longitude: -87.6433844
+OpenStreetMap URL: https://www.openstreetmap.org/node/5168217739
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5168217739
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

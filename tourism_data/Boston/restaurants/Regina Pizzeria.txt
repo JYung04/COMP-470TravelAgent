@@ -1,0 +1,25 @@
+Name: Regina Pizzeria
+City: Boston
+Category: restaurants
+Cuisine: pizza
+Address: 1330 Boylston Street, Boston MA 02215
+Description: Not listed
+Website: http://www.reginapizzeria.com/fenway.html
+Phone: +1-617-266-9210
+Email: Not listed
+Opening Hours: Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.344243
+Longitude: -71.0981022
+OpenStreetMap URL: https://www.openstreetmap.org/node/7711828644
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7711828644
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

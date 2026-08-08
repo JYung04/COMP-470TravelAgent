@@ -1,0 +1,25 @@
+Name: The Grove Resort & Water Park Orlando
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 14501 Grove Resort Ave, Winter Garden FL 34787
+Description: Not listed
+Website: https://www.groveresortorlando.com/
+Phone: +1 407-545-7500
+Email: reservations@groveresortorlando.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3612429
+Longitude: -81.6493527
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2054718
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2054718
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

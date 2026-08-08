@@ -1,0 +1,24 @@
+Name: Americana Inn
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 69 West 38th Street, 10018
+Description: Not listed
+Website: http://www.theamericanainn.com
+Phone: (212) 840-6700
+Email: americana@newyorkhotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7522336
+Longitude: -73.9855082
+OpenStreetMap URL: https://www.openstreetmap.org/node/2709702525
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2709702525
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Nymph (Central Figure for "The Three Nymphs")
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: 1930, cast by 1953
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8888861
+Longitude: -77.0224497
+OpenStreetMap URL: https://www.openstreetmap.org/node/917753377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/917753377
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: Taberna Grill
+City: NYC
+Category: restaurants
+Cuisine: Portuguese, American, Nuevo Latino
+Address: 1060 Sheridan Ave, Elizabeth, NJ 07208, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 908-282-0725
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6884611
+Longitude: -74.2078994
+OpenStreetMap URL: https://www.openstreetmap.org/way/1179638156
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1179638156
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

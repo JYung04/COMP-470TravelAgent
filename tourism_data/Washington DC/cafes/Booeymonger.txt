@@ -1,0 +1,25 @@
+Name: Booeymonger
+City: Washington DC
+Category: cafes
+Cuisine: deli
+Address: 5252 Wisconsin Avenue Northwest, 20015
+Description: Not listed
+Website: http://www.booeymonger.com/
+Phone: +1 202-686-5805
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9588663
+Longitude: -77.084981
+OpenStreetMap URL: https://www.openstreetmap.org/node/736998225
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/736998225
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

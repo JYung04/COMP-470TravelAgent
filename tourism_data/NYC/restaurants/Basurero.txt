@@ -1,0 +1,25 @@
+Name: Basurero
+City: NYC
+Category: restaurants
+Cuisine: latin_american
+Address: 32-17 Steinway Street, Astoria NY 11103
+Description: Not listed
+Website: Not listed
+Phone: +1 718 545 7077
+Email: Not listed
+Opening Hours: Mo-Th, Su 10:00-00:00; Fr
+Wheelchair Accessibility: yes
+Latitude: 40.7585291
+Longitude: -73.9191613
+OpenStreetMap URL: https://www.openstreetmap.org/node/4971235210
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4971235210
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

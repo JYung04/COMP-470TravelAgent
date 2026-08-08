@@ -1,0 +1,24 @@
+Name: Teashi
+City: Washington DC
+Category: restaurants
+Cuisine: bubble_tea, chinese
+Address: 1234 19th Street Northwest, 20036
+Description: Not listed
+Website: https://www.teashidc.com/
+Phone: +1 202 506 5568
+Email: DcTeashi@gmail.com
+Opening Hours: Mo-Sa 10:00-21:00; Su 15:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9069248
+Longitude: -77.0436651
+OpenStreetMap URL: https://www.openstreetmap.org/node/13534606801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13534606801
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

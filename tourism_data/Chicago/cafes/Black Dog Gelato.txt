@@ -1,0 +1,25 @@
+Name: Black Dog Gelato
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 859 North Damen Avenue, Chicago IL 60622-4907
+Description: Not listed
+Website: https://blackdoggelato.com/
+Phone: +1-773-235-3116
+Email: Not listed
+Opening Hours: Su-Sa 14:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8976391
+Longitude: -87.6769711
+OpenStreetMap URL: https://www.openstreetmap.org/node/11148304670
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11148304670
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

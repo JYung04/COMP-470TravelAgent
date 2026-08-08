@@ -1,0 +1,24 @@
+Name: Rico Pollo 1 Ridgewood
+City: NYC
+Category: restaurants
+Cuisine: colombian, coffee, chicken
+Address: 55-37 Myrtle Avenue
+Description: Not listed
+Website: http://www.ricopollorestaurant.com/
+Phone: +1-718-497-1000
+Email: Not listed
+Opening Hours: Mo-Su 08:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7001331
+Longitude: -73.9072579
+OpenStreetMap URL: https://www.openstreetmap.org/node/5540447973
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5540447973
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

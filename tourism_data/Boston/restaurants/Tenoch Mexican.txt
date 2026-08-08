@@ -1,0 +1,25 @@
+Name: Tenoch Mexican
+City: Boston
+Category: restaurants
+Cuisine: mexican
+Address: 3 Lewis St
+Description: Who knew that the Boston neighborhood inextricably associated with Italian food would happen to be home to one of Boston’s best Mexican restaurants ? Anyone who has been to Tenoch, that’s who. The Medford-born mini-chain of restaurants opened in the North End in 2014, and we’ve been fiending for the tortas ever since. When you’re not chomping on telera bread sandwiches stuffed with chorizo and gooey Oaxacan cheese, though, you’ll find equally tremendous tacos, burritos, enchiladas, and more. 3 Lewis St., North End, Boston, 617-248-9537, tenochmexican.com .
+Website: https://www.tenochmexican.com
+Phone: 617-248-9537
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3632994
+Longitude: -71.0518243
+OpenStreetMap URL: https://www.openstreetmap.org/node/11284122351
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11284122351
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

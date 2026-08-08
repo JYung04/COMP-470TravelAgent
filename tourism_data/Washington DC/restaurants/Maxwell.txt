@@ -1,0 +1,25 @@
+Name: Maxwell
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 1336 9th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.maxwellparkdc.com/
+Phone: +1 202-792-9522
+Email: hello@maxwellparkdc.com
+Opening Hours: Mo-Th 17:00-00:00; Fr 17:00-01:00, Sa 15:00-01:00, Su 15:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9084206
+Longitude: -77.0241595
+OpenStreetMap URL: https://www.openstreetmap.org/node/774321289
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/774321289
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

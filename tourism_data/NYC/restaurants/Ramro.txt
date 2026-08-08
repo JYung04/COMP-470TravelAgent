@@ -1,0 +1,25 @@
+Name: Ramro
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 30-93 38th Street
+Description: Not listed
+Website: https://www.ramronyc.com/
+Phone: +1-347-507-1418
+Email: hello@ramronyc.com
+Opening Hours: Th-Fr 17:00-22:30; Sa 18:00-22:00; Su 16:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7618778
+Longitude: -73.9176064
+OpenStreetMap URL: https://www.openstreetmap.org/node/13073114764
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13073114764
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

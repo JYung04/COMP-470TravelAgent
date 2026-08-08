@@ -1,0 +1,25 @@
+Name: The Dignitary
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 901 Massachusetts Avenue Northwest, Washington DC 20001-4307
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/wasco-marriott-marquis-washington-dc/dining/
+Phone: +1 202-824-9681
+Email: Not listed
+Opening Hours: 17:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9032477
+Longitude: -77.0242308
+OpenStreetMap URL: https://www.openstreetmap.org/node/11148862805
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11148862805
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

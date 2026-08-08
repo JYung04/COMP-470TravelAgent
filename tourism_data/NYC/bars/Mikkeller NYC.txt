@@ -1,0 +1,25 @@
+Name: Mikkeller NYC
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 123-01 Roosevelt Avenue, Queens NY 11368
+Description: Not listed
+Website: https://www.mikkellernyc.com/
+Phone: +1 718 766 2717
+Email: Not listed
+Opening Hours: We-Th 16:00-22:00; Fr-Sa 12:00-00:00; Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7569588
+Longitude: -73.844344
+OpenStreetMap URL: https://www.openstreetmap.org/node/5914855281
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5914855281
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

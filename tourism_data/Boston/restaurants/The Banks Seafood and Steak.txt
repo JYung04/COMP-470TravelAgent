@@ -1,0 +1,24 @@
+Name: The Banks Seafood and Steak
+City: Boston
+Category: restaurants
+Cuisine: seafood, steak_house
+Address: 406 Stuart Street, Boston MA 02116
+Description: Owned by the same people behind Best of Boston hall-of-famer steakhouse Grill 23, the Banks offers elevated takes on classic New England seafood—like the award-winning chowder —and special-occasion-worthy entrees like grilled branzino with dill pesto and nectarines or the deliciously brown-buttery Dover sole meunière. Make the night extra-fancy with a seafood tower or caviar service. Or—why not?— both . Plus: an oyster vodka martini . 406 Stuart St., Back Bay, Boston, 617-399-0015, thebanksboston.com . The Barking Crab is like a year-round vacation on the Fort Point Channel. / Brian Samuels Photography
+Website: https://thebanksboston.com/
+Phone: 617-399-0015
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3488696
+Longitude: -71.0740539
+OpenStreetMap URL: https://www.openstreetmap.org/node/12215029184
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12215029184
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

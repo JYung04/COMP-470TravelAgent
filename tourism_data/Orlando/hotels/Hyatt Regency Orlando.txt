@@ -1,0 +1,25 @@
+Name: Hyatt Regency Orlando
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 9801 International Drive, Orlando FL 32819
+Description: For stays of up to six nights at Hyatt Regency Orlando , you can bring one dog up to 50 pounds or two dogs with a combined weight of 75 pounds for a nonrefundable $150 per stay. Fees for longer stays are based on the resort’s discretion. (Please let them know about your traveling companion at least three days before your arrival.) Pet amenities include bowls, treats and beds. Hyatt Regency Orlando is steps from Pointe Orlando . Discover: Things to Do at Pointe Orlando
+Website: https://orlando.regency.hyatt.com/en/hotel/home.html
+Phone: +1 407-284-1234
+Email: orlando.regency@hyatt.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4271282
+Longitude: -81.467039
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18651995
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/18651995
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

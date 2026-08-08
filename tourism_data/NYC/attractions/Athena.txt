@@ -1,0 +1,25 @@
+Name: Athena
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 535 6th Avenue 11215
+Description: Not listed
+Website: https://athenacuisine.com/
+Phone: +1-718-965-4578
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7675886
+Longitude: -73.9224983
+OpenStreetMap URL: https://www.openstreetmap.org/node/8551009542
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8551009542
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

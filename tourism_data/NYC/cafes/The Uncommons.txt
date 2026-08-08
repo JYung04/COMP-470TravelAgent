@@ -1,0 +1,25 @@
+Name: The Uncommons
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 230 Thompson Street, New York NY 10012
+Description: The Uncommons is a board game café in New York City established in 2013, located at 230 Thompson Street in Greenwich Village. It has claimed to be the first board game café in Manhattan, and the largest board game library on the East Coast.
+Website: https://uncommonsnyc.com
+Phone: +1-646-543-9215
+Email: us@uncommonsnyc.com
+Opening Hours: Mo-Th 10:00-23:00, Fr-Sa 10:00-24:00, Su 10:00-23:00
+Wheelchair Accessibility: no
+Latitude: 40.729416
+Longitude: -73.9987086
+OpenStreetMap URL: https://www.openstreetmap.org/node/3233791134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3233791134
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

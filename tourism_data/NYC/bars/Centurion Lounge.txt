@@ -1,0 +1,24 @@
+Name: Centurion Lounge
+City: NYC
+Category: bars
+Cuisine: Airport Lounge
+Address: Terminal B, 4th Fl (LaGuardia Airport), Queens, NY 11371
+Description: Not listed
+Website: https://thecenturionlounge.com/locations/lga/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Fr,Su,Mo 05:00-22:00; Tu,Sa 05:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7728583
+Longitude: -73.8708888
+OpenStreetMap URL: https://www.openstreetmap.org/node/12467271460
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12467271460
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

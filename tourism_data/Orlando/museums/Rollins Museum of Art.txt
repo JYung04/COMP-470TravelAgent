@@ -1,0 +1,25 @@
+Name: Rollins Museum of Art
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Art-lovers won’t want to miss the Rollins Museum of Art at Rollins College in Winter Park — and not just because admission is always free. Inside, you can explore a massive permanent collection of more than 5,600 objects, encompassing everything from ancient art and artifacts to contemporary pieces. Rollins Museum of Art also hosts rotating exhibitions and ongoing programs, including a children’s education gallery with fun, hands-on activities to encourage creativity and cognitive skills. Want m
+Website: https://www.rollins.edu/rma/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu 10:00-19:00; We-Fr 10:00-16:00; Sa,Su 12:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5921643
+Longitude: -81.3462235
+OpenStreetMap URL: https://www.openstreetmap.org/way/538094873
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/538094873
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; families; art

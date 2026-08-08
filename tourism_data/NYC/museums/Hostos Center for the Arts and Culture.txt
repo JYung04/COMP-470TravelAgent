@@ -1,0 +1,25 @@
+Name: Hostos Center for the Arts and Culture
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 450 Grand Concourse, Bronx NY 10451
+Description: Hostos Center for the Arts & Culture is a performing arts and visual arts center located within Hostos Community College in the South Bronx, New York City. Hostos Center consists of a museum-grade art gallery, a 367-seat repertory theater, and an 884-seat main theater. The building design is the work of the architectural firm Gwathmey Siegel & Associates who was honored with the 1988 Excellence in Design Award from the Art Commission of the City of New York for their design.
+Website: Not listed
+Phone: +1 718-518-4455
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8175297
+Longitude: -73.9274623
+OpenStreetMap URL: https://www.openstreetmap.org/node/4455068893
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4455068893
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

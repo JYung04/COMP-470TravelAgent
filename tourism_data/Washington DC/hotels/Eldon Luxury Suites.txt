@@ -1,0 +1,25 @@
+Name: Eldon Luxury Suites
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 933 L Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.thehoteleldon.com/
+Phone: +1 202-617-2123
+Email: Hoteleldon@gmail.com
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 38.904386
+Longitude: -77.02541
+OpenStreetMap URL: https://www.openstreetmap.org/node/774328216
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/774328216
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

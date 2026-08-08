@@ -1,0 +1,24 @@
+Name: El Anzuelo Fino
+City: NYC
+Category: restaurants
+Cuisine: peruvian, seafood
+Address: 86-01 Northern Boulevard, Woodhaven 11369
+Description: Not listed
+Website: https://elanzuelofino.nyc
+Phone: +1-718-846-0909
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.756116
+Longitude: -73.8815331
+OpenStreetMap URL: https://www.openstreetmap.org/node/5344147347
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5344147347
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

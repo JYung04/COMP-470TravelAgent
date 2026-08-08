@@ -1,0 +1,25 @@
+Name: District Architecture Center
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 421 7th Street Northwest, Washington
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.895467
+Longitude: -77.021742
+OpenStreetMap URL: https://www.openstreetmap.org/node/3827008958
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3827008958
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; architecture

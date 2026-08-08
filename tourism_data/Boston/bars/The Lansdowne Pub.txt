@@ -1,0 +1,25 @@
+Name: The Lansdowne Pub
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 9 Lansdowne Street, Boston MA 02215
+Description: Come join us at Fenway's Favorite Irish Pub! The Lansdowne Pub and sister venue, Bills Bar, offer Irish-American cuisine and live entertainment every night of the week! Opening in 2009, the Lansdowne pub has become a gathering spot where community members can come together to socialize, rejoice, and connect over a drink or music. Bills Bar, which has been around since 1998, has kept its original rock bar identity among the ever changing landscape of Boston’s famous Lansdowne Street. Dark, gritty, and iconic, the same venue stands where legends Nirvana, Guns & Roses, and Aerosmith have tuned their instruments.
+Website: https://www.lansdownepubboston.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3473454
+Longitude: -71.0951514
+OpenStreetMap URL: https://www.openstreetmap.org/node/1712242961
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1712242961
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; music

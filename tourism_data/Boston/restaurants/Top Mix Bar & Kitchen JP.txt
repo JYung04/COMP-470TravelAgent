@@ -1,0 +1,24 @@
+Name: Top Mix Bar & Kitchen JP
+City: Boston
+Category: restaurants
+Cuisine: caribbean, american
+Address: 365 Centre Street, Jamaica Plain MA 02130
+Description: Not listed
+Website: https://www.topmixbar.com/
+Phone: +1-617-477-3593
+Email: TopMixBarJP@gmail.com
+Opening Hours: Mo-Tu 16:00-23:00; We-Th 11:00-23:00; Fr-Sa 01:00+, Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3225384
+Longitude: -71.1082921
+OpenStreetMap URL: https://www.openstreetmap.org/node/4903031617
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4903031617
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

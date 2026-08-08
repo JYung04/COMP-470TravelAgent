@@ -1,0 +1,25 @@
+Name: Village Creperie
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 933 Amsterdam Avenue, New York NY 10025
+Description: Not listed
+Website: https://villagecreperienyc.com/
+Phone: +1-917-675-6366
+Email: villagecreperie@hotmail.com
+Opening Hours: Mo-Su 07:00-21:00
+Wheelchair Accessibility: no
+Latitude: 40.8001564
+Longitude: -73.9656732
+OpenStreetMap URL: https://www.openstreetmap.org/node/9654088074
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9654088074
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Jaleo by José Andrés
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 1482 East Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3705849
+Longitude: -81.5211763
+OpenStreetMap URL: https://www.openstreetmap.org/way/292448104
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/292448104
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

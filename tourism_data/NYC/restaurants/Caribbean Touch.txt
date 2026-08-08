@@ -1,0 +1,25 @@
+Name: Caribbean Touch
+City: NYC
+Category: restaurants
+Cuisine: Caribbean
+Address: 318 Orange Rd, Montclair, NJ 07042, United States
+Description: Not listed
+Website: http://caribbeantouchnj.com/
+Phone: +1 973-744-1783
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7974095
+Longitude: -74.2191142
+OpenStreetMap URL: https://www.openstreetmap.org/node/6916700014
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6916700014
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Earl's
+City: Washington DC
+Category: restaurants
+Cuisine: sandwich
+Address: 2601 Wilson Boulevard, Arlington
+Description: Not listed
+Website: https://www.earlsinarlington.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-20:00; Sa 09:00-20:00; Su 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8900738
+Longitude: -77.0899888
+OpenStreetMap URL: https://www.openstreetmap.org/node/575381781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/575381781
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

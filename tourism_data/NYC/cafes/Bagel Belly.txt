@@ -1,0 +1,24 @@
+Name: Bagel Belly
+City: NYC
+Category: cafes
+Cuisine: bagel, sandwich
+Address: 114 3rd Avenue, New York 10003
+Description: Not listed
+Website: https://www.bagelbelly.com
+Phone: +1-212-353-2299
+Email: Not listed
+Opening Hours: Mo-Th 06:30-15:30; Fr 06:30-16:00; Sa 07:00-16:00; Su 08:00-15:30
+Wheelchair Accessibility: yes
+Latitude: 40.7330728
+Longitude: -73.9877024
+OpenStreetMap URL: https://www.openstreetmap.org/way/247862492
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/247862492
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

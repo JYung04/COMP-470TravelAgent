@@ -1,0 +1,25 @@
+Name: Perkolator
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 6032 West Irving Park Road, Chicago IL 60634
+Description: Not listed
+Website: https://perkolatorcoffee.com/
+Phone: +1-773-853-2261
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-18:00; Sa-Su 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9531703
+Longitude: -87.7782559
+OpenStreetMap URL: https://www.openstreetmap.org/node/2517762055
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2517762055
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

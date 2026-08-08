@@ -1,0 +1,25 @@
+Name: Alpana
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 831 North State Street, Chicago IL 60610
+Description: The newest season wastes no time highlighting another landmark Chicago restaurant: Alpana , the downtown spot run by notable Chicagoan and former Check Please! host, Alpana Singh. In episode two, Sweeps visits the elegant bistro for guidance from Alpana about wine pairings. Singh is a real-life master sommelier, who was the youngest woman and the first of South Asian heritage to pass the rigorous test. Her namesake restaurant serves up a refined menu of Italian-inspired dishes with an exceptiona
+Website: https://www.alpanachicago.com/
+Phone: +1-312-624-8055
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8978761
+Longitude: -87.6280668
+OpenStreetMap URL: https://www.openstreetmap.org/node/6321265727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6321265727
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

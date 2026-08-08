@@ -1,0 +1,25 @@
+Name: Home2 Suites
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 15 Jan Karski Way, Boston MA 02125
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/bosbyht-home2-suites-boston-south-bay/
+Phone: +1 617-297-5393
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.326005
+Longitude: -71.0608199
+OpenStreetMap URL: https://www.openstreetmap.org/way/816690586
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/816690586
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Round Robin Bar
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1401 Pennsylvania Avenue Northwest, Washington DC 20004-1005
+Description: Not listed
+Website: https://washington.intercontinental.com/food-drink/round-robin-bar/
+Phone: +1 202-628-9100
+Email: Not listed
+Opening Hours: Mo 14:00-24:00; Tu-Th 16:00-24:00; Fr-Su 13:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.89646
+Longitude: -77.032238
+OpenStreetMap URL: https://www.openstreetmap.org/node/734267231
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/734267231
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

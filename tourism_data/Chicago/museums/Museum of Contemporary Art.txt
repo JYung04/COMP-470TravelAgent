@@ -1,0 +1,25 @@
+Name: Museum of Contemporary Art
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 220 East Chicago Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://mcachicago.org/
+Phone: +1-312-280-2660
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8972189
+Longitude: -87.6212206
+OpenStreetMap URL: https://www.openstreetmap.org/way/24800223
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/24800223
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

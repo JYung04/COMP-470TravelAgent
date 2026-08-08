@@ -1,0 +1,24 @@
+Name: Aloft Orlando Lake Buena Vista
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 7950 Palm Parkway, Orlando FL 32836
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/mcoav-aloft-orlando-lake-buena-vista
+Phone: (407) 778-7600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3929308
+Longitude: -81.4948906
+OpenStreetMap URL: https://www.openstreetmap.org/way/840365441
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/840365441
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

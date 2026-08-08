@@ -1,0 +1,25 @@
+Name: Ethan Cohen Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 251 West 19th Street, New York NY 10011
+Description: Not listed
+Website: https://www.ecfa.com
+Phone: +1-212-625-1250
+Email: ecfa@ecfa.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.742528
+Longitude: -73.9991606
+OpenStreetMap URL: https://www.openstreetmap.org/node/10873303790
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10873303790
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

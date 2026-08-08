@@ -1,0 +1,25 @@
+Name: North End Lobster Co
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 204 Hanover Street, Boston MA 02113
+Description: Not listed
+Website: https://www.nelobsterco.com/
+Phone: +1-617-377-4230
+Email: Not listed
+Opening Hours: Mo-We 15:30-22:00; Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3628001
+Longitude: -71.0556693
+OpenStreetMap URL: https://www.openstreetmap.org/node/13399197645
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13399197645
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

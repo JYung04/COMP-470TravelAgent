@@ -1,0 +1,25 @@
+Name: Ivey Lane Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 291 Silverton Street, Orlando, FL 32811
+Description: Ivey Lane Park has a playground, picnic tables and other amenities for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Ivey-Lane-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5448717
+Longitude: -81.4366583
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1169899
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1169899
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

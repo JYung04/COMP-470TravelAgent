@@ -1,0 +1,25 @@
+Name: The Peninsula Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 108 East Superior Street, Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8962125
+Longitude: -87.6249761
+OpenStreetMap URL: https://www.openstreetmap.org/way/153966966
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/153966966
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

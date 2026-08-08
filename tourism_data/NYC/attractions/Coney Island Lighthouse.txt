@@ -1,0 +1,25 @@
+Name: Coney Island Lighthouse
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 4705 Beach 47th Street, Brooklyn NY 11224
+Description: Frank Schubert, the last civilian keeper at Coney Island Lighthouse, manned the light from 1960 until his death in 2003, even though the light was automated in 1989. He saved 15 lives and was honored at the White House by President George H. W. Bush.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5766049
+Longitude: -74.011763
+OpenStreetMap URL: https://www.openstreetmap.org/way/1185754230
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1185754230
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: Insomnia Cookies
+City: Washington DC
+Category: cafes
+Cuisine: cookie
+Address: 1924 8th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://insomniacookies.com/
+Phone: +1-202-747-6679
+Email: Not listed
+Opening Hours: Mo-We 11:00-01:00; Th-Fr 11:00-03:00; Sa 12:00-03:00; Su 12:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9163875
+Longitude: -77.02252
+OpenStreetMap URL: https://www.openstreetmap.org/node/11367336441
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11367336441
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

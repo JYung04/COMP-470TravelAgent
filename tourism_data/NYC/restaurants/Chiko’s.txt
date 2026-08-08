@@ -1,0 +1,25 @@
+Name: Chiko’s
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 954 Manhattan Ave
+Description: Not listed
+Website: Not listed
+Phone: +1-917-909-0580
+Email: Not listed
+Opening Hours: Su 14:00-21:00; We-Fr 12:00-21:00; Sa 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7318991
+Longitude: -73.9542272
+OpenStreetMap URL: https://www.openstreetmap.org/node/13318560443
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13318560443
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

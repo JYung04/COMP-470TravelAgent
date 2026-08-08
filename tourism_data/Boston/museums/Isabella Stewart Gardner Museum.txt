@@ -1,0 +1,25 @@
+Name: Isabella Stewart Gardner Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 25 Evans Way, Boston MA 02115
+Description: You are invited to hold your special event at one of Boston's most unique locations—the Isabella Stewart Gardner Museum. The Gardner Museum has been the scene of elegant entertaining since 1903, when Isabella Stewart Gardner opened her unique, Venetian-inspired museum with her own grand celebration. Today, we continue this tradition by offering organizations and individuals the opportunity to enjoy exclusive access to the museum's renowned collection while also supporting one of New England's cultural treasures. The Gardner Museum provides a magnificent setting for every occasion--from cocktail receptions and intimate luncheons to business meetings and seated dinners. With the opening of the new wing designed by Pritzker Prize-winning architect Renzo Piano, the museum has been opened up to include contemporary visitor amenities and purpose-built spaces for its dynamic programming, while restoring and preserving the historic galleries and incomparable courtyard garden. We.
+Website: https://www.gardnermuseum.org/
+Phone: +1-617-566-1401
+Email: Not listed
+Opening Hours: We-Mo
+Wheelchair Accessibility: Not listed
+Latitude: 42.3382381
+Longitude: -71.0990448
+OpenStreetMap URL: https://www.openstreetmap.org/way/29650851
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29650851
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: isabella stewart gardner museum
+Best For: museums and culture; art; gardens

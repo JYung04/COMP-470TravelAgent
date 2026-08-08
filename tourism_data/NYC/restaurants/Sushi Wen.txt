@@ -1,0 +1,24 @@
+Name: Sushi Wen
+City: NYC
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 856 Castleton Avenue, Staten Island NY 10310
+Description: Not listed
+Website: Not listed
+Phone: +1-718-816-8279
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:30; Fr-Sa 11:00-23:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6346276
+Longitude: -74.1108874
+OpenStreetMap URL: https://www.openstreetmap.org/node/2526690073
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2526690073
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

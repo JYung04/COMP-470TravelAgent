@@ -1,0 +1,24 @@
+Name: David Friend Recital Hall
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 921 Boylston Street, Boston MA 02115
+Description: Not listed
+Website: http://www.berklee.edu/events/david-friend-recital-hall
+Phone: (617) 266-1400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3484376
+Longitude: -71.0846087
+OpenStreetMap URL: https://www.openstreetmap.org/node/7606994890
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7606994890
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

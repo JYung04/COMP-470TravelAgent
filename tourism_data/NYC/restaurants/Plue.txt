@@ -1,0 +1,25 @@
+Name: Plue
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 1575 Lexington Avenue, 10029
+Description: Not listed
+Website: https://www.pluenyc.com
+Phone: +1 929-635-2456
+Email: plue.nyc@gmail.com
+Opening Hours: Mo-Su 11:30-15:30, 16:45-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7889193
+Longitude: -73.9485485
+OpenStreetMap URL: https://www.openstreetmap.org/node/5801889162
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5801889162
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

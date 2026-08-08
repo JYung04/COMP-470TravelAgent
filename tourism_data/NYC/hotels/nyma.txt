@@ -1,0 +1,25 @@
+Name: nyma
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 6 West 32nd Street, New York NY 10001
+Description: Not listed
+Website: http://thenewyorkmanhattanhotel.com/
+Phone: +1 212-643-7100
+Email: reservations@hotelnyma.com
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7472697
+Longitude: -73.9863456
+OpenStreetMap URL: https://www.openstreetmap.org/way/265260921
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265260921
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

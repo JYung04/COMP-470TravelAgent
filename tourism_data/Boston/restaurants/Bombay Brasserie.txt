@@ -1,0 +1,25 @@
+Name: Bombay Brasserie
+City: Boston
+Category: restaurants
+Cuisine: indian
+Address: 53 West Street, Boston PE21 8QN
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.976288
+Longitude: -0.0284236
+OpenStreetMap URL: https://www.openstreetmap.org/node/3282422663
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3282422663
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Sligo Creek Stream Valley Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Stream Valley Park
+Website: https://www.montgomeryparks.org/parks-and-trails/sligo-creek-stream-valley-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 39.0035423
+Longitude: -77.0083315
+OpenStreetMap URL: https://www.openstreetmap.org/relation/7352257
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/7352257
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

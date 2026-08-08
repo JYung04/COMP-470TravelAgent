@@ -1,0 +1,24 @@
+Name: Steak N Egg Diner
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 4700 Wisconsin Avenue Northwest, Washington DC 20016
+Description: Not listed
+Website: https://www.steakneggdiner.com/
+Phone: +1-202-686-1201
+Email: Not listed
+Opening Hours: Mo-Th 07:00-21:00; Fr 07:00-24:00; Sa 00:00-24:00; Su 00:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9512729
+Longitude: -77.0811579
+OpenStreetMap URL: https://www.openstreetmap.org/node/808100357
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/808100357
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

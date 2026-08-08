@@ -1,0 +1,25 @@
+Name: Ethiopic Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: ethiopian
+Address: 401 H Street Northeast, 20002
+Description: You’ll find Ethiopic at the start of H Street’s west side. Its soothing neighborhood atmosphere and consistently great food has made it a staple of one of DC's most popular streets. The ambiance here is cozy and the food is perfect for sharing. Try the Awaze Tibs: cubed prime beef sautéed in berbere sauce, onions, tomatoes and peppers. Don’t eat meat? The vegetarian sampler is a must.
+Website: https://www.ethiopicrestaurant.com/
+Phone: +1-202-675-2066
+Email: Not listed
+Opening Hours: Tu-Th 17:00-22:00; Fr-Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 38.9000242
+Longitude: -77.0003904
+OpenStreetMap URL: https://www.openstreetmap.org/node/737405002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737405002
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

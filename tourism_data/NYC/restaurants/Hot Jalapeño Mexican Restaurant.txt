@@ -1,0 +1,25 @@
+Name: Hot Jalapeño Mexican Restaurant
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 219 East 116th Street, New York NY 10029
+Description: Not listed
+Website: https://hotjalapenonyc.com
+Phone: +1 646-351-6895
+Email: hotjalapeno116@gmail.com
+Opening Hours: Tu-Th 12:00-22:00; Fr, Sa 12:00-23:00; Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7976941
+Longitude: -73.9390545
+OpenStreetMap URL: https://www.openstreetmap.org/node/4971119410
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4971119410
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Kayu
+City: Washington DC
+Category: restaurants
+Cuisine: filipino
+Address: 1633 17th Street Northwest, Washington DC 20009
+Description: Not listed
+Website: Not listed
+Phone: +1 202-388-7878
+Email: hellokayu@hirayadc.com
+Opening Hours: Su, Tu-Th 17:00-22:00; Fr-Sa 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9122692
+Longitude: -77.0382644
+OpenStreetMap URL: https://www.openstreetmap.org/node/11018757664
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11018757664
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

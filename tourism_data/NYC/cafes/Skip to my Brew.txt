@@ -1,0 +1,25 @@
+Name: Skip to my Brew
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 145 Valley Road, 07042
+Description: Not listed
+Website: Not listed
+Phone: +1-732-943-4870
+Email: Not listed
+Opening Hours: Tu-Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8228314
+Longitude: -74.2192274
+OpenStreetMap URL: https://www.openstreetmap.org/node/12647765401
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12647765401
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

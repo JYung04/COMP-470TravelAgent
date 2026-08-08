@@ -1,0 +1,25 @@
+Name: Cha Chang Tang
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 10013
+Description: Not listed
+Website: http://cha-chan-tang.com
+Phone: +12125772888
+Email: Not listed
+Opening Hours: Mo-Su 07:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7152633
+Longitude: -73.9988232
+OpenStreetMap URL: https://www.openstreetmap.org/node/7125925886
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7125925886
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

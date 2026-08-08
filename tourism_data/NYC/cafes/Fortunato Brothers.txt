@@ -1,0 +1,25 @@
+Name: Fortunato Brothers
+City: NYC
+Category: cafes
+Cuisine: pastry
+Address: 289 Manhattan Avenue, Brooklyn NY 11211
+Description: Not listed
+Website: https://www.fortunatobrothers.com/
+Phone: +1-718-387-2281
+Email: Not listed
+Opening Hours: 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7137679
+Longitude: -73.9461019
+OpenStreetMap URL: https://www.openstreetmap.org/node/3805991016
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3805991016
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Ace Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 531 East 5th Street
+Description: Not listed
+Website: https://acebar.com/
+Phone: +1-212-979-8476
+Email: reservations@acebar.com
+Opening Hours: Mo-Fr 15:00-04:00; Sa, Su 13:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7243649
+Longitude: -73.9829025
+OpenStreetMap URL: https://www.openstreetmap.org/node/6709864873
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6709864873
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

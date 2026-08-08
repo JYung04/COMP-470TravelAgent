@@ -1,0 +1,25 @@
+Name: Reclamation Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 817 Metropolitan Avenue, 11211
+Description: Not listed
+Website: https://www.reclamationbar.com
+Phone: +1 718-387-5178
+Email: info@reclamationbar.com
+Opening Hours: Mo-Th 14:00-04:00; Fr-Su 12:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7148154
+Longitude: -73.9415959
+OpenStreetMap URL: https://www.openstreetmap.org/node/5501191105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5501191105
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

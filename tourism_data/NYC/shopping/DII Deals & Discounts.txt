@@ -1,0 +1,24 @@
+Name: DII Deals & Discounts
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 36-17 Broadway, Queens, NY 11106
+Description: Not listed
+Website: http://www.diistores.com
+Phone: (718) 278-0722
+Email: Not listed
+Opening Hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7599965
+Longitude: -73.920818
+OpenStreetMap URL: https://www.openstreetmap.org/node/3866570762
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3866570762
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

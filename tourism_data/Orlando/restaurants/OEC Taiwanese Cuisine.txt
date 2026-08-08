@@ -1,0 +1,24 @@
+Name: OEC Taiwanese Cuisine
+City: Orlando
+Category: restaurants
+Cuisine: asian, taiwanese
+Address: 5270 West Colonial Drive, Orlando FL 32808
+Description: Not listed
+Website: https://oectaiwanesecuisinefl.kwickmenu.com
+Phone: +1-407-299-4256
+Email: Not listed
+Opening Hours: Tu-Su 11:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 28.5510497
+Longitude: -81.4526805
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798192670
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10798192670
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

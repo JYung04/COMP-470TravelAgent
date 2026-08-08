@@ -1,0 +1,25 @@
+Name: Archway Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 57B Pearl Street, Brooklyn NY 11201
+Description: Not listed
+Website: http://archwaycafe.com
+Phone: +1-718-522-3455
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7029481
+Longitude: -73.9874794
+OpenStreetMap URL: https://www.openstreetmap.org/node/4915759323
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4915759323
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

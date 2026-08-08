@@ -1,0 +1,24 @@
+Name: Bibble & Sip
+City: NYC
+Category: cafes
+Cuisine: coffee, coffee_shop, tea, dessert
+Address: 253 West 51st Street, New York NY 10019
+Description: Not listed
+Website: https://www.bibbleandsip.com/menu
+Phone: +1-646-649-5116
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-20:00, Sa-Su 10:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7628613
+Longitude: -73.985265
+OpenStreetMap URL: https://www.openstreetmap.org/node/5599496976
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5599496976
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

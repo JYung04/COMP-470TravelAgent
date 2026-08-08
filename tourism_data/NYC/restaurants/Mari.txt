@@ -1,0 +1,25 @@
+Name: Mari
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 679 9th Avenue
+Description: Not listed
+Website: https://marinyc.com/
+Phone: +1-646-649-3545
+Email: Not listed
+Opening Hours: Mo-Su 17:00-21:30; Fr,Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7615248
+Longitude: -73.9906111
+OpenStreetMap URL: https://www.openstreetmap.org/node/6233992412
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6233992412
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

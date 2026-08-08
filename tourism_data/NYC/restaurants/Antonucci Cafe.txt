@@ -1,0 +1,25 @@
+Name: Antonucci Cafe
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 170 East 81st Street
+Description: Not listed
+Website: https://antonuccicafe81.com
+Phone: +1 212-570-5100
+Email: Not listed
+Opening Hours: Su, Mo 12:00-22:00; Tu-Sa 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7756861
+Longitude: -73.9567751
+OpenStreetMap URL: https://www.openstreetmap.org/node/8333736500
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8333736500
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

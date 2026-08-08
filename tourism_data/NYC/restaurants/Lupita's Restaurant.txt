@@ -1,0 +1,25 @@
+Name: Lupita's Restaurant
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 2049 2nd Avenue, 10029
+Description: Not listed
+Website: www.lupitasrestaurantnyc.com
+Phone: +1 646-590-4202
+Email: Not listed
+Opening Hours: Mo-Su 10:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7901856
+Longitude: -73.9429914
+OpenStreetMap URL: https://www.openstreetmap.org/node/10882083194
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10882083194
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

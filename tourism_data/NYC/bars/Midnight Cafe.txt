@@ -1,0 +1,25 @@
+Name: Midnight Cafe
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 75 Manhattan West Plaza, New York NY 10001
+Description: Not listed
+Website: https://www.hiddenleafnyc.com/
+Phone: +1-212-715-8686
+Email: info@midnighttheatre.com
+Opening Hours: Tu-Sa 16:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.7528931
+Longitude: -73.9986288
+OpenStreetMap URL: https://www.openstreetmap.org/node/9910104399
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9910104399
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

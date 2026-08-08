@@ -1,0 +1,24 @@
+Name: Aloma Cinema Grill
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 2155 Aloma Ave (at St. Andrews Blvd), Winter Park, FL 32792
+Description: movie theater in Winter Park, Florida, United States
+Website: https://www.alomacinemaandgrill.com/home
+Phone: (407) 678-8214
+Email: alomacg@aol.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.60224
+Longitude: -81.3234882
+OpenStreetMap URL: https://www.openstreetmap.org/way/737889400
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/737889400
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

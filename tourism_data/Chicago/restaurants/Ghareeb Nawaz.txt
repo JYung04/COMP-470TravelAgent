@@ -1,0 +1,25 @@
+Name: Ghareeb Nawaz
+City: Chicago
+Category: restaurants
+Cuisine: indian
+Address: 2364 North Lincoln Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://ghareebnawazonline.com
+Phone: +1 773-360-8496
+Email: Not listed
+Opening Hours: Su-Th 10:00-22:00, Fr-Sa 10:00-23:00
+Wheelchair Accessibility: limited
+Latitude: 41.9249461
+Longitude: -87.6482992
+OpenStreetMap URL: https://www.openstreetmap.org/node/6315649380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6315649380
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

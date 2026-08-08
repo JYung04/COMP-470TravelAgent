@@ -1,0 +1,25 @@
+Name: Brightwood Pizza & Bottle
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 711 Kennedy Street Northwest, Washington DC 20011-3031
+Description: Not listed
+Website: https://www.anxodc.com/
+Phone: +1 202-722-2696
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9565149
+Longitude: -77.0228358
+OpenStreetMap URL: https://www.openstreetmap.org/node/12849834121
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12849834121
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

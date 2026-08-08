@@ -1,0 +1,25 @@
+Name: Kurowski’s Sausage Shop
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2976 North Milwaukee Avenue, Chicago IL 60618
+Description: The sausage shop is on the second floor, bakery on the first/ground floor.
+Website: Not listed
+Phone: +1-773-645-1692
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9353814
+Longitude: -87.7179854
+OpenStreetMap URL: https://www.openstreetmap.org/node/4699854959
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4699854959
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

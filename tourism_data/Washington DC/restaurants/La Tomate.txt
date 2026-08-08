@@ -1,0 +1,25 @@
+Name: La Tomate
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 1701 Connecticut Avenue Northwest, Washington DC 20009-1108
+Description: Not listed
+Website: https://www.latomatebistro.com/
+Phone: +1 202-667-5505
+Email: Not listed
+Opening Hours: Mo-Th 11:30-21:30; Fr-Sa 11:30-22:00; Su 11:30-21:00
+Wheelchair Accessibility: limited
+Latitude: 38.9129983
+Longitude: -77.0450968
+OpenStreetMap URL: https://www.openstreetmap.org/node/807741591
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/807741591
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

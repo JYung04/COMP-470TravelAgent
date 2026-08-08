@@ -1,0 +1,24 @@
+Name: rico chimi
+City: NYC
+Category: restaurants
+Cuisine: mexican, burger, sandwich
+Address: 1492 Myrtle Avenue
+Description: Not listed
+Website: https://www.ricochimi.com/
+Phone: +1-718-366-3777
+Email: Not listed
+Opening Hours: Mo-Th 11:30-26:00; Fr, Sa 11:30-29:30; Su 11:30-27:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6991197
+Longitude: -73.91422
+OpenStreetMap URL: https://www.openstreetmap.org/node/6339896148
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6339896148
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

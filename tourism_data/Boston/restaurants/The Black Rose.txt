@@ -1,0 +1,25 @@
+Name: The Black Rose
+City: Boston
+Category: restaurants
+Cuisine: irish
+Address: 160 State Street, Boston MA 02109
+Description: Not listed
+Website: https://www.blackroseboston.com/
+Phone: +1 617 742 2286
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3594126
+Longitude: -71.0536973
+OpenStreetMap URL: https://www.openstreetmap.org/node/3179638829
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3179638829
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

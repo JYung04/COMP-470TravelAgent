@@ -1,0 +1,25 @@
+Name: Bodhi
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 77 Mulberry Street, New York NY
+Description: Not listed
+Website: http://www.buddhabodhaikoshervegetarianrestaurantmulberryst.com/
+Phone: +1-212-233-2921
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-22:00; Sa-Su 09:30-22:30
+Wheelchair Accessibility: limited
+Latitude: 40.716357
+Longitude: -73.9991738
+OpenStreetMap URL: https://www.openstreetmap.org/node/3869566324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3869566324
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

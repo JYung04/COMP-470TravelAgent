@@ -1,0 +1,25 @@
+Name: N'ata Storia
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: Not listed
+Description: Not listed
+Website: https://natastoriarestaurant.it
+Phone: +1-917-909-0237
+Email: Not listed
+Opening Hours: Mo-Su 16:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6833122
+Longitude: -73.992633
+OpenStreetMap URL: https://www.openstreetmap.org/node/7132080961
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7132080961
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

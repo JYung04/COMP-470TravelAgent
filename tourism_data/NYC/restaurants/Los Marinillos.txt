@@ -1,0 +1,24 @@
+Name: Los Marinillos
+City: NYC
+Category: restaurants
+Cuisine: colombian, breakfast, deli, coffee
+Address: 141-08 Northern Boulevard, Flushing NY 11354
+Description: Not listed
+Website: http://orderlosmarinillos.com/
+Phone: +1-929-200-7035
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.764257
+Longitude: -73.8254489
+OpenStreetMap URL: https://www.openstreetmap.org/node/2883431955
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2883431955
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

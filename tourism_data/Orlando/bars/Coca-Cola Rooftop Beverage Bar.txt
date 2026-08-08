@@ -1,0 +1,25 @@
+Name: Coca-Cola Rooftop Beverage Bar
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.coca-colastore.com/retail/orlando
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3691739
+Longitude: -81.5191471
+OpenStreetMap URL: https://www.openstreetmap.org/node/5062925905
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5062925905
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

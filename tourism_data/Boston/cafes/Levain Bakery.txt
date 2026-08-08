@@ -1,0 +1,25 @@
+Name: Levain Bakery
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 182 Newbury Street, Boston MA 02116
+Description: This first Levain Bakery opened in Manhattan in 1995. The cult-favorite cookie maker has blown up in a big way, though, in just the last couple years. Besides selling into grocery stores, Levain has finally expanded its storefronts outside NYC, and that includes the 2022 debut of a location in Boston’s Back Bay. Now it’s easier than ever to get our hands on its famously enormous six-ounce cookies, offered in flavors like chocolate chip walnut, dark chocolate peanut butter chip , and oatmeal raisin, to name a few. And guess what? Expansion hasn’t diminished the quality of the cookies one bit: They’ve still got the perfect formula of crunchy outsides and warm, gooey centers. 180 Newbury St., Back Bay, Boston, levainbakery.com .
+Website: https://levainbakery.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3502953
+Longitude: -71.0791906
+OpenStreetMap URL: https://www.openstreetmap.org/node/7757187380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7757187380
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

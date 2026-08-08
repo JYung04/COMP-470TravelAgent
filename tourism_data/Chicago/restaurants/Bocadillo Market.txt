@@ -1,0 +1,25 @@
+Name: Bocadillo Market
+City: Chicago
+Category: restaurants
+Cuisine: spanish
+Address: 1117 West Grand Avenue
+Description: Not listed
+Website: https://www.grandcruchicago.com
+Phone: +1-773-857-2600
+Email: Not listed
+Opening Hours: Mo,Su 08:00-16:00; Th-Fr 08:00-16:00,19:00-19:30
+Wheelchair Accessibility: no
+Latitude: 41.8909431
+Longitude: -87.655341
+OpenStreetMap URL: https://www.openstreetmap.org/node/13566596737
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13566596737
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

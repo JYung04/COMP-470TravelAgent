@@ -1,0 +1,25 @@
+Name: Upright Citizens Brigade Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 555 West 42nd Street, 10036
+Description: The Upright Citizens Brigade (UCB) is an improvisational and sketch comedy group that emerged from Chicago's ImprovOlympic in 1990. The original incarnation of the group consisted of Amy Poehler, Matthew Walsh, Matt Besser, Ian Roberts, Adam McKay, Horatio Sanz and Drew Franklin. Other early members included Neil Flynn, Armando Diaz, Ali Farahnakian and Rich Fulcher. The group was named by McKay's friend Rick Roman, who was not a member.
+Website: https://hellskitchen.ucbtheatre.com
+Phone: +1-212-366-9176
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7606764
+Longitude: -73.997433
+OpenStreetMap URL: https://www.openstreetmap.org/node/2483139540
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2483139540
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

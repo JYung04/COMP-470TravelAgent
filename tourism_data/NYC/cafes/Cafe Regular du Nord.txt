@@ -1,0 +1,25 @@
+Name: Cafe Regular du Nord
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: Not listed
+Description: Not listed
+Website: http://www.caferegular.com
+Phone: +1-718-783-0673
+Email: regulardunord@gmail.com
+Opening Hours: Mo-Fr 07:30-16:00; Sa-Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6751381
+Longitude: -73.975415
+OpenStreetMap URL: https://www.openstreetmap.org/node/5518770599
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5518770599
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

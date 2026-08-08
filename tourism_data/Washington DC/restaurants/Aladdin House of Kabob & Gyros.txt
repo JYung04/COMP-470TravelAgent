@@ -1,0 +1,25 @@
+Name: Aladdin House of Kabob & Gyros
+City: Washington DC
+Category: restaurants
+Cuisine: middle_eastern
+Address: 2132 Wisconsin Avenue Northwest, Washington DC 20007-6221
+Description: Not listed
+Website: https://aladdinhousedc.com/
+Phone: +1-202-944-3933
+Email: Not listed
+Opening Hours: Su-Th 10:15-02:00; Fr-Sa 10:30-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9185028
+Longitude: -77.0703151
+OpenStreetMap URL: https://www.openstreetmap.org/node/11367374472
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11367374472
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

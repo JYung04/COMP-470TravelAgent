@@ -1,0 +1,25 @@
+Name: Admiral Leutze Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Named for Rear Admiral Eugene H. C. Leutze, Commandant of the Yard from 1905-1910, the park has become the Ceremonial Quarterdeck of the U.S. Navy and utilized as the parade ground for formal affairs and ceremonies.
+Website: https://www.history.navy.mil/content/history/museums/nmusn/new-nmusn/washington-navy-yard-history/leutze-park.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8754212
+Longitude: -76.9945421
+OpenStreetMap URL: https://www.openstreetmap.org/way/750116692
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/750116692
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

@@ -1,0 +1,24 @@
+Name: The Original John's Deli
+City: NYC
+Category: restaurants
+Cuisine: sandwich, italian
+Address: 2033 Stillwell Avenue, 11223
+Description: Not listed
+Website: https://www.theoriginaljohnsdeli.com/
+Phone: +1 718-372-7481
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5971145
+Longitude: -73.9850909
+OpenStreetMap URL: https://www.openstreetmap.org/node/3627488979
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3627488979
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

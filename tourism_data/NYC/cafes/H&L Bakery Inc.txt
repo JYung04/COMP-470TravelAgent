@@ -1,0 +1,25 @@
+Name: H&L Bakery Inc.
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 7026 New Utrecht Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-917-775-2255
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6191799
+Longitude: -73.9991877
+OpenStreetMap URL: https://www.openstreetmap.org/node/9143230738
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9143230738
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

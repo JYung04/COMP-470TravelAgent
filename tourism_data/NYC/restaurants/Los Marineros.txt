@@ -1,0 +1,25 @@
+Name: Los Marineros
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 128 Wyckoff Avenue
+Description: Not listed
+Website: http://www.losmarinerosbrooklyn.com/
+Phone: +1-718-456-7696
+Email: Not listed
+Opening Hours: Fr, Sa 12:30-26:30; Su 14:00-24:30; Mo, We, Th 12:30-24:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7033817
+Longitude: -73.9179925
+OpenStreetMap URL: https://www.openstreetmap.org/node/5465480118
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5465480118
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

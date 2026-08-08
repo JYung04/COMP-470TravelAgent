@@ -1,0 +1,24 @@
+Name: AMC Hoffman Center 22
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: 206 Hoffman St (at Grist Mill Pl), Alexandria, VA 22314
+Description: Not listed
+Website: https://www.amctheatres.com/movie-theatres/washington-d-c/amc-hoffman-center-22
+Phone: (703) 236-1083
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.802373
+Longitude: -77.0704711
+OpenStreetMap URL: https://www.openstreetmap.org/way/181548252
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/181548252
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

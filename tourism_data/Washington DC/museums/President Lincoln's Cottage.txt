@@ -1,0 +1,25 @@
+Name: President Lincoln's Cottage
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: President Lincoln's Cottage is a historic home used by Abraham Lincoln on the grounds of the Soldiers' Home, known today as the Armed Forces Retirement Home, near the Petworth neighborhood in Washington, D.C. In 2000 it was designated a national monument called President Lincoln and Soldiers' Home National Monument.
+Website: https://lincolncottage.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9416928
+Longitude: -77.0117565
+OpenStreetMap URL: https://www.openstreetmap.org/way/297762403
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/297762403
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

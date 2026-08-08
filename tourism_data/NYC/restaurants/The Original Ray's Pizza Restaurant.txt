@@ -1,0 +1,25 @@
+Name: The Original Ray's Pizza Restaurant
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 462 Columbus Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7841453
+Longitude: -73.9741189
+OpenStreetMap URL: https://www.openstreetmap.org/node/7012052492
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7012052492
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

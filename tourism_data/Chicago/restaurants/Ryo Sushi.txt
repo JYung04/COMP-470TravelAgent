@@ -1,0 +1,24 @@
+Name: Ryo Sushi
+City: Chicago
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 62 East Madison Street, Chicago IL 60602
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-22:00; Su 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8822253
+Longitude: -87.62549
+OpenStreetMap URL: https://www.openstreetmap.org/node/4925422113
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4925422113
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

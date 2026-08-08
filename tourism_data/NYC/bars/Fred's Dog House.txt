@@ -1,0 +1,25 @@
+Name: Fred's Dog House
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 354 Grand Street, 11211
+Description: Not listed
+Website: https://www.fredsdoghouse.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su, Tu-We 18:00-01:00; Th-Sa 18:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7123158
+Longitude: -73.9559231
+OpenStreetMap URL: https://www.openstreetmap.org/node/13125350701
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13125350701
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

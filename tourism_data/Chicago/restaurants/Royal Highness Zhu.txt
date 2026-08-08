@@ -1,0 +1,25 @@
+Name: Royal Highness Zhu
+City: Chicago
+Category: restaurants
+Cuisine: Chinese
+Address: 1217-1219 W Fullerton Ave, Chicago, IL 60614, United States
+Description: Not listed
+Website: http://www.royalhighnesszhu.online/
+Phone: +1 773-799-8151
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9251336
+Longitude: -87.6592042
+OpenStreetMap URL: https://www.openstreetmap.org/node/463772319
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/463772319
+Price: Not listed
+Rating: 4.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

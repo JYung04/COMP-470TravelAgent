@@ -1,0 +1,25 @@
+Name: Phở 2 tô
+City: Orlando
+Category: restaurants
+Cuisine: vietnamese
+Address: 1206 East Colonial Drive, Orlando FL 32803
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5529396
+Longitude: -81.3640933
+OpenStreetMap URL: https://www.openstreetmap.org/node/13822202609
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13822202609
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

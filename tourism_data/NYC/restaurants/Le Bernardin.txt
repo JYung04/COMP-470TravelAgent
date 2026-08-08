@@ -1,0 +1,24 @@
+Name: Le Bernardin
+City: NYC
+Category: restaurants
+Cuisine: french, seafood
+Address: 155 West 51st Street, New York NY 10019
+Description: This Midtown seafood restaurant has been a go-to for a special night out since the 1980s, and especially since star chef Eric Ripert took over the kitchen more than 20 years ago. The prix-fixe dinner menu offers four courses of the best the world’s oceans have to offer, prepared in the southern French style from Ripert’s childhood. The wine list is as impeccable as the food menu. Aldo Sohm is considered one of the best sommeliers in the world, and the restaurant’s cellar holds 15,000 bottles. La
+Website: https://www.le-bernardin.com/
+Phone: +1-212-554-1515
+Email: Not listed
+Opening Hours: Mo-Th 12:00-14:30, 17:15-22:30; Fr 12:00-14:30, 17:15-23:00; Sa 17:15-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7613945
+Longitude: -73.981691
+OpenStreetMap URL: https://www.openstreetmap.org/node/3932353663
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3932353663
+Price: Not listed
+Rating: 4.6
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; families

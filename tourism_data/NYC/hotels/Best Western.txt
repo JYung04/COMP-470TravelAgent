@@ -1,0 +1,25 @@
+Name: Best Western
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 13351 39th Avenue, Flushing NY 11354
+Description: Simple lodging with free WiFi & breakfast, plus fitness facilities and a business center.
+Website: https://www.bestwestern.com/en_US/book/hotel-rooms.33111.html
+Phone: +1 718-888-1900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7597622
+Longitude: -73.8327931
+OpenStreetMap URL: https://www.openstreetmap.org/node/5802781398
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5802781398
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

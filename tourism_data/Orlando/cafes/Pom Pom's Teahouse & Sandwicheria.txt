@@ -1,0 +1,24 @@
+Name: Pom Pom's Teahouse & Sandwicheria
+City: Orlando
+Category: cafes
+Cuisine: sandwich, dessert, tea
+Address: 67 North Bumby Avenue, Orlando FL 32803
+Description: Not listed
+Website: https://pompomsteahouse.com
+Phone: +1-407-894-0865
+Email: Not listed
+Opening Hours: MTu-Th 11:00-23:00; Fr-Mo 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5436183
+Longitude: -81.3515122
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455597457
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11455597457
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

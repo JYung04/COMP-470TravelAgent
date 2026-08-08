@@ -1,0 +1,25 @@
+Name: Miyabi II Asian Fusion
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 1348 Forest Ave, Staten Island, NY 10302, United States
+Description: Not listed
+Website: http://lovemiyabi.com/
+Phone: +1 718-682-7913
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6258072
+Longitude: -74.1344423
+OpenStreetMap URL: https://www.openstreetmap.org/node/11667208310
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11667208310
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

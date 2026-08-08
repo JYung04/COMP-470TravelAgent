@@ -1,0 +1,24 @@
+Name: Sabas Vega
+City: Chicago
+Category: restaurants
+Cuisine: mexican, carnitas
+Address: 1808 South Ashland Avenue, Chicago IL 60608
+Description: Not listed
+Website: https://donrafarestaurants.com/sabasvega/
+Phone: +1 312-666-5180
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8574586
+Longitude: -87.6663934
+OpenStreetMap URL: https://www.openstreetmap.org/node/6126571201
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6126571201
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

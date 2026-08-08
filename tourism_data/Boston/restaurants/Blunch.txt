@@ -1,0 +1,24 @@
+Name: Blunch
+City: Boston
+Category: restaurants
+Cuisine: breakfast, sandwich, coffee_shop
+Address: 59 East Springfield Street, 02118
+Description: Not listed
+Website: http://Eatblunch.com
+Phone: +1 617 247 8100
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-03:00, Sa 09:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3354825
+Longitude: -71.0746861
+OpenStreetMap URL: https://www.openstreetmap.org/node/4704809489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4704809489
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

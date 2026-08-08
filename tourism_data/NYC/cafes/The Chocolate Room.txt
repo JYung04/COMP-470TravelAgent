@@ -1,0 +1,24 @@
+Name: The Chocolate Room
+City: NYC
+Category: cafes
+Cuisine: pastry, coffee_shop, ice_cream
+Address: 269 Court Street, Brooklyn NY 11231
+Description: Not listed
+Website: https://www.thechocolateroombrooklyn.com/
+Phone: +1-718-264-2600
+Email: Not listed
+Opening Hours: Mo-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6847641
+Longitude: -73.9944459
+OpenStreetMap URL: https://www.openstreetmap.org/way/241844604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241844604
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

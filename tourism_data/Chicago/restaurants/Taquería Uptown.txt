@@ -1,0 +1,25 @@
+Name: Taquería Uptown
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1144 West Bryn Mawr Avenue, Chicago IL 60660
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9838032
+Longitude: -87.6598473
+OpenStreetMap URL: https://www.openstreetmap.org/node/12202176530
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12202176530
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

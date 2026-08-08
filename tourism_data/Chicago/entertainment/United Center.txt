@@ -1,0 +1,25 @@
+Name: United Center
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 1901 West Madison Street, Chicago IL 60612
+Description: United Center is an indoor arena on the Near West Side of Chicago, Illinois. It is home to the Chicago Bulls of the National Basketball Association (NBA) and the Chicago Blackhawks of the National Hockey League (NHL). It is named for its corporate sponsor United Airlines. With a seating capacity of up to 23,500, the United Center is the largest arena by capacity in the NBA, and second largest arena by capacity in the NHL after the Bell Centre.
+Website: https://www.unitedcenter.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.880679
+Longitude: -87.6741835
+OpenStreetMap URL: https://www.openstreetmap.org/way/205221993
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/205221993
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

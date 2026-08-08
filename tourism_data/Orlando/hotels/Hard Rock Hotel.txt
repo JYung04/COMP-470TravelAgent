@@ -1,0 +1,25 @@
+Name: Hard Rock Hotel
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 5800 Universal Boulevard, Orlando FL 32819
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 28.4768249
+Longitude: -81.4645466
+OpenStreetMap URL: https://www.openstreetmap.org/way/477391369
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/477391369
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

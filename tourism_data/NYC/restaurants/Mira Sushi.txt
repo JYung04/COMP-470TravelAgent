@@ -1,0 +1,25 @@
+Name: Mira Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 153-11 Union Turnpike, Flushing NY 11367
+Description: Not listed
+Website: http://www.mirasushi.com/
+Phone: +1 718-380-7777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7197541
+Longitude: -73.8101907
+OpenStreetMap URL: https://www.openstreetmap.org/node/10803289066
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10803289066
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

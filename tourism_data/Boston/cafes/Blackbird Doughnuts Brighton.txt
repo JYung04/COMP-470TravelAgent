@@ -1,0 +1,24 @@
+Name: Blackbird Doughnuts Brighton
+City: Boston
+Category: cafes
+Cuisine: coffee_shop, donut
+Address: 100 Holton Street, Brighton MA 02135
+Description: Not listed
+Website: https://www.blackbirddoughnuts.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa-Su 08:00-13:00; Mo-Fr 08:00-11:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3591936
+Longitude: -71.1376758
+OpenStreetMap URL: https://www.openstreetmap.org/node/11011208190
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11011208190
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

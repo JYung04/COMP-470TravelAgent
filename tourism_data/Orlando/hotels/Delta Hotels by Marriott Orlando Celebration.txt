@@ -1,0 +1,25 @@
+Name: Delta Hotels by Marriott Orlando Celebration
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 2900 Parkway Boulevard, Kissimmee Florida 34747
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/mcodk-delta-hotels-orlando-celebration/overview/
+Phone: +1 407 396 7000
+Email: contactus@deltamarriottorlando.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3359651
+Longitude: -81.535961
+OpenStreetMap URL: https://www.openstreetmap.org/relation/6170865
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/6170865
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

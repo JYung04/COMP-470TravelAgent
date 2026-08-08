@@ -1,0 +1,25 @@
+Name: Aroma Indian
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 63-40 Woodhaven Boulevard, Queens NY 11374
+Description: Not listed
+Website: http://www.aromaindiancuisineny.com
+Phone: +1-718-200-0010
+Email: aromaindiannyc@gmail.com
+Opening Hours: Mo-Su 12:00-16:00, 17:00-22:15
+Wheelchair Accessibility: Not listed
+Latitude: 40.7238626
+Longitude: -73.867919
+OpenStreetMap URL: https://www.openstreetmap.org/node/5474403098
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5474403098
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

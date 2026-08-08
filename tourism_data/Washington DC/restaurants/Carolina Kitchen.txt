@@ -1,0 +1,25 @@
+Name: Carolina Kitchen
+City: Washington DC
+Category: restaurants
+Cuisine: southern
+Address: 2350 Washington Place Northeast, Washington DC 20018
+Description: Not listed
+Website: https://thecarolinakitchen.com/
+Phone: +1 202-733-1216
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9213731
+Longitude: -76.9940215
+OpenStreetMap URL: https://www.openstreetmap.org/node/9045763173
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9045763173
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

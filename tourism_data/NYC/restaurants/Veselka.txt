@@ -1,0 +1,25 @@
+Name: Veselka
+City: NYC
+Category: restaurants
+Cuisine: ukrainian
+Address: 144 2nd Avenue, New York NY 10003
+Description: Not listed
+Website: https://www.veselka.com/location/veselka/
+Phone: +1 212-228-9682
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-24:00; Su 08:00-23:00
+Wheelchair Accessibility: limited
+Latitude: 40.7289775
+Longitude: -73.9869985
+OpenStreetMap URL: https://www.openstreetmap.org/node/5700167968
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5700167968
+Price: Not listed
+Rating: 4.6
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

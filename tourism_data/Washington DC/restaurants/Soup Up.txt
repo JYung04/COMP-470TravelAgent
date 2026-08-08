@@ -1,0 +1,25 @@
+Name: Soup Up
+City: Washington DC
+Category: restaurants
+Cuisine: soup
+Address: 709 Kennedy Street Northwest, Washington DC 20011-3031
+Description: Not listed
+Website: https://www.soupup.us/
+Phone: +1 202-621-6845
+Email: Not listed
+Opening Hours: Tu-Fr 11:30-20:00; Sa 10:30-20:30; Su 10:30-18:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9565391
+Longitude: -77.0227841
+OpenStreetMap URL: https://www.openstreetmap.org/node/3012311760
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3012311760
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

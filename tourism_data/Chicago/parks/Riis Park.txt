@@ -1,0 +1,25 @@
+Name: Riis Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 6100 West Fullerton Avenue, Chicago IL 60639
+Description: Riis Park is a park on Chicago's Northwest Side in the Belmont-Cragin neighborhood. The park covers 56 acres in a rectangle bounded by Fullerton Avenue to the south, Narragansett Avenue to the west, Wrightwood Avenue to the north, and Meade Avenue to the east.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/riis-jacob-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9255928
+Longitude: -87.7818434
+OpenStreetMap URL: https://www.openstreetmap.org/way/28708758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/28708758
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

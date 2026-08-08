@@ -1,0 +1,25 @@
+Name: Amos Eno Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 56 Bogart Street
+Description: Amos Eno provides a platform for emerging artists in all media, giving precedence to artistic expression freed from commercial restrain.
+Website: https://www.amoseno.org
+Phone: +1-718-237-3001
+Email: amosenogallery@gmail.com
+Opening Hours: Th-Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7057978
+Longitude: -73.9332632
+OpenStreetMap URL: https://www.openstreetmap.org/node/6448226408
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6448226408
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

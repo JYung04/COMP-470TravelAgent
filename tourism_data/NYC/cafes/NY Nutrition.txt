@@ -1,0 +1,25 @@
+Name: NY Nutrition
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 660 Seneca Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-917-420-2548
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7033537
+Longitude: -73.908869
+OpenStreetMap URL: https://www.openstreetmap.org/node/11310320970
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11310320970
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

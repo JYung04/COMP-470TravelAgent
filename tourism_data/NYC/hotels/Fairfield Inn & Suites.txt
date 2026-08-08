@@ -1,0 +1,25 @@
+Name: Fairfield Inn & Suites
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 338 West 36th Street, New York 10018
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/nycmw-fairfield-inn-and-suites-new-york-manhattan-times-square-south
+Phone: +1 212-216-9110
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: designated
+Latitude: 40.7539352
+Longitude: -73.9942049
+OpenStreetMap URL: https://www.openstreetmap.org/way/265272968
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265272968
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

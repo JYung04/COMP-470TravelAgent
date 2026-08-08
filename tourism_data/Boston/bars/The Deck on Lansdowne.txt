@@ -1,0 +1,24 @@
+Name: The Deck on Lansdowne
+City: Boston
+Category: bars
+Cuisine: pizza, sausage
+Address: 49 Lansdowne Street, Boston MA 02215
+Description: Not listed
+Website: https://www.houseofblues.com/boston/the-deck-on-lansdowne
+Phone: +1-617-960-8315
+Email: thedeck@livenation.com
+Opening Hours: Th-Fr 16:00-22:00; Sa 15:00-23:00; Su 15:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3474367
+Longitude: -71.0974877
+OpenStreetMap URL: https://www.openstreetmap.org/node/7762653856
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7762653856
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

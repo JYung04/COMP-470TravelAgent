@@ -1,0 +1,25 @@
+Name: Hell's Kitchen
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 523 9th Avenue, New York NY 10036
+Description: Not listed
+Website: https://www.hkhellskitchen.com/
+Phone: +1-212-947-4208
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7566987
+Longitude: -73.9941361
+OpenStreetMap URL: https://www.openstreetmap.org/node/2322155492
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2322155492
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

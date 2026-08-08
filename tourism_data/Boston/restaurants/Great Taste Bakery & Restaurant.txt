@@ -1,0 +1,25 @@
+Name: Great Taste Bakery & Restaurant
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 61-63 Beach Street, 02111
+Description: Not listed
+Website: Not listed
+Phone: +1 617 426 8899
+Email: Not listed
+Opening Hours: Su-Th 08:00-22:00; Fr-Sa 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3511876
+Longitude: -71.0601904
+OpenStreetMap URL: https://www.openstreetmap.org/node/9731287217
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9731287217
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

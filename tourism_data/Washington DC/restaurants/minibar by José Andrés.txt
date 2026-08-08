@@ -1,0 +1,25 @@
+Name: minibar by José Andrés
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 855 E Street Northwest, Washington DC 20004
+Description: Penn Quarter Take a multi-course journey through the world of molecular gastronomy from renowned chef José Andrés. Located in Penn Quarter , this restaurant is regularly booked months in advance. Jônt
+Website: https://www.minibarbyjoseandres.com/
+Phone: +1 202-393-0812
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8963187
+Longitude: -77.0235756
+OpenStreetMap URL: https://www.openstreetmap.org/node/681867927
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/681867927
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

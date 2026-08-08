@@ -1,0 +1,25 @@
+Name: Naf Naf Grill
+City: Chicago
+Category: restaurants
+Cuisine: middle_eastern
+Address: 14 South Clinton Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.nafnafgrill.com/locations/#jump-presidential-towers
+Phone: +1 312-967-1844
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-21:00; Sa-Su 11:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 41.8812924
+Longitude: -87.6413733
+OpenStreetMap URL: https://www.openstreetmap.org/node/5624360081
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5624360081
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: K-BOB Korean Street Food
+City: Orlando
+Category: restaurants
+Cuisine: korean
+Address: 11830 Glass House Ln, Orlando FL 32836
+Description: Not listed
+Website: https://kbobstreet.com
+Phone: +1-407-286-4881
+Email: Not listed
+Opening Hours: Mo-Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4002169
+Longitude: -81.4908962
+OpenStreetMap URL: https://www.openstreetmap.org/node/11693410780
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11693410780
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

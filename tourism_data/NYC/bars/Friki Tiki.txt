@@ -1,0 +1,25 @@
+Name: Friki Tiki
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 357 West 44th Street
+Description: Not listed
+Website: https://thefrikitiki.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Th 17:00-01:00; Fr-Sa 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7597133
+Longitude: -73.9913358
+OpenStreetMap URL: https://www.openstreetmap.org/node/5984435987
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5984435987
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Wildberry
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 1715 Emmons Avenue, Brooklyn NY 11235
+Description: Not listed
+Website: https://www.wildberrycake.com
+Phone: +1 516-754-0661
+Email: Not listed
+Opening Hours: Mo-Su 06:00-20:00
+Wheelchair Accessibility: limited
+Latitude: 40.5835532
+Longitude: -73.9510784
+OpenStreetMap URL: https://www.openstreetmap.org/node/4870096822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4870096822
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

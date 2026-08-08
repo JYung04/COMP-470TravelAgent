@@ -1,0 +1,25 @@
+Name: Defloured
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1477 West Balmoral Avenue, Chicago IL 60640
+Description: Not listed
+Website: https://www.deflouredbakery.com/
+Phone: +1-773-234-5733
+Email: Not listed
+Opening Hours: Tu-Fr 11:00-19:00; Sa,Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9797118
+Longitude: -87.6677846
+OpenStreetMap URL: https://www.openstreetmap.org/node/6284349408
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6284349408
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

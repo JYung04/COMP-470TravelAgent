@@ -1,0 +1,25 @@
+Name: Florentine Cafe
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 333 Hanover Street
+Description: Not listed
+Website: https://www.cafeflorentine.com/
+Phone: +16172271777
+Email: Not listed
+Opening Hours: Mo-We 14:00-24:00, Th 12:00-24:00, Fr-Sa 11:00-0:30, Su 10:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3643007
+Longitude: -71.0537754
+OpenStreetMap URL: https://www.openstreetmap.org/node/9771053124
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9771053124
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

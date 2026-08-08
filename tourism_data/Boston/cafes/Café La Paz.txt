@@ -1,0 +1,25 @@
+Name: Café La Paz
+City: Boston
+Category: cafes
+Cuisine: coffee_shop
+Address: 101 South Huntington Avenue, Boston MA 02130-4768
+Description: Not listed
+Website: https://cafe-la-paz.res-menu.net
+Phone: +1-617-651-2283
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3295037
+Longitude: -71.1115023
+OpenStreetMap URL: https://www.openstreetmap.org/node/13758721724
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13758721724
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: 11th Street Community Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 422 East 11th Street, New York NY 10009
+Description: A garden maintained by community volunteers where visitors are welcome whenever the gate is open. It is funded completely by donations and grants. There is free WiFi and a community library outside the gate where you can exchange books for free.
+Website: https://11th.garden/
+Phone: +1 917 773 8440
+Email: team@11th.garden
+Opening Hours: Su 12:00-18:00; Tu, Th 17:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7286836
+Longitude: -73.9829432
+OpenStreetMap URL: https://www.openstreetmap.org/way/314368836
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/314368836
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

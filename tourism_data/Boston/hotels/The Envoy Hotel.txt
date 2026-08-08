@@ -1,0 +1,25 @@
+Name: The Envoy Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 70 Sleeper Street, Boston MA 02210
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/bosak-the-envoy-hotel-autograph-collection/
+Phone: +1 617 338 3030
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3536535
+Longitude: -71.0483516
+OpenStreetMap URL: https://www.openstreetmap.org/way/292811260
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/292811260
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

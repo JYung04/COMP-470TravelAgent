@@ -1,0 +1,25 @@
+Name: Dragon One
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 2076 Frederick Douglass Boulevard, New York NY 10026
+Description: Not listed
+Website: https://www.dragononeny.com
+Phone: +1-212-222-2426
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8020768
+Longitude: -73.956844
+OpenStreetMap URL: https://www.openstreetmap.org/node/6426473697
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6426473697
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

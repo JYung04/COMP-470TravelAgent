@@ -1,0 +1,25 @@
+Name: The Kitchen
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 4330 Katonah Avenue, Bronx NY 10470
+Description: Not listed
+Website: https://thekitchenbronx.com
+Phone: +1-718-798-1002
+Email: Not listed
+Opening Hours: Mo-Su 07:00-01:00
+Wheelchair Accessibility: limited
+Latitude: 40.8997639
+Longitude: -73.8674171
+OpenStreetMap URL: https://www.openstreetmap.org/node/2822900958
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2822900958
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

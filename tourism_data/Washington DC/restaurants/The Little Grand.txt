@@ -1,0 +1,25 @@
+Name: The Little Grand
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 808 7th Street Northeast, Washington 20002
+Description: Not listed
+Website: https://littlegranddc.com/
+Phone: +1-202-758-0783
+Email: Not listed
+Opening Hours: Fr-Sa 17:00-22:00; Su,Mo,Th 17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9005862
+Longitude: -76.9967057
+OpenStreetMap URL: https://www.openstreetmap.org/node/10687062244
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10687062244
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

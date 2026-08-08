@@ -1,0 +1,25 @@
+Name: Izakaya Toribar
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 164 East 56th Street, New York NY 10022
+Description: Not listed
+Website: https://izakayatoribar.com/
+Phone: +1-646-767-0029
+Email: info@izakayatoribar.com
+Opening Hours: 17:00-01:00; Fr,Sa 17:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7596208
+Longitude: -73.9685472
+OpenStreetMap URL: https://www.openstreetmap.org/node/11500492269
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11500492269
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

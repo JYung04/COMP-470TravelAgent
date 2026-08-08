@@ -1,0 +1,24 @@
+Name: Petee's Cafe
+City: NYC
+Category: cafes
+Cuisine: pastry, coffee_shop, sandwich, quiche
+Address: Not listed
+Description: Not listed
+Website: https://www.peteespie.com/location/petees-pie-brooklyn/
+Phone: +1-646-494-3630
+Email: Not listed
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6937046
+Longitude: -73.9646875
+OpenStreetMap URL: https://www.openstreetmap.org/node/5949200228
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5949200228
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

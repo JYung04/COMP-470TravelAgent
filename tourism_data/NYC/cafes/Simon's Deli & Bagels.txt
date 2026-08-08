@@ -1,0 +1,24 @@
+Name: Simon's Deli & Bagels
+City: NYC
+Category: cafes
+Cuisine: bagel, burger, salad
+Address: 2479 Arthur Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-718-562-3354
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-22:00; Sa, Su 07:00-22:00
+Wheelchair Accessibility: no
+Latitude: 40.8573459
+Longitude: -73.886206
+OpenStreetMap URL: https://www.openstreetmap.org/node/6086148835
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6086148835
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

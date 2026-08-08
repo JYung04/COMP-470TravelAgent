@@ -1,0 +1,25 @@
+Name: Darryl's Corner Bar & Kitchen
+City: Boston
+Category: restaurants
+Cuisine: Caterer, Event venue, Jazz club
+Address: 604 Columbus Avenue, Boston 02118
+Description: With eats, beats, and spiked sweet tea like this, you’ll never hit the snooze button on a Sunday morning again. Darryl’s all-you-can-eat brunch buffet is a rollicking good time every weekend, a place to feast on mouthwatering southern favorites — say, fried chicken and catfish cheddar grits — to the backdrop of live music from jazz and blues performers. Come hungry, and leave happy (with a very, very , full belly). 604 Columbus Ave. , Boston , 617-536-1100 , dcbkboston.com
+Website: https://dcbkboston.com/
+Phone: +1-617-536-1100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 42.3398422
+Longitude: -71.0824905
+OpenStreetMap URL: https://www.openstreetmap.org/node/5058590525
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5058590525
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; music

@@ -1,0 +1,25 @@
+Name: Better Bagels
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 83 Seaport Boulevard, 02210
+Description: Not listed
+Website: https://betterbagelsboston.com/
+Phone: +18573174147
+Email: betterbagelsboston@gmail.com
+Opening Hours: Mo 06:30-16:30; Tu-Su 07:00-16:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.351973
+Longitude: -71.0464355
+OpenStreetMap URL: https://www.openstreetmap.org/node/13917128301
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13917128301
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

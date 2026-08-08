@@ -1,0 +1,24 @@
+Name: Koro Ramen & Sushi
+City: Boston
+Category: restaurants
+Cuisine: sushi, japanese, ramen
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3671583
+Longitude: -71.0360537
+OpenStreetMap URL: https://www.openstreetmap.org/node/8518218057
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8518218057
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Gaia Masala & Burger
+City: NYC
+Category: restaurants
+Cuisine: indian, burger
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-718-889-0530
+Email: Not listed
+Opening Hours: Mo-Su 10:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7611211
+Longitude: -73.9232737
+OpenStreetMap URL: https://www.openstreetmap.org/node/3584290132
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3584290132
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

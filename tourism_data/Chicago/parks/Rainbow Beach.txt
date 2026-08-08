@@ -1,0 +1,25 @@
+Name: Rainbow Beach
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2873 E 75TH ST, Chicago, IL 60649
+Description: Officially classified as citywide park. Covers approximately 109.1 acres. Facilities include beach, community center, fitness center, gymnasium, playground.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7601565
+Longitude: -87.5492727
+OpenStreetMap URL: https://www.openstreetmap.org/way/161614494
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/161614494
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

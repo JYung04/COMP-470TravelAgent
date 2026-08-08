@@ -1,0 +1,25 @@
+Name: Di Fara Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 1424 Avenue J, Brooklyn NY 11230
+Description: Di Fara Pizza is a pizzeria located at 1424 Avenue J in the Midwood section of Brooklyn, New York City. Situated on the corner of East 15th Street and Avenue J, the restaurant was owned and operated by Domenico DeMarco (1936–2022) from 1965.
+Website: https://www.difarapizzany.com/locations/di-fara-midwood
+Phone: +1-718 258-1367
+Email: Not listed
+Opening Hours: Tu-Su 12:00-20:00
+Wheelchair Accessibility: no
+Latitude: 40.625047
+Longitude: -73.9614948
+OpenStreetMap URL: https://www.openstreetmap.org/node/2473718326
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2473718326
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

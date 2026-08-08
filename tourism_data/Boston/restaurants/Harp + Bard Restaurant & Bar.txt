@@ -1,0 +1,25 @@
+Name: Harp + Bard Restaurant & Bar
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 1099 Dorchester Avenue, Dorchester MA 02125
+Description: Not listed
+Website: https://harpandbard.com/
+Phone: +1-617-265-2893
+Email: Not listed
+Opening Hours: Mo-We 11:00-22:00; Th-Fr 11:00-00:00; Sa 10:00-00:00; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.313067
+Longitude: -71.0574343
+OpenStreetMap URL: https://www.openstreetmap.org/way/29871895
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29871895
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

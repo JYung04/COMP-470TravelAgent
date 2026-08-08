@@ -1,0 +1,24 @@
+Name: Samurai Sushi
+City: NYC
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 245 Paterson Avenue East Rutherford NJ 07073
+Description: Not listed
+Website: https://www.samuraisushionline.com
+Phone: +1-718-331-7100
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:30, Fr-Sa 11:00-23:00, Su 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6085164
+Longitude: -74.0043943
+OpenStreetMap URL: https://www.openstreetmap.org/node/12618776814
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12618776814
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

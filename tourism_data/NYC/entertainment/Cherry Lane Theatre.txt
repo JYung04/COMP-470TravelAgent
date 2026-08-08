@@ -1,0 +1,25 @@
+Name: Cherry Lane Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 38 Commerce Street, New York NY 10014
+Description: Not listed
+Website: https://www.cherrylanetheatre.org
+Phone: +1-212-989-2020
+Email: boxoffice@cherrylanetheatre.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7312452
+Longitude: -74.0052802
+OpenStreetMap URL: https://www.openstreetmap.org/node/5215246723
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5215246723
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

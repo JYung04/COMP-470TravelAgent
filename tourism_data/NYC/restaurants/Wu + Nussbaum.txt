@@ -1,0 +1,25 @@
+Name: Wu + Nussbaum
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 2897 Broadway
+Description: Not listed
+Website: https://www.wunussbaum.com
+Phone: +1-212-280-5344
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8060976
+Longitude: -73.9656359
+OpenStreetMap URL: https://www.openstreetmap.org/node/7004392888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7004392888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

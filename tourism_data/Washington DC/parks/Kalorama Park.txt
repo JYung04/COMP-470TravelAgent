@@ -1,0 +1,25 @@
+Name: Kalorama Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 1865 Kalorama Road Northwest, Washington DC 20009
+Description: Officially classified as rec center grounds. Amenities include playground, tot lot, community garden.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9203311
+Longitude: -77.0447963
+OpenStreetMap URL: https://www.openstreetmap.org/way/255331569
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/255331569
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

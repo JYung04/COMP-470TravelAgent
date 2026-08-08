@@ -1,0 +1,25 @@
+Name: Bullfeathers
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 410 1st Street Southeast, Washington DC 20003-1819
+Description: Not listed
+Website: https://bullfeathersonthehill.com/#
+Phone: +1 202-484-0228
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8846415
+Longitude: -77.0056217
+OpenStreetMap URL: https://www.openstreetmap.org/node/737405128
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737405128
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

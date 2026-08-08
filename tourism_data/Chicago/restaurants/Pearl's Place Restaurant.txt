@@ -1,0 +1,25 @@
+Name: Pearl's Place Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: soul_food
+Address: 3901 South Michigan Avenue, Chicago IL 60653
+Description: Pearl’s Place; Abel Arciniega, @tequilagraphics Nestled in the historic neighborhood of Bronzeville, Pearl’s Place has deep roots in the community. With a warm, family-friendly atmosphere, this neighborhood gem nourishes guests with down-home Southern cooking. You can choose a full breakfast plate with all the fixings, or sample a bit of everything with the soul food breakfast and lunch buffets.
+Website: https://www.pearlsplacerestaurant.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.82361
+Longitude: -87.6228545
+OpenStreetMap URL: https://www.openstreetmap.org/node/10907150800
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10907150800
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

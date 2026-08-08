@@ -1,0 +1,25 @@
+Name: Cannelle
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 5-11 47th Avenue, Long Island City NY 11101
+Description: Not listed
+Website: https://cannellelic.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7460433
+Longitude: -73.9553169
+OpenStreetMap URL: https://www.openstreetmap.org/node/5291959025
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5291959025
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

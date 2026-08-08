@@ -1,0 +1,25 @@
+Name: Field Museum
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 1400 South Lake Shore Drive, Chicago IL 60605
+Description: The Field Museum of Natural History is a private–public natural history museum in Chicago, Illinois, and is one of the largest such museums in the world. The museum is popular for the size and quality of its educational and scientific programs, as well as its extensive scientific specimen and artifact collections.
+Website: https://www.fieldmuseum.org/
+Phone: +1 312-922-9410
+Email: Not listed
+Opening Hours: Mo-Su 09:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 41.8662111
+Longitude: -87.6168966
+OpenStreetMap URL: https://www.openstreetmap.org/way/24825537
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/24825537
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: field museum
+Best For: museums and culture; art

@@ -1,0 +1,25 @@
+Name: NobleDen
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 196 Grand Street, 10013
+Description: Not listed
+Website: https://nobleden.com
+Phone: +1-212-390-8988
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7192831
+Longitude: -73.9968082
+OpenStreetMap URL: https://www.openstreetmap.org/node/2555099371
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2555099371
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

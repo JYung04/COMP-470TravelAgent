@@ -1,0 +1,25 @@
+Name: Victor’s Café
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 10019
+Description: Not listed
+Website: https://twitter.com/VictorsCafeNYC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+Phone: +1-212-586-7714
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7629409
+Longitude: -73.984028
+OpenStreetMap URL: https://www.openstreetmap.org/node/6223911885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6223911885
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

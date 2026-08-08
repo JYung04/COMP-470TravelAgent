@@ -1,0 +1,25 @@
+Name: Small Editions
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 60 Sackett Street, Brooklyn NY 11231
+Description: Not listed
+Website: https://www.smalleditionsnyc.com
+Phone: +1-718-422-1304
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6856374
+Longitude: -74.0051542
+OpenStreetMap URL: https://www.openstreetmap.org/node/3674008668
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3674008668
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

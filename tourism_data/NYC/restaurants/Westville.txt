@@ -1,0 +1,25 @@
+Name: Westville
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 81 Washington Street, Brooklyn NY 11201
+Description: Fresh produce and locally sourced meats lead the list of ingredients at this wpopular American spot.
+Website: http://www.westvillenc.com
+Phone: +12127414780
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-22:00; Sa 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7018224
+Longitude: -73.9895039
+OpenStreetMap URL: https://www.openstreetmap.org/node/6258331006
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6258331006
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

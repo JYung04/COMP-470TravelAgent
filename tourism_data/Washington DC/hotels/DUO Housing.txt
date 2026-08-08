@@ -1,0 +1,24 @@
+Name: DUO Housing
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1223 11th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: http://www.duohousing.com
+Phone: (202) 808-2195
+Email: contact@duohousing.com
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 38.9064656
+Longitude: -77.0267318
+OpenStreetMap URL: https://www.openstreetmap.org/way/55316319
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/55316319
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

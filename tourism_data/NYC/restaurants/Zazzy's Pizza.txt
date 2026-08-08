@@ -1,0 +1,25 @@
+Name: Zazzy's Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 73 Greenwich Avenue, New York NY 10014
+Description: Not listed
+Website: https://zazzys.com/
+Phone: +1-212-542-0177
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7366471
+Longitude: -74.0013787
+OpenStreetMap URL: https://www.openstreetmap.org/node/9615093450
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9615093450
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

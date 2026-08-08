@@ -1,0 +1,25 @@
+Name: The Irish Rover
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 37-18 28th Avenue, Astoria 11103
+Description: Not listed
+Website: http://www.irishrovernyc.com/
+Phone: +1-718-278-9372
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-04:00; Su 12:00-04:00
+Wheelchair Accessibility: no
+Latitude: 40.7658038
+Longitude: -73.914694
+OpenStreetMap URL: https://www.openstreetmap.org/node/2954254651
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2954254651
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

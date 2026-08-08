@@ -1,0 +1,25 @@
+Name: Mariachi Restaurant Bar and Grill
+City: Washington DC
+Category: bars
+Cuisine: mexican
+Address: 5217 Georgia Avenue Northwest, Washington DC 20011-3923
+Description: Not listed
+Website: Not listed
+Phone: +1 202-921-9142
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9534631
+Longitude: -77.0273105
+OpenStreetMap URL: https://www.openstreetmap.org/way/295846730
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295846730
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

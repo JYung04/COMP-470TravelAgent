@@ -1,0 +1,25 @@
+Name: Charles Devens
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: A statue of Charles Devens by Olin Levi Warner, sometimes called General Charles Devens, is installed along the Charles River Esplanade, in Boston, Massachusetts, United States.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3565616
+Longitude: -71.0734446
+OpenStreetMap URL: https://www.openstreetmap.org/node/7678821284
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7678821284
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

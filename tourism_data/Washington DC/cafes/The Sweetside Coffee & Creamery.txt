@@ -1,0 +1,24 @@
+Name: The Sweetside Coffee & Creamery
+City: Washington DC
+Category: cafes
+Cuisine: Ice Cream Parlor
+Address: Alexandria, VA 22305
+Description: Coffee, breakfast sandwiches, ice cream
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-14:00, 17:00-21:00; Sa-Su 07:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8355625
+Longitude: -77.0572716
+OpenStreetMap URL: https://www.openstreetmap.org/node/13198912864
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13198912864
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

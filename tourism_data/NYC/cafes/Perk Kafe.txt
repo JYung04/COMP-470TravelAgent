@@ -1,0 +1,25 @@
+Name: Perk Kafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 1867 2nd Avenue
+Description: Not listed
+Website: https://www.perkkafe.com/
+Phone: +1 646-678-4272
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-16:00; Sa, Su 08:00-16:00
+Wheelchair Accessibility: yes
+Latitude: 40.7845374
+Longitude: -73.947159
+OpenStreetMap URL: https://www.openstreetmap.org/way/584343352
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/584343352
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

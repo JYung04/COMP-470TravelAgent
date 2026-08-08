@@ -1,0 +1,24 @@
+Name: Happy Lamb Hot Pot
+City: Boston
+Category: restaurants
+Cuisine: mongolian, hot_pot
+Address: 138 Brighton Avenue, Allston MA 02134
+Description: Not listed
+Website: Not listed
+Phone: +16179034032
+Email: Not listed
+Opening Hours: Su-Fr 16:00-22:00; Sa 00:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3528003
+Longitude: -71.1316912
+OpenStreetMap URL: https://www.openstreetmap.org/node/9622402241
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9622402241
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

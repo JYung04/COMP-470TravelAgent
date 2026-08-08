@@ -1,0 +1,25 @@
+Name: BK9
+City: NYC
+Category: restaurants
+Cuisine: caribbean
+Address: Not listed
+Description: Not listed
+Website: https://www.bk9.nyc
+Phone: +1-718-789-2176
+Email: Not listed
+Opening Hours: Mo-Th 12:00-02:00; Fr 11:30-04:00; Sa 10:30-04:00; Su 10:30-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6811967
+Longitude: -73.9773859
+OpenStreetMap URL: https://www.openstreetmap.org/node/5562952077
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5562952077
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

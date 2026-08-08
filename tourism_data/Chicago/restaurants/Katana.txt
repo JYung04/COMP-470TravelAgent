@@ -1,0 +1,24 @@
+Name: Katana
+City: Chicago
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 339 North Dearborn Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.innovativedining.com/restaurants/katana
+Phone: +1-312-877-5544
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-14:30; Su-Tu 17:00-22:00; We-Th 17:00-22:30; Fr-Sa 17:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8885135
+Longitude: -87.6293075
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458099597
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458099597
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

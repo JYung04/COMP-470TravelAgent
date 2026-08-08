@@ -1,0 +1,25 @@
+Name: Ronan (George) Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 3000 West Argyle Street, Chicago IL 60625
+Description: Officially classified as linear park. Covers approximately 12.0 acres. Facilities include playground.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/ronan-george-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.970348
+Longitude: -87.7027409
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18157600
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/18157600
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Lake Street Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: E 4th Avenue, Windermere FL 34786
+Description: City managed park. Fishing Pier & Walking Path. Limited Parking. Located on Lake Down Lakefront at Magnolia Street, between Third and Fifth Avenues.
+Website: https://www.windermereparksandrecreation.com/index.php/our-parks/lake-street-park-1
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.497894
+Longitude: -81.5319815
+OpenStreetMap URL: https://www.openstreetmap.org/way/576565768
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/576565768
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Elis Wine Bar
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 1012 Amsterdam Avenue, New York NY 10025
+Description: Not listed
+Website: https://www.eliswinebar.com
+Phone: +1-212-222-2055
+Email: Not listed
+Opening Hours: Tu-Su 16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8028192
+Longitude: -73.964203
+OpenStreetMap URL: https://www.openstreetmap.org/node/9787335517
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9787335517
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

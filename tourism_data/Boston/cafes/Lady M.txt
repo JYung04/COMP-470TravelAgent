@@ -1,0 +1,25 @@
+Name: Lady M
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 304 Newbury Street, Boston MA 02115
+Description: Not listed
+Website: https://www.ladym.com/
+Phone: +1-617-329-5555
+Email: hello@ladym.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3486339
+Longitude: -71.0850813
+OpenStreetMap URL: https://www.openstreetmap.org/node/7748212188
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7748212188
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

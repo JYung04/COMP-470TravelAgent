@@ -1,0 +1,25 @@
+Name: Furama Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: asian
+Address: 2828 South Wentworth Avenue, Chicago IL 60616
+Description: Not listed
+Website: Not listed
+Phone: +1 312 225 6888
+Email: edlau6888@yahoo.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8415825
+Longitude: -87.6321476
+OpenStreetMap URL: https://www.openstreetmap.org/node/5999507785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5999507785
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Bagels & Beyond
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 257 Avenue X
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 05:00-16:00; Sa,Su 06:00-14:00
+Wheelchair Accessibility: yes
+Latitude: 40.5903237
+Longitude: -73.9733995
+OpenStreetMap URL: https://www.openstreetmap.org/node/7277164078
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7277164078
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

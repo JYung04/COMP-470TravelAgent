@@ -1,0 +1,24 @@
+Name: The Fireplace Inn
+City: Chicago
+Category: restaurants
+Cuisine: american, southern, barbecue
+Address: 1448 North Wells Street, Chicago IL 60610
+Description: Not listed
+Website: https://fireplaceinn.com
+Phone: +1-312-664-5264
+Email: Not listed
+Opening Hours: Mo-Tu off; We-Fr 16:30-02:00; Sa 10:30-03:00; Su 11:00-01:00
+Wheelchair Accessibility: limited
+Latitude: 41.909098
+Longitude: -87.6348744
+OpenStreetMap URL: https://www.openstreetmap.org/node/6261028501
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6261028501
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Carter Burden Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 548 West 28th Street, New York NY 10001
+Description: Not listed
+Website: https://www.carterburdengallery.org
+Phone: +1-212-564-8405
+Email: Not listed
+Opening Hours: Tu-Fr 11:00-17:00; Sa 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7516054
+Longitude: -74.0041652
+OpenStreetMap URL: https://www.openstreetmap.org/node/10860703822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10860703822
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

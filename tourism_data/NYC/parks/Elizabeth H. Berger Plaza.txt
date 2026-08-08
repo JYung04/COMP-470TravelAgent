@@ -1,0 +1,25 @@
+Name: Elizabeth H. Berger Plaza
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 2 Edgar Street, New York NY 10006
+Description: Elizabeth H. Berger Plaza is a public park in the Financial District of Manhattan, New York City. Formed by the triangular junction of Trinity Place, Greenwich Street, and Edgar Street. It faces the Manhattan exit ramp from the Brooklyn–Battery Tunnel. Formerly known as the Edgar Street Greenstreet, this park honors civic advocate Elizabeth H. Berger (1960–2013). In her role as president of the Downtown Alliance, she advocated for the fusion of two traffic triangles at this location into an expanded park. The park is located on the site of a former neighborhood known as Little Syria, a bustling immigrant community displaced by the construction of the tunnel in 1953.
+Website: https://www.nycgovparks.org/planning-and-building/capital-project-tracker/project/5994
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7066764
+Longitude: -74.0140208
+OpenStreetMap URL: https://www.openstreetmap.org/way/538080002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/538080002
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

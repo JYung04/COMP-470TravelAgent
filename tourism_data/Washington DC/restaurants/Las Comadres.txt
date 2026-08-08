@@ -1,0 +1,25 @@
+Name: Las Comadres
+City: Washington DC
+Category: restaurants
+Cuisine: latin_american
+Address: Not listed
+Description: American Salvadorian Cuisine
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.958796
+Longitude: -76.9396937
+OpenStreetMap URL: https://www.openstreetmap.org/node/6541138819
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6541138819
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

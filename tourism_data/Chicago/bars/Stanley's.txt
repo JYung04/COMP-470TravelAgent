@@ -1,0 +1,25 @@
+Name: Stanley's
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4258 South Ashland Avenue Chicago IL 60609
+Description: Not listed
+Website: http://www.stanleys.beer/
+Phone: +1-773-927-0033
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9751802
+Longitude: -87.9065976
+OpenStreetMap URL: https://www.openstreetmap.org/node/6419715445
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6419715445
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

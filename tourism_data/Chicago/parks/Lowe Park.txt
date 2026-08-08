@@ -1,0 +1,25 @@
+Name: Lowe Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 5203 South Lowe Avenue, Chicago IL 60609
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/lowe-samuel-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7989412
+Longitude: -87.6410207
+OpenStreetMap URL: https://www.openstreetmap.org/way/113019942
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/113019942
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

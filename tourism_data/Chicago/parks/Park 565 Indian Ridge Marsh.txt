@@ -1,0 +1,25 @@
+Name: Park 565 "Indian Ridge Marsh"
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 11740 South Torrence Avenue, Chicago IL 60617
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/indian-ridge-marsh-park-no-565-natural-area
+Phone: Not listed
+Email: Not listed
+Opening Hours: dawn-dusk
+Wheelchair Accessibility: Not listed
+Latitude: 41.6770753
+Longitude: -87.5617866
+OpenStreetMap URL: https://www.openstreetmap.org/way/390294888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/390294888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

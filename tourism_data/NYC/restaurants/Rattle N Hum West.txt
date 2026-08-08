@@ -1,0 +1,24 @@
+Name: Rattle N Hum West
+City: NYC
+Category: restaurants
+Cuisine: pizza, sandwich, breakfast, american
+Address: 306 West 39th Street
+Description: Not listed
+Website: https://rattlenhumbarnyc.com/rattlenhumwest
+Phone: +1-917-262-0423
+Email: enquiries@rattlenhumbarnyc.com
+Opening Hours: Mo-We, Su 06:00-02:00; Th-Sa 06:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7554555
+Longitude: -73.9917531
+OpenStreetMap URL: https://www.openstreetmap.org/node/5818318681
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5818318681
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

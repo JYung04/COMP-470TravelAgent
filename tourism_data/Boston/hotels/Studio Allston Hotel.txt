@@ -1,0 +1,25 @@
+Name: Studio Allston Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 1234 Soldiers Field Road, Boston MA 02135
+Description: Studio Allston is a 117-room hotel that embodies a spirit of adventure and creativity, promising to deliver a hotel experience unlike any other. Inspired by Boston's hippest neighborhood, the hotel dedicates its walls to 12 different artists who've crafted jaw-dropping experiences. Stay outside the frame, but stay in the know with Studio Allston.
+Website: https://www.hotelstudioallston.com/
+Phone: +1 617-206-1848
+Email: frontoffice@hotelstudioallston.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3637156
+Longitude: -71.1363915
+OpenStreetMap URL: https://www.openstreetmap.org/relation/65357
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/65357
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

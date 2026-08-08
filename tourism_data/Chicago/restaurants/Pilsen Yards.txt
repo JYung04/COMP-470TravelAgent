@@ -1,0 +1,25 @@
+Name: Pilsen Yards
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1163 West 18th Street, Chicago IL 60608
+Description: patio
+Website: https://www.pilsenyards.com/
+Phone: +1-312-243-2410
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8578693
+Longitude: -87.6555977
+OpenStreetMap URL: https://www.openstreetmap.org/node/8508251821
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8508251821
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

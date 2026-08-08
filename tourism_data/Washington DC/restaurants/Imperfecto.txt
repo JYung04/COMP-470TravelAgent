@@ -1,0 +1,25 @@
+Name: Imperfecto
+City: Washington DC
+Category: restaurants
+Cuisine: latin_american
+Address: 1124 23rd Street Northwest, Washington DC 20037-1423
+Description: Not listed
+Website: http://www.imperfectodc.com/
+Phone: +1 202-964-1012
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9043392
+Longitude: -77.050322
+OpenStreetMap URL: https://www.openstreetmap.org/node/9397602820
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9397602820
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Doughnut Vault
+City: Chicago
+Category: cafes
+Cuisine: donut, american
+Address: 401 1/2 North Franklin Street, Chicago IL 60654
+Description: Not listed
+Website: https://doughnutvault.com/
+Phone: +1-312-285-2830
+Email: Not listed
+Opening Hours: Mo-Su 07:30-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8894615
+Longitude: -87.6353902
+OpenStreetMap URL: https://www.openstreetmap.org/node/2527216735
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2527216735
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: La Fogata
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 3433 West Lawrence Avenue, Chicago IL 60630
+Description: Not listed
+Website: https://lafogatachicago.com/7213
+Phone: +1-773-463-6404
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-23:00; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9681634
+Longitude: -87.7449839
+OpenStreetMap URL: https://www.openstreetmap.org/node/11375545489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11375545489
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

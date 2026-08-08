@@ -1,0 +1,25 @@
+Name: Pupusas Ridgewood
+City: NYC
+Category: restaurants
+Cuisine: salvadoran
+Address: 71-20 Fresh Pond Road
+Description: Not listed
+Website: Not listed
+Phone: +1-347-599-0858
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7012114
+Longitude: -73.8949036
+OpenStreetMap URL: https://www.openstreetmap.org/node/7804618731
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7804618731
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Chicken N Shakes
+City: NYC
+Category: restaurants
+Cuisine: fried_food, burger, chicken
+Address: 183-16 Horace Harding Expressway, Fresh Meadows NY 11365
+Description: Not listed
+Website: Not listed
+Phone: +1-718-650-5559
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7394611
+Longitude: -73.7904419
+OpenStreetMap URL: https://www.openstreetmap.org/node/11331444152
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11331444152
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

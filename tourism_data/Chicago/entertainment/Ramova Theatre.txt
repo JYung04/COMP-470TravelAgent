@@ -1,0 +1,25 @@
+Name: Ramova Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 3518 South Halsted Street, Chicago IL 60609
+Description: The Ramova Theater is a historic movie theater at 3508-3518 South Halsted Street in the Bridgeport neighborhood of Chicago, Illinois. Businessman Jokūbas Maskoliūnas, one of the many Lithuanian immigrants who settled in Bridgeport in the early twentieth century, built the theater in 1929. The theater opened with 1,300 seats, making it the largest in the neighborhood, and was built with a commercial block and apartments in the same building. Its name, which was chosen by the winner of a local newspaper contest, means "peaceful place" or "serene place" in Lithuanian. Architect Myer O. Nathan designed the building as an atmospheric theater, a style of theater meant to transplant audiences to a distant place or time; in the case of the.
+Website: https://www.ramovachicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8302599
+Longitude: -87.6464907
+OpenStreetMap URL: https://www.openstreetmap.org/way/210170884
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210170884
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art

@@ -1,0 +1,25 @@
+Name: Phở 888
+City: Chicago
+Category: restaurants
+Cuisine: vietnamese
+Address: 1137 W Argyle St, Chicago, IL 60640, United States
+Description: Not listed
+Website: https://www.grubhub.com/restaurant/510302?utm_source=grubhub_web&utm_medium=content_owned&utm_campaign=menushare&utm_content=share-link
+Phone: +1 773-907-8838
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9731335
+Longitude: -87.6592546
+OpenStreetMap URL: https://www.openstreetmap.org/node/7152419396
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7152419396
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

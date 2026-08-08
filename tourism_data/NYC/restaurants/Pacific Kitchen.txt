@@ -1,0 +1,25 @@
+Name: Pacific Kitchen
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 4255 Amboy Road, Staten Island NY 10308
+Description: Not listed
+Website: https://www.pacifickitchenny.com/
+Phone: +1 718-948-6888
+Email: Not listed
+Opening Hours: Su-Th 11:30-21:30; Fr,Sa 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.5476749
+Longitude: -74.1578191
+OpenStreetMap URL: https://www.openstreetmap.org/node/6700617195
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6700617195
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

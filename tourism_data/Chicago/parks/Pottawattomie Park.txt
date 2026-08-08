@@ -1,0 +1,25 @@
+Name: Pottawattomie Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 7340 North Rogers Avenue, Chicago IL 60626
+Description: park in Cook County, Illinois, United States of America; geonames ID = 4906554
+Website: https://www.chicagoparkdistrict.com/parks-facilities/pottawattomie-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.0157903
+Longitude: -87.6776136
+OpenStreetMap URL: https://www.openstreetmap.org/way/27924666
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/27924666
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

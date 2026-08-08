@@ -1,0 +1,25 @@
+Name: Rosen Inn at Pointe Orlando
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 9000 International Drive, Orlando FL 32819
+Description: Not listed
+Website: https://www.roseninn9000.com/
+Phone: +1 407 996 8585;+1 800 999 8585
+Email: info9000@roseninns.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.432865
+Longitude: -81.4729404
+OpenStreetMap URL: https://www.openstreetmap.org/way/549089355
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/549089355
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

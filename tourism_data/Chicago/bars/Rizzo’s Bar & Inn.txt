@@ -1,0 +1,25 @@
+Name: Rizzo’s Bar & Inn
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3658 North Clark Street, Chicago IL 60613
+Description: Not listed
+Website: https://rizzosbarandinn.com/
+Phone: +1-773-799-8161
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9486374
+Longitude: -87.6579243
+OpenStreetMap URL: https://www.openstreetmap.org/node/6301035834
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6301035834
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

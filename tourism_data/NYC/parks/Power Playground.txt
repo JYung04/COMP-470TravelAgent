@@ -1,0 +1,25 @@
+Name: Power Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/power-playground/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6181241
+Longitude: -73.9273314
+OpenStreetMap URL: https://www.openstreetmap.org/way/1132386874
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1132386874
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

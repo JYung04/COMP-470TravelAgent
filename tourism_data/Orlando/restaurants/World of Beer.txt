@@ -1,0 +1,24 @@
+Name: World of Beer
+City: Orlando
+Category: restaurants
+Cuisine: american, burger
+Address: 431 East Central Blvd, Orlando FL 32801
+Description: Not listed
+Website: https://worldofbeer.com/locations/downtown-orlando/
+Phone: +1-407-270-5541
+Email: Not listed
+Opening Hours: Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 28.5429645
+Longitude: -81.3716162
+OpenStreetMap URL: https://www.openstreetmap.org/node/9136300917
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9136300917
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Llama San
+City: NYC
+Category: restaurants
+Cuisine: peruvian, japanese
+Address: 359 6th Avenue, New York NY 10014
+Description: Not listed
+Website: https://www.llamasannyc.com/
+Phone: +1-646-490-4422
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:00, Fr-Sa 17:00-22:30, Sa-Su 11:00-3:30, Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7322375
+Longitude: -74.0007701
+OpenStreetMap URL: https://www.openstreetmap.org/node/8307416282
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8307416282
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

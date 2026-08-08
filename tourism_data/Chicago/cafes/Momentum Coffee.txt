@@ -1,0 +1,25 @@
+Name: Momentum Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1122 West 63rd Street, Chicago IL 60621
+Description: Not listed
+Website: https://momentumcoffee.org
+Phone: +1 312-285-2808
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7798635
+Longitude: -87.6530467
+OpenStreetMap URL: https://www.openstreetmap.org/node/9993591203
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9993591203
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

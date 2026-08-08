@@ -1,0 +1,25 @@
+Name: Eli’s Cheesecake
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 6701 West Forest Preserve Drive, Chicago IL 60634
+Description: Not listed
+Website: https://elicheesecake.com/
+Phone: +1-773-736-3417
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9591897
+Longitude: -87.7945173
+OpenStreetMap URL: https://www.openstreetmap.org/node/6286450674
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6286450674
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

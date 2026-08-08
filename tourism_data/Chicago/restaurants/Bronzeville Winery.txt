@@ -1,0 +1,25 @@
+Name: Bronzeville Winery
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 4420 South Cottage Grove Avenue, Chicago IL 60653
+Description: Bronzeville Winery This chic spot in the historic Bronzeville neighborhood features curated art on the walls, live music and DJ residencies, and a rotating wine list featuring women, minority, and Black winemakers The menu at Bronzeville Winery is perfect for sharing, with smaller bites and larger plates featuring elevated and innovative cuisine. The laidback patio features both lounge space and an outdoor dining area. RIVERWALK RESTAURANTS Enjoy riverfront views from these scenic restaurants an
+Website: https://www.bronzevillewinery.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8143543
+Longitude: -87.6069291
+OpenStreetMap URL: https://www.openstreetmap.org/node/8677975849
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8677975849
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art; music

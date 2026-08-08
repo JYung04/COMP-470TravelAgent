@@ -1,0 +1,25 @@
+Name: Charm Kao
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 193 Schermerhorn Street, 11201
+Description: Not listed
+Website: https://charmkao.com
+Phone: +1-347-599-1748
+Email: Not listed
+Opening Hours: Mo-Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6892162
+Longitude: -73.986307
+OpenStreetMap URL: https://www.openstreetmap.org/node/6453371197
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6453371197
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

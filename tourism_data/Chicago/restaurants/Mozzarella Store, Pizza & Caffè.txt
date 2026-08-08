@@ -1,0 +1,24 @@
+Name: Mozzarella Store, Pizza & Caffè
+City: Chicago
+Category: restaurants
+Cuisine: italian, pizza
+Address: 822 North Michigan Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://mozzarellastores.com/
+Phone: +1-312-285-2449
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8974395
+Longitude: -87.6251164
+OpenStreetMap URL: https://www.openstreetmap.org/node/6757783215
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6757783215
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

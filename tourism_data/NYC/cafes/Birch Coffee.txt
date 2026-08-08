@@ -1,0 +1,25 @@
+Name: Birch Coffee
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 21 East 27th Street, New York NY 10016
+Description: Not listed
+Website: https://birchcoffee.com/locations/flatiron/
+Phone: +1 212-686-1444
+Email: 27thstreet@birchcoffee.com
+Opening Hours: Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7436151
+Longitude: -73.9863949
+OpenStreetMap URL: https://www.openstreetmap.org/node/4564273493
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4564273493
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

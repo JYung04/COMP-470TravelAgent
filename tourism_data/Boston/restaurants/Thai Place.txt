@@ -1,0 +1,25 @@
+Name: Thai Place
+City: Boston
+Category: restaurants
+Cuisine: thai
+Address: 184 Brighton Avenue, Allston MA 02134
+Description: After a three-year hiatus to rebuild from a fire, this Allston favorite is back. Put this khao kha mu , a classic street-food dish of braised pork leg and rice, on your must-eat list this month. 184 Brighton Ave., Allston, Boston, thaiplaceboston.com .
+Website: https://www.thaiplaceboston.com/
+Phone: +1 617 782 5782
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3530579
+Longitude: -71.133748
+OpenStreetMap URL: https://www.openstreetmap.org/node/4650794605
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4650794605
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Institute for the Study of the Ancient World
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 15 East 85th Street, New York NY 10028
+Description: The Institute for the Study of the Ancient World (ISAW) is a center for advanced scholarly research and graduate education at New York University. ISAW's mission is to cultivate comparative, connective investigations of the ancient world from the western Mediterranean to China. Areas of specialty among ISAW's faculty include the Greco-Roman world, the Ancient Near East, Egypt, Central Asia and the Silk Road, East Asian art and archaeology, Late Antiquity and the early Middle Ages, ancient science, and digital humanities.
+Website: https://isaw.nyu.edu/
+Phone: +1 212-992-7800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7799803
+Longitude: -73.9602334
+OpenStreetMap URL: https://www.openstreetmap.org/way/266934250
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266934250
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

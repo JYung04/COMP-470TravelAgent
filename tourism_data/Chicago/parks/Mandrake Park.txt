@@ -1,0 +1,25 @@
+Name: Mandrake Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 900 East Pershing Road, Chicago IL 60653
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/mandrake-henry-brown-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.82374
+Longitude: -87.6068389
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18251527
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/18251527
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

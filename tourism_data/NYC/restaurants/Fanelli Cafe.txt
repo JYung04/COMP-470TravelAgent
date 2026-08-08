@@ -1,0 +1,24 @@
+Name: Fanelli Cafe
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: Not listed
+Description: Fanelli Cafe is a historic New York City restaurant and bar considered the city's second-oldest food-and-drink establishment in the same locale, having operated under various owners at 94 Prince Street since 1847. It served as a gathering place for artists during the transition of Manhattan's SoHo neighborhood from a manufacturing area to an arts community.
+Website: Not listed
+Phone: +1-212-226-9412
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7246074
+Longitude: -73.9987503
+OpenStreetMap URL: https://www.openstreetmap.org/node/3573482099
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3573482099
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

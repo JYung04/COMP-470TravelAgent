@@ -1,0 +1,25 @@
+Name: Emery Hamilton Sports Complex
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: Orlando FL 32808
+Description: Emery Hamilton Sports Complex
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Emery-Hamilton-Sports-Complex
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5537411
+Longitude: -81.4355934
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1161232
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1161232
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

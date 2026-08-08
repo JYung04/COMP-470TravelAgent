@@ -1,0 +1,25 @@
+Name: Willie's Steak House
+City: NYC
+Category: restaurants
+Cuisine: steak_house
+Address: 1832 Westchester Avenue
+Description: Not listed
+Website: https://www.williessteakhousebronx.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8321314
+Longitude: -73.8649234
+OpenStreetMap URL: https://www.openstreetmap.org/node/5548939364
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5548939364
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

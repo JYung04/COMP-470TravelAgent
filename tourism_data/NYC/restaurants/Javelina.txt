@@ -1,0 +1,25 @@
+Name: Javelina
+City: NYC
+Category: restaurants
+Cuisine: tex-mex
+Address: 1395 2nd Avenue
+Description: Not listed
+Website: https://www.javelinatexmex.com/location/javelina-upper-east-side/
+Phone: +1 917-261-7011
+Email: ues@javelinatexmex.com
+Opening Hours: Mo-Fr 16:00-22:00; Sa, Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7693428
+Longitude: -73.9581971
+OpenStreetMap URL: https://www.openstreetmap.org/node/7013001983
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7013001983
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Little Grenjai
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 477 Gates Avenue, 11216
+Description: Not listed
+Website: https://www.littlegrenjai.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: We 12:00-15:00,17:00-21:00; Th-Sa 12:00-15:00,17:00-22:00; Su 12:00-15:00,17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6866581
+Longitude: -73.947706
+OpenStreetMap URL: https://www.openstreetmap.org/node/2567934388
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2567934388
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

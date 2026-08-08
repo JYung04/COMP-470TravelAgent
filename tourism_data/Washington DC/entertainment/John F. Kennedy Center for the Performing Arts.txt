@@ -1,0 +1,25 @@
+Name: John F. Kennedy Center for the Performing Arts
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: 2700 F Street Northwest, Washington DC 20566
+Description: Not listed
+Website: https://kennedy-center.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8959012
+Longitude: -77.055758
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66418634
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

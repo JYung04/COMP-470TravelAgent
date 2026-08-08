@@ -1,0 +1,25 @@
+Name: Anassa Taverna Astoria
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 28-10 Astoria Boulevard, Astoria NY 11102
+Description: Not listed
+Website: Not listed
+Phone: +1-718-721-5050
+Email: Not listed
+Opening Hours: Mo-Th 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7706454
+Longitude: -73.9207206
+OpenStreetMap URL: https://www.openstreetmap.org/node/12469609077
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12469609077
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

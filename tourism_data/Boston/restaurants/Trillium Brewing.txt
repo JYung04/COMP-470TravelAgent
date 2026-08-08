@@ -1,0 +1,25 @@
+Name: Trillium Brewing
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 50 Thomson Place, Boston
+Description: Not listed
+Website: https://www.trilliumbrewing.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3521489
+Longitude: -71.0474876
+OpenStreetMap URL: https://www.openstreetmap.org/node/6886748963
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6886748963
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

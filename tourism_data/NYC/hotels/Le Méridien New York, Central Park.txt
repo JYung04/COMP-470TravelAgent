@@ -1,0 +1,25 @@
+Name: Le Méridien New York, Central Park
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 120 West 57th Street, New York NY 10019
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/nycmo-le-meridien-new-york-central-park/
+Phone: +1 212-830-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7645746
+Longitude: -73.9784686
+OpenStreetMap URL: https://www.openstreetmap.org/way/267035000
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/267035000
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

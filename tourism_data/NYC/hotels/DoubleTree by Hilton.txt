@@ -1,0 +1,25 @@
+Name: DoubleTree by Hilton
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 8 Stone Street, New York NY 10004
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/nycbpdt-doubletree-new-york-downtown/
+Phone: +1 212-480-9100
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 40.7038609
+Longitude: -74.0123272
+OpenStreetMap URL: https://www.openstreetmap.org/way/278053505
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278053505
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

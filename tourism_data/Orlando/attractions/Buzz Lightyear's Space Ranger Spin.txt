@@ -1,0 +1,25 @@
+Name: Buzz Lightyear's Space Ranger Spin
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Buzz Lightyear's Space Ranger Spin at Magic Kingdom is an interactive shooting dark ride attraction located in the Tomorrowland area of the Disney theme parks. Designed by Walt Disney Imagineering, this attraction combines a carnival game and a third-generation Omnimover system. It is inspired by Disney/Pixar's Toy Story franchise, and contains several elements loosely based on the cartoon series Buzz Lightyear of Star Command.
+Website: https://disneyworld.disney.go.com/attractions/magic-kingdom/buzz-lightyear-space-ranger-spin/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4180156
+Longitude: -81.5797768
+OpenStreetMap URL: https://www.openstreetmap.org/way/779986016
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/779986016
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; art

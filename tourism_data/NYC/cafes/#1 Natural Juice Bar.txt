@@ -1,0 +1,25 @@
+Name: #1 Natural Juice Bar
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 685 Seneca Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-347-956-5161
+Email: Not listed
+Opening Hours: Mo-Sa 06:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7030612
+Longitude: -73.9078624
+OpenStreetMap URL: https://www.openstreetmap.org/node/5531185014
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5531185014
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

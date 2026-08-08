@@ -1,0 +1,25 @@
+Name: Cityscape Bar
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 350 West Wolf Point Plaza, Chicago IL 60654
+Description: Not listed
+Website: https://www.martplaza.com/food-drink/cityscape-bar.aspx
+Phone: +1-312-836-5000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8881823
+Longitude: -87.6375946
+OpenStreetMap URL: https://www.openstreetmap.org/node/6282833425
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6282833425
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

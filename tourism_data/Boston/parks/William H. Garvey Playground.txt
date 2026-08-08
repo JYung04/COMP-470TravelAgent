@@ -1,0 +1,25 @@
+Name: William H. Garvey Playground
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 340 Neposet Avenue
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Dorchester. Covers approximately 5.3 acres. Also known as William H. Garvey Playground.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2880353
+Longitude: -71.0455621
+OpenStreetMap URL: https://www.openstreetmap.org/way/29818347
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29818347
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

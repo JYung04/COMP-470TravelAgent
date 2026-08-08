@@ -1,0 +1,25 @@
+Name: The Golden Dagger
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2447 North Halsted Street
+Description: Not listed
+Website: https://goldendagger.com
+Phone: +1-773-857-0166
+Email: donnie@goldendagger.com
+Opening Hours: Su-We 08:00-00:00; Th-Sa 08:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9268492
+Longitude: -87.6485659
+OpenStreetMap URL: https://www.openstreetmap.org/way/210321451
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210321451
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

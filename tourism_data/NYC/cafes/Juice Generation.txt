@@ -1,0 +1,25 @@
+Name: Juice Generation
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 101 Maiden Lane, 10038
+Description: Not listed
+Website: https://www.juicegeneration.com/locations/fidi
+Phone: +1-646-882-4330
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-17:00; Sa-Su unknown
+Wheelchair Accessibility: yes
+Latitude: 40.7069204
+Longitude: -74.0067667
+OpenStreetMap URL: https://www.openstreetmap.org/node/4915258225
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4915258225
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

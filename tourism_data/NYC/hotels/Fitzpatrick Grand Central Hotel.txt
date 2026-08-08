@@ -1,0 +1,25 @@
+Name: Fitzpatrick Grand Central Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 141 East 44th Street, New York 10017
+Description: Not listed
+Website: https://www.fitzpatrickhotels.com/fitzpatrick-grand-central.shtml
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7526594
+Longitude: -73.9744845
+OpenStreetMap URL: https://www.openstreetmap.org/node/1427273334
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1427273334
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

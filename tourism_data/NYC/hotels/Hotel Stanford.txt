@@ -1,0 +1,25 @@
+Name: Hotel Stanford
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 43 West 32nd Street, New York NY 10001
+Description: Not listed
+Website: https://www.hotelstanford.com/
+Phone: +1 212-563-1500
+Email: info@hotelstanford.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7482334
+Longitude: -73.9874643
+OpenStreetMap URL: https://www.openstreetmap.org/way/265260913
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265260913
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

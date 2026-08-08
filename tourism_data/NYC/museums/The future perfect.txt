@@ -1,0 +1,25 @@
+Name: The future perfect
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 8 St Luke’s place
+Description: Visits by appointment only via phone or website https://thefutureperfect1.schedulista.com/
+Website: https://www.thefutureperfect.com/
+Phone: +12124732500,220
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7302939
+Longitude: -74.0060321
+OpenStreetMap URL: https://www.openstreetmap.org/node/13950945726
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13950945726
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

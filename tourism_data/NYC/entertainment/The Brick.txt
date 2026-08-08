@@ -1,0 +1,25 @@
+Name: The Brick
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 579 Metropolitan Avenue, Brooklyn NY 11211
+Description: The Brick Theater is a venue in Williamsburg, Brooklyn that presents dance, performance art, drag, comedy, film, music, experimental theatre, and more. Gothamist has hailed the space as “one of the city’s most reliable sources for smart, funny, and surprising performance.”
+Website: https://bricktheater.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.714199
+Longitude: -73.9497604
+OpenStreetMap URL: https://www.openstreetmap.org/node/8111388486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8111388486
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art; music

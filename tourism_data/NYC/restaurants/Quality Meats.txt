@@ -1,0 +1,25 @@
+Name: Quality Meats
+City: NYC
+Category: restaurants
+Cuisine: steak_house
+Address: 57 West 58th Street, 10019
+Description: Not listed
+Website: https://www.qualitymeatsnyc.com
+Phone: +1-212-371-7777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7649266
+Longitude: -73.9762437
+OpenStreetMap URL: https://www.openstreetmap.org/node/12510451776
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12510451776
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

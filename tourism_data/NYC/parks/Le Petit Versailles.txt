@@ -1,0 +1,25 @@
+Name: Le Petit Versailles
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 247 East 2nd Street, New York NY 10009
+Description: Le Petit Versailles is a New York City community garden on the Lower East Side of Manhattan. It was established in 1996 by artists Peter Cramer and Jack Waters, who wanted to create a queer public space in the city. The garden is a part of the NYC Department of Park's GreenThumb program. The garden regularly holds calls for proposals for artistic works or events and hosts community events such as exhibitions, readings, live performances, and film screenings.
+Website: https://www.alliedproductions.org/about-the-garden
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7211386
+Longitude: -73.9817823
+OpenStreetMap URL: https://www.openstreetmap.org/way/1081582610
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1081582610
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art; gardens

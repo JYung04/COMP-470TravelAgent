@@ -1,0 +1,24 @@
+Name: The Supply House
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 1647 2nd Avenue, 10028
+Description: Not listed
+Website: https://www.thesupplyhousenyc.com/
+Phone: +1 646-861-3585
+Email: Not listed
+Opening Hours: Mo, Tu 17:00-00:00; We 17:00-01:00; Th 16:00-02:00; Fr 16:00-03:00; Sa 11:30-03:00; Su 11:30-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7775557
+Longitude: -73.9522212
+OpenStreetMap URL: https://www.openstreetmap.org/node/5907398054
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5907398054
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

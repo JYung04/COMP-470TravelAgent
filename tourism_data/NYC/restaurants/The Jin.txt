@@ -1,0 +1,25 @@
+Name: The Jin
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 856 10th Avenue, New York NY 10019
+Description: Not listed
+Website: https://www.thejinnyc.com
+Phone: +1-212-223-3488
+Email: thejinnyc@gmail.com
+Opening Hours: Mo-We 11:30-15:00,17:00-22:00; Th-Sa 11:30-15:00,17:00-23:00; Su 13:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7685706
+Longitude: -73.9887358
+OpenStreetMap URL: https://www.openstreetmap.org/node/3785201077
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3785201077
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Van Phat
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2752 North Kimball Avenue, Chicago IL 60647
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9316589
+Longitude: -87.7124643
+OpenStreetMap URL: https://www.openstreetmap.org/node/3649631221
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3649631221
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

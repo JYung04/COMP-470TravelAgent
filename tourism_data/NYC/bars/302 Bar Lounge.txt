@@ -1,0 +1,25 @@
+Name: 302 Bar Lounge
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 302 Irving Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6988956
+Longitude: -73.9144565
+OpenStreetMap URL: https://www.openstreetmap.org/node/5569359562
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5569359562
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

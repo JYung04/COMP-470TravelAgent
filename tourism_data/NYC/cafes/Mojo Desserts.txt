@@ -1,0 +1,25 @@
+Name: Mojo Desserts
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 177 East 100th Street
+Description: Not listed
+Website: https://mojodesserts.com/
+Phone: +1 917-331-3278
+Email: info@mojodesserts.com
+Opening Hours: We-Fr 12:00-21:00; Sa, Su 12:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7883617
+Longitude: -73.9486386
+OpenStreetMap URL: https://www.openstreetmap.org/node/9719499618
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9719499618
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

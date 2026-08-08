@@ -1,0 +1,25 @@
+Name: The Woo Woo
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 266 West 47th Street, 10036
+Description: Not listed
+Website: https://thewoowoonyc.com/
+Phone: (646) 866-7234
+Email: Not listed
+Opening Hours: Tu-Su 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7601203
+Longitude: -73.9872499
+OpenStreetMap URL: https://www.openstreetmap.org/node/12646645001
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12646645001
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

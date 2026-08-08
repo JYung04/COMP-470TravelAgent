@@ -1,0 +1,25 @@
+Name: The Fairmont Copley Plaza Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 138 Saint James Avenue, Boston MA 02116
+Description: Not listed
+Website: https://www.fairmont.com/copley-plaza-boston/
+Phone: +1-617-267-5300
+Email: boston@fairmont.com
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 42.3490609
+Longitude: -71.0761826
+OpenStreetMap URL: https://www.openstreetmap.org/way/816347916
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/816347916
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Casamara
+City: Washington DC
+Category: restaurants
+Cuisine: mediterranean
+Address: 1337 Connecticut Avenue Northwest, Washington DC 20036
+Description: Mediterranean restaurant blending urban sophistication and coastal ease in downtown DC. Offers housemade pastas, fresh seafood, and grilled meats with flavors from Spain, France, Italy, and Greece. Available for private events. Features a rooftop terrace
+Website: https://casamaradc.com/
+Phone: +1 202-410-1313
+Email: info@casamaradc.com
+Opening Hours: Su-We 17:00-22:00; Th-Sa 17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9082613
+Longitude: -77.0423275
+OpenStreetMap URL: https://www.openstreetmap.org/node/4156160938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4156160938
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

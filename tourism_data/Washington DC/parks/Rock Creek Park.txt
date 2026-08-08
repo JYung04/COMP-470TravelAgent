@@ -1,0 +1,25 @@
+Name: Rock Creek Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Rock Creek Park is a large urban park that bisects the Northwest quadrant of Washington, D.C. Created by Act of Congress in 1890, the park comprises 1,754 acres, generally along Rock Creek, a tributary of the Potomac River.
+Website: https://www.nps.gov/rocr/index.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9618038
+Longitude: -77.0462979
+OpenStreetMap URL: https://www.openstreetmap.org/relation/4610875
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/4610875
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

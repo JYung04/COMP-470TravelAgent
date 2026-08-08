@@ -1,0 +1,24 @@
+Name: Open City
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop, sandwich, pastry, american
+Address: 3101 Wisconsin Avenue Northwest, Washington DC 20016
+Description: A cafe located at the National Cathedral, serving espresso drinks, homemade pastries, and sandwiches. It's a gathering place for locals, visitors, and various communities, offering a quiet lunch or brunch experience.
+Website: https://www.opencitycathedraldc.com
+Phone: +1 202-965-7670
+Email: Not listed
+Opening Hours: 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9298222
+Longitude: -77.0713492
+OpenStreetMap URL: https://www.openstreetmap.org/way/67829102
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/67829102
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

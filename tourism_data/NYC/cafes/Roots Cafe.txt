@@ -1,0 +1,24 @@
+Name: Roots Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfast, american
+Address: 639 5th Avenue, 11215
+Description: Not listed
+Website: https://www.rootsbrooklyn.com
+Phone: +1-929-301-5535
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-16:00; Sa-Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6628451
+Longitude: -73.991657
+OpenStreetMap URL: https://www.openstreetmap.org/node/6071606246
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6071606246
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

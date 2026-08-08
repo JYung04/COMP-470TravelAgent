@@ -1,0 +1,24 @@
+Name: Pressed Cafe
+City: Boston
+Category: restaurants
+Cuisine: breakfast, coffee_shop
+Address: 105 Huntington Avenue, Boston MA 02199
+Description: Not listed
+Website: https://www.pressedcafe.com/
+Phone: +1-857-233-5427
+Email: Info@PressedCafe.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3461694
+Longitude: -71.0811833
+OpenStreetMap URL: https://www.openstreetmap.org/node/13974862053
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13974862053
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Laramie Bakery & Deli
+City: Chicago
+Category: cafes
+Cuisine: polish
+Address: 3012 North Laramie Avenue, Chicago IL 60641
+Description: Not listed
+Website: Not listed
+Phone: +1-773-725-4965
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9355494
+Longitude: -87.7568011
+OpenStreetMap URL: https://www.openstreetmap.org/node/6324386440
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6324386440
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

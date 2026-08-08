@@ -1,0 +1,25 @@
+Name: Serpentine Art and Nature Commons
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 599 Van Duzer Street, Staten Island NY 10304
+Description: Not listed
+Website: https://preserve.org/serpentine/serpentine.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 40.6236333
+Longitude: -74.0862391
+OpenStreetMap URL: https://www.openstreetmap.org/way/35601752
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/35601752
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

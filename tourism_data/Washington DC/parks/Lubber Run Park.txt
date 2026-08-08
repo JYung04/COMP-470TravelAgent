@@ -1,0 +1,25 @@
+Name: Lubber Run Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://parks.arlingtonva.us/locations/lubber-run-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 38.873001
+Longitude: -77.114491
+OpenStreetMap URL: https://www.openstreetmap.org/way/1122189077
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1122189077
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

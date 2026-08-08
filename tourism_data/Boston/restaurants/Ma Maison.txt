@@ -1,0 +1,25 @@
+Name: Ma Maison
+City: Boston
+Category: restaurants
+Cuisine: french
+Address: 272 Cambridge Street, Boston MA 02114
+Description: Photograph by Joe St. Pierre. Styling by Madison Trapkin. As Boston’s longest tenured French chef-owner, Jacky Robert still shines at this bustling bistro. His menu offers a superb greatest-hits-of-Paris playlist — escargots, seared foie gras, onion soup, coq au vin, veals, sweetbreads, and nice-priced French wines — that will have you humming “La Vie en Rose” all the way home. 272 Cambridge St. , Boston , 617-725-8855 , mamaisonboston.com
+Website: https://www.mamaisonboston.com/
+Phone: +1-617-725-8855
+Email: info@mamaisonboston.com
+Opening Hours: Mo-Sa 11:00-22:00
+Wheelchair Accessibility: no
+Latitude: 42.3609889
+Longitude: -71.0679602
+OpenStreetMap URL: https://www.openstreetmap.org/node/1735987388
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1735987388
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Cold Stone Creamery
+City: Washington DC
+Category: cafes
+Cuisine: ice_cream
+Address: 1201 Half Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://www.coldstonecreamery.com/stores/23477
+Phone: +1-202-863-9000
+Email: Not listed
+Opening Hours: Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8755905
+Longitude: -77.0076328
+OpenStreetMap URL: https://www.openstreetmap.org/node/10677378786
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10677378786
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

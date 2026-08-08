@@ -1,0 +1,24 @@
+Name: Love Art Sushi
+City: Boston
+Category: restaurants
+Cuisine: sushi, poke, seafood
+Address: 1 Haviland Street, Boston MA 02119
+Description: Not listed
+Website: https://loveartsushi.com/
+Phone: +1 617 982 6953
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-23:00; Sa-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3466132
+Longitude: -71.0878616
+OpenStreetMap URL: https://www.openstreetmap.org/node/5197250394
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5197250394
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

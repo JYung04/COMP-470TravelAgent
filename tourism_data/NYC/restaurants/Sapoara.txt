@@ -1,0 +1,25 @@
+Name: Sapoara
+City: NYC
+Category: restaurants
+Cuisine: latin_american
+Address: 2262 1st Avenue, New York NY 10035
+Description: Not listed
+Website: https://sapoaranyc.com
+Phone: +1-212-256-0199
+Email: Not listed
+Opening Hours: Mo-Th 12:00-24:00; Fr-Sa 12:00-02:00; Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7961837
+Longitude: -73.9350491
+OpenStreetMap URL: https://www.openstreetmap.org/node/11842400116
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11842400116
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

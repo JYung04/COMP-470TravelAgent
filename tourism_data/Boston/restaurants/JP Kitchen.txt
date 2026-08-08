@@ -1,0 +1,25 @@
+Name: JP Kitchen
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 3510 Washington Street, Jamaica Plain MA 02130
+Description: Not listed
+Website: https://www.jpkitchen.com/
+Phone: +1-617-524-6888
+Email: Not listed
+Opening Hours: We-Th 11:00-21:30; Fr 11:00-22:30; Sa 11:30-22:30; Su 11:30-22:30; Mo 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3057899
+Longitude: -71.1079233
+OpenStreetMap URL: https://www.openstreetmap.org/node/3185547184
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3185547184
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

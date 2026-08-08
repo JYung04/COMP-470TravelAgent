@@ -1,0 +1,24 @@
+Name: Menya Goku
+City: Chicago
+Category: restaurants
+Cuisine: noodle, ramen, japanese
+Address: 2207 West Montrose Avenue, Chicago IL 60618
+Description: Ramen
+Website: https://www.menyagoku.com/
+Phone: +1-773-942-6701
+Email: shoyuhospitalitychicago@gmail.com
+Opening Hours: Tu-Th 17:00-21:00; Fr-Sa,Tu-Th 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.961271
+Longitude: -87.6842043
+OpenStreetMap URL: https://www.openstreetmap.org/node/7283923834
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7283923834
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

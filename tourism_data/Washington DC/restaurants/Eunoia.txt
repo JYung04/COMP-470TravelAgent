@@ -1,0 +1,24 @@
+Name: Eunoia
+City: Washington DC
+Category: restaurants
+Cuisine: fusion, mexican, mediterranean, japanese
+Address: 320 Florida Avenue Northeast, Washington DC 20002
+Description: Not listed
+Website: https://www.eunoiadc.com/
+Phone: +1-202-386-2847
+Email: Not listed
+Opening Hours: Tu-Su 17:00-22:00; Mo off
+Wheelchair Accessibility: Not listed
+Latitude: 38.9079979
+Longitude: -77.0018679
+OpenStreetMap URL: https://www.openstreetmap.org/node/13155919961
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13155919961
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

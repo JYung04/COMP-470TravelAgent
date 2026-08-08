@@ -1,0 +1,25 @@
+Name: Church Keys
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 28 Church Street, Boston PE21 6NW
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 52.9779815
+Longitude: -0.025396
+OpenStreetMap URL: https://www.openstreetmap.org/way/188250935
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/188250935
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

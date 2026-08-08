@@ -1,0 +1,24 @@
+Name: Sticky Rice
+City: Orlando
+Category: restaurants
+Cuisine: asian, laotian
+Address: 1915 East Colonial Drive, Orlando FL 32803
+Description: Bring a crowd to MICHELIN Recommended Sticky Rice, because you’ll want to try a little bit of everything on the menu. They specialize in Laotian street food, and almost everything is under $15 for incredible flavors and savings. Some of my personal favorites are the cucumber salad, pork lettuce wraps and sweet purple rice. The noodle soups are another solid pick if you’re visiting solo or don’t want to order several dishes.
+Website: https://stickywithit.com
+Phone: +1-321-800-6532
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-22:00; Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.5533047
+Longitude: -81.3565025
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455479319
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11455479319
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

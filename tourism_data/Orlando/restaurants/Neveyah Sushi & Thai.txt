@@ -1,0 +1,24 @@
+Name: Neveyah Sushi & Thai
+City: Orlando
+Category: restaurants
+Cuisine: oriental, thai, sushi
+Address: 100 South Eola Drive
+Description: Not listed
+Website: Not listed
+Phone: +1 407-849-3739
+Email: Not listed
+Opening Hours: Mo-Su 11:00-15:00, 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.5407054
+Longitude: -81.3701014
+OpenStreetMap URL: https://www.openstreetmap.org/node/4892456025
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4892456025
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

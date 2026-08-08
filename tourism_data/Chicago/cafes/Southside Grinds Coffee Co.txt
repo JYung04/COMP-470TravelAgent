@@ -1,0 +1,25 @@
+Name: Southside Grinds Coffee Co.
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 330 East 51st Street, Chicago IL 60615
+Description: Not listed
+Website: http://www.southsidegrinds.com/
+Phone: +1-312-292-8260
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.802256
+Longitude: -87.6182673
+OpenStreetMap URL: https://www.openstreetmap.org/node/9139948322
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9139948322
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

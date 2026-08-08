@@ -1,0 +1,25 @@
+Name: Surge Coffee Bar & Billiards - Albany Park
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3241 West Montrose Avenue, Chicago IL 60618
+Description: Not listed
+Website: https://surgebilliards.com
+Phone: +1-773-961-8096
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9609383
+Longitude: -87.7099105
+OpenStreetMap URL: https://www.openstreetmap.org/node/6131450052
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6131450052
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

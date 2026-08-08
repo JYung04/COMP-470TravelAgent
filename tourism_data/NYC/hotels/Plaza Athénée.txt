@@ -1,0 +1,25 @@
+Name: Plaza Athénée
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 37 East 64th Street, 10065
+Description: The Hotel Plaza Athénée was a 5-star hotel at 37 East 64th Street, between Park Avenue and Madison Avenue, on the Upper East Side of Manhattan in New York City. It was a seventeen-story apartment and transient hotel building, and has been resold by Louis Schleifer, in a transaction negotiated by Jack Stein of L. V.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7665962
+Longitude: -73.9682911
+OpenStreetMap URL: https://www.openstreetmap.org/way/266864017
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266864017
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

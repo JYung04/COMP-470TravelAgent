@@ -1,0 +1,25 @@
+Name: N & D Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 107 Avenue U, Brooklyn NY 11223
+Description: Not listed
+Website: https://www.ndpizzany.com/
+Phone: +1-718-714-5500
+Email: Not listed
+Opening Hours: Mo-Sa 10:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5963039
+Longitude: -73.980514
+OpenStreetMap URL: https://www.openstreetmap.org/node/2555898782
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2555898782
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

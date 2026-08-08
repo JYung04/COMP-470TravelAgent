@@ -1,0 +1,25 @@
+Name: O-Ku
+City: Washington DC
+Category: restaurants
+Cuisine: sushi
+Address: 1274 5th Street Northeast, Washington DC 20002-3870
+Description: Get excited about sushi-with-a-view at O-Ku , one of the only restaurants near Union Market with a rooftop. While traditional sushi and sashimi reside on the menu, you’ll also be delighted by creative plates such as the 'Creme de la Creme' with Bluefin otoro, sea urchin, fresh wasabi, uni, sturgeon caviar and gold flake. Accentuate the meal with a drink from O-Ku’s extensive sake and cocktail offerings.
+Website: https://www.o-kusushi.com/location/o-ku-washington-dc/
+Phone: +1 202-888-8790
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9082001
+Longitude: -76.9986342
+OpenStreetMap URL: https://www.openstreetmap.org/node/6505132285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6505132285
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; views

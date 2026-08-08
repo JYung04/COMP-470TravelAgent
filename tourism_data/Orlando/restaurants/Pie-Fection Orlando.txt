@@ -1,0 +1,25 @@
+Name: Pie-Fection Orlando
+City: Orlando
+Category: restaurants
+Cuisine: pizza
+Address: 3120 S Kirkman Road, Orlando FL 32811
+Description: Not listed
+Website: https://piefectionorlando.com
+Phone: +1-407-523-2200
+Email: Not listed
+Opening Hours: Tu-Th 17:00-23:00; Fr-Sa 16:00-24:00; Su 17:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 28.5098921
+Longitude: -81.4596502
+OpenStreetMap URL: https://www.openstreetmap.org/node/6417176039
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6417176039
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

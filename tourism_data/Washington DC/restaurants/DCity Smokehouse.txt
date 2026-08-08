@@ -1,0 +1,25 @@
+Name: DCity Smokehouse
+City: Washington DC
+Category: restaurants
+Cuisine: barbecue
+Address: 203 Florida Avenue Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.dcitysmokehouse.com/
+Phone: +1 202-733-1919
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9132643
+Longitude: -77.0143789
+OpenStreetMap URL: https://www.openstreetmap.org/node/7620493521
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7620493521
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

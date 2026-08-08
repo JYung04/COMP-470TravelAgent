@@ -1,0 +1,25 @@
+Name: BienMeSabe
+City: Chicago
+Category: restaurants
+Cuisine: venezuelan
+Address: 1637 West Montrose Avenue, Chicago IL 60613
+Description: Not listed
+Website: https://bienmesabechicago.com/
+Phone: +1-773-549-5538
+Email: Not listed
+Opening Hours: Su-Th 11:00-22:00; Fr-Sa 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9614109
+Longitude: -87.6705867
+OpenStreetMap URL: https://www.openstreetmap.org/node/6267141732
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6267141732
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

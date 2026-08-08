@@ -1,0 +1,25 @@
+Name: The Inwood Farm
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 600 West 218th Street, New York 10034
+Description: Not listed
+Website: https://www.theinwoodfarm.com/
+Phone: +1-212-942-7451
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-22:30; Sa 07:00-23:00; Su 08:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.8727992
+Longitude: -73.918421
+OpenStreetMap URL: https://www.openstreetmap.org/node/566313758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/566313758
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Luya
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: Not listed
+Description: Not listed
+Website: https://www.luya-bk.com
+Phone: +1-718-685-8830
+Email: Not listed
+Opening Hours: Mo-Fr 17:00-21:30; Sa-Su 12:00-15:00, 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6759383
+Longitude: -73.9806212
+OpenStreetMap URL: https://www.openstreetmap.org/node/5494867632
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5494867632
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

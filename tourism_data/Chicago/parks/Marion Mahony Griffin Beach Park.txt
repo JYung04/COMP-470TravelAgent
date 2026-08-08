@@ -1,0 +1,25 @@
+Name: Marion Mahony Griffin Beach Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1208 West Jarvis Avenue, Chicago IL 60626
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/griffin-marion-mahony-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0158873
+Longitude: -87.6627137
+OpenStreetMap URL: https://www.openstreetmap.org/way/165567625
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/165567625
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

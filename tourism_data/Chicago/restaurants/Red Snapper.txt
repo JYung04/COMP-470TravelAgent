@@ -1,0 +1,24 @@
+Name: Red Snapper
+City: Chicago
+Category: restaurants
+Cuisine: chicken, seafood, fish, fast_food
+Address: 1418 East 53rd Street, Chicago IL 60615
+Description: Not listed
+Website: https://www.redsnapperchicago.com/hyde-park/
+Phone: +1-773-241-6666
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7998609
+Longitude: -87.5912337
+OpenStreetMap URL: https://www.openstreetmap.org/node/11251980141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11251980141
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

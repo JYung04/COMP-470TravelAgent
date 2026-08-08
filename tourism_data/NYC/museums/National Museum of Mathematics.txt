@@ -1,0 +1,25 @@
+Name: National Museum of Mathematics
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 225 5th Avenue, New York NY 10010
+Description: This museum highlights the role of mathematics in illuminating the patterns and structures all around us. The Museum occasionally closes early, closes for the day, or has limited hours. Please check the Visit page for further details.
+Website: https://momath.org/
+Phone: +1-212-542-0566
+Email: info@momath.org
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.7435852
+Longitude: -73.9877866
+OpenStreetMap URL: https://www.openstreetmap.org/node/4252536496
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4252536496
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

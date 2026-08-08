@@ -1,0 +1,25 @@
+Name: Castillo Restaurant
+City: NYC
+Category: restaurants
+Cuisine: latin_american
+Address: 4020 5th Ave, Brooklyn, NY 11232, United States
+Description: Not listed
+Website: Not listed
+Phone: +1-718-437-7676
+Email: Not listed
+Opening Hours: Mo-Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6504002
+Longitude: -74.0050301
+OpenStreetMap URL: https://www.openstreetmap.org/node/6925129151
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6925129151
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

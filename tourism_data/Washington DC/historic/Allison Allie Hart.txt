@@ -1,0 +1,25 @@
+Name: Allison "Allie" Hart
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Ghost bike in memory of Allison "Allie" Hart, 5, killed September 13, 2021.
+Website: https://dcfamiliesforsafestreets.org/portfolio/allison-fatal-crash-victim/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9289253
+Longitude: -76.9861245
+OpenStreetMap URL: https://www.openstreetmap.org/node/9195916315
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9195916315
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history; art

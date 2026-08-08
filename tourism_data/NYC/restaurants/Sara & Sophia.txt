@@ -1,0 +1,25 @@
+Name: Sara & Sophia
+City: NYC
+Category: restaurants
+Cuisine: ecuadorian
+Address: 287 Main Street, Hackensack 07601
+Description: Not listed
+Website: https://sarasophiarestaurantenj.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 10:00-20:00; Su 10:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8874486
+Longitude: -74.0412305
+OpenStreetMap URL: https://www.openstreetmap.org/node/9813419888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9813419888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

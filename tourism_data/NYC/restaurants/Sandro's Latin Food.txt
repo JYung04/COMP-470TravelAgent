@@ -1,0 +1,24 @@
+Name: Sandro's Latin Food
+City: NYC
+Category: restaurants
+Cuisine: colombian, ecuadorian
+Address: 27-03 23rd Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7760149
+Longitude: -73.9149847
+OpenStreetMap URL: https://www.openstreetmap.org/node/5891689506
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5891689506
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

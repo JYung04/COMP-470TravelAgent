@@ -1,0 +1,24 @@
+Name: Sophistian Mexican Pizzeria
+City: NYC
+Category: restaurants
+Cuisine: pizza, mexican
+Address: 18-01 26th Road
+Description: Not listed
+Website: https://www.sophistianpizzeria.com
+Phone: +1-917-456-1025
+Email: Not listed
+Opening Hours: Tu-Th 11:00-21:00, Fr-Sa 11:00-22:00, Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7732879
+Longitude: -73.927208
+OpenStreetMap URL: https://www.openstreetmap.org/node/5710000050
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5710000050
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

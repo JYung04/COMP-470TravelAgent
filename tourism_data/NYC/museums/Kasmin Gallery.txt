@@ -1,0 +1,25 @@
+Name: Kasmin Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 297 10th Avenue, New York NY 10001
+Description: Not listed
+Website: https://www.kasmingallery.com
+Phone: +1-212-563-4474
+Email: info@kasmingallery.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.750406
+Longitude: -74.0024698
+OpenStreetMap URL: https://www.openstreetmap.org/node/10860703833
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10860703833
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: JR's Bar
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1519 17th Street Northwest, Washington DC 20036
+Description: Not listed
+Website: https://jrsbar-dc.com/
+Phone: +1 202-328-0090
+Email: jrsdave@aol.com
+Opening Hours: Mo-Th 16:00-02:00; Fr 16:00-03:00; Sa 13:00-03:00; Su 13:00-02:00
+Wheelchair Accessibility: no
+Latitude: 38.9104732
+Longitude: -77.0381978
+OpenStreetMap URL: https://www.openstreetmap.org/node/739339956
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739339956
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

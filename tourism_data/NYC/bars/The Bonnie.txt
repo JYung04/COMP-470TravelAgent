@@ -1,0 +1,25 @@
+Name: The Bonnie
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 29-12 23rd Avenue, Astoria NY 11105
+Description: Not listed
+Website: https://www.thebonnie.com/
+Phone: +1 718 274 2105
+Email: Not listed
+Opening Hours: Mo-Th 15:00-02:00; Fr 12:00-04:00; Sa 10:00-04:00; Su 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.774704
+Longitude: -73.9136014
+OpenStreetMap URL: https://www.openstreetmap.org/node/5487117025
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5487117025
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

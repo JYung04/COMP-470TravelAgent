@@ -1,0 +1,24 @@
+Name: Monkey Tiger
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, american
+Address: 232 Taaffe Place, 11205
+Description: Not listed
+Website: https://www.monkeytigernyc.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-23:00; Sa-Su 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6908923
+Longitude: -73.9596257
+OpenStreetMap URL: https://www.openstreetmap.org/node/2568239795
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2568239795
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

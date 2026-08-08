@@ -1,0 +1,24 @@
+Name: Casabianca
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: 854 10th Avenue, New York NY 10019
+Description: Not listed
+Website: https://www.casabiancapizzeriamenu.com/
+Phone: +1 212-397-8725
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7685334
+Longitude: -73.9887733
+OpenStreetMap URL: https://www.openstreetmap.org/node/7593868777
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7593868777
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

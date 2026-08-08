@@ -1,0 +1,25 @@
+Name: Pointe Orlando
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: An open-air dining, entertainment and shopping hub close to the Orange County Convention Center, Pointe Orlando offers a lot of culinary variety. Start with newcomers Kavas Tacos + Tequila , JoJo’s ShakeBAR , and Dick’s Last Resort , and continue on to Cuba Libre Restaurant & Rum Bar , The Hampton Social , The Oceanaire Seafood Room , The Pub Orlando , Rodizio Grill and Taverna Opa for the ultimate tasting tour.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4323071
+Longitude: -81.4702463
+OpenStreetMap URL: https://www.openstreetmap.org/way/331559920
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/331559920
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping; art

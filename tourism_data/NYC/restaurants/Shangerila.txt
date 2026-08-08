@@ -1,0 +1,25 @@
+Name: Shangerila
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 2893 Buhre Avenue, Bronx NY 10461
+Description: Not listed
+Website: Not listed
+Phone: +1 718 828 3401
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8472423
+Longitude: -73.832669
+OpenStreetMap URL: https://www.openstreetmap.org/node/9240344124
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9240344124
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

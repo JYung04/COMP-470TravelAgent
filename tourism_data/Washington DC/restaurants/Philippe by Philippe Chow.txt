@@ -1,0 +1,25 @@
+Name: Philippe by Philippe Chow
+City: Washington DC
+Category: restaurants
+Cuisine: chinese
+Address: 635 Wharf Street Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.philippechow.com/location/washington-dc/
+Phone: +1 202-601-8888
+Email: Not listed
+Opening Hours: Mo-We 17:00-21:30; Th-Fr 17:00-22:30; Sa 12:00-15:00, 17:00-22:30; Su 12:00-15:00, 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8767062
+Longitude: -77.0217543
+OpenStreetMap URL: https://www.openstreetmap.org/node/9914480665
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9914480665
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

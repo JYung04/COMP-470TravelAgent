@@ -1,0 +1,25 @@
+Name: Columbia Point Community Garden
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3186099
+Longitude: -71.0461255
+OpenStreetMap URL: https://www.openstreetmap.org/way/821252781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/821252781
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

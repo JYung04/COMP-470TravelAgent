@@ -1,0 +1,25 @@
+Name: Boston Stump
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Bell tower which can be climbed to an extent. Views of Boston and surounding farmlands and fens.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 52.9785606
+Longitude: -0.0257224
+OpenStreetMap URL: https://www.openstreetmap.org/way/852045816
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/852045816
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

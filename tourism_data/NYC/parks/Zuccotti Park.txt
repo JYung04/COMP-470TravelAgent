@@ -1,0 +1,25 @@
+Name: Zuccotti Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Zuccotti Park is a 33,000-square-foot (3,100 m2) publicly accessible park in the Financial District of Lower Manhattan in New York City. It is located in a privately owned public space (POPS) controlled by Brookfield Properties and Goldman Sachs. Zuccotti Park is bounded by Broadway to the east, Liberty Street to the north, Trinity Place to the west, and Cedar Street to the south.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7092314
+Longitude: -74.0112539
+OpenStreetMap URL: https://www.openstreetmap.org/way/25026338
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/25026338
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Eyval
+City: NYC
+Category: restaurants
+Cuisine: persian
+Address: Not listed
+Description: Not listed
+Website: https://www.eyvalnyc.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 18:00-22:00, Su 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.704136
+Longitude: -73.9331026
+OpenStreetMap URL: https://www.openstreetmap.org/node/12977783184
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12977783184
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

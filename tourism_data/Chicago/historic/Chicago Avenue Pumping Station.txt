@@ -1,0 +1,25 @@
+Name: Chicago Avenue Pumping Station
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 811 North Michigan Avenue, Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.89717
+Longitude: -87.6238575
+OpenStreetMap URL: https://www.openstreetmap.org/way/148560424
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/148560424
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

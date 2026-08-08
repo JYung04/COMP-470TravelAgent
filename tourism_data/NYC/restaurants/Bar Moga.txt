@@ -1,0 +1,24 @@
+Name: Bar Moga
+City: NYC
+Category: restaurants
+Cuisine: japanese, cocktails
+Address: 128 West Houston Street, New York NY 10012
+Description: Not listed
+Website: https://www.barmoga.com/
+Phone: +1-929-399-5853
+Email: Not listed
+Opening Hours: Mo-Th 17:00-00:00; Fr 17:00-00:30; Sa 12:00-15:00,17:00-00:30; Su 12:00-15:00,17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7277615
+Longitude: -74.0011504
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550012191
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550012191
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

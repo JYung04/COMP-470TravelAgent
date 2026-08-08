@@ -1,0 +1,25 @@
+Name: Grainne Cafe
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 183 9th Avenue, 10011
+Description: Not listed
+Website: https://legrainnecafe.com
+Phone: +1 646-486-3000
+Email: danoelleo02@gmail.com
+Opening Hours: Mo-We, Su 08:00-21:00; Th-Sa 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7453914
+Longitude: -74.0023623
+OpenStreetMap URL: https://www.openstreetmap.org/node/9470239473
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9470239473
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

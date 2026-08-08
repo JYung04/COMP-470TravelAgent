@@ -1,0 +1,24 @@
+Name: Tartinery
+City: NYC
+Category: cafes
+Cuisine: french, juice
+Address: 10 Columbus Circle, New York NY 10019
+Description: Not listed
+Website: https://www.tartinery.com/location/columbus-circle/
+Phone: +1-917-409-1991
+Email: cc@tartinery.com
+Opening Hours: Mo-Sa 08:00-20:00; Su 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7687105
+Longitude: -73.9827974
+OpenStreetMap URL: https://www.openstreetmap.org/node/6422307085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6422307085
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

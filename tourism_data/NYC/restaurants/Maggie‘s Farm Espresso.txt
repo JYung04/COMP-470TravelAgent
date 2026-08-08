@@ -1,0 +1,24 @@
+Name: Maggie‘s Farm Espresso
+City: NYC
+Category: restaurants
+Cuisine: breakfast, coffee_shop, tea
+Address: Not listed
+Description: Not listed
+Website: http://maggiesfarmespresso.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7197014
+Longitude: -74.0365637
+OpenStreetMap URL: https://www.openstreetmap.org/node/9040746417
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9040746417
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

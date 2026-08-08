@@ -1,0 +1,25 @@
+Name: Little Mo
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: Not listed
+Description: Not listed
+Website: https://www.littlemobk.nyc
+Phone: +1-929-210-8100
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-23:00; Sa 11:00-23:00; Su 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.6970315
+Longitude: -73.9336968
+OpenStreetMap URL: https://www.openstreetmap.org/node/4316480089
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4316480089
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

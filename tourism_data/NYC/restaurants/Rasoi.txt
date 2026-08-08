@@ -1,0 +1,25 @@
+Name: Rasoi
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 810 Newark Ave, Jersey City, NJ 07306, United States
+Description: Not listed
+Website: https://rasoi123.com/
+Phone: +1 201-222-8850
+Email: Not listed
+Opening Hours: Mo-Th 11:00-15:00,17:00-22:00; Fr 11:00-15:00,17:00-22:30; Sa,Su 11:00-16:00,17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7358124
+Longitude: -74.0653739
+OpenStreetMap URL: https://www.openstreetmap.org/node/5977044389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5977044389
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

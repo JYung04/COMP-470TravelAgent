@@ -1,0 +1,25 @@
+Name: The Little Gay Pub
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1100 P Street Northwest
+Description: Not listed
+Website: https://www.thelittlegaypub.com/
+Phone: +1 202-547-1100
+Email: info@TheLittleGayPub.com
+Opening Hours: Mo-Th 17:00-02:00; Fr 16:00-02:00; Sa-Su 13:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.909517
+Longitude: -77.0272943
+OpenStreetMap URL: https://www.openstreetmap.org/node/11147140677
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11147140677
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

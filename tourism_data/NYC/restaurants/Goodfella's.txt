@@ -1,0 +1,25 @@
+Name: Goodfella's
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 4029 Hylan Blvd, Staten Island, NY 10308, United States
+Description: Not listed
+Website: http://www.goodfellas.com/
+Phone: +1 718-987-2422
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5416385
+Longitude: -74.1468476
+OpenStreetMap URL: https://www.openstreetmap.org/node/11669827691
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11669827691
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

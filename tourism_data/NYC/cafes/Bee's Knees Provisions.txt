@@ -1,0 +1,24 @@
+Name: Bee's Knees Provisions
+City: NYC
+Category: cafes
+Cuisine: sandwich, charcuterie, seafood
+Address: Not listed
+Description: Not listed
+Website: https://www.beeskneesprovisions.com
+Phone: +1-718-971-1197
+Email: Not listed
+Opening Hours: Mo-We 10:00-22:00; Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6844783
+Longitude: -73.9918497
+OpenStreetMap URL: https://www.openstreetmap.org/node/4316479489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4316479489
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

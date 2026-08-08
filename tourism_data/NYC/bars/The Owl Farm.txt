@@ -1,0 +1,25 @@
+Name: The Owl Farm
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.theowlfarm.com
+Phone: +1-718-499-4988
+Email: Not listed
+Opening Hours: Mo 14:00-04:00; Sa-Su 12:30-04:00
+Wheelchair Accessibility: no
+Latitude: 40.6695398
+Longitude: -73.9866612
+OpenStreetMap URL: https://www.openstreetmap.org/node/6296605532
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6296605532
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

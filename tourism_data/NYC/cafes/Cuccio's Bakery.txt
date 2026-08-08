@@ -1,0 +1,25 @@
+Name: Cuccio's Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 320 Avenue X, Brooklyn NY 11223
+Description: Not listed
+Website: https://cucciosbakeshop.com/
+Phone: +1-718-336-1944
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: no
+Latitude: 40.5903036
+Longitude: -73.971255
+OpenStreetMap URL: https://www.openstreetmap.org/node/9067295423
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9067295423
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

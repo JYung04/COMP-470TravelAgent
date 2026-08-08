@@ -1,0 +1,25 @@
+Name: Haymarket Memorial
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Haymarket Affair was a bombing that took place at a labor demonstration on May 4, 1886, at Haymarket Square in Chicago. The rally began peacefully in support of workers striking for an eight-hour work day; it was held the day after a May 3 rally at a McCormick Harvesting Machine Company plant on the West Side of Chicago, during which police killed two strikers by opening fire at the crowd as it surged to the gate to confront strikebreakers. Many others were injured. At the Haymarket Square rally on May 4, an unknown person threw a dynamite bomb at the police as they acted to disperse the meeting, and the bomb blast and ensuing retaliatory gunfire by the police.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8848807
+Longitude: -87.6441288
+OpenStreetMap URL: https://www.openstreetmap.org/node/1262350108
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1262350108
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

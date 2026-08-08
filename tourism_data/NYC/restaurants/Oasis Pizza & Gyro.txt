@@ -1,0 +1,25 @@
+Name: Oasis Pizza & Gyro
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 40-02 Queens Boulevard, 11104
+Description: Not listed
+Website: https://www.oasispizzany.com/
+Phone: Not listed
+Email: info@oasispizzany.com
+Opening Hours: Mo-Su 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7435022
+Longitude: -73.924182
+OpenStreetMap URL: https://www.openstreetmap.org/node/5721470075
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5721470075
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Kevin W. Fitzgerald Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Kevin W. Fitzgerald Park is a 5.5-acre (22,000 m2) neighborhood park near Brigham Circle in the Mission Hill neighborhood of Boston, Massachusetts. It was built as part of the redevelopment of the "ledge site", a former Puddingstone quarry. It is accessible from a stairway from a nearby parking lot, with a winding pathway leading upwards to a view of greater Boston.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3323539
+Longitude: -71.103616
+OpenStreetMap URL: https://www.openstreetmap.org/way/397678751
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/397678751
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art; views

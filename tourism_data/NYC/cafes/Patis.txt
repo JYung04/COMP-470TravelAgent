@@ -1,0 +1,25 @@
+Name: Patis
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 676 Amsterdam Avenue, New York NY 10025
+Description: Not listed
+Website: https://patis.com/
+Phone: +1-646-449-8730
+Email: Not listed
+Opening Hours: Mo-Th 08:00-18:00; Fr 08:00-15:00; Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7921021
+Longitude: -73.9720464
+OpenStreetMap URL: https://www.openstreetmap.org/node/2759235848
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2759235848
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

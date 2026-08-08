@@ -1,0 +1,25 @@
+Name: Old Stone House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 336 3rd Street, 11215
+Description: The Old Stone House is a house located in the Park Slope neighborhood of Brooklyn, New York City. It is situated within the J. J. Byrne Playground, at Washington Park, on Third Street between Fourth and Fifth Avenues. Gowanus Creek once ran nearby, but today the southeastern branch of the Gowanus Canal ends 1,300 feet (400 m) west of the house.
+Website: http://www.theoldstonehouse.org/
+Phone: +1-718-768-3195
+Email: Not listed
+Opening Hours: Fr 15:00-18:00; Sa,Su 11:00-16:00||"Or by appointment"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6729918
+Longitude: -73.9846212
+OpenStreetMap URL: https://www.openstreetmap.org/way/248236287
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248236287
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: museums and culture

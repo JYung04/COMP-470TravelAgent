@@ -1,0 +1,25 @@
+Name: Great Wall
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 6748 North Sheridan Road, Chicago IL 60626
+Description: Not listed
+Website: http://www.greatwallrogerspark.com/
+Phone: +1-773-465-5815
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.0049265
+Longitude: -87.6612312
+OpenStreetMap URL: https://www.openstreetmap.org/node/6412804474
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6412804474
+Price: Not listed
+Rating: 3.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

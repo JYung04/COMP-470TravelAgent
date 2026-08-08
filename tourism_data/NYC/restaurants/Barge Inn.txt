@@ -1,0 +1,25 @@
+Name: Barge Inn
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 324 3rd St, Jersey City, NJ 07302, United States
+Description: Not listed
+Website: https://barge-inn-italian-restaurant.business.site/
+Phone: +1 201-420-3268
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7237648
+Longitude: -74.0489435
+OpenStreetMap URL: https://www.openstreetmap.org/node/9995781425
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9995781425
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

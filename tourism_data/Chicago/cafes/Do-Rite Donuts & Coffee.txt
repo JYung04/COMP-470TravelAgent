@@ -1,0 +1,24 @@
+Name: Do-Rite Donuts & Coffee
+City: Chicago
+Category: cafes
+Cuisine: donut, coffee, chicken, sandwich
+Address: 181 North Morgan Street, Chicago IL 60607
+Description: Not listed
+Website: http://doritedonuts.com/
+Phone: +1-312-624-8878
+Email: Not listed
+Opening Hours: Mo-Th 06:30-19:00; Fr 06:30-01:00; Sa 07:00-01:00; Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8853503
+Longitude: -87.6519829
+OpenStreetMap URL: https://www.openstreetmap.org/node/5452994604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5452994604
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

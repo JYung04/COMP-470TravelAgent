@@ -1,0 +1,24 @@
+Name: Pita Express
+City: Chicago
+Category: restaurants
+Cuisine: middle_eastern, mediterranean
+Address: 4649 North Damen Avenue, Chicago IL 60625
+Description: Not listed
+Website: https://www.eatpitaexpress.com/
+Phone: +1-773-654-1453
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: no
+Latitude: 41.9665695
+Longitude: -87.6789562
+OpenStreetMap URL: https://www.openstreetmap.org/node/11062671338
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11062671338
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

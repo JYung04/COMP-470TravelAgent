@@ -1,0 +1,25 @@
+Name: Taste of India II
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 287 New Dorp Lane, Staten Island NY 10306
+Description: Not listed
+Website: https://www.tasteofindia2.com/
+Phone: +1 718-987-4700
+Email: Not listed
+Opening Hours: Su-Th 12:00-22:00; Fr,Sa 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.5721889
+Longitude: -74.1126959
+OpenStreetMap URL: https://www.openstreetmap.org/node/10195939228
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10195939228
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

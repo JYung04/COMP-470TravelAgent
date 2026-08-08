@@ -1,0 +1,24 @@
+Name: Benevento's
+City: Boston
+Category: restaurants
+Cuisine: italian, pasta, pizza
+Address: 111 Salem Street, Boston MA 02113
+Description: Not listed
+Website: http://www.beneventosboston.com
+Phone: +1-617-513-4111
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3642982
+Longitude: -71.0554599
+OpenStreetMap URL: https://www.openstreetmap.org/node/6641659344
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6641659344
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

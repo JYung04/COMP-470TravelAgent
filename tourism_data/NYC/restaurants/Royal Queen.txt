@@ -1,0 +1,24 @@
+Name: Royal Queen
+City: NYC
+Category: restaurants
+Cuisine: tea, wine, small_plates, dessert
+Address: 4021 Main Street, Flushing NY 11354
+Description: Big & boisterous destination for Chinese cuisine, including dim sum & exotic offerings.
+Website: https://www.royalqueenrestaurantnyc.com/
+Phone: +1-718-321-8258
+Email: Not listed
+Opening Hours: Mo-Su 09:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7596733
+Longitude: -73.8291153
+OpenStreetMap URL: https://www.openstreetmap.org/node/2883438270
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2883438270
+Price: Not listed
+Rating: 3.7
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

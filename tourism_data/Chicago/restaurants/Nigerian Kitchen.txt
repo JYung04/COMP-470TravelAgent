@@ -1,0 +1,25 @@
+Name: Nigerian Kitchen
+City: Chicago
+Category: restaurants
+Cuisine: african
+Address: 4447 North Broadway, Chicago IL 60640
+Description: Not listed
+Website: Not listed
+Phone: +1 773-271-4010
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-22:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9630273
+Longitude: -87.6557385
+OpenStreetMap URL: https://www.openstreetmap.org/node/11242099604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11242099604
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

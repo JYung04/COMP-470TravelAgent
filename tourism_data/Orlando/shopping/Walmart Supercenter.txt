@@ -1,0 +1,25 @@
+Name: Walmart Supercenter
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 3101 West Princeton Street, Orlando FL 32808
+Description: Not listed
+Website: https://www.walmart.com/store/4588-orlando-fl
+Phone: +1-321-354-2096
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 28.5713579
+Longitude: -81.4178366
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2857438
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2857438
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping; art

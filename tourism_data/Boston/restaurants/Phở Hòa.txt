@@ -1,0 +1,24 @@
+Name: Phở Hòa
+City: Boston
+Category: restaurants
+Cuisine: vietnamese, noodle
+Address: 1370 Dorchester Avenue, Dorchester MA 02122
+Description: There’s a reason this Dorchester institution has been around for nearly 35 years: The food practically forces you to slow down and just enjoy the moment. Take the layered flavors of the seafood clay pot, which comes loaded with shrimp, scallops, squid, fried garlic, and a savory basil sauce that pairs perfectly with the sizzling rice. As for other offerings, you can basically close your eyes, point, and leave your meal choice to chance. Bùn riêu soup, phở with beef meatballs—whatever you end up with, you win. 1370 Dorchester Ave. , Boston , 617-287-9746 , phohoarestaurant.com
+Website: https://www.phohoarestaurant.com/
+Phone: +1-617-287-9746
+Email: Not listed
+Opening Hours: Su-Th 10:00-21:00; Fr-Sa 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3039356
+Longitude: -71.0590662
+OpenStreetMap URL: https://www.openstreetmap.org/node/9416595005
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9416595005
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

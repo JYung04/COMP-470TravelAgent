@@ -1,0 +1,25 @@
+Name: La Befana Pizzeria
+City: Boston
+Category: restaurants
+Cuisine: pizza
+Address: 02134
+Description: Not listed
+Website: Not listed
+Phone: +1 617-987-0086
+Email: Not listed
+Opening Hours: Tu-Fr 11:00-21:45; Sa-Su 12:00-21:45
+Wheelchair Accessibility: Not listed
+Latitude: 42.3538186
+Longitude: -71.1382106
+OpenStreetMap URL: https://www.openstreetmap.org/node/8291744018
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8291744018
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

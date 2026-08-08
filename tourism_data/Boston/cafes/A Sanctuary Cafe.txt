@@ -1,0 +1,25 @@
+Name: A Sanctuary Cafe
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 80 Charles Street, Boston MA 02114
+Description: Not listed
+Website: https://asanctuarycafe.com/
+Phone: +1-617-604-1580
+Email: info@asanctuarycafe.com
+Opening Hours: We-Fr 09:00-18:00; Sa-Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3581779
+Longitude: -71.0706798
+OpenStreetMap URL: https://www.openstreetmap.org/node/7828185888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7828185888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

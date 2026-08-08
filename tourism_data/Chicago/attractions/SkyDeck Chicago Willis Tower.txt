@@ -1,0 +1,25 @@
+Name: SkyDeck Chicago Willis Tower
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 233 South Wacker Drive, Chicago IL 60606
+Description: Not listed
+Website: https://theskydeck.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8785046
+Longitude: -87.6358868
+OpenStreetMap URL: https://www.openstreetmap.org/node/2311635030
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2311635030
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: skydeck chicago willis tower
+Best For: sightseeing

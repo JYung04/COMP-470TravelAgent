@@ -1,0 +1,25 @@
+Name: Max Italian Restaurant
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 134 W Broadway, New York, NY 10013, United States
+Description: Not listed
+Website: http://max-ny.com/
+Phone: +1 212-966-5939
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7168913
+Longitude: -74.0083619
+OpenStreetMap URL: https://www.openstreetmap.org/node/11329825459
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11329825459
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

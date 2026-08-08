@@ -1,0 +1,25 @@
+Name: La Esperanza
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1864 South Blue Island Avenue, Chicago IL 60608
+Description: Not listed
+Website: Not listed
+Phone: +1 312 226 9640
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.85629
+Longitude: -87.6627118
+OpenStreetMap URL: https://www.openstreetmap.org/node/8508251823
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8508251823
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

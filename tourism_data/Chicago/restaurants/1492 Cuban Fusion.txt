@@ -1,0 +1,25 @@
+Name: 1492 Cuban Fusion
+City: Chicago
+Category: restaurants
+Cuisine: cuban
+Address: 2615 West North Avenue, Chicago IL 60647
+Description: Not listed
+Website: http://1492cubanfusion.com/
+Phone: +1-773 227-9601
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9101156
+Longitude: -87.6927943
+OpenStreetMap URL: https://www.openstreetmap.org/node/6249982165
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6249982165
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

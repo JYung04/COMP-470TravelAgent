@@ -1,0 +1,25 @@
+Name: Paris Oven
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 34-20 Steinway Street
+Description: Not listed
+Website: https://parisovenbakery.com/
+Phone: Not listed
+Email: orders@pariaovenbakery.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7561646
+Longitude: -73.9214813
+OpenStreetMap URL: https://www.openstreetmap.org/node/5406249604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5406249604
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

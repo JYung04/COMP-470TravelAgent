@@ -1,0 +1,25 @@
+Name: Wo Hop Next Door
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 15 Mott Street, 10013
+Description: Not listed
+Website: https://www.wohop15.com/
+Phone: +1-212-566-3841
+Email: Not listed
+Opening Hours: Mo-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7142577
+Longitude: -73.9988632
+OpenStreetMap URL: https://www.openstreetmap.org/node/13322321326
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13322321326
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

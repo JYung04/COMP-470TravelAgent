@@ -1,0 +1,25 @@
+Name: Fumo
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1626 2nd Avenue, 10028
+Description: Not listed
+Website: https://www.fumorestaurant.com/upper-east-side/
+Phone: +1-646-429-9887
+Email: Not listed
+Opening Hours: Mo-We, Su 11:00-22:00; Th-Sa 11:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7766475
+Longitude: -73.9523881
+OpenStreetMap URL: https://www.openstreetmap.org/node/9683548273
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9683548273
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

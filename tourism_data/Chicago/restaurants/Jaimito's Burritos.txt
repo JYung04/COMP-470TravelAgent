@@ -1,0 +1,25 @@
+Name: Jaimito's Burritos
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1781 North Clybourn Avenue, Chicago IL 60614
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9135632
+Longitude: -87.6529935
+OpenStreetMap URL: https://www.openstreetmap.org/node/3502328667
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3502328667
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

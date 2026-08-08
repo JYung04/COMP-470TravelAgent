@@ -1,0 +1,25 @@
+Name: Hyatt Place Washington DC/Georgetown/West End
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 2121 M Street Northwest, Washington DC 20037
+Description: Not listed
+Website: https://washingtondcgeorgetown.place.hyatt.com/en/hotel/home.html
+Phone: +1 202-838-2222
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9056525
+Longitude: -77.0481729
+OpenStreetMap URL: https://www.openstreetmap.org/way/1191904068
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1191904068
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

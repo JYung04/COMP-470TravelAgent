@@ -1,0 +1,25 @@
+Name: FIKA 9th Avenue
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: Not listed
+Description: Not listed
+Website: https://www.fikanyc.com/
+Phone: +1-646-590-3275
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-19:00; Sa-Su 09:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7458278
+Longitude: -74.0015707
+OpenStreetMap URL: https://www.openstreetmap.org/node/3792532817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3792532817
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Pick a Bagel
+City: NYC
+Category: cafes
+Cuisine: bagel
+Address: 891 8th Avenue, 10019
+Description: Not listed
+Website: https://www.pickabagel.net/
+Phone: +1 212-582-8333
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7643286
+Longitude: -73.984836
+OpenStreetMap URL: https://www.openstreetmap.org/node/4479721389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4479721389
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

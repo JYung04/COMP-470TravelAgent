@@ -1,0 +1,25 @@
+Name: Alenbi Kitchen
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 889 Nostrand Avenue, 11225
+Description: Not listed
+Website: https://www.alenbikitchen.com
+Phone: +1-347-529-3739
+Email: Not listed
+Opening Hours: Mo-Th 18:00-22:00; Sa 20:00-22:00; Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6664097
+Longitude: -73.9506618
+OpenStreetMap URL: https://www.openstreetmap.org/node/2943984204
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2943984204
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

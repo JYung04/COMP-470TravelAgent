@@ -1,0 +1,25 @@
+Name: Cafe on 9th
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 4329 9th Street Northwest, Washington DC 20011
+Description: Not listed
+Website: Not listed
+Phone: +1 301-356-8266
+Email: Not listed
+Opening Hours: 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9427981
+Longitude: -77.0249241
+OpenStreetMap URL: https://www.openstreetmap.org/node/2393490489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2393490489
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

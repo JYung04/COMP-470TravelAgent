@@ -1,0 +1,24 @@
+Name: Bauernmarkt: Farmer's Market
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: World Showcase, Epcot (Walt Disney World), Lake Buena Vista, FL 32830
+Description: This Outdoor Kitchen is open annually for the Epcot International Flower and Garden Festival.
+Website: https://disneyworld.disney.go.com/events-tours/epcot/flower-garden-outdoor-kitchens/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mar 01-May 29 unknown
+Wheelchair Accessibility: Not listed
+Latitude: 28.3684426
+Longitude: -81.5468528
+OpenStreetMap URL: https://www.openstreetmap.org/node/4852402689
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4852402689
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping; gardens

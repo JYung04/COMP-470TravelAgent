@@ -1,0 +1,25 @@
+Name: Himalayan Doko
+City: Washington DC
+Category: restaurants
+Cuisine: indian
+Address: 1108 K Street Northwest, Washington DC 20005-4066
+Description: Not listed
+Website: https://himalayandoko.com
+Phone: +1 202-637-9770
+Email: himalayandoko@gmail.com
+Opening Hours: Mo-Th,Su 12:00-21:30; Fr-Sa 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.902256
+Longitude: -77.0275428
+OpenStreetMap URL: https://www.openstreetmap.org/node/11286073597
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11286073597
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

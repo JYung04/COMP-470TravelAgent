@@ -1,0 +1,25 @@
+Name: La Sirène
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 558 Broome Street, 10013
+Description: Not listed
+Website: https://lasirenenyc.com
+Phone: +1-212-925-3061
+Email: Not listed
+Opening Hours: Mo-Th 16:00-22:00, Fr-Sa 16:00-23:15, Su 16:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7244709
+Longitude: -74.0057117
+OpenStreetMap URL: https://www.openstreetmap.org/node/4468394389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4468394389
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

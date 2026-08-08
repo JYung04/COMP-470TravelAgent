@@ -1,0 +1,25 @@
+Name: Chef Geoff's
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 2201 M Street Northwest, 20037
+Description: Not listed
+Website: https://www.chefgeoff.com/
+Phone: +1 202-524-7815
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-22:00; Sa-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9054234
+Longitude: -77.0490621
+OpenStreetMap URL: https://www.openstreetmap.org/node/11149146505
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11149146505
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Two Fish Crab Shack
+City: Chicago
+Category: restaurants
+Cuisine: seafood
+Address: 641 East 47th Street, Chicago IL 60653
+Description: Not listed
+Website: https://www.twofishcrabshack.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8093263
+Longitude: -87.6097295
+OpenStreetMap URL: https://www.openstreetmap.org/node/13021644901
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13021644901
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

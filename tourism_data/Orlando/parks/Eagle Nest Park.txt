@@ -1,0 +1,25 @@
+Name: Eagle Nest Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 5165 Metrowest Blvd, Orlando FL 32811
+Description: Eagle Nest Park is a great place to visit for a picnic, bird watching and a walk on our pleasant paved walkways.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Eagle-Nest-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5172225
+Longitude: -81.448457
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1169865
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1169865
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

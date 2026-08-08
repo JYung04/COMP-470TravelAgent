@@ -1,0 +1,25 @@
+Name: Café Select
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 212 Lafayette Street
+Description: Not listed
+Website: http://www.cafeselectnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7217594
+Longitude: -73.9978239
+OpenStreetMap URL: https://www.openstreetmap.org/node/3215162128
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3215162128
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

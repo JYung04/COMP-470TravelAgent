@@ -1,0 +1,25 @@
+Name: The Dominick
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 246 Spring Street, New York NY 10013
+Description: Not listed
+Website: https://www.thedominickhotel.com/
+Phone: +1 212-842-5500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7253205
+Longitude: -74.0054962
+OpenStreetMap URL: https://www.openstreetmap.org/way/249664631
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/249664631
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

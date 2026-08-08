@@ -1,0 +1,25 @@
+Name: Empire 19
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 19 Knolls Crescent, 10463
+Description: Not listed
+Website: https://orderempire19.com/
+Phone: +1-718-796-3338
+Email: Not listed
+Opening Hours: Tu-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8785398
+Longitude: -73.9174514
+OpenStreetMap URL: https://www.openstreetmap.org/node/2811013894
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2811013894
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

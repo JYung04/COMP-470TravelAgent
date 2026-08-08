@@ -1,0 +1,25 @@
+Name: Nona Blue
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: 9685 Lake Nona Village Place, Orlando FL 32827
+Description: Not listed
+Website: https://www.nonablue.com/locations/orlando/
+Phone: +1-407-313-0027
+Email: lakenona@nonablue.com
+Opening Hours: Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 28.4252238
+Longitude: -81.2524868
+OpenStreetMap URL: https://www.openstreetmap.org/node/2722478422
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2722478422
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

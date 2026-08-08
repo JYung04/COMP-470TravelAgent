@@ -1,0 +1,24 @@
+Name: Ten-Ichi Ramen
+City: NYC
+Category: restaurants
+Cuisine: ramen, japanese
+Address: 382 7th Avenue, 11215
+Description: Not listed
+Website: Not listed
+Phone: +1-718-369-8809
+Email: Not listed
+Opening Hours: Tu-Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6654367
+Longitude: -73.9829947
+OpenStreetMap URL: https://www.openstreetmap.org/node/5775345831
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5775345831
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

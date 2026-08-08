@@ -1,0 +1,25 @@
+Name: The Metropolitan Museum of Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1000 5th Avenue, New York NY
+Description: Not listed
+Website: https://www.metmuseum.org/
+Phone: +1 212-535-7710
+Email: Not listed
+Opening Hours: 10:00-17:00; Fr-Sa 10:00-21:00; We off; May Mo[1] off; Nov Th[4] off; Dec 25 off; Jan 01 off
+Wheelchair Accessibility: yes
+Latitude: 40.7793968
+Longitude: -73.9634178
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3698894
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3698894
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: the metropolitan museum of art
+Best For: museums and culture; art

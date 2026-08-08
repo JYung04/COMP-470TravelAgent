@@ -1,0 +1,25 @@
+Name: Oro Chocolate & Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1553 North Milwaukee Avenue, Chicago IL 60622-2545
+Description: Not listed
+Website: https://orochocolate.com
+Phone: +1-773-949-0338
+Email: hi@orochocolate.com
+Opening Hours: Mo-Th 08:30-17:00; Fr-Su 08:30-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9097803
+Longitude: -87.676315
+OpenStreetMap URL: https://www.openstreetmap.org/node/13431370942
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13431370942
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

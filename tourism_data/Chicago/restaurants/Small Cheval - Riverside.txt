@@ -1,0 +1,25 @@
+Name: Small Cheval - Riverside
+City: Chicago
+Category: restaurants
+Cuisine: burger
+Address: 150 North Riverside Plaza, Chicago IL
+Description: Not listed
+Website: https://smallcheval.com/riverside/
+Phone: +1-312-248-8440
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-22:00; Sa 16:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8849122
+Longitude: -87.6384148
+OpenStreetMap URL: https://www.openstreetmap.org/way/1039763412
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1039763412
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

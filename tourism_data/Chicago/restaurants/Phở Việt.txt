@@ -1,0 +1,24 @@
+Name: Phở Việt
+City: Chicago
+Category: restaurants
+Cuisine: vietnamese, noodle
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-We,Fr 10:00-21:00; Sa,Su 09:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9727857
+Longitude: -87.6595045
+OpenStreetMap URL: https://www.openstreetmap.org/node/2641611905
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2641611905
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

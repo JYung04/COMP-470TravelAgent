@@ -1,0 +1,25 @@
+Name: Stamatis
+City: NYC
+Category: restaurants
+Cuisine: Greek
+Address: 29-11 23rd Avenue, Astoria NY 11105
+Description: Not listed
+Website: https://stamatisrestaurant.net/
+Phone: +1 718-932-8596
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7749545
+Longitude: -73.9134483
+OpenStreetMap URL: https://www.openstreetmap.org/node/9923265667
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9923265667
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

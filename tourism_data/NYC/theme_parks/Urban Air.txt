@@ -1,0 +1,25 @@
+Name: Urban Air
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 4422 2nd Avenue, 11232
+Description: Not listed
+Website: https://www.urbanair.com/new-york-brooklyn/
+Phone: +1 347-732-5438
+Email: Not listed
+Opening Hours: Sa 10:00-23:00; Mo-Th 15:00-21:00; Su, Fr 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6522976
+Longitude: -74.0143471
+OpenStreetMap URL: https://www.openstreetmap.org/node/13787284101
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13787284101
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

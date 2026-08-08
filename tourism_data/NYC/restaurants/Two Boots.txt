@@ -1,0 +1,25 @@
+Name: Two Boots
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 284 5th Avenue, 11215
+Description: Not listed
+Website: https://twoboots.com/locations/park-slope/
+Phone: +1-718-499-0008
+Email: Not listed
+Opening Hours: Mo-We 11:30-22:30, Th 11:30-23:00, Fr-Sa 11:30-01:00, Su 11:30-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.6741974
+Longitude: -73.9824344
+OpenStreetMap URL: https://www.openstreetmap.org/way/241843134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241843134
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

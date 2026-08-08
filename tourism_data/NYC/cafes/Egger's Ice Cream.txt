@@ -1,0 +1,25 @@
+Name: Egger's Ice Cream
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 10301
+Description: Not listed
+Website: https://www.eggersicecream.com/home
+Phone: Not listed
+Email: Not listed
+Opening Hours: MON- SUN 11AM-6PM SUMMER SEASON
+Wheelchair Accessibility: Not listed
+Latitude: 40.6432508
+Longitude: -74.1043731
+OpenStreetMap URL: https://www.openstreetmap.org/way/244177373
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/244177373
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

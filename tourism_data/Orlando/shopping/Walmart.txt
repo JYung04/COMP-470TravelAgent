@@ -1,0 +1,25 @@
+Name: Walmart
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 3838 South Semoran Boulevard, Orlando FL 32822
+Description: Not listed
+Website: https://www.walmart.com/store/1084-orlando-fl
+Phone: +1 407-277-4314
+Email: Not listed
+Opening Hours: Mo-Su 06:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 28.5049889
+Longitude: -81.3127831
+OpenStreetMap URL: https://www.openstreetmap.org/node/923907406
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/923907406
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping; art

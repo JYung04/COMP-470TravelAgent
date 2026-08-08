@@ -1,0 +1,25 @@
+Name: Su Khum Vit 51
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 224 East 51st Street
+Description: Not listed
+Website: https://sukhumvit51.com/
+Phone: +1 212-888-8894
+Email: sukhumvit51nyc@gmail.com
+Opening Hours: Mo-Fr 11:00-15:30,17:00-21:45; Sa-Su 12:00-15:30,17:00-21:45
+Wheelchair Accessibility: no
+Latitude: 40.7559192
+Longitude: -73.969303
+OpenStreetMap URL: https://www.openstreetmap.org/node/12601547251
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12601547251
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

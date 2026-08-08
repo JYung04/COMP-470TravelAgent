@@ -1,0 +1,25 @@
+Name: Pho Avenue
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 840 2nd Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 212-933-0078
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.75149
+Longitude: -73.9707581
+OpenStreetMap URL: https://www.openstreetmap.org/node/12741901377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12741901377
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

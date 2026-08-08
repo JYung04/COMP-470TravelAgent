@@ -1,0 +1,25 @@
+Name: Wok Bar
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 1643 Schlosser Street
+Description: Not listed
+Website: www.khloebistrot.com
+Phone: +1 201-461-4654
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8509466
+Longitude: -73.9699964
+OpenStreetMap URL: https://www.openstreetmap.org/node/2269598166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2269598166
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

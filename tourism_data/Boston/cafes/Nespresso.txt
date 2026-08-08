@@ -1,0 +1,25 @@
+Name: Nespresso
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 800 Boylston Street, Boston MA 02199
+Description: Not listed
+Website: https://www.nespresso.com/
+Phone: +1-800-562-1465
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3472841
+Longitude: -71.0806429
+OpenStreetMap URL: https://www.openstreetmap.org/node/7774760049
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7774760049
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

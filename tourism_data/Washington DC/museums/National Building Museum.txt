@@ -1,0 +1,25 @@
+Name: National Building Museum
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 401 F Street Northwest, Washington DC 20001
+Description: Listed in Washington, DC official data as museum / zoo. Status: ACTIVE.
+Website: https://nbm.org/
+Phone: +1 202-272-2448
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-17:00; Su 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8977548
+Longitude: -77.0175512
+OpenStreetMap URL: https://www.openstreetmap.org/way/48040795
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48040795
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

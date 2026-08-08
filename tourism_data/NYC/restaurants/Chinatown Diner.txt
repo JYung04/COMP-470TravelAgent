@@ -1,0 +1,25 @@
+Name: Chinatown Diner
+City: NYC
+Category: restaurants
+Cuisine: Chinese
+Address: Inside The YMCA, 4504, 600 Broad St, Newark, NJ 07102, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 973-596-1888
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.741262
+Longitude: -74.1685023
+OpenStreetMap URL: https://www.openstreetmap.org/node/5005393065
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5005393065
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

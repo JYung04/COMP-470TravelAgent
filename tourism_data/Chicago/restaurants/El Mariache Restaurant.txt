@@ -1,0 +1,25 @@
+Name: El Mariache Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 3420 North Broadway, Chicago IL 60657
+Description: Not listed
+Website: https://www.elmariachitequilabar.com
+Phone: +1 773-549-7020
+Email: Not listed
+Opening Hours: Mo-Fr 16:00-23:00; Sa 10:00-23:00; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9438463
+Longitude: -87.6453016
+OpenStreetMap URL: https://www.openstreetmap.org/node/5693947791
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5693947791
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

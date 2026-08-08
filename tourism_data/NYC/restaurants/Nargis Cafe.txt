@@ -1,0 +1,24 @@
+Name: Nargis Cafe
+City: NYC
+Category: restaurants
+Cuisine: uzbek, russian
+Address: 1655 Sheepshead Bay Road, Brooklyn NY 11235
+Description: Not listed
+Website: https://nargiscafe.com/
+Phone: +1-718-872-7888
+Email: contact@nargiscafe.com
+Opening Hours: Mo-Fr 10:00-23:00; Sa-Su 09:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5861961
+Longitude: -73.9552187
+OpenStreetMap URL: https://www.openstreetmap.org/node/4866584521
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4866584521
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

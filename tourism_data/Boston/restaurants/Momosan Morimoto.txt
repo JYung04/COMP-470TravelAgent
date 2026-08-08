@@ -1,0 +1,25 @@
+Name: Momosan Morimoto
+City: Boston
+Category: restaurants
+Cuisine: ramen
+Address: 80 Causeway Street, Boston MA 02114
+Description: Not listed
+Website: https://www.hubhallboston.com/momosan-ramen-boston
+Phone: +1-617-263-8900
+Email: info@momosanramen.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3654436
+Longitude: -71.0617658
+OpenStreetMap URL: https://www.openstreetmap.org/node/8122640818
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8122640818
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

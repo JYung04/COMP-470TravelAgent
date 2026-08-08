@@ -1,0 +1,24 @@
+Name: Clarendon Farmers Market
+City: Washington DC
+Category: shopping
+Cuisine: Not listed
+Address: 1140 N. Highland St. (at Wilson Blvd.), Arlington, VA 22201
+Description: Not listed
+Website: http://www.clarendonalliance.org/clarendon-alliance-events-2/clarendon-farmers-market
+Phone: (703) 812-8881
+Email: alliance@clarendon.org
+Opening Hours: Apr-Oct: We 15:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8867779
+Longitude: -77.0956516
+OpenStreetMap URL: https://www.openstreetmap.org/node/4082316439
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4082316439
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

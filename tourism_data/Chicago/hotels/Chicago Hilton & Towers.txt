@@ -1,0 +1,25 @@
+Name: Chicago Hilton & Towers
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 720 South Michigan Avenue, Chicago IL 60605
+Description: Hilton Chicago is a centrally located luxury hotel in Chicago, Illinois, United States. The hotel is a Chicago landmark that overlooks Grant Park, Lake Michigan, and the Museum Campus. It is the third-largest hotel in Chicago by number of guest rooms; however, it has the largest total meeting and event space of any hotel in the city. From its opening in 1927 through 2008, every sitting president of the United States had been housed in the hotel before leaving office.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8725082
+Longitude: -87.6251165
+OpenStreetMap URL: https://www.openstreetmap.org/way/1301674288
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1301674288
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

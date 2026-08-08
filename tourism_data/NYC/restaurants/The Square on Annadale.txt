@@ -1,0 +1,25 @@
+Name: The Square on Annadale
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 833 Annadale Road, Staten Island NY
+Description: Not listed
+Website: Not listed
+Phone: +1-718-967-9999
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5414419
+Longitude: -74.1772278
+OpenStreetMap URL: https://www.openstreetmap.org/node/6699139859
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6699139859
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Uno Pizzeria & Grill
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 432 Columbus Avenue, New York NY 10024
+Description: Not listed
+Website: https://restaurants.unos.com/locations/New-York/NY/0350
+Phone: +1-212-595-4700
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-00:00; Su 11:00-23:00
+Wheelchair Accessibility: no
+Latitude: 40.7832166
+Longitude: -73.9748026
+OpenStreetMap URL: https://www.openstreetmap.org/node/2745558099
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2745558099
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

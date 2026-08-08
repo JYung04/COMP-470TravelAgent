@@ -1,0 +1,25 @@
+Name: Disney's Pop Century Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1050 Century Drive, Lake Buena Vista FL 32830-8433
+Description: Pop back in time for a fun new take on favorite fads from the 1950s – 1990s at Disney’s Pop Century Resort . Located along the Disney Skyliner route, this value resort packs plenty of far-out fun into your stay. Take a dip in the Hippy Dippy Pool or pin-shaped Bowling Pool, pose with larger-than life yo-yos and Rubik’s cubes, get your game on with video games old and new at the Fast Forward Arcade, and fill up on Mickey waffles, souvenirs and more at Everything POP Shopping & Dining.
+Website: https://disneyworld.disney.go.com/resorts/pop-century-resort/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3511862
+Longitude: -81.5442942
+OpenStreetMap URL: https://www.openstreetmap.org/way/335538283
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/335538283
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

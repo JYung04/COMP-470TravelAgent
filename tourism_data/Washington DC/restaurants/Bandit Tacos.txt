@@ -1,0 +1,25 @@
+Name: Bandit Tacos
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 4629 41st Street Northwest, Washington DC 20016
+Description: Not listed
+Website: https://www.bandittacodc.com
+Phone: +1 202-506-5807
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9504894
+Longitude: -77.080064
+OpenStreetMap URL: https://www.openstreetmap.org/way/66972574
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66972574
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

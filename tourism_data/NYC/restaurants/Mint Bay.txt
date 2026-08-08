@@ -1,0 +1,25 @@
+Name: Mint Bay
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: Not listed
+Description: Not listed
+Website: https://www.mintbayindiancuisineny.com
+Phone: +1-718-333-5599
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-15:00, 17:00-23:00; Sa-Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6312254
+Longitude: -74.0280498
+OpenStreetMap URL: https://www.openstreetmap.org/node/2552693318
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2552693318
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Helen Hayes Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 240 West 44th Street, New York NY 10036
+Description: The Hayes Theater is a Broadway theater at 240 West 44th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Named for actress Helen Hayes, the venue is operated by Second Stage Theater. It is the smallest Broadway theater, with 597 seats across two levels. The theater was constructed in 1912 for impresario Winthrop Ames and designed by Ingalls & Hoffman in a neo-Georgian style. The original single-level, 299-seat configuration was modified in 1920, when Herbert J. Krapp added a balcony to expand the Little Theatre. The theater has served as a legitimate playhouse, a conference hall, and a broadcasting studio throughout its history.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7578513
+Longitude: -73.9878417
+OpenStreetMap URL: https://www.openstreetmap.org/way/266149304
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266149304
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

@@ -1,0 +1,24 @@
+Name: Apollo Bagels
+City: NYC
+Category: restaurants
+Cuisine: coffee_shop, bagel
+Address: 242 East 10th Street, New York NY 10003
+Description: Not listed
+Website: https://www.apollobagels.com/
+Phone: +1-844-218-3081
+Email: Not listed
+Opening Hours: Mo-Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7288795
+Longitude: -73.9849717
+OpenStreetMap URL: https://www.openstreetmap.org/node/12720698856
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12720698856
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

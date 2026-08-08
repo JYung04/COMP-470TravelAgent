@@ -1,0 +1,25 @@
+Name: Libra Coffee Lounge
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 655 West Irving Park Road, 60613
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-17:00; Sa 08:00-17:00; Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9544107
+Longitude: -87.6468258
+OpenStreetMap URL: https://www.openstreetmap.org/node/13815870801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13815870801
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

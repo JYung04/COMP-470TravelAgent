@@ -1,0 +1,25 @@
+Name: Luthun
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 432 East 13th Street, New York
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7299937
+Longitude: -73.9817762
+OpenStreetMap URL: https://www.openstreetmap.org/node/12368319328
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12368319328
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

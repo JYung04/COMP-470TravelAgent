@@ -1,0 +1,25 @@
+Name: Anju
+City: Washington DC
+Category: restaurants
+Cuisine: korean
+Address: 1805 18th Street Northwest, Washington DC 20009-5523
+Description: Dupont Circle Anju melds modern technique with traditional Korean flavors, resulting in tantalizing delights like the fried chicken complemented by jujube mole , white barbecue sauce and spicy gochujang . While executive chef Angel Barreto is no stranger to accolades – including recognition in DC-area awards, national press from the James Beard Foundation and Food and Wine and even the honor of Culinary Ambassador for the U.S. – he continues to solidify his place as one of DC's dining virtuosos,
+Website: https://www.anjurestaurant.com/
+Phone: +1-202-845-8935
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.91436
+Longitude: -77.041489
+OpenStreetMap URL: https://www.openstreetmap.org/node/810623012
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/810623012
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

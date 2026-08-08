@@ -1,0 +1,25 @@
+Name: Grand Sahara Turkish Grill
+City: NYC
+Category: restaurants
+Cuisine: turkish
+Address: 1828 Hylan Boulevard, Staten Island NY 10305
+Description: Not listed
+Website: https://www.grandsaharagrill.com/
+Phone: +1 718-980-1968
+Email: Not listed
+Opening Hours: 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5845516
+Longitude: -74.0939435
+OpenStreetMap URL: https://www.openstreetmap.org/node/12013171287
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12013171287
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

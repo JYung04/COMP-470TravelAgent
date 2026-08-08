@@ -1,0 +1,25 @@
+Name: South Boston Branch Library
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 646 East Broadway, Boston 02127
+Description: Not listed
+Website: https://www.bpl.org/locations/south-boston/
+Phone: +1 617-268-0180
+Email: Not listed
+Opening Hours: Mo-We 10:00-18:00; Th 12:00-20:00; Fr-Sa 09:00-17:00; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 42.3358202
+Longitude: -71.038751
+OpenStreetMap URL: https://www.openstreetmap.org/node/8261036649
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8261036649
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

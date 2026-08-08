@@ -1,0 +1,25 @@
+Name: Serenity Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 424 Church Avenue, Brooklyn NY 11218
+Description: Not listed
+Website: http://www.angelicascoffeeshop.com/
+Phone: +1-347-442-5226
+Email: Not listed
+Opening Hours: Mo-Fr 08:15-19:00; Sa 08:15-18:00; Su 08:15-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6441763
+Longitude: -73.975829
+OpenStreetMap URL: https://www.openstreetmap.org/node/2561983227
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2561983227
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

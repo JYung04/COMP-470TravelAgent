@@ -1,0 +1,25 @@
+Name: Eléa
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 217 West 85th Street, New York NY 10024
+Description: Warm, upscale Greek cuisine
+Website: https://eleanyc.com/
+Phone: +1-212-369-9800
+Email: Not listed
+Opening Hours: Mo-We 16:30-22:00; Th, Fr 16:30-23:00; Sa 11:30-23:00; Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7875985
+Longitude: -73.9766092
+OpenStreetMap URL: https://www.openstreetmap.org/node/2592130001
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2592130001
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Park No. 529
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2155 West Wabansia Avenue, Chicago IL 60647
+Description: Officially classified as passive park. Covers approximately 0.5 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/Park-No-529/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.912424
+Longitude: -87.6818759
+OpenStreetMap URL: https://www.openstreetmap.org/way/145190611
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/145190611
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

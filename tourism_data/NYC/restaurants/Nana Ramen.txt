@@ -1,0 +1,24 @@
+Name: Nana Ramen
+City: NYC
+Category: restaurants
+Cuisine: ramen, japanese
+Address: 11233
+Description: Not listed
+Website: https://facebook.com/nanaramen/
+Phone: +1-929-210-0589
+Email: Not listed
+Opening Hours: Su-Th 11:00-15:00, 17:00-22:30; Fr-Sa 11:00-15:00, 17:00-23:00
+Wheelchair Accessibility: no
+Latitude: 40.6815568
+Longitude: -73.928999
+OpenStreetMap URL: https://www.openstreetmap.org/node/6436698185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6436698185
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

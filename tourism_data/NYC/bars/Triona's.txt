@@ -1,0 +1,24 @@
+Name: Triona's
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://east.trionasnyc.com
+Phone: +1-646-448-4671
+Email: Not listed
+Opening Hours: Mo-We 15:00-02:00, Th-Fr 14:00-02:00, Sa-Su 11:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 40.7354861
+Longitude: -73.985814
+OpenStreetMap URL: https://www.openstreetmap.org/node/10757178646
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10757178646
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

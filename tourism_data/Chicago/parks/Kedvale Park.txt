@@ -1,0 +1,25 @@
+Name: Kedvale Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4134 West Hirsch Street, Chicago IL 60651
+Description: park in Cook County, Illinois, United States of America
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9067018
+Longitude: -87.7300863
+OpenStreetMap URL: https://www.openstreetmap.org/way/136456119
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/136456119
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

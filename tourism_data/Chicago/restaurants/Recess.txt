@@ -1,0 +1,25 @@
+Name: Recess
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 838 West Kinzie Street, Chicago IL 60607
+Description: In the dynamic West Loop neighborhood, Recess boasts one of the city’s largest outdoor bars. Composed largely of shipping containers, the spot hosts tons of events and themed pop-ups throughout the year. The menu includes brunch, late night, and happy hour options, with tons of craft cocktails to choose from no matter the time of day. Bring a group and order one of the punch-bowl drinks, best enjoyed in the sunshine. Explore more : Dive into the West Loop dining scene with our guide to bars and
+Website: https://chicagoinrecess.com
+Phone: +1-312-801-1181
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8892308
+Longitude: -87.6495781
+OpenStreetMap URL: https://www.openstreetmap.org/node/9459516106
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9459516106
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

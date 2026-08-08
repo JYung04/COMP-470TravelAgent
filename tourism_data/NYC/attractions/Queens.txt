@@ -1,0 +1,25 @@
+Name: Queens
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Bar 43. Photo: Mateo Ruiz Gonzalez Bar 43 43-06 43rd St., Sunnyside, Queens It’s a lot to live up to the goal of being the “home of soccer in Queens,” but this sizable bar gives it a go, with TVs aplenty, an expansive menu of food and drink, and matches broadcast from leagues across the globe. Given Sunnyside’s diverse population, large crowds assemble when the likes of Colombia, Ecuador and Brazil are playing. Barzola 92-12 37th Ave., Jackson Heights, Queens Come together with fellow Ecuador fa
+Website: https://jerkfestivalny.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7226894
+Longitude: -73.8477506
+OpenStreetMap URL: https://www.openstreetmap.org/node/12695088605
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12695088605
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

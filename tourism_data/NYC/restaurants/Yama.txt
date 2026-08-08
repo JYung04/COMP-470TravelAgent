@@ -1,0 +1,25 @@
+Name: Yama
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 122 East 17th Street, 10003
+Description: Not listed
+Website: https://springtail-rhombus-2bch.squarespace.com
+Phone: +1-212-475-0969
+Email: Not listed
+Opening Hours: Mo-Th 17:00-21:00; Fr-Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7358652
+Longitude: -73.9876113
+OpenStreetMap URL: https://www.openstreetmap.org/node/10585445259
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10585445259
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

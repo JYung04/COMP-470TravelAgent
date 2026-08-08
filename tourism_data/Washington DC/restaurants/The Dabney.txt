@@ -1,0 +1,25 @@
+Name: The Dabney
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 122 Blagden Alley Northwest, Washington DC 20001-4269
+Description: Shaw Chef Jeremiah Langhorne added to the neighborhood's transformation into one of the city’s hottest dining neighborhoods with his Blagden Alley venture . Come here to discover what his signature Mid-Atlantic fare is all about. Fiola DC
+Website: https://thedabney.com/
+Phone: +1 202-240-2660
+Email: info@thedabney.com
+Opening Hours: Tu-Th 17:30-21:30; Fr-Sa 17:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9063777
+Longitude: -77.0245704
+OpenStreetMap URL: https://www.openstreetmap.org/node/4401911089
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4401911089
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hyde Park Art Center
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 5020 South Cornell Avenue, Chicago IL 60615
+Description: Not listed
+Website: https://www.hydeparkart.org/
+Phone: +1 773-324-5520
+Email: Not listed
+Opening Hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-17:00; Su 12:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 41.8034265
+Longitude: -87.5867824
+OpenStreetMap URL: https://www.openstreetmap.org/way/143139313
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/143139313
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

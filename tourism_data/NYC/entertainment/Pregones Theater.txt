@@ -1,0 +1,25 @@
+Name: Pregones Theater
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 575 Walton Avenue, Bronx NY 10451
+Description: Not listed
+Website: https://pregonesprtt.org/
+Phone: +1-718-585-1202
+Email: info@pregones.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8195756
+Longitude: -73.9283563
+OpenStreetMap URL: https://www.openstreetmap.org/node/6047027644
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6047027644
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

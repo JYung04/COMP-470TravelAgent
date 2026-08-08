@@ -1,0 +1,25 @@
+Name: DokoDemo
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 89 East 4th Street
+Description: Not listed
+Website: https://www.dokodemonyc.com
+Phone: +1-917-261-5228
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-21:30; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7264163
+Longitude: -73.9897056
+OpenStreetMap URL: https://www.openstreetmap.org/node/5994541185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5994541185
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Lakeview Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: park on Lake Apopka in Winter Garden, Florida
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5777783
+Longitude: -81.5850736
+OpenStreetMap URL: https://www.openstreetmap.org/node/358698818
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358698818
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views; gardens

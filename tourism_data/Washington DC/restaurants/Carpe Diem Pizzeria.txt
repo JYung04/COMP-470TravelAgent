@@ -1,0 +1,25 @@
+Name: Carpe Diem Pizzeria
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 7000 Carroll Avenue
+Description: Not listed
+Website: https://www.carpediempizzaria.com/?utm_source=gbp
+Phone: +1 301-806-7964
+Email: Not listed
+Opening Hours: Tu-Su 16:30-20:30
+Wheelchair Accessibility: limited
+Latitude: 38.9747791
+Longitude: -77.0122854
+OpenStreetMap URL: https://www.openstreetmap.org/node/9140696261
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9140696261
+Price: Not listed
+Rating: 3.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

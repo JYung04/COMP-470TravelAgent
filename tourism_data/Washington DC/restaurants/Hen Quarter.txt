@@ -1,0 +1,25 @@
+Name: Hen Quarter
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 2121 1st Street Southwest, 20024
+Description: Not listed
+Website: https://www.henquarter.com/location-prime
+Phone: +1-202-484-1597
+Email: Not listed
+Opening Hours: Mo off; Tu-Th 16:00-22:00; Fr 16:00-23:00; Sa 11:00-23:00; Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8638958
+Longitude: -77.0124762
+OpenStreetMap URL: https://www.openstreetmap.org/node/12073852083
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12073852083
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

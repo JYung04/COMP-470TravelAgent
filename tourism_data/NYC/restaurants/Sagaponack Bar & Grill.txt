@@ -1,0 +1,25 @@
+Name: Sagaponack Bar & Grill
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 4 West 22nd Street, New York NY 10010
+Description: Seafood eatery with beachfront feel that has both a lobster & raw bar, plus wine & cocktails.
+Website: Not listed
+Phone: +1-212-229-2226
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7410206
+Longitude: -73.9907082
+OpenStreetMap URL: https://www.openstreetmap.org/node/4244823109
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4244823109
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

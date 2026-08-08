@@ -1,0 +1,25 @@
+Name: Fry Like An Eagle
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 2420 West Fullerton Avenue, Chicago IL 60647
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Th 16:00-23:00; Fr-Sa 16:00-24:00; Su 16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9250655
+Longitude: -87.6885219
+OpenStreetMap URL: https://www.openstreetmap.org/node/11896854143
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11896854143
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

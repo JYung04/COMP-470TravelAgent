@@ -1,0 +1,25 @@
+Name: Decibel
+City: NYC
+Category: bars
+Cuisine: japanese
+Address: Not listed
+Description: Not listed
+Website: https://www.sakebardecibel.com
+Phone: +1-212-979-2733
+Email: Not listed
+Opening Hours: We-Th 18:00-24:00; Fr-Sa 18:00-02:00; Su 18:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7292871
+Longitude: -73.9877312
+OpenStreetMap URL: https://www.openstreetmap.org/node/9809110694
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9809110694
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,24 @@
+Name: New Apollo
+City: NYC
+Category: restaurants
+Cuisine: chinese, spanish
+Address: 1477 Myrtle Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-718-483-8288
+Email: Not listed
+Opening Hours: Mo-Th, Su 12:00-23:00; Fr, Sa 13:00-25:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6991138
+Longitude: -73.9166538
+OpenStreetMap URL: https://www.openstreetmap.org/node/5420299324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5420299324
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

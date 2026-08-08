@@ -1,0 +1,25 @@
+Name: The Mary Baker Eddy Library for the Betterment of Humanity
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: MA
+Description: Not listed
+Website: https://www.marybakereddylibrary.org/
+Phone: +1-617-450-7000
+Email: librarymail@mbelibrary.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3451224
+Longitude: -71.0862018
+OpenStreetMap URL: https://www.openstreetmap.org/node/367779430
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367779430
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

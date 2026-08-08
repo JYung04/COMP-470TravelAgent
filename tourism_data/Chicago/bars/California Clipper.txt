@@ -1,0 +1,25 @@
+Name: California Clipper
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1002 North California Avenue, Chicago IL 60622
+Description: This intimate cocktail bar and music venue is basically a Chicago landmark. The California Clipper , with its signature red-hued glow and classic cocktails, has been a part of the local scene since the 1930s. The Clipper continues to draw in late-night crowds for the vintage vibes, mile-long menu of old-fashioned drinks, and stacked roster of musical acts.
+Website: https://www.californiaclipper.com/
+Phone: +1-773-384-2547
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8994722
+Longitude: -87.6969571
+OpenStreetMap URL: https://www.openstreetmap.org/node/1786793073
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1786793073
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art; music

@@ -1,0 +1,25 @@
+Name: Legal Sea Foods
+City: Chicago
+Category: restaurants
+Cuisine: seafood
+Address: 315 North Dearborn Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.legalseafoods.com/locations/chicago-marina-city/
+Phone: +1-312-910-6517
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8879096
+Longitude: -87.6290761
+OpenStreetMap URL: https://www.openstreetmap.org/way/1177925119
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1177925119
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

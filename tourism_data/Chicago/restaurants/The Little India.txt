@@ -1,0 +1,25 @@
+Name: The Little India
+City: Chicago
+Category: restaurants
+Cuisine: indian
+Address: 1109 West Bryn Mawr Avenue, Chicago IL 60660
+Description: Not listed
+Website: https://littleindiatogo.com/
+Phone: +1 773 728 7012
+Email: Not listed
+Opening Hours: 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9835103
+Longitude: -87.658459
+OpenStreetMap URL: https://www.openstreetmap.org/node/12202176533
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12202176533
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

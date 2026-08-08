@@ -1,0 +1,25 @@
+Name: Medium Rare Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: steak_house
+Address: 3500 Connecticut Avenue Northwest
+Description: Not listed
+Website: https://mediumrarerestaurant.com/
+Phone: +1-202-237-1432
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9357323
+Longitude: -77.0588748
+OpenStreetMap URL: https://www.openstreetmap.org/node/737476786
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737476786
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Music Box Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 3733 North Southport Avenue, Chicago IL 60613
+Description: The historic 1920s-era theatre, located in the Lakeview neighborhood’s bustling Southport Corridor, pops up in episode eight when Sydney has a nightmare and runs through aisles with the theatre’s signature red velvet curtains in the background. The Music Box Theatre has been the go-to spot for independent, foreign, and cult classic movies for generations of Chicagoans.
+Website: https://www.musicboxtheatre.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9497734
+Longitude: -87.6637242
+OpenStreetMap URL: https://www.openstreetmap.org/way/939671372
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/939671372
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; music; views

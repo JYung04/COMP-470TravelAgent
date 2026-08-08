@@ -1,0 +1,24 @@
+Name: Ainslie
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: Not listed
+Description: Not listed
+Website: https://ainsliebk.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7124328
+Longitude: -73.9519688
+OpenStreetMap URL: https://www.openstreetmap.org/node/11407297860
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11407297860
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

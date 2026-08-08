@@ -1,0 +1,25 @@
+Name: William C. Nell House
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 3 Smith Court, Boston MA 02114
+Description: The William C. Nell House is a former boarding home located in 3 Smith Court in the Beacon Hill neighborhood of Boston, Massachusetts, United States. It sits opposite the former African Meeting House, now the Museum of African American History.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3601445
+Longitude: -71.065366
+OpenStreetMap URL: https://www.openstreetmap.org/way/405880938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/405880938
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

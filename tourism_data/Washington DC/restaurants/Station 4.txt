@@ -1,0 +1,25 @@
+Name: Station 4
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1101 4th Street Southwest, Washington DC 20024-4457
+Description: Not listed
+Website: Not listed
+Phone: +1 202-488-0987
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8773835
+Longitude: -77.0179718
+OpenStreetMap URL: https://www.openstreetmap.org/node/2043201535
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2043201535
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

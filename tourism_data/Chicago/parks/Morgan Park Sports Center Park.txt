@@ -1,0 +1,25 @@
+Name: Morgan Park Sports Center Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 11505 South Western Avenue, Chicago IL 60643
+Description: Officially classified as community park. Covers approximately 2.6 acres. Facilities include fitness center, ice skating.
+Website: https://www.chicagoparkdistrict.com/parks/morgan-park-sports-center-park-no-577/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6841424
+Longitude: -87.6804014
+OpenStreetMap URL: https://www.openstreetmap.org/way/346980312
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/346980312
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

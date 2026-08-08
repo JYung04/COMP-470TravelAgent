@@ -1,0 +1,25 @@
+Name: Dias y Flores
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 520-522 East 13th Street, New York 10009
+Description: Not listed
+Website: https://diasyfloresgarden.wordpress.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7290837
+Longitude: -73.9799347
+OpenStreetMap URL: https://www.openstreetmap.org/way/270765902
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/270765902
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

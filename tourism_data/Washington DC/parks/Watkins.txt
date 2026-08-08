@@ -1,0 +1,25 @@
+Name: Watkins
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 13th St., between D and E Sts., SE
+Description: Officially classified as rec center grounds. Amenities include baseball diamond, playground, outdoor pool, drinking fountain.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8835049
+Longitude: -76.988997
+OpenStreetMap URL: https://www.openstreetmap.org/way/48268472
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48268472
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

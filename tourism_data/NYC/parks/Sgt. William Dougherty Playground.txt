@@ -1,0 +1,25 @@
+Name: Sgt. William Dougherty Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Brooklyn NY 11222
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/B096/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7236896
+Longitude: -73.9366703
+OpenStreetMap URL: https://www.openstreetmap.org/way/720392297
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/720392297
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

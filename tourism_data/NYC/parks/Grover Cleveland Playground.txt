@@ -1,0 +1,25 @@
+Name: Grover Cleveland Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: This park honors Grover Cleveland (1837-1908), the 22nd and 24th President of the United States.
+Website: https://www.nycgovparks.org/parks/grover-cleveland-playground
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7109245
+Longitude: -73.9112225
+OpenStreetMap URL: https://www.openstreetmap.org/way/113757309
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/113757309
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

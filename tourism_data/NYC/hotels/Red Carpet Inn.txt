@@ -1,0 +1,25 @@
+Name: Red Carpet Inn
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 980 Wyckoff Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-718-417-4111
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.6958259
+Longitude: -73.9048403
+OpenStreetMap URL: https://www.openstreetmap.org/node/2625665327
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2625665327
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

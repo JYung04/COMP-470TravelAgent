@@ -1,0 +1,25 @@
+Name: Montrose Harbor
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 601 West Montrose Avenue, Chicago IL 60613
+Description: bay in Cook County, Illinois, United States of America
+Website: https://www.chicagoharbors.info/harbors/montrose/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9620837
+Longitude: -87.6386328
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17766875
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/17766875
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

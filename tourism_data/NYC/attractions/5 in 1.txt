@@ -1,0 +1,25 @@
+Name: 5 in 1
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: 5 in 1 is a 35-foot-tall (11 m), 75,000-pound (34,000 kg) painted CorTen steel sculpture by Tony Rosenthal, installed at 1 Police Plaza in Lower Manhattan, New York. Commissioned by the government of New York City in 1971 at a cost of $80,000, it was created between 1973 and 1974, and installed on the brick paved pedestrian mall of 1 Police Plaza.
+Website: https://tonyrosenthal.com/5IN1.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7127003
+Longitude: -74.0029361
+OpenStreetMap URL: https://www.openstreetmap.org/node/4121316394
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4121316394
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

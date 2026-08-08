@@ -1,0 +1,25 @@
+Name: Travelodge
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 137-30 Redding Street, Ozone Park NY 11417
+Description: Not listed
+Website: https://www.wyndhamhotels.com/travelodge/ozone-park-new-york/travelodge-ozone-park/overview
+Phone: +1 718-659-7777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6717703
+Longitude: -73.8442352
+OpenStreetMap URL: https://www.openstreetmap.org/way/282418151
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/282418151
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Ghost bike - George Clemmer
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Ghost bike in memory of George Clemmer, 71, struck on July 13, 2022.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3428104
+Longitude: -71.0847958
+OpenStreetMap URL: https://www.openstreetmap.org/node/9936894181
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9936894181
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

@@ -1,0 +1,25 @@
+Name: Great Neck Library - Station Branch
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: public library in Great Neck, New York, USA
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.785704
+Longitude: -73.7263443
+OpenStreetMap URL: https://www.openstreetmap.org/node/1982205058
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1982205058
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

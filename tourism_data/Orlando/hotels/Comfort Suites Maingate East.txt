@@ -1,0 +1,25 @@
+Name: Comfort Suites Maingate East
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 2775 Florida Plaza Boulevard, Kissimmee FL 34746
+Description: Not listed
+Website: http://www.comfortsuites.com/hotel-kissimmee-florida-FL140?source=gglocalai
+Phone: +1 407-397-7848
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3285854
+Longitude: -81.5131694
+OpenStreetMap URL: https://www.openstreetmap.org/way/310030800
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/310030800
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

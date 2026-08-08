@@ -1,0 +1,24 @@
+Name: AWOL Bar and Grill
+City: NYC
+Category: bars
+Cuisine: international
+Address: 337 3rd Avenue, New York NY 10010
+Description: Not listed
+Website: https://www.goawolnyc.com
+Phone: +1-646-682-9405
+Email: Not listed
+Opening Hours: Mo-We 15:30-02:00; Th 14:00-04:00; Fr 12:00-04:00; Sa 11:30-04:00; Su 11:30-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7399496
+Longitude: -73.9821051
+OpenStreetMap URL: https://www.openstreetmap.org/node/2704105152
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2704105152
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

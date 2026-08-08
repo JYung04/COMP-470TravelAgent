@@ -1,0 +1,25 @@
+Name: Little Village Arch
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 3100 W. 26th Street
+Description: A designated Chicago landmark. Built: 1990. Architect: Adrian Lozano. Landmark designation date: 2022-01-26T00:00:00.000.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8445498
+Longitude: -87.7033179
+OpenStreetMap URL: https://www.openstreetmap.org/way/482724491
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/482724491
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

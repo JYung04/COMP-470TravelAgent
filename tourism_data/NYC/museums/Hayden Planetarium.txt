@@ -1,0 +1,25 @@
+Name: Hayden Planetarium
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 200 Central Park West, New York NY 10024
+Description: The Rose Center for Earth and Space is a part of the American Museum of Natural History in New York City. The Center's complete name is The Frederick Phineas and Sandra Priest Rose Center for Earth and Space. The main entrance is located on the northern side of the museum on 81st Street near Central Park West in Manhattan's Upper West Side. Completed in 2000, it includes the Hayden Planetarium, which was originally opened in 1935. Neil deGrasse Tyson is its first and, to date, only director.
+Website: https://haydenplanetarium.org/
+Phone: +1-212-769-5100
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 40.7813974
+Longitude: -73.9733215
+OpenStreetMap URL: https://www.openstreetmap.org/node/4778356621
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4778356621
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

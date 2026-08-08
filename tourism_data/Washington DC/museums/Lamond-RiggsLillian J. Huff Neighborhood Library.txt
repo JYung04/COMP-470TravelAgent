@@ -1,0 +1,25 @@
+Name: Lamond-Riggs/Lillian J. Huff Neighborhood Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 5401 South Dakota Avenue Northeast, Washington DC 20011
+Description: Not listed
+Website: https://www.dclibrary.org/lamond
+Phone: +1 202-541-6255
+Email: lamondriggslibrary@dc.gov
+Opening Hours: Mo-Tu 10:00-18:00, We 10:00-20:00, Th 12:00-20:00, Fr-Sa 10:00-18:00, Su 13:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9551577
+Longitude: -76.999607
+OpenStreetMap URL: https://www.openstreetmap.org/way/295891020
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295891020
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

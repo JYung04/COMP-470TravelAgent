@@ -1,0 +1,25 @@
+Name: Pho 14
+City: Washington DC
+Category: restaurants
+Cuisine: vietnamese
+Address: 1436 Park Road Northwest, Washington DC 20010-2802
+Description: Not listed
+Website: https://pho14dc.com
+Phone: +1 202-986-2326
+Email: Not listed
+Opening Hours: Su-We 11:00-21:30; Th-Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9305878
+Longitude: -77.0340708
+OpenStreetMap URL: https://www.openstreetmap.org/node/4241849507
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4241849507
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

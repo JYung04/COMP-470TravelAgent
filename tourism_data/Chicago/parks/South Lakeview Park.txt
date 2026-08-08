@@ -1,0 +1,25 @@
+Name: South Lakeview Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1300 West Wolfram Street, Chicago IL 60657
+Description: Officially classified as neighborhood park. Covers approximately 0.8 acres. Facilities include playground.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/south-lakeview-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9336809
+Longitude: -87.6617142
+OpenStreetMap URL: https://www.openstreetmap.org/way/205499788
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/205499788
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; views

@@ -1,0 +1,25 @@
+Name: Astoria Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Located along the East River between Robert F. Kennedy and Hell Gate Bridges, Astoria Park has great views from its huge swimming pool (at almost 55,000 square feet, it’s the City’s largest) and at sunset. But that’s certainly not all there is to enjoy. The 60-acre green space also has a skate park, tennis courts, dog park, playgrounds and a running track, and often hosts special outdoor events like free yoga classes, film screenings, concerts and storytelling sessions in the warmer months. It’s
+Website: https://www.nycgovparks.org/parks/astoria-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7785837
+Longitude: -73.9228847
+OpenStreetMap URL: https://www.openstreetmap.org/way/517205427
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/517205427
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

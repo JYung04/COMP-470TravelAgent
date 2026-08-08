@@ -1,0 +1,25 @@
+Name: Tana Thai
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 1890 Eastchester Road, Bronx NY 10461
+Description: Not listed
+Website: Not listed
+Phone: +1 718 684 1900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.851478
+Longitude: -73.8438883
+OpenStreetMap URL: https://www.openstreetmap.org/node/9240344130
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9240344130
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

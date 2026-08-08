@@ -1,0 +1,25 @@
+Name: Rhine Hall Distillery
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2010 West Fulton Street, Chicago IL 60612
+Description: What you’ll find: At Rhine Hall , brandy is the name of the game. This small West Loop distillery is owned and operated by a father-daughter team who specialize in handcrafted fruit brandies (also known as eau de vie or schnapps). Fruit is sourced from the Great Lakes area, and distilling takes place onsite with no flavorings, sweeteners, or neutral spirits. Tasting room: The bright and airy tasting room offers tastings, flights, cocktails, and bottles. Take your pick from specialty cocktails ma
+Website: https://www.rhinehall.com/
+Phone: +1-312-243-4313
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8868879
+Longitude: -87.6776977
+OpenStreetMap URL: https://www.openstreetmap.org/node/5794886652
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5794886652
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

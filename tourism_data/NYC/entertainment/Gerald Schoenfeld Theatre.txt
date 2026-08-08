@@ -1,0 +1,25 @@
+Name: Gerald Schoenfeld Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 236 West 45th Street, New York NY 10036
+Description: The Gerald Schoenfeld Theatre is a Broadway theater at 236 West 45th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1917, the theater was designed by Herbert J. Krapp and was built for the Shubert brothers. The Schoenfeld Theatre is named for Gerald Schoenfeld, longtime president of the Shubert Organization, which operates the theater. It has 1,079 seats across two levels. Both the facade and the auditorium interior are New York City landmarks.
+Website: http://www.shubertorganization.com/theatres/gerald_schoenfeld.asp
+Phone: (212) 239-6200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7585014
+Longitude: -73.9874322
+OpenStreetMap URL: https://www.openstreetmap.org/way/266149302
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266149302
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

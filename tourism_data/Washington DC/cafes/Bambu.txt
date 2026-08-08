@@ -1,0 +1,24 @@
+Name: Bambu
+City: Washington DC
+Category: cafes
+Cuisine: vietnamese, bubble_tea
+Address: 5101 MacArthur Boulevard Northwest
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9253104
+Longitude: -77.1012922
+OpenStreetMap URL: https://www.openstreetmap.org/node/750432424
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750432424
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

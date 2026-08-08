@@ -1,0 +1,25 @@
+Name: Woven + Bound Restaurant
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2121 South Prairie Avenue, Chicago IL 60616
+Description: Not listed
+Website: https://www.marriott.com/hotel-restaurants/chimq-marriott-marquis-chicago/woven-and-bound-restaurant/5718135/home-page.mi
+Phone: +1-312-824-0500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8539177
+Longitude: -87.6204197
+OpenStreetMap URL: https://www.openstreetmap.org/node/6326004181
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6326004181
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: South Brooklyn Children's Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 204 Columbia Street, Brooklyn NY 11231
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.685259
+Longitude: -74.0028988
+OpenStreetMap URL: https://www.openstreetmap.org/way/313994681
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/313994681
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; families; gardens

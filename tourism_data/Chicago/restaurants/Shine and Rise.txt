@@ -1,0 +1,24 @@
+Name: Shine and Rise
+City: Chicago
+Category: restaurants
+Cuisine: asian, sushi, thai
+Address: 756 West Webster Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://www.shinerestaurant.com/
+Phone: +1-773-296-0101
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9219485
+Longitude: -87.6484614
+OpenStreetMap URL: https://www.openstreetmap.org/node/7330251178
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7330251178
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

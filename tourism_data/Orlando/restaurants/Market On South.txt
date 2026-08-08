@@ -1,0 +1,24 @@
+Name: Market On South
+City: Orlando
+Category: restaurants
+Cuisine: dessert, sandwich
+Address: 2603 East South Street, Orlando FL 32803
+Description: Not listed
+Website: https://mainhousemarket.com
+Phone: +1-407-919-5402
+Email: Not listed
+Opening Hours: Mo 09:00-18:00; We-Th 08:00-20:00; Fr-Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5389242
+Longitude: -81.3493583
+OpenStreetMap URL: https://www.openstreetmap.org/node/5194583683
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5194583683
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

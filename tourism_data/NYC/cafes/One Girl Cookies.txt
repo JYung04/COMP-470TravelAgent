@@ -1,0 +1,25 @@
+Name: One Girl Cookies
+City: NYC
+Category: cafes
+Cuisine: bakery
+Address: 35 Water Street
+Description: Not listed
+Website: https://www.onegirlcookies.com/
+Phone: +1-212-675-4996
+Email: Not listed
+Opening Hours: Su 09:00-19:00; Mo-Sa 08:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7033726
+Longitude: -73.9904309
+OpenStreetMap URL: https://www.openstreetmap.org/node/5481546589
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5481546589
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Cho-Sen Village
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 505 Middle Neck Road, Great Neck 11023
+Description: Not listed
+Website: http://www.cho-senvillage.com/
+Phone: +1 516-504-1199
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8003793
+Longitude: -73.7339673
+OpenStreetMap URL: https://www.openstreetmap.org/way/613566881
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/613566881
+Price: Not listed
+Rating: 3.8
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

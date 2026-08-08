@@ -1,0 +1,25 @@
+Name: Target
+City: Washington DC
+Category: shopping
+Cuisine: Not listed
+Address: 7828 Georgia Avenue Northwest, Washington DC 20012-1305
+Description: Not listed
+Website: https://www.target.com/sl/georgia-and-eastern/3328
+Phone: +1 202-892-3822
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9845268
+Longitude: -77.0268941
+OpenStreetMap URL: https://www.openstreetmap.org/node/6551399005
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6551399005
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

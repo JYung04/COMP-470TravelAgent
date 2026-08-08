@@ -1,0 +1,25 @@
+Name: Shirazi Kebab House
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 183-10 Horace Harding Expressway, Fresh Meadows NY 11365
+Description: Not listed
+Website: Not listed
+Phone: +1-718-886-2940
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7394073
+Longitude: -73.7906601
+OpenStreetMap URL: https://www.openstreetmap.org/node/11331379230
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11331379230
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

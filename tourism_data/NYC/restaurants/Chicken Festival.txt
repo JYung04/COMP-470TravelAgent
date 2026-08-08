@@ -1,0 +1,24 @@
+Name: Chicken Festival
+City: NYC
+Category: restaurants
+Cuisine: peruvian, barbecue, chicken
+Address: 29-19 Ditmars Boulevard, Astoria NY 11105
+Description: Not listed
+Website: https://whereyoueat.com/Chicken-Festival-17316.html
+Phone: +1-718-728-9696
+Email: Not listed
+Opening Hours: Mo-Su 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7765245
+Longitude: -73.9110067
+OpenStreetMap URL: https://www.openstreetmap.org/node/9693563601
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9693563601
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

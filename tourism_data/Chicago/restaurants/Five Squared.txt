@@ -1,0 +1,25 @@
+Name: Five Squared
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 1332 North Halsted Street, Chicago IL 60642
+Description: Not listed
+Website: https://www.fivesquared.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9062228
+Longitude: -87.6484394
+OpenStreetMap URL: https://www.openstreetmap.org/node/11699821602
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11699821602
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

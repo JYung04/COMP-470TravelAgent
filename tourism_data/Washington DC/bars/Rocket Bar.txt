@@ -1,0 +1,25 @@
+Name: Rocket Bar
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 714 7th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://rocketbardc.com
+Phone: +1 202-628-7665
+Email: Not listed
+Opening Hours: Mo-Th,Su 16:00-02:00, Fr 16:00-15:00, Sa 15:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8990127
+Longitude: -77.0221127
+OpenStreetMap URL: https://www.openstreetmap.org/node/738212144
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/738212144
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

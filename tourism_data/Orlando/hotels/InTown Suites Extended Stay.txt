@@ -1,0 +1,25 @@
+Name: InTown Suites Extended Stay
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8010 Presidents Drive, Orlando FL 32809
+Description: Not listed
+Website: https://www.intownsuites.com/extended-stay-hotels/florida/orlando/presidents-dr/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4496664
+Longitude: -81.4178482
+OpenStreetMap URL: https://www.openstreetmap.org/way/582380227
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/582380227
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

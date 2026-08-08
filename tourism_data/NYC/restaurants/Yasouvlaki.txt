@@ -1,0 +1,25 @@
+Name: Yasouvlaki
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 1568 3rd Avenue, 10128
+Description: Not listed
+Website: https://yasouvlakinyc.com
+Phone: +1 929-551-1010
+Email: yasouvlakinyc@gmail.com
+Opening Hours: Mo-Th 11:30-21:30; Fr, Sa 11:30-22:00; Su 11:30-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.780315
+Longitude: -73.9531563
+OpenStreetMap URL: https://www.openstreetmap.org/node/9579458320
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9579458320
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

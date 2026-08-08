@@ -1,0 +1,25 @@
+Name: USS Constitution
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 24 5th Street, Charlestown MA 02129
+Description: USS Constitution, also known as Old Ironsides, is a three-masted wooden-hulled heavy frigate of the United States Navy. She is the world's oldest commissioned warship still afloat. She was launched in 1797, one of six original frigates authorized for construction by the Naval Act of 1794 and the third constructed. The name "Constitution" was among ten names submitted to President George Washington by Secretary of War Timothy Pickering in March or May for the frigates that were to be constructed. Joshua Humphreys designed the frigates to be the young Navy's capital ships, and so Constitution and her sister ships were larger and more heavily armed and built than standard frigates of the period. She was built at Edmund Hartt's shipyard.
+Website: https://ussconstitutionmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: no
+Latitude: 42.3724486
+Longitude: -71.0565462
+OpenStreetMap URL: https://www.openstreetmap.org/way/166151194
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/166151194
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: uss constitution
+Best For: museums and culture; art

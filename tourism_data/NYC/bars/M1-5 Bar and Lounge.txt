@@ -1,0 +1,25 @@
+Name: M1-5 Bar and Lounge
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 52 Walker Street
+Description: Not listed
+Website: https://m1-5.com/
+Phone: +1-212-965-1701
+Email: Not listed
+Opening Hours: Mo, Tu 16:00-00:00; We-Fr 04:00-04:00; Sa 19:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7191151
+Longitude: -74.0032838
+OpenStreetMap URL: https://www.openstreetmap.org/node/5592631079
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5592631079
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

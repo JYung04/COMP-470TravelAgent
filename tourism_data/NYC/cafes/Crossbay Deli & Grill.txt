@@ -1,0 +1,24 @@
+Name: Crossbay Deli & Grill
+City: NYC
+Category: cafes
+Cuisine: breakfast, sandwich
+Address: 105-10 Cross Bay Boulevard, Ozone Park NY 11417
+Description: Not listed
+Website: https://www.crossbaydeli.com/
+Phone: +1 718-848-8887
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-17:00; Sa 07:00-17:00; Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6799074
+Longitude: -73.8448941
+OpenStreetMap URL: https://www.openstreetmap.org/node/11681803433
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11681803433
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

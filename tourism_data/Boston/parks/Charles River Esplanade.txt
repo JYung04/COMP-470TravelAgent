@@ -1,0 +1,25 @@
+Name: Charles River Esplanade
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: MA
+Description: The Charles River Esplanade is a park in the Back Bay neighborhood of Boston, Massachusetts, United States. Owned by the Commonwealth of Massachusetts, it is located on the south bank of the Charles River Basin and comprises part of the Charles River Reservation. The park was dedicated in 1910 as the Boston Embankment. The Esplanade went through a major expansion from 1928 to 1936.
+Website: https://esplanade.org/
+Phone: +1-617-227-0365
+Email: info@esplanade.org;mass.parks@state.ma.us
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 42.3588802
+Longitude: -71.089522
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17737456
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/17737456
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

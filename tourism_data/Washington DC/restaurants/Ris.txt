@@ -1,0 +1,25 @@
+Name: Ris
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 2275 L Street Northwest, Washington DC 20037
+Description: Not listed
+Website: https://www.risdc.com/
+Phone: +1 202-730-2500
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-21:00; Sa 17:00-21:00; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 38.9039558
+Longitude: -77.0497946
+OpenStreetMap URL: https://www.openstreetmap.org/node/739528194
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739528194
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

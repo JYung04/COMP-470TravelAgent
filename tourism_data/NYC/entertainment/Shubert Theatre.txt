@@ -1,0 +1,25 @@
+Name: Shubert Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 225 West 44th Street, New York NY 10036
+Description: The Shubert Theatre is a Broadway theater at 225 West 44th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1913, the theater was designed by Henry Beaumont Herts in the Italian Renaissance style and was built for the Shubert brothers. Lee and J. J. Shubert had named the theater in memory of their brother Sam S. Shubert, who died in an accident several years before the theater's opening. It has 1,502 seats across three levels and is operated by The Shubert Organization. The facade and interior are New York City landmarks.
+Website: http://www.shubert.nyc/theatres/shubert/
+Phone: (212) 944-3700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7581388
+Longitude: -73.9872563
+OpenStreetMap URL: https://www.openstreetmap.org/way/266149334
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266149334
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

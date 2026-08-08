@@ -1,0 +1,25 @@
+Name: Union District Oyster Bar & Lounge
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 501 Morse Street Northeast, Washington DC 20002
+Description: Not listed
+Website: https://www.uniondistrictoysterbarlounge.com
+Phone: +1 202-543-1471
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9071896
+Longitude: -76.9988555
+OpenStreetMap URL: https://www.openstreetmap.org/node/6779956809
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6779956809
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

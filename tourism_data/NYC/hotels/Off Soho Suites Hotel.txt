@@ -1,0 +1,25 @@
+Name: Off Soho Suites Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 11 Rivington Street, New York NY 10002
+Description: Not listed
+Website: https://www.offsoho.com/
+Phone: +1-212-979-9815
+Email: info@offsoho.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7212963
+Longitude: -73.9926787
+OpenStreetMap URL: https://www.openstreetmap.org/node/12326900425
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12326900425
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

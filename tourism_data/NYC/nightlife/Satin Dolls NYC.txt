@@ -1,0 +1,25 @@
+Name: Satin Dolls NYC
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 689 8th Avenue
+Description: Not listed
+Website: http://satindollsnyc.com/
+Phone: +1-212-765-5047
+Email: info@satindollsnyc.com
+Opening Hours: Mo-Su 12:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7582838
+Longitude: -73.9893037
+OpenStreetMap URL: https://www.openstreetmap.org/node/6398536726
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6398536726
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

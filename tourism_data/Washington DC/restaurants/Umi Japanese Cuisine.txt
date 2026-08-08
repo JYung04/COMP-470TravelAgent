@@ -1,0 +1,25 @@
+Name: Umi Japanese Cuisine
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 2625 Connecticut Avenue Northwest, Washington DC 20008-0228
+Description: Not listed
+Website: https://www.umijapanesecuisine.com/
+Phone: +1 202-332-3636
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9242702
+Longitude: -77.0516158
+OpenStreetMap URL: https://www.openstreetmap.org/node/750461252
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750461252
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

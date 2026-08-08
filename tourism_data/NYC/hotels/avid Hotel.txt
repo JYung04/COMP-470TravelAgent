@@ -1,0 +1,25 @@
+Name: avid Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 636 86th Street, Brooklyn NY 11228
+Description: Not listed
+Website: https://www.ihg.com/avidhotels/hotels/us/en/brooklyn/nycav/hoteldetail
+Phone: +1-718-255-8898
+Email: gm@avidbrooklyn.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6188473
+Longitude: -74.0223701
+OpenStreetMap URL: https://www.openstreetmap.org/way/878398440
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/878398440
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

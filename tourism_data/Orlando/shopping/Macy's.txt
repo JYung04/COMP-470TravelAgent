@@ -1,0 +1,25 @@
+Name: Macy's
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 397 N Alafaya Trail, Orlando FL 32828
+Description: Not listed
+Website: Not listed
+Phone: +1 407-587-4399
+Email: Not listed
+Opening Hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 11:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5540074
+Longitude: -81.2000112
+OpenStreetMap URL: https://www.openstreetmap.org/node/12344503978
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12344503978
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

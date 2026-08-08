@@ -1,0 +1,25 @@
+Name: Harry Houdini House
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: 278 West 113th Street
+Description: Not listed
+Website: https://www.wildabouthoudini.com/2017/07/the-owners-and-occupants-of-houdinis-278.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.802157
+Longitude: -73.956265
+OpenStreetMap URL: https://www.openstreetmap.org/node/5328115508
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5328115508
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

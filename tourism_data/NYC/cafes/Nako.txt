@@ -1,0 +1,25 @@
+Name: Nako
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 18 Columbia Place, 11201
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-17:00; Sa-Su 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6933412
+Longitude: -73.9986073
+OpenStreetMap URL: https://www.openstreetmap.org/node/13946557001
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13946557001
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

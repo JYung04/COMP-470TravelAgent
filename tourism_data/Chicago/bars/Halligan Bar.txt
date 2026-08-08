@@ -1,0 +1,25 @@
+Name: Halligan Bar
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2274 North Lincoln Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://halliganbarchicago.com/
+Phone: +1-773-472-7940
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9233904
+Longitude: -87.6460993
+OpenStreetMap URL: https://www.openstreetmap.org/node/477087140
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/477087140
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

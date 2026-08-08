@@ -1,0 +1,25 @@
+Name: Winfar Foods
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3949 South Keeler Avenue, Chicago IL 60632
+Description: Not listed
+Website: Not listed
+Phone: +1-773-247-8002
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8208214
+Longitude: -87.7278967
+OpenStreetMap URL: https://www.openstreetmap.org/node/6316936335
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6316936335
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

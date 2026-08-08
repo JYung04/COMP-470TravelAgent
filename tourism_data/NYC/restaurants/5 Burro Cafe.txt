@@ -1,0 +1,25 @@
+Name: 5 Burro Cafe
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 72-05 Austin Street, Forest Hills NY 11375
+Description: Not listed
+Website: https://5burrocafe.com
+Phone: +1-718-544-2984
+Email: greatfood@5burrocafe.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7193565
+Longitude: -73.8423767
+OpenStreetMap URL: https://www.openstreetmap.org/node/5342137750
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5342137750
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

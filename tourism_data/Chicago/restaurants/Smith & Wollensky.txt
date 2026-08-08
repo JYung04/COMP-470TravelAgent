@@ -1,0 +1,24 @@
+Name: Smith & Wollensky
+City: Chicago
+Category: restaurants
+Cuisine: steak_house, steak, seafood
+Address: 318 North State Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.smithandwollensky.com/our-restaurants/chicago/
+Phone: +1-312-670-9900
+Email: Not listed
+Opening Hours: Su-Th 12:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8879182
+Longitude: -87.6285767
+OpenStreetMap URL: https://www.openstreetmap.org/way/1177925118
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1177925118
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

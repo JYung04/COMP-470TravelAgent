@@ -1,0 +1,25 @@
+Name: Pizza D'amore
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 8949 Bay Parkway, Brooklyn NY 11214
+Description: Not listed
+Website: https://www.pizzadamorenyc.com/baypkwy/
+Phone: +1 718-266-4433
+Email: Not listed
+Opening Hours: 11:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.5934206
+Longitude: -73.9995868
+OpenStreetMap URL: https://www.openstreetmap.org/node/8450773154
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8450773154
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

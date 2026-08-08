@@ -1,0 +1,25 @@
+Name: Same Same
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 2022 West Roscoe Street, Chicago IL 60618
+Description: Not listed
+Website: https://www.samesamechicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Mo 17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9433358
+Longitude: -87.6794186
+OpenStreetMap URL: https://www.openstreetmap.org/node/12789088472
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12789088472
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

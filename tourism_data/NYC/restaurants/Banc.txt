@@ -1,0 +1,25 @@
+Name: Banc
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 431 3rd Avenue, 10016
+Description: Not listed
+Website: Not listed
+Phone: +1-212-252-0146
+Email: Not listed
+Opening Hours: Mo-Tu 11:00-00:30; We-Sa 11:00-02:00; Su 11:00-00:30
+Wheelchair Accessibility: yes
+Latitude: 40.7432296
+Longitude: -73.9797061
+OpenStreetMap URL: https://www.openstreetmap.org/node/1935662285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1935662285
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

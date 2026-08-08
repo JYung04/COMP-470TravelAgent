@@ -1,0 +1,25 @@
+Name: Acanto
+City: Chicago
+Category: restaurants
+Cuisine: Italian, Cocktail, Wine
+Address: 18 South Michigan Avenue, Chicago IL 60603
+Description: Not listed
+Website: https://www.acantochicago.com/
+Phone: +1-312-578-0763
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8815293
+Longitude: -87.624671
+OpenStreetMap URL: https://www.openstreetmap.org/node/4728238863
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4728238863
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

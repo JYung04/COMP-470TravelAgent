@@ -1,0 +1,25 @@
+Name: Dragonfly Robata Grill & Sushi
+City: Orlando
+Category: restaurants
+Cuisine: asian
+Address: 7972 Via Dellagio Way, Orlando FL 32819
+Description: Contemporary izakaya tapas-style dishes, sushi, & sake.
+Website: https://dragonflyrestaurants.com
+Phone: +1-407-370-3359
+Email: Not listed
+Opening Hours: Su-Th 17:00-22:00; Fr-Sa 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4505555
+Longitude: -81.4936438
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798488038
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10798488038
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

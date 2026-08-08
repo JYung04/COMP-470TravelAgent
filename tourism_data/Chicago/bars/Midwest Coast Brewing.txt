@@ -1,0 +1,25 @@
+Name: Midwest Coast Brewing
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2137 West Walnut Street, Chicago IL
+Description: Not listed
+Website: https://www.midwestcoastbrewing.com
+Phone: +1-312-361-1176
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8854323
+Longitude: -87.6807384
+OpenStreetMap URL: https://www.openstreetmap.org/node/8796044664
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8796044664
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

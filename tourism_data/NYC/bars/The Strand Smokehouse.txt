@@ -1,0 +1,25 @@
+Name: The Strand Smokehouse
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 25-27 Broadway, Astoria NY 11106
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 16:00-00:00; Fr 16:00-02:00; Sa 12:00-04:00; Su 12:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.763113
+Longitude: -73.9274443
+OpenStreetMap URL: https://www.openstreetmap.org/node/2439791068
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2439791068
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

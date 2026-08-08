@@ -1,0 +1,25 @@
+Name: Grand Banks
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: New York NY 10013
+Description: Not listed
+Website: https://crewny.com/grand-banks
+Phone: +1 212-660-6312
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-23:00; Sa-Su 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7202788
+Longitude: -74.0159252
+OpenStreetMap URL: https://www.openstreetmap.org/node/6040235138
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6040235138
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Ace Hotel New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 20 West 29th Street, New York NY 10001
+Description: Not listed
+Website: https://acehotel.com/new-york/
+Phone: +1 212 679 2222
+Email: reservations@acehotelnyc.com
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 40.7456561
+Longitude: -73.9882398
+OpenStreetMap URL: https://www.openstreetmap.org/way/265042555
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265042555
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

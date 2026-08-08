@@ -1,0 +1,25 @@
+Name: Point Chaud Café & Crêpes
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 2201 G Street Northwest, Washington DC 20052-0037
+Description: Not listed
+Website: https://pointchaudcafe.com/
+Phone: +1 202-822-8022
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8987237
+Longitude: -77.0491585
+OpenStreetMap URL: https://www.openstreetmap.org/node/12826341273
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12826341273
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

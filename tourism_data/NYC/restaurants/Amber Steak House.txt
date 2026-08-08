@@ -1,0 +1,25 @@
+Name: Amber Steak House
+City: NYC
+Category: restaurants
+Cuisine: steak_house
+Address: 119 Nassau Avenue, Brooklyn NY 11222
+Description: Not listed
+Website: http://ambersteak.com
+Phone: +1-718-389-0088
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7246051
+Longitude: -73.9490635
+OpenStreetMap URL: https://www.openstreetmap.org/way/280115171
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/280115171
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

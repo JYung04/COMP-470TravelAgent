@@ -1,0 +1,25 @@
+Name: Boston Bruins
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: PH,Mo-Su 11:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3617779
+Longitude: -71.0251466
+OpenStreetMap URL: https://www.openstreetmap.org/node/2687238417
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2687238417
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,24 @@
+Name: Berries & Bowls
+City: Washington DC
+Category: restaurants
+Cuisine: juice, smoothies, bowls, healthy
+Address: 4961 Elm Street, Bethesda
+Description: We're a family-owned cafe serving health-conscious acai bowls, smoothies, fresh-pressed juices, chia puddings, and toast. Made with only the highest-quality ingredients, our menu contains antioxidants, vitamins, and proteins. Our bowls are perfect for a h
+Website: https://www.berriesandbowls.com
+Phone: +1-301-232-9120
+Email: Not listed
+Opening Hours: Mo-Su 09:00-20:00
+Wheelchair Accessibility: limited
+Latitude: 38.9822009
+Longitude: -77.0982311
+OpenStreetMap URL: https://www.openstreetmap.org/node/1323149413
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1323149413
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

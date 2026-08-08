@@ -1,0 +1,24 @@
+Name: Oishi Japanese Hibachi & Sushi
+City: Orlando
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 11025 International Drive, Orlando FL 32821
+Description: Not listed
+Website: https://restaurantoishi.com/
+Phone: +1 407-465-0088
+Email: oishiorlando168@gmail.com
+Opening Hours: Mo-Su 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.4060977
+Longitude: -81.4555026
+OpenStreetMap URL: https://www.openstreetmap.org/node/1545234551
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1545234551
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

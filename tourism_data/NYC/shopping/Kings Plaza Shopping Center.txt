@@ -1,0 +1,25 @@
+Name: Kings Plaza Shopping Center
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 5100 Kings Plaza, 11234
+Description: Kings Plaza is a shopping center within the Mill Basin section of Brooklyn in New York City, New York, United States. Opened in September 1970, it is located at the southeast corner of Flatbush Avenue and Avenue U, just north of Floyd Bennett Field. The mall features the traditional retailers Target, Burlington, Primark, and Macy's. The mall features prominent specialty retailers including Cotton On, Sephora, Guess, and Zara. The mall was originally owned by a joint venture between Macy's and Alexander's, and is currently owned and managed by Macerich. With approximately 4,200 jobs in retail services and over 120 individual stores, Kings Plaza is the largest indoor shopping center within the borough of Brooklyn.
+Website: https://www.kingsplazaonline.com/
+Phone: +1 718-253-6842
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-21:30; Sa 10:00-22:00; Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6101075
+Longitude: -73.9202089
+OpenStreetMap URL: https://www.openstreetmap.org/way/250026584
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250026584
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

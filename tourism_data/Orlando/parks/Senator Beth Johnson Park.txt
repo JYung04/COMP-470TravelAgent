@@ -1,0 +1,25 @@
+Name: Senator Beth Johnson Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 59 S Ivanhoe Boulevard, Orlando, FL 32801
+Description: park in Orange County, Florida, United States of America
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Senator-Beth-Johnson-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5599747
+Longitude: -81.3783258
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1188107
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1188107
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

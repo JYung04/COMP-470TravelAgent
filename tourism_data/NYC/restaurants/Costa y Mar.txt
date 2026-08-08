@@ -1,0 +1,24 @@
+Name: Costa y Mar
+City: NYC
+Category: restaurants
+Cuisine: peruvian, ecuadorian
+Address: 41-06 Greenpoint Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-718-361-5913
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7400145
+Longitude: -73.9237228
+OpenStreetMap URL: https://www.openstreetmap.org/node/12012953699
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12012953699
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

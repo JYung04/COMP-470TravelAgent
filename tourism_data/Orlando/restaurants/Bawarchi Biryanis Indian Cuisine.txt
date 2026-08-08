@@ -1,0 +1,25 @@
+Name: Bawarchi Biryanis Indian Cuisine
+City: Orlando
+Category: restaurants
+Cuisine: indian
+Address: 6315 International Drive, Orlando FL 32819
+Description: Not listed
+Website: https://www.bawarchiorlando.com/
+Phone: +1-321-400-5998
+Email: Not listed
+Opening Hours: Mo, We-Fr 11:30-15:00, 17:30-22:00; Sa-Su 11:30-15:30, 17:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.4613556
+Longitude: -81.467642
+OpenStreetMap URL: https://www.openstreetmap.org/node/1540263672
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1540263672
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

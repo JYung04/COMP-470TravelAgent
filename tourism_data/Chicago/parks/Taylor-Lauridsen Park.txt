@@ -1,0 +1,25 @@
+Name: Taylor-Lauridsen Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 702 West 42nd Street, Chicago IL 60609
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/taylor-lauridsen-john-emil-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8182819
+Longitude: -87.6430912
+OpenStreetMap URL: https://www.openstreetmap.org/way/136336725
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/136336725
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

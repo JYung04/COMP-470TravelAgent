@@ -1,0 +1,25 @@
+Name: Bombay Grill House
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 764 9th Avenue
+Description: Not listed
+Website: http://bombaygrillhouse.com/
+Phone: +1-212-977-1010
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:30; Fr 11:30-23:30; Sa 12:00-23:30; Su 12:00-22:30
+Wheelchair Accessibility: limited
+Latitude: 40.7641853
+Longitude: -73.988146
+OpenStreetMap URL: https://www.openstreetmap.org/node/6023478828
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6023478828
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

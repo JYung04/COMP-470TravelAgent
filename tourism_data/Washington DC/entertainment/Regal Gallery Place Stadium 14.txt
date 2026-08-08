@@ -1,0 +1,25 @@
+Name: Regal Gallery Place Stadium 14
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: movie theater in Washington, D. C., United States
+Website: https://www.regmovies.com/theaters/regal-gallery-place-stadium-14/C00567346192
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8990638
+Longitude: -77.0209247
+OpenStreetMap URL: https://www.openstreetmap.org/node/687314825
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/687314825
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

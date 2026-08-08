@@ -1,0 +1,24 @@
+Name: Queens Night Market
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: international food vendors, art, gifts, live entertainment
+Website: https://queensnightmarket.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Apr 15-Aug 19: Sa 17:00-24:00; Sep 16-Oct 28: Sa 17:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7478455
+Longitude: -73.8505827
+OpenStreetMap URL: https://www.openstreetmap.org/node/6946801057
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6946801057
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping; art

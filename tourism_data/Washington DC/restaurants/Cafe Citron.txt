@@ -1,0 +1,25 @@
+Name: Cafe Citron
+City: Washington DC
+Category: restaurants
+Cuisine: latin_american
+Address: 1343 Connecticut Avenue Northwest, Washington DC 20036-1801
+Description: Dress code, proper attire
+Website: http://www.cafecitrondc.com/
+Phone: +1 202-530-8844
+Email: Not listed
+Opening Hours: Mo-Th 11:00-02:00; Fr 11:00-03:00; Sa 15:00-03:00; Su closed
+Wheelchair Accessibility: yes
+Latitude: 38.9083502
+Longitude: -77.0423666
+OpenStreetMap URL: https://www.openstreetmap.org/node/753461153
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/753461153
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

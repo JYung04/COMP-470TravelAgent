@@ -1,0 +1,24 @@
+Name: Andy's Frozen Custard
+City: Chicago
+Category: cafes
+Cuisine: Ice Cream Parlor
+Address: 5446 South Mulligan Avenue, Chicago IL 60638
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7927927
+Longitude: -87.7809903
+OpenStreetMap URL: https://www.openstreetmap.org/way/162929050
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162929050
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

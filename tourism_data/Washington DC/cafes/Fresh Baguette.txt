@@ -1,0 +1,25 @@
+Name: Fresh Baguette
+City: Washington DC
+Category: cafes
+Cuisine: french
+Address: 1737 Wisconsin Avenue Northwest
+Description: Not listed
+Website: https://www.freshbaguette.net
+Phone: +1 202-333-2598
+Email: Not listed
+Opening Hours: 07:00-18:00; Jan 01 off
+Wheelchair Accessibility: Not listed
+Latitude: 38.9146248
+Longitude: -77.067005
+OpenStreetMap URL: https://www.openstreetmap.org/node/8638870040
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8638870040
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

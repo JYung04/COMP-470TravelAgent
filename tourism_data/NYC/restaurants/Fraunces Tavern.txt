@@ -1,0 +1,25 @@
+Name: Fraunces Tavern
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 54 Pearl Street, New York NY 10004
+Description: Fraunces Tavern is a historic landmark & the oldest & most historic bar in the city. It's known as the watering hole for many of the founding fathers.
+Website: https://frauncestavern.com/
+Phone: +1-212-968-1776
+Email: Not listed
+Opening Hours: Mo-Th 11:30-00:00; Fr 11:30-01:00; Sa 11:00-01:00; Su 11:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.7033713
+Longitude: -74.0113183
+OpenStreetMap URL: https://www.openstreetmap.org/way/278053589
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278053589
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

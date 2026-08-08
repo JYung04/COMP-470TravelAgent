@@ -1,0 +1,25 @@
+Name: Circa
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 99 M Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://www.circabistros.com/location/navy-yard/
+Phone: +1 202-863-9900
+Email: Not listed
+Opening Hours: Mo-Th 11:00-23:00; Fr 11:00-00:00; Sa 10:00-00:00; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.876294
+Longitude: -77.0061673
+OpenStreetMap URL: https://www.openstreetmap.org/node/6363642701
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6363642701
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

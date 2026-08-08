@@ -1,0 +1,25 @@
+Name: Days Inn Orlando Convention Center/International Drive
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 9990 International Drive, Orlando FL 32819
+Description: Not listed
+Website: https://www.wyndhamhotels.com/days-inn/orlando-florida/days-inn-orlando-convention-center-international-drive/overview
+Phone: +1 407-352-8700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4223899
+Longitude: -81.461224
+OpenStreetMap URL: https://www.openstreetmap.org/way/140619609
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/140619609
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

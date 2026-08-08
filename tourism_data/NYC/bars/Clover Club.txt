@@ -1,0 +1,24 @@
+Name: Clover Club
+City: NYC
+Category: bars
+Cuisine: american, snack
+Address: Not listed
+Description: Not listed
+Website: https://cloverclubny.com
+Phone: +1-718-855-7939
+Email: Not listed
+Opening Hours: Mo-Th 16:00-24:00, Fr 16:00-01:00, Sa 12:00-01:00, Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6845677
+Longitude: -73.9920784
+OpenStreetMap URL: https://www.openstreetmap.org/node/5544159825
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5544159825
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

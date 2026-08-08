@@ -1,0 +1,25 @@
+Name: Hummus Kitchen
+City: NYC
+Category: restaurants
+Cuisine: middle_eastern
+Address: 1613 2nd Avenue, 10028
+Description: Not listed
+Website: https://hummuskitchen.com/upper-east-side
+Phone: +1 212-988-0090
+Email: sharon@hummuskitchen.com
+Opening Hours: 11:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.7764218
+Longitude: -73.9530214
+OpenStreetMap URL: https://www.openstreetmap.org/node/9275807581
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9275807581
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

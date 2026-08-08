@@ -1,0 +1,25 @@
+Name: Black Cat
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 1811 14th Street Northwest, 20009
+Description: Not listed
+Website: https://www.blackcatdc.com/
+Phone: +1 202-667-4490
+Email: info@blackcatdc.com
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.9146093
+Longitude: -77.0317206
+OpenStreetMap URL: https://www.openstreetmap.org/node/750467903
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750467903
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

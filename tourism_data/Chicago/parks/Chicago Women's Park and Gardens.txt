@@ -1,0 +1,25 @@
+Name: Chicago Women's Park and Gardens
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1801 South Indiana Avenue, Chicago IL 60616
+Description: Chicago Women's Park and Gardens is a 3.23 acre public sculpture garden in South Loop that honors the contributions of women throughout the history of Chicago. Landscape architect Mimi McKay and architect Tannys Langdon designed the space. Its "Helping Hands" sculpture by Louise Bourgeois honors Jane Addams. Its fieldhouse was formerly the National Vietnam Veteran’s Art Museum before the museum was relocated to Portage Park.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/chicago-womens-park-and-gardens
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8571868
+Longitude: -87.6215118
+OpenStreetMap URL: https://www.openstreetmap.org/way/150749373
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/150749373
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art; gardens

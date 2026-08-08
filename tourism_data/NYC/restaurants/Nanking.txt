@@ -1,0 +1,24 @@
+Name: Nanking
+City: NYC
+Category: restaurants
+Cuisine: indian, chinese, thai
+Address: 1634 Broadway New York 10019
+Description: Not listed
+Website: https://www.nankingrestaurantgroup.com/
+Phone: +1-718-323-3555
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6747311
+Longitude: -73.8039234
+OpenStreetMap URL: https://www.openstreetmap.org/node/13414614111
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13414614111
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hyatt Place
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 5976 Caravan Court, Orlando FL 32819
+Description: Like their sister property in Lake Buena Vista, Hyatt Place Orlando I-Drive / Convention Center on International Drive and Hyatt Place Orlando Airport are dog-friendly, with one dog up to 50 pounds or two dogs with a combined maximum weight of 75 pounds permitted. A nonrefundable fee of $75 applies to the first six nights, with the same $75 fee and an additional $100 deep-cleaning fee applying to stays of seven to 30 nights. Fees for longer stays are based on the resort’s discretion.
+Website: https://www.hyatt.com/en-us/hotel/florida/hyatt-place-across-from-universal-orlando-resort/orlzu
+Phone: +1 407-351-0627
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4750745
+Longitude: -81.4567757
+OpenStreetMap URL: https://www.openstreetmap.org/way/154082399
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/154082399
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

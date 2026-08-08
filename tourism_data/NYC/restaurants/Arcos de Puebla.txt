@@ -1,0 +1,25 @@
+Name: Arcos de Puebla
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 255 Bushwick Avenue, Brooklyn NY 11206
+Description: Not listed
+Website: https://arcos-de-puebla-corp.business.site/
+Phone: +1-347-916-1230
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7071589
+Longitude: -73.9395935
+OpenStreetMap URL: https://www.openstreetmap.org/node/9673072467
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9673072467
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Houston's
+City: NYC
+Category: restaurants
+Cuisine: American
+Address: 1 Riverside Square Mall #181, Hackensack, NJ 07601, United States
+Description: Not listed
+Website: http://www.houstons.com/locations/bergencounty/
+Phone: +1 201-488-5667
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9051565
+Longitude: -74.0311678
+OpenStreetMap URL: https://www.openstreetmap.org/node/5181090082
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5181090082
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

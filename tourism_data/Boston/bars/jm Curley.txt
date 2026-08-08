@@ -1,0 +1,25 @@
+Name: jm Curley
+City: Boston
+Category: bars
+Cuisine: American, Cocktail
+Address: 21 Temple Place, Boston
+Description: Not listed
+Website: http://jmcurleyboston.com/
+Phone: +1 617-338-5333
+Email: Not listed
+Opening Hours: Mo-Su 11:30-01:45
+Wheelchair Accessibility: Not listed
+Latitude: 42.3552498
+Longitude: -71.0623372
+OpenStreetMap URL: https://www.openstreetmap.org/node/2248458142
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2248458142
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

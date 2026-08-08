@@ -1,0 +1,25 @@
+Name: Tru by Hilton
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 545 President Street, 11215
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/jfkibru-tru-brooklyn/
+Phone: +1-718-524-9000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6775916
+Longitude: -73.9851205
+OpenStreetMap URL: https://www.openstreetmap.org/way/1242226071
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1242226071
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

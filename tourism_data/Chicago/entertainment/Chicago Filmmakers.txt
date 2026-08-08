@@ -1,0 +1,25 @@
+Name: Chicago Filmmakers
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 5243 North Clark Street, Chicago IL 60640
+Description: Not listed
+Website: https://chicagofilmmakers.org/
+Phone: +1 773 293 0575
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.977462
+Longitude: -87.668084
+OpenStreetMap URL: https://www.openstreetmap.org/node/3466476274
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3466476274
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

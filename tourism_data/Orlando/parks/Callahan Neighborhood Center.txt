@@ -1,0 +1,25 @@
+Name: Callahan Neighborhood Center
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 101 North Parramore Avenue, Orlando, FL 32801
+Description: Callahan Neighborhood Center
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Callahan-Neighborhood-Center
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5443216
+Longitude: -81.3880525
+OpenStreetMap URL: https://www.openstreetmap.org/way/1384418498
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1384418498
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

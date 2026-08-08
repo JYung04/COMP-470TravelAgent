@@ -1,0 +1,25 @@
+Name: Liberty Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Liberty Park is a one-acre (0.40 ha) elevated public park at the World Trade Center in Manhattan, New York City, overlooking the National September 11 Memorial & Museum in Lower Manhattan. The park, which opened on June 29, 2016, is located above the World Trade Center's Vehicular Security Center. The St. Nicholas National Shrine is located within the park, as well as Fritz Koenig's The Sphere, the iconic sculpture salvaged from the World Trade Center site. Another statue, America's Response Monument, is also located in the park.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7102299
+Longitude: -74.0135844
+OpenStreetMap URL: https://www.openstreetmap.org/way/22926662
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/22926662
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

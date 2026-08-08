@@ -1,0 +1,25 @@
+Name: National Gallery of Art
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: DC
+Description: Listed in Washington, DC official data as museum / zoo. Status: ACTIVE.
+Website: https://www.nga.gov/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 38.8913174
+Longitude: -77.0199067
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418944
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66418944
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: national gallery of art
+Best For: museums and culture; art

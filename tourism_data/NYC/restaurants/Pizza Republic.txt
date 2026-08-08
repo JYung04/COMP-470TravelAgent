@@ -1,0 +1,25 @@
+Name: Pizza Republic
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 406 Washington St, Hoboken, NJ 07030, United States
+Description: Not listed
+Website: https://www.pizzarepublic.com/
+Phone: +1 201-798-8210
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7416017
+Longitude: -74.029825
+OpenStreetMap URL: https://www.openstreetmap.org/node/6140954581
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6140954581
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

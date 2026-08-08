@@ -1,0 +1,24 @@
+Name: Nargila Grill
+City: NYC
+Category: restaurants
+Cuisine: middle_eastern, steak_house
+Address: 1599 York Avenue, 10028
+Description: Not listed
+Website: https://www.nargilagrill.com/
+Phone: +1 212-535-3700
+Email: Not listed
+Opening Hours: Su-Th 12:00-23:00; Sa 12:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7749808
+Longitude: -73.9480553
+OpenStreetMap URL: https://www.openstreetmap.org/node/11012810126
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11012810126
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

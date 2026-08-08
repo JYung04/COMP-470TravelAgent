@@ -1,0 +1,25 @@
+Name: Seated Lincoln
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Seated Lincoln is a 1911 sculpture by Gutzon Borglum, located next to the Essex County Courthouse in Newark, Essex County, New Jersey. It was added to the National Register of Historic Places on March 30, 1995, for its significance in art.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.737092
+Longitude: -74.1779152
+OpenStreetMap URL: https://www.openstreetmap.org/node/4719982114
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4719982114
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing; art

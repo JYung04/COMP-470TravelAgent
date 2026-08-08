@@ -1,0 +1,25 @@
+Name: Dutch Bros. Coffee
+City: Orlando
+Category: cafes
+Cuisine: coffee_shop
+Address: 10609 Narcoossee Road, Orlando FL 32832
+Description: Not listed
+Website: https://locations.dutchbros.com/dutch-bros-coffee-4400726f9af5
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 05:00-22:00; Fr-Sa 05:00-23:00; Su 05:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4134318
+Longitude: -81.242408
+OpenStreetMap URL: https://www.openstreetmap.org/node/12646694878
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12646694878
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Conrad Orlando
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1500 Eastbeach Way, Orlando FL 32836
+Description: If you’re dreaming of white sand beaches and waterfront views, Conrad Orlando has you covered. The Forbes Four-Star resort boasts an 8-acre lagoon with complimentary kayaking and watersports, not to mention a spa, two Jack Nicklaus-designed golf courses, an aquatic adventure area, and five distinct restaurants and lounges. Unwind in your choice of premium rooms and suites, including options with exclusive water garden access, or head next door to Evermore Orlando Resort for full-home vacation re
+Website: https://www.hilton.com/en/hotels/orlcici-conrad-orlando/
+Phone: +1 407 387 2000
+Email: ORLCI.GM@conradhotels.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4093262
+Longitude: -81.5265715
+OpenStreetMap URL: https://www.openstreetmap.org/way/1271029694
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1271029694
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; views; gardens

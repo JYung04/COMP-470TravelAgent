@@ -1,0 +1,25 @@
+Name: Minskoff Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 1515 Broadway, New York NY
+Description: The Minskoff Theatre is a Broadway theater on the third floor of the One Astor Plaza office building in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1973, it is operated by the Nederlander Organization and is named after Sam Minskoff and Sons, the building's developers. There are approximately 1,710 seats in the auditorium, spread across an orchestra level and a balcony. Over the years it has hosted musicals, dance companies, and concerts.
+Website: http://minskofftheatre.com/
+Phone: (212) 869-0550
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.758063
+Longitude: -73.9862053
+OpenStreetMap URL: https://www.openstreetmap.org/node/1752822408
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1752822408
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; music

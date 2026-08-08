@@ -1,0 +1,25 @@
+Name: Anacostia Fitness Center
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 1800 Anacostia Drive SE
+Description: Officially classified as rec center grounds. Amenities include playground, outdoor pool.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8730884
+Longitude: -76.9821101
+OpenStreetMap URL: https://www.openstreetmap.org/way/48207531
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48207531
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

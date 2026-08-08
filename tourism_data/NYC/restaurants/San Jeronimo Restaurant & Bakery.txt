@@ -1,0 +1,25 @@
+Name: San Jeronimo Restaurant & Bakery
+City: NYC
+Category: restaurants
+Cuisine: tex-mex
+Address: 461 Port Richmond Avenue, Staten Island NY 10302
+Description: Not listed
+Website: https://sanjeronimorestaurant.com/
+Phone: +1 646-982-8665
+Email: Not listed
+Opening Hours: Su-Th 11:00-22:00; Fr 11:00-23:00; Sa 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6311975
+Longitude: -74.1386098
+OpenStreetMap URL: https://www.openstreetmap.org/node/12445567930
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12445567930
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

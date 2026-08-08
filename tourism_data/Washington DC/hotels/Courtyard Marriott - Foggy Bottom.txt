@@ -1,0 +1,25 @@
+Name: Courtyard Marriott - Foggy Bottom
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 515 20th Street Northwest, Washington DC 20006
+Description: Not listed
+Website: https://www.marriott.com/wasfb
+Phone: +1 202-296-5700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8965436
+Longitude: -77.044525
+OpenStreetMap URL: https://www.openstreetmap.org/way/203599061
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/203599061
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

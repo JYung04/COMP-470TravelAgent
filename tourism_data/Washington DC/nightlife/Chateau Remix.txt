@@ -1,0 +1,24 @@
+Name: Chateau Remix
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 3439 Benning Road Northeast
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8960226
+Longitude: -76.9562037
+OpenStreetMap URL: https://www.openstreetmap.org/node/737495085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737495085
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

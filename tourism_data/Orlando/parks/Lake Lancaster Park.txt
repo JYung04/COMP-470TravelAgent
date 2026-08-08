@@ -1,0 +1,25 @@
+Name: Lake Lancaster Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 1550 Briercliff Drive, Orlando, FL 32806
+Description: Lake Lancaster Park is located on 1550 Briercliff Drive. The park has a paved walking path around the lake for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Lancaster-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5251918
+Longitude: -81.362653
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1169987
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1169987
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Equinox
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 32 Hudson Yards, New York NY 10001
+Description: Not listed
+Website: https://equinox-hotels.com/
+Phone: +1-212-812-9200
+Email: reservations.hy@equinox-hotels.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7544707
+Longitude: -74.0024161
+OpenStreetMap URL: https://www.openstreetmap.org/node/9423683677
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9423683677
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

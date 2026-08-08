@@ -1,0 +1,25 @@
+Name: Jeremiah's Italian Ice
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 3988 Town Center Boulevard
+Description: Not listed
+Website: https://jeremiahsice.com/
+Phone: +1-407-988-3967
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 28.5573224
+Longitude: -81.2053602
+OpenStreetMap URL: https://www.openstreetmap.org/node/8674452943
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8674452943
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

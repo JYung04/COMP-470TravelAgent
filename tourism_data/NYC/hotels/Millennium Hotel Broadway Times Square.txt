@@ -1,0 +1,25 @@
+Name: Millennium Hotel Broadway Times Square
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 145 West 44th Street, New York NY 10036
+Description: The Millennium Times Square New York is a hotel at 133 and 145 West 44th Street, between Times Square and Sixth Avenue, in the Theater District of Midtown Manhattan in New York City, New York, U.S. Operated by Millennium & Copthorne Hotels, the hotel has 750 guest units, as well as a conference center with 33 conference rooms. The hotel incorporates a Broadway theater called the Hudson Theatre into its base.
+Website: https://www.millenniumhotels.com/en/new-york/millennium-hotel-broadway-times-square/
+Phone: +1 212-768-4400
+Email: BroadwayInfo.US@MILLENNIUMHOTELS.COM
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.757079
+Longitude: -73.9847958
+OpenStreetMap URL: https://www.openstreetmap.org/way/266170756
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266170756
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,24 @@
+Name: Panino Rustico/Baya Bar
+City: NYC
+Category: cafes
+Cuisine: sandwich, italian, health_food, juice
+Address: Not listed
+Description: Not listed
+Website: https://paninorustico.com
+Phone: +1-718-210-2220
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5786383
+Longitude: -73.8496794
+OpenStreetMap URL: https://www.openstreetmap.org/node/11583127566
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11583127566
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

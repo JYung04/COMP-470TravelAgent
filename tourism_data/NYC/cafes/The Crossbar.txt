@@ -1,0 +1,25 @@
+Name: The Crossbar
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 250 West 86th Street, New York NY 10024
+Description: Not listed
+Website: https://www.crossbarnyc.com
+Phone: +1 212-580-8923
+Email: Not listed
+Opening Hours: 07:00-16:00
+Wheelchair Accessibility: no
+Latitude: 40.7883801
+Longitude: -73.977098
+OpenStreetMap URL: https://www.openstreetmap.org/node/1821015965
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1821015965
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

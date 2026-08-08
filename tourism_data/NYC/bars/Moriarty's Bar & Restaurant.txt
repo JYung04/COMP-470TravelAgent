@@ -1,0 +1,25 @@
+Name: Moriarty's Bar & Restaurant
+City: NYC
+Category: bars
+Cuisine: Irish
+Address: 996 McLean Ave, Yonkers, NY 10704, United States
+Description: Not listed
+Website: http://www.mckeonspub.com/
+Phone: +1 914-530-2386
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9030487
+Longitude: -73.8649183
+OpenStreetMap URL: https://www.openstreetmap.org/node/11867334578
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11867334578
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

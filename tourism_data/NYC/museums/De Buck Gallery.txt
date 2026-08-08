@@ -1,0 +1,25 @@
+Name: De Buck Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 507 West 27th Street, New York NY 10001
+Description: Not listed
+Website: https://www.debuckgallery.com
+Phone: +1-212-255-5735
+Email: collect@debuckgallery.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7505056
+Longitude: -74.0027621
+OpenStreetMap URL: https://www.openstreetmap.org/node/10860703830
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10860703830
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

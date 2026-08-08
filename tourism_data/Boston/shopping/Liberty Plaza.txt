@@ -1,0 +1,24 @@
+Name: Liberty Plaza
+City: Boston
+Category: shopping
+Cuisine: Not listed
+Address: 184 Border Street, East Boston MA 02128
+Description: Not listed
+Website: Not listed
+Phone: (617) 561-0980
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3756116
+Longitude: -71.0406371
+OpenStreetMap URL: https://www.openstreetmap.org/way/815964621
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/815964621
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

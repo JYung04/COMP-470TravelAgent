@@ -1,0 +1,25 @@
+Name: Holiday Inn Express & Suites Orlando Southeast
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 12150 Pioneers Way, Orlando FL 32832
+Description: Not listed
+Website: https://www.ihg.com/holidayinnexpress/hotels/us/en/orlando/mcoln/hoteldetail
+Phone: +1-407-207-7001
+Email: fdhiexorlando@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3881302
+Longitude: -81.2437771
+OpenStreetMap URL: https://www.openstreetmap.org/way/843736665
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/843736665
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Moot Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 579 Myrtle Avenue, Brooklyn NY 11205
+Description: Not listed
+Website: https://www.mootbar.com
+Phone: +1-718-638-3982
+Email: Not listed
+Opening Hours: Mo-Th 15:00-02:00; Fr-Sa 15:00-04:00; Su 15:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6941319
+Longitude: -73.960971
+OpenStreetMap URL: https://www.openstreetmap.org/node/5772062970
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5772062970
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

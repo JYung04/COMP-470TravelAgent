@@ -1,0 +1,25 @@
+Name: Four Seasons Hotel Washington, DC
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 2800 Pennsylvania Avenue Northwest
+Description: Not listed
+Website: https://www.fourseasons.com/
+Phone: +1 202-342-0444
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9044886
+Longitude: -77.057366
+OpenStreetMap URL: https://www.openstreetmap.org/way/506164269
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/506164269
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

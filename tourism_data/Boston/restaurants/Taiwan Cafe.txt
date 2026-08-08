@@ -1,0 +1,25 @@
+Name: Taiwan Cafe
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 34 Oxford Street, 02111
+Description: Not listed
+Website: http://ordertaiwancafe.com
+Phone: +1 617 426 8181
+Email: Not listed
+Opening Hours: Su-Th 11:00-00:00; Fr-Sa 11:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3514688
+Longitude: -71.0602575
+OpenStreetMap URL: https://www.openstreetmap.org/node/10019090619
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10019090619
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

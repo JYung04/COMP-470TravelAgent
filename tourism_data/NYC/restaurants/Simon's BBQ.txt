@@ -1,0 +1,24 @@
+Name: Simon's BBQ
+City: NYC
+Category: restaurants
+Cuisine: barbecue, chinese, kebab
+Address: 4823 8th Avenue 11220
+Description: Not listed
+Website: Not listed
+Phone: +1-718-431-0788
+Email: Not listed
+Opening Hours: Mo-Su 16:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.639656
+Longitude: -74.0056317
+OpenStreetMap URL: https://www.openstreetmap.org/node/7256958344
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7256958344
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

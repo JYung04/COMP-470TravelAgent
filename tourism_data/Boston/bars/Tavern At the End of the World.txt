@@ -1,0 +1,25 @@
+Name: Tavern At the End of the World
+City: Boston
+Category: bars
+Cuisine: irish
+Address: 108 Cambridge Street, 02129
+Description: Not listed
+Website: https://www.tavernattheendoftheworld.com/
+Phone: +1 617 241 4999
+Email: Not listed
+Opening Hours: Mo-Su 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3821725
+Longitude: -71.0793661
+OpenStreetMap URL: https://www.openstreetmap.org/node/4477469398
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4477469398
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

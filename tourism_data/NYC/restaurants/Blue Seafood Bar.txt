@@ -1,0 +1,25 @@
+Name: Blue Seafood Bar
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 856 9th Avenue, New York NY
+Description: Not listed
+Website: https://blueseafoodbar.com/
+Phone: +1-212-757-7511
+Email: 9thaveblue@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7668916
+Longitude: -73.9861952
+OpenStreetMap URL: https://www.openstreetmap.org/node/7061919185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7061919185
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

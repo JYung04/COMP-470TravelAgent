@@ -1,0 +1,25 @@
+Name: Constitution Green
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 300 S Summerlin Avenue, Orlando, FL 32801
+Description: Constitution Green is located on 300 South Summerlin Avenue. The park is home to one of the oldest trees in Orlando.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Constitution-Green
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5388543
+Longitude: -81.3691357
+OpenStreetMap URL: https://www.openstreetmap.org/way/69535450
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/69535450
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

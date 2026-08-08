@@ -1,0 +1,24 @@
+Name: El Sabroso
+City: NYC
+Category: restaurants
+Cuisine: latin_american, ecuadorian
+Address: 265 West 37th Street
+Description: Not listed
+Website: Not listed
+Phone: +1-212-284-1118
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.7540751
+Longitude: -73.9916562
+OpenStreetMap URL: https://www.openstreetmap.org/node/5816447410
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5816447410
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

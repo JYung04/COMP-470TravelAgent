@@ -1,0 +1,25 @@
+Name: The Highlight Room
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 145 Bowery, New York NY 10002-4906
+Description: Not listed
+Website: Not listed
+Phone: +1 212-481-3763
+Email: Not listed
+Opening Hours: We 17:00-01:00, Th-Sa 17:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7189483
+Longitude: -73.9940599
+OpenStreetMap URL: https://www.openstreetmap.org/node/10695076877
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10695076877
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

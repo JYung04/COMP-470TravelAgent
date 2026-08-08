@@ -1,0 +1,25 @@
+Name: 4th Ward
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 5338 South Kimbark Avenue, Chicago IL 60615
+Description: Not listed
+Website: https://www.4wps.org/
+Phone: Not listed
+Email: 4thwardprojectspace@gmail.com
+Opening Hours: "By Appointment"
+Wheelchair Accessibility: Not listed
+Latitude: 41.7982916
+Longitude: -87.5952387
+OpenStreetMap URL: https://www.openstreetmap.org/node/10198367167
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10198367167
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

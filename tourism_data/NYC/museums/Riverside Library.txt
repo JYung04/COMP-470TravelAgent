@@ -1,0 +1,25 @@
+Name: Riverside Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 127 Amsterdam Avenue, New York NY 10023
+Description: Not listed
+Website: https://www.nypl.org/locations/riverside
+Phone: +1-212-870-1810
+Email: Not listed
+Opening Hours: Mo,Su off; Tu-Th 10:00-19:00; Fr 12:00-17:00; Sa 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.774257
+Longitude: -73.984582
+OpenStreetMap URL: https://www.openstreetmap.org/node/2744944451
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2744944451
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

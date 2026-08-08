@@ -1,0 +1,25 @@
+Name: Moe's Cantina
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 155 West Kinzie Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.moescantina.com/
+Phone: +1-312-245-2000
+Email: Not listed
+Opening Hours: We-Th 17:00-24:00; Fr 16:00-02:00; Sa 10:30-03:00
+Wheelchair Accessibility: yes
+Latitude: 41.8890572
+Longitude: -87.6332026
+OpenStreetMap URL: https://www.openstreetmap.org/node/5457742356
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5457742356
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

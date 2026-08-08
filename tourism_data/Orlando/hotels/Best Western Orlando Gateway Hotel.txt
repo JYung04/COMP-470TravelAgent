@@ -1,0 +1,25 @@
+Name: Best Western Orlando Gateway Hotel
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 7299 Universal Boulevard, Orlando FL 32819
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotel-rooms.10380.html
+Phone: +1 407-351-5009
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4579482
+Longitude: -81.4633498
+OpenStreetMap URL: https://www.openstreetmap.org/way/82855238
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/82855238
+Price: Not listed
+Rating: 5.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

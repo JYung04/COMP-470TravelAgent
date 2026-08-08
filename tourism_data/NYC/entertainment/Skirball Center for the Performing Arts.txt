@@ -1,0 +1,25 @@
+Name: Skirball Center for the Performing Arts
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 566 LaGuardia Place
+Description: Not listed
+Website: https://nyuskirball.org/
+Phone: +1-212-992-8484
+Email: skirball.center.info@nyu.edu
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7298263
+Longitude: -73.9977312
+OpenStreetMap URL: https://www.openstreetmap.org/node/5514171300
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5514171300
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

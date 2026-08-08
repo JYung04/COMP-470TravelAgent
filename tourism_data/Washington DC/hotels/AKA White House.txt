@@ -1,0 +1,25 @@
+Name: AKA White House
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1710 H Street Northwest, Washington DC 20006
+Description: Not listed
+Website: https://www.stayaka.com/locations/washington-dc
+Phone: +1-202-904-2500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.899927
+Longitude: -77.0403545
+OpenStreetMap URL: https://www.openstreetmap.org/way/66420126
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66420126
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

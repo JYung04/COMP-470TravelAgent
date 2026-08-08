@@ -1,0 +1,25 @@
+Name: The Dead Poet
+City: NYC
+Category: bars
+Cuisine: irish
+Address: 450 Amsterdam Avenue, New York NY 10024
+Description: Not listed
+Website: http://www.thedeadpoet.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7849421
+Longitude: -73.9772607
+OpenStreetMap URL: https://www.openstreetmap.org/node/7418121964
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7418121964
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

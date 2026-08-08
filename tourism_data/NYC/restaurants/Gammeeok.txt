@@ -1,0 +1,25 @@
+Name: Gammeeok
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 9 West 32nd Street, 10001
+Description: Not listed
+Website: https://www.gammeeok.com
+Phone: +1 212-868-1180
+Email: contact@gammeeok.com
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 40.7476232
+Longitude: -73.9861377
+OpenStreetMap URL: https://www.openstreetmap.org/node/5393341922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5393341922
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

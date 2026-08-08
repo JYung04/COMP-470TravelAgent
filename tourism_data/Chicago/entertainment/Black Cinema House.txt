@@ -1,0 +1,25 @@
+Name: Black Cinema House
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 7200 South Kimbark Avenue, Chicago IL 60619
+Description: Not listed
+Website: https://rebuild-foundation.org/site/black-cinema-house/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7640192
+Longitude: -87.5936091
+OpenStreetMap URL: https://www.openstreetmap.org/node/4077182125
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4077182125
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

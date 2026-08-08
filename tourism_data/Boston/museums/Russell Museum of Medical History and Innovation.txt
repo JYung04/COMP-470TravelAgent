@@ -1,0 +1,25 @@
+Name: Russell Museum of Medical History and Innovation
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 2 North Grove Street
+Description: Not listed
+Website: https://www.massgeneral.org/museum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-17:00; Apr 16-Oct 15 Sa 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3613317
+Longitude: -71.069052
+OpenStreetMap URL: https://www.openstreetmap.org/way/149181663
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/149181663
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

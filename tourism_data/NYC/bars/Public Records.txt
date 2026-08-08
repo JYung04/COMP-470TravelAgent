@@ -1,0 +1,24 @@
+Name: Public Records
+City: NYC
+Category: bars
+Cuisine: coffee_shop, sandwich
+Address: 233 Butler Street, 11217
+Description: Not listed
+Website: https://publicrecords.nyc
+Phone: +1-347-529-4869
+Email: hello@publicrecords.nyc
+Opening Hours: Tu-Su 09:00-17:00 "coffee" || Tu 14:00-23:00; We 14:00-24:00; Th 14:00-01:00; Fr,Sa 14:00-04:00; Su 14:00-24:00 "bar"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6821013
+Longitude: -73.9865223
+OpenStreetMap URL: https://www.openstreetmap.org/node/6280146793
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6280146793
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

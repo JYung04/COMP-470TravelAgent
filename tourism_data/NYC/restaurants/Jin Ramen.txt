@@ -1,0 +1,25 @@
+Name: Jin Ramen
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 462 Amsterdam Avenue, 10024
+Description: Not listed
+Website: https://uws.jinramen.com
+Phone: +1-646-657-0755
+Email: Not listed
+Opening Hours: Mo-Su 11:30-15:00,17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7853423
+Longitude: -73.9769585
+OpenStreetMap URL: https://www.openstreetmap.org/node/4775572071
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4775572071
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

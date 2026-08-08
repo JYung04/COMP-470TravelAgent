@@ -1,0 +1,24 @@
+Name: Dragon Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi, bubble_tea, ramen
+Address: 1272 Amsterdam Avenue, New York NY 10027
+Description: Not listed
+Website: https://www.dragonsushiny.com/
+Phone: +1-646-490-5254
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:30; Fr-Sa 11:00-23:00; Su 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.8111683
+Longitude: -73.9581016
+OpenStreetMap URL: https://www.openstreetmap.org/node/8375908251
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8375908251
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

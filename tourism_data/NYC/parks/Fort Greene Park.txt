@@ -1,0 +1,25 @@
+Name: Fort Greene Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Walk up the stepped slopes of 30-acre Fort Greene Park , which was the site of a fort built for the Battle of Long Island in the Revolutionary War, to its summit, where a majestic column rises another 150 feet into the sky. That’s the Prison Ship Martyrs Monument, dedicated to the roughly 11,500 prisoners who died on British prison ships during the revolution, around twice the number of Americans who fell in battle. It’s still sacred ground, with some prisoners’ remains buried in a crypt at its
+Website: https://www.fortgreenepark.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6915227
+Longitude: -73.9754842
+OpenStreetMap URL: https://www.openstreetmap.org/way/20512138
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/20512138
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

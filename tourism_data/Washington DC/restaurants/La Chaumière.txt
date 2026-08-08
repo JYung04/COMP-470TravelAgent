@@ -1,0 +1,25 @@
+Name: La Chaumière
+City: Washington DC
+Category: restaurants
+Cuisine: french
+Address: 2813 M Street Northwest
+Description: Not listed
+Website: https://www.lachaumieredc.com/
+Phone: +1-202-338-1784
+Email: Not listed
+Opening Hours: Mo-Tu 17:30-21:00; We-Th 11:30-14:30,17:30-21:00; Fr 11:30-14:30,17:00-21:30; Sa 17:00-21:30; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 38.9053978
+Longitude: -77.0574683
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272428
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272428
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

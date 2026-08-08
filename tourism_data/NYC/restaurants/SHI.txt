@@ -1,0 +1,25 @@
+Name: SHI
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 47-20 Center Boulevard, Long Island City NY 11109
+Description: Not listed
+Website: https://www.shilic.com/
+Phone: +1-347-242-2450
+Email: info@shilic.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7460067
+Longitude: -73.9570719
+OpenStreetMap URL: https://www.openstreetmap.org/node/5285613534
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5285613534
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

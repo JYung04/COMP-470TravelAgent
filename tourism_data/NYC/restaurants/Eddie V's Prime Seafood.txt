@@ -1,0 +1,24 @@
+Name: Eddie V's Prime Seafood
+City: NYC
+Category: restaurants
+Cuisine: seafood, fine_dining
+Address: Not listed
+Description: Not listed
+Website: https://eddiev.com/
+Phone: +1-201-518-1558
+Email: Not listed
+Opening Hours: Mo-Su 16:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.9161367
+Longitude: -74.0751415
+OpenStreetMap URL: https://www.openstreetmap.org/node/2385911380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2385911380
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

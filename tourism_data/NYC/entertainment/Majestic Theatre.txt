@@ -1,0 +1,25 @@
+Name: Majestic Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 245 West 44th Street, New York NY 10036
+Description: The Majestic Theatre is a Broadway theater at 245 West 44th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1927, the theater was designed by Herbert J. Krapp in a Spanish style and was built for real-estate developer Irwin S. Chanin. It has 1,681 seats across two levels and is operated by The Shubert Organization. Both the facade and interior are New York City landmarks.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7584154
+Longitude: -73.9880182
+OpenStreetMap URL: https://www.openstreetmap.org/way/266149328
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266149328
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

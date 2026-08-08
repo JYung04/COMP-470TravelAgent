@@ -1,0 +1,25 @@
+Name: noreetuh
+City: NYC
+Category: restaurants
+Cuisine: hawaiian
+Address: 128 1st Avenue, New York NY 10009
+Description: Not listed
+Website: https://www.noreetuh.com
+Phone: +1-646-892-3050
+Email: hello@noreetuh.com
+Opening Hours: We,Th 17:00-21:30; Fr 17:00-22:30; Sa 11:30-14:30,17:00-22:30; Su 11:30-14:30,17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7273102
+Longitude: -73.9852896
+OpenStreetMap URL: https://www.openstreetmap.org/node/7794379162
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7794379162
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

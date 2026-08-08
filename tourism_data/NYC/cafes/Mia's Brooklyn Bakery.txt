@@ -1,0 +1,25 @@
+Name: Mia's Brooklyn Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 1573 3rd Avenue
+Description: Not listed
+Website: https://miasbrooklyn.com/
+Phone: +1 212-933-1728
+Email: Not listed
+Opening Hours: Mo-We, Su 07:00-22:00; Th 07:00-23:00; Fr, Sa 07:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.7802735
+Longitude: -73.9526898
+OpenStreetMap URL: https://www.openstreetmap.org/node/12324807642
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12324807642
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

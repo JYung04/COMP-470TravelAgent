@@ -1,0 +1,25 @@
+Name: Bonefish Grill
+City: Orlando
+Category: restaurants
+Cuisine: seafood
+Address: 5463 Gateway Village Cir, Orlando, FL 32812, United States
+Description: Not listed
+Website: https://locations.bonefishgrill.com/florida/orlando/5463-gateway-village-circle?y_source=1_MTU1MDI4NjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Phone: +1 407-816-6355
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4568804
+Longitude: -81.3108681
+OpenStreetMap URL: https://www.openstreetmap.org/node/8718795462
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8718795462
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Brown Sugar Bakery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 328 East 75th Street, Chicago IL 60619
+Description: Not listed
+Website: https://www.brownsugarbakerychicago.com/
+Phone: +1-773-224-6262
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.758545
+Longitude: -87.6171633
+OpenStreetMap URL: https://www.openstreetmap.org/way/210873674
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210873674
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

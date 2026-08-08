@@ -1,0 +1,25 @@
+Name: Bronx Documentary Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 614 Courtlandt Avenue
+Description: Not listed
+Website: https://www.bronxdoc.org/
+Phone: +1-718-993-3512
+Email: Not listed
+Opening Hours: Sa, Su 13:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.8180322
+Longitude: -73.9186583
+OpenStreetMap URL: https://www.openstreetmap.org/node/4455096389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4455096389
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

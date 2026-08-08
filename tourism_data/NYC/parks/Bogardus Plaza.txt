@@ -1,0 +1,25 @@
+Name: Bogardus Plaza
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 5 Hudson Street, New York NY 10013
+Description: The Bogardus Plaza is a recently renovated public pedestrian plaza in the heart of Manhattan's Tribeca Neighborhood. It has ample seating and is close to public transportation. It is managed and maintained by a non profit organization.
+Website: https://www.bogardusplaza.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7159073
+Longitude: -74.0091651
+OpenStreetMap URL: https://www.openstreetmap.org/way/124814434
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/124814434
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

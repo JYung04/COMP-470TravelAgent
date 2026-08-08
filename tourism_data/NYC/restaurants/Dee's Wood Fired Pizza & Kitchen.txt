@@ -1,0 +1,25 @@
+Name: Dee's Wood Fired Pizza & Kitchen
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 107-23 Metropolitan Avenue, Forest Hills NY 11375
+Description: Not listed
+Website: https://www.deesnyc.com/
+Phone: +1-718-793-7553
+Email: info@deesnyc.com
+Opening Hours: Mo off; Tu-Th 05:00-21:00; Fr 05:00-21:30; Sa 12:00-21:30; Su 12:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7097266
+Longitude: -73.8453059
+OpenStreetMap URL: https://www.openstreetmap.org/node/10825166995
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10825166995
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Ken Kee Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2129 South China Place, Chicago IL 60616
+Description: Not listed
+Website: http://kenkee.com/
+Phone: +1 312-326-2088
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8543426
+Longitude: -87.6332809
+OpenStreetMap URL: https://www.openstreetmap.org/node/9330687317
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9330687317
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

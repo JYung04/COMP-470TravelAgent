@@ -1,0 +1,25 @@
+Name: New York City Fire Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 278 Spring Street, New York NY 10013
+Description: Not listed
+Website: https://www.nycfiremuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 24/7 off "Temporarily closed until further notice"
+Wheelchair Accessibility: yes
+Latitude: 40.7255756
+Longitude: -74.0069355
+OpenStreetMap URL: https://www.openstreetmap.org/way/249664614
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/249664614
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

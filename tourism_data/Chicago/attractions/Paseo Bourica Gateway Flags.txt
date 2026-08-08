@@ -1,0 +1,25 @@
+Name: Paseo Bourica Gateway Flags
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 2400-West Division ST & 2800 West Division St
+Description: Paseo Boricua is a section of Division Street in the Humboldt Park community of the West Side of Chicago, Illinois.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9030198
+Longitude: -87.6881518
+OpenStreetMap URL: https://www.openstreetmap.org/way/482726757
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/482726757
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

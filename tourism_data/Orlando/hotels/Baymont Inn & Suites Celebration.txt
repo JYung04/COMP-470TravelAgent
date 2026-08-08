@@ -1,0 +1,25 @@
+Name: Baymont Inn & Suites Celebration
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 7601 Black Lake Road, Kissimmee FL 34747
+Description: Not listed
+Website: http://www.baymontinns.com/hotels/florida/celebration/baymont-inn-and-suites-celebration/hotel-overview
+Phone: +1 407-396-1100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3381123
+Longitude: -81.5912837
+OpenStreetMap URL: https://www.openstreetmap.org/relation/6170870
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/6170870
+Price: Not listed
+Rating: 2.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

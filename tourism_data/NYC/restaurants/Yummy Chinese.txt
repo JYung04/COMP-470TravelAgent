@@ -1,0 +1,25 @@
+Name: Yummy Chinese
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 495 Middle Neck Road, Great Neck 11023
+Description: Not listed
+Website: https://yummychinesegn.com/
+Phone: +1 516-466-8250
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7998219
+Longitude: -73.7337716
+OpenStreetMap URL: https://www.openstreetmap.org/way/572750582
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/572750582
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

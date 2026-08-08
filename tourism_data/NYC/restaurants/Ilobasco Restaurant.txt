@@ -1,0 +1,25 @@
+Name: Ilobasco Restaurant
+City: NYC
+Category: restaurants
+Cuisine: Salvadoran, Meal delivery
+Address: 353 Washington Ave, Elizabeth, NJ 07202, United States
+Description: Not listed
+Website: https://ilobascorestaurants.com/
+Phone: +1 908-820-0999
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.655688
+Longitude: -74.2194073
+OpenStreetMap URL: https://www.openstreetmap.org/node/3277581695
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3277581695
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

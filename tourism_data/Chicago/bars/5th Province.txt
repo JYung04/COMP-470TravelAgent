@@ -1,0 +1,24 @@
+Name: 5th Province
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4626 North Knox Avenue, Chicago 60630
+Description: Not listed
+Website: http://irish-american.org/index.php/in-the-center/fifth-province
+Phone: (773) 282-7035
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9650696
+Longitude: -87.7444297
+OpenStreetMap URL: https://www.openstreetmap.org/node/2397800670
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2397800670
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

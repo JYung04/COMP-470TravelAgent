@@ -1,0 +1,25 @@
+Name: EDOBOY - Standing sushi bar
+City: Orlando
+Category: restaurants
+Cuisine: sushi
+Address: 728 North Thornton Avenue, Orlando FL 32803
+Description: Not listed
+Website: https://www.edoboysushi.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Mo 16:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5542532
+Longitude: -81.3659059
+OpenStreetMap URL: https://www.openstreetmap.org/node/11007061165
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11007061165
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Anthology Film Archives
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 32 2nd Avenue
+Description: Not listed
+Website: https://www.anthologyfilmarchives.org/
+Phone: +1-212-505-5181
+Email: Not listed
+Opening Hours: "Temporarily closed"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7247547
+Longitude: -73.9902601
+OpenStreetMap URL: https://www.openstreetmap.org/node/1927319778
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1927319778
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

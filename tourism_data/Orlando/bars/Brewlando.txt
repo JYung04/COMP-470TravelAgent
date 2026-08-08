@@ -1,0 +1,25 @@
+Name: Brewlando
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 6820 Hoffner Avenue, Orlando FL 32822
+Description: Not listed
+Website: https://www.brewlando.com/
+Phone: +1-407-237-9296
+Email: Not listed
+Opening Hours: Mo-We 11:00-22:00; Th 11:00-23:00; Fr-Sa 11:00-00:00; Su 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.480088
+Longitude: -81.2911123
+OpenStreetMap URL: https://www.openstreetmap.org/node/13816447408
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13816447408
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

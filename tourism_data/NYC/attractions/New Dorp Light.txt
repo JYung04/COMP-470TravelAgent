@@ -1,0 +1,25 @@
+Name: New Dorp Light
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 25 BOYLE STREET
+Description: A designated New York City individual landmark. Status: DESIGNATED. Designation date: 11/15/1967.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5807873
+Longitude: -74.1201209
+OpenStreetMap URL: https://www.openstreetmap.org/node/411861307
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/411861307
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

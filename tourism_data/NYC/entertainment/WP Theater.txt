@@ -1,0 +1,25 @@
+Name: WP Theater
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 2160 Broadway, New York NY 10024
+Description: Not listed
+Website: https://wptheater.org
+Phone: +1-929-458-0636
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7818403
+Longitude: -73.9807136
+OpenStreetMap URL: https://www.openstreetmap.org/node/2592130018
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2592130018
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

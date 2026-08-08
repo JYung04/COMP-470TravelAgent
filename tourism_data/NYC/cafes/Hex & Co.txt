@@ -1,0 +1,25 @@
+Name: Hex & Co.
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 801 Broadway, 10003
+Description: Not listed
+Website: https://www.hexnyc.com/hexco-union-square/
+Phone: +1-646-524-5163
+Email: Not listed
+Opening Hours: Mo-Su 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.73265
+Longitude: -73.9914016
+OpenStreetMap URL: https://www.openstreetmap.org/node/4998805616
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4998805616
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

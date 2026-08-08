@@ -1,0 +1,25 @@
+Name: Disney's Art of Animation Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1850 Animation Way, Lake Buena Vista FL 32830-8400
+Description: Perfect for fans of Disney and Pixar’s classic animated films, Disney’s Art of Animation Resort features standard rooms, family suites and central courtyards inspired by Finding Nemo , Cars , The Lion King and The Little Mermaid . Dive into the Big Blue Pool, the largest resort pool at Walt Disney World , or rest your arms, hands, tires and fins at the Flippin’ Fins or Cozy Cone themed pools. Along with colorful shopping and dining options and fun photo ops, the resort is on the Disney Skyliner
+Website: https://disneyworld.disney.go.com/resorts/art-of-animation-resort/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3508173
+Longitude: -81.5474956
+OpenStreetMap URL: https://www.openstreetmap.org/way/560936141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/560936141
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

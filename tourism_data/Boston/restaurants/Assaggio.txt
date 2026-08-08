@@ -1,0 +1,24 @@
+Name: Assaggio
+City: Boston
+Category: restaurants
+Cuisine: Italian Restaurant
+Address: 29 Prince St (btwn Hanover & Salem St.), Boston, MA 02113
+Description: Intimate bi-level eatery for romantic dining, offering Italian-American classics & a full bar.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: (617) 227-7380
+Email: assaggioboston@comcast.net
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3645977
+Longitude: -71.0543076
+OpenStreetMap URL: https://www.openstreetmap.org/node/7633047028
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7633047028
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

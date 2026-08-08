@@ -1,0 +1,25 @@
+Name: NAHA
+City: Chicago
+Category: restaurants
+Cuisine: middle_eastern
+Address: 500 North Clark Street, Chicago IL 60654
+Description: Not listed
+Website: http://naha-chicago.com/#&panel1-1
+Phone: +1-312-321-6242
+Email: Not listed
+Opening Hours: Mo-Th 17:00-21:30; Tu-Fr 11:00-14:00; Fr-Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8909981
+Longitude: -87.6314417
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458112681
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458112681
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

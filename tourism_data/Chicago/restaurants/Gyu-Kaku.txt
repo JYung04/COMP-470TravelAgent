@@ -1,0 +1,24 @@
+Name: Gyu-Kaku
+City: Chicago
+Category: restaurants
+Cuisine: japanese, barbecue
+Address: 1364 West Randolph Street, Chicago IL 60607
+Description: Bring your appetite to Gyu-Kaku in Streeterville for all-you-can-eat (AYCE) Japanese barbecue. At this interactive dining establishment, servers bring out fresh ingredients for diners to cook themselves over a smokeless grill. Guests may order à la carte or opt for the AYCE menu, featuring dozens of appetizers, seasoned veggies, and prime cuts of meat and marinated seafood. With tongs in hand, you become the master of your culinary destiny.
+Website: https://www.gyu-kaku.com/
+Phone: +1-312-982-2840
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr-Sa 11:30-22:30; Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8844194
+Longitude: -87.6613607
+OpenStreetMap URL: https://www.openstreetmap.org/node/4567575190
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4567575190
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

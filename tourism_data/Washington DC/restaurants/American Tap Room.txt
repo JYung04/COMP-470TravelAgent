@@ -1,0 +1,25 @@
+Name: American Tap Room
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: Arlington VA 22202
+Description: Not listed
+Website: https://www.flyreagan.com/store/american-tap-room
+Phone: +1-703-417-2140
+Email: Not listed
+Opening Hours: Mo-Su 05:00-22:30
+Wheelchair Accessibility: limited
+Latitude: 38.8558202
+Longitude: -77.042916
+OpenStreetMap URL: https://www.openstreetmap.org/node/5556437476
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5556437476
+Price: Not listed
+Rating: 3.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

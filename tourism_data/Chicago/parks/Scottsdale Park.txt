@@ -1,0 +1,25 @@
+Name: Scottsdale Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4637 West 83rd Street, Chicago IL 60652
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/scottsdale-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.741627
+Longitude: -87.7356805
+OpenStreetMap URL: https://www.openstreetmap.org/way/138740010
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/138740010
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

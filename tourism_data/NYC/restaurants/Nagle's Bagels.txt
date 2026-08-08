@@ -1,0 +1,25 @@
+Name: Nagle's Bagels
+City: NYC
+Category: restaurants
+Cuisine: bagel
+Address: 378 Tompkins Avenue
+Description: Not listed
+Website: https://naglesofbrooklyn.com/
+Phone: +1-508-473-9041
+Email: Not listed
+Opening Hours: Mo-Su 7:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6844012
+Longitude: -73.9442784
+OpenStreetMap URL: https://www.openstreetmap.org/node/10705129107
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10705129107
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

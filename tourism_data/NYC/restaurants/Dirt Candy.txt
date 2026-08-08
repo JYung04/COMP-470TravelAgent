@@ -1,0 +1,25 @@
+Name: Dirt Candy
+City: NYC
+Category: restaurants
+Cuisine: Vegetarian
+Address: 86 Allen Street, New York NY 10002
+Description: Dirt Candy is a vegetarian restaurant on the Lower East Side of Manhattan in New York City. Chef and owner Amanda Cohen opened the restaurant in a small East Village space in 2008, and moved to its present location in 2015. It has received critical attention for its creative dishes which often focus on a single vegetable.
+Website: https://www.dirtcandynyc.com/
+Phone: +1 212-228-7732
+Email: info@dirtcandynyc.com
+Opening Hours: Tu-Sa 17:30-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7178785
+Longitude: -73.9907886
+OpenStreetMap URL: https://www.openstreetmap.org/node/4300313491
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4300313491
+Price: Not listed
+Rating: 4.5
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

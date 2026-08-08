@@ -1,0 +1,25 @@
+Name: Maritime Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 363 West 16th Street, New York NY 10011
+Description: The Maritime Hotel is a luxury boutique hotel located at 363 West 16th Street at Ninth Avenue in the Chelsea neighborhood of Manhattan, New York City, close to the Meatpacking District. It has 121 rooms and 5 suites, all decorated in a nautical theme, in line with the building's maritime history, and the porthole-inspired facade.
+Website: https://www.themaritimehotel.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7424358
+Longitude: -74.003867
+OpenStreetMap URL: https://www.openstreetmap.org/way/264625648
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/264625648
+Price: Not listed
+Rating: 5.0
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

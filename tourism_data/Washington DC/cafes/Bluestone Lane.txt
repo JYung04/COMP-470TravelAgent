@@ -1,0 +1,25 @@
+Name: Bluestone Lane
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 1515 Rhode Island Avenue Northwest, Washington DC 20005
+Description: Not listed
+Website: https://bluestonelane.com/coffee-shops/scott-circle-1515-rhode-island-ave-washington-dc/?y_source=1_MTI4ODYzNjUtNTU5LWxvY2F0aW9uLndlYnNpdGU%3D
+Phone: +1 718-374-6858
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9077464
+Longitude: -77.0357451
+OpenStreetMap URL: https://www.openstreetmap.org/node/6553791695
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6553791695
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

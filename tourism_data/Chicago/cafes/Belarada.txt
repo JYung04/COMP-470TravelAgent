@@ -1,0 +1,25 @@
+Name: Belarada
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 5243 North Harlem Avenue, Chicago IL 60656
+Description: Not listed
+Website: Not listed
+Phone: +1-773-774-6022
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9767826
+Longitude: -87.8068679
+OpenStreetMap URL: https://www.openstreetmap.org/node/6265727285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6265727285
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

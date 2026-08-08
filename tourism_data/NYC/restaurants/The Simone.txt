@@ -1,0 +1,25 @@
+Name: The Simone
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 151 East 82nd Street, New York NY 10028
+Description: Not listed
+Website: http://www.thesimonerestaurant.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 18:00-21:30; Fr-Sa 18:00-22:30
+Wheelchair Accessibility: no
+Latitude: 40.7768188
+Longitude: -73.9569853
+OpenStreetMap URL: https://www.openstreetmap.org/node/3451042735
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3451042735
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

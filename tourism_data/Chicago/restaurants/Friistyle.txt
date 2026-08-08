@@ -1,0 +1,25 @@
+Name: Friistyle
+City: Chicago
+Category: restaurants
+Cuisine: belgian
+Address: 5059 South Prairie Avenue, Chicago IL 60615
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.802335
+Longitude: -87.6192115
+OpenStreetMap URL: https://www.openstreetmap.org/node/6328357234
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6328357234
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Saigon Fusion
+City: Boston
+Category: restaurants
+Cuisine: vietnamese
+Address: 201 Massachusetts Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3450874
+Longitude: -71.0869785
+OpenStreetMap URL: https://www.openstreetmap.org/node/5197357127
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5197357127
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

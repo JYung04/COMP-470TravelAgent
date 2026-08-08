@@ -1,0 +1,25 @@
+Name: Low Cinema
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 70-11 60th Street, Ridgewood NY 11385
+Description: Not listed
+Website: https://lowcinema.com/
+Phone: +13475695423
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7011846
+Longitude: -73.8985457
+OpenStreetMap URL: https://www.openstreetmap.org/node/13500677229
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13500677229
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

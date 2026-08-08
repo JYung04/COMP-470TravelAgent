@@ -1,0 +1,24 @@
+Name: Khalil Halal Chinese
+City: NYC
+Category: restaurants
+Cuisine: chinese, bangladeshi
+Address: 2060 McGraw Avenue, Bronx NY 10462
+Description: Not listed
+Website: Not listed
+Phone: +1-347-621-2884
+Email: Not listed
+Opening Hours: Mo-Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8354816
+Longitude: -73.8558996
+OpenStreetMap URL: https://www.openstreetmap.org/node/2858208168
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2858208168
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

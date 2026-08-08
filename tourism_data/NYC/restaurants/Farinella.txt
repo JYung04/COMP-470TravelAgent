@@ -1,0 +1,25 @@
+Name: Farinella
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 1792 Broadway, New York NY 10019
+Description: Not listed
+Website: https://www.farinellanyc.com/
+Phone: +1 646-205-2230
+Email: Not listed
+Opening Hours: 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7671365
+Longitude: -73.9814703
+OpenStreetMap URL: https://www.openstreetmap.org/node/1383956828
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1383956828
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

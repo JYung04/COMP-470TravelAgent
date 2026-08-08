@@ -1,0 +1,25 @@
+Name: Glass Knife
+City: Orlando
+Category: cafes
+Cuisine: Bakery, Cake shop, Dessert shop
+Address: 276 S Orlando Ave, Winter Park, FL 32789, United States
+Description: If you’re craving cookies, croissants and similar craveworthy creations, The Glass Knife in Winter Park has you covered seven days a week. The LGBTQ+ owned bakery and restaurant features a colorful lineup of signature sweets and holiday-themed treats, from donuts and pastries to whole special occasion cakes. They also offer coffee, wine and weekend brunch, if you prefer to stay awhile. Discover: Things to Do in Winter Park
+Website: https://theglassknife.com/
+Phone: +1 407-500-2253
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.5959219
+Longitude: -81.3648511
+OpenStreetMap URL: https://www.openstreetmap.org/way/721213858
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/721213858
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Bed-Stuy Aquarium
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The Bed-Stuy Aquarium was a makeshift goldfish pond located on a sidewalk in the Bedford-Stuyvesant, Brooklyn neighborhood of New York City. The pond, originally formed by a puddle from a leaky fire hydrant, garnered attention from locals and the press at the time of its creation in August 2024. Local residents populated the shallow water with goldfish and colorful trinkets, transforming it into an unexpected community attraction. The project has since become the subject of both praise and criticism, with debates about animal welfare, urban beautification, and gentrification surrounding the installation.
+Website: https://www.bedstuyaquarium.com/
+Phone: Not listed
+Email: bedstuyaquarium@gmail.com
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 40.6832704
+Longitude: -73.9441823
+OpenStreetMap URL: https://www.openstreetmap.org/node/12344736365
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12344736365
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

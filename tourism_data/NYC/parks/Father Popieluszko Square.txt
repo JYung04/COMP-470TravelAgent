@@ -1,0 +1,25 @@
+Name: Father Popieluszko Square
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: park in Kings County, New York, United States of America
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7229849
+Longitude: -73.9525349
+OpenStreetMap URL: https://www.openstreetmap.org/way/365937095
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/365937095
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

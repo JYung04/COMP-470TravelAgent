@@ -1,0 +1,24 @@
+Name: Chongqing Lao Zao
+City: NYC
+Category: restaurants
+Cuisine: chinese, hot_pot
+Address: 37-04 Prince Street, Flushing NY 11354
+Description: Not listed
+Website: https://www.chongqinglaozao.com/
+Phone: +1-917-563-7171
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7606459
+Longitude: -73.8330454
+OpenStreetMap URL: https://www.openstreetmap.org/node/10815574642
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10815574642
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

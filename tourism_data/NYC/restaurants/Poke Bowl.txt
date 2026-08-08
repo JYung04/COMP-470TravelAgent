@@ -1,0 +1,25 @@
+Name: Poke Bowl
+City: NYC
+Category: restaurants
+Cuisine: poke
+Address: Not listed
+Description: Not listed
+Website: https://pokebowlny.com/locations/union-square/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-22:00; Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7372559
+Longitude: -73.9910466
+OpenStreetMap URL: https://www.openstreetmap.org/node/7844677285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7844677285
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

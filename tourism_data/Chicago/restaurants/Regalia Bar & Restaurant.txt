@@ -1,0 +1,25 @@
+Name: Regalia Bar & Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 5959 North Broadway, Chicago IL 60660
+Description: Not listed
+Website: https://www.regalia5959.com/
+Phone: +1-773-897-9165
+Email: Not listed
+Opening Hours: Sa-We 17:00-22:00; Th-Fr 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9906294
+Longitude: -87.6600252
+OpenStreetMap URL: https://www.openstreetmap.org/node/4837416666
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4837416666
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

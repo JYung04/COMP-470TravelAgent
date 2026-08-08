@@ -1,0 +1,25 @@
+Name: Z Asian Vietnamese Kitchen
+City: Orlando
+Category: restaurants
+Cuisine: Vietnamese, Asian, Pho
+Address: 1830 East Colonial Drive
+Description: Not listed
+Website: http://www.eatzasian.com/
+Phone: +1 407-601-6024
+Email: Not listed
+Opening Hours: Su, Tu-Th 11:00-21:00; Fr-Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5529868
+Longitude: -81.3576414
+OpenStreetMap URL: https://www.openstreetmap.org/node/7290431385
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7290431385
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

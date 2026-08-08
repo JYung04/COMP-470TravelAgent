@@ -1,0 +1,25 @@
+Name: Mission Mexican Restaurant Bar
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 1606 20th Street Northwest, Washington DC 20009-1080
+Description: Not listed
+Website: https://www.missiondupont.com/
+Phone: +1 202-525-2010
+Email: Not listed
+Opening Hours: Mo-We 16:00-23:00; Th 16:00-00:00; Fr 16:00-02:00; Sa 11:00-02:00; Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9114952
+Longitude: -77.0451119
+OpenStreetMap URL: https://www.openstreetmap.org/node/739340074
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739340074
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

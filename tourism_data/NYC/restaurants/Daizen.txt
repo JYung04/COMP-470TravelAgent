@@ -1,0 +1,25 @@
+Name: Daizen
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 768 57th Street, Brooklyn NY 11220
+Description: Not listed
+Website: http://www.daizenbrooklyn.com/
+Phone: +1-718-567-0888
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-23:00; Sa-Su 11:30-23:30
+Wheelchair Accessibility: yes
+Latitude: 40.6373775
+Longitude: -74.0084488
+OpenStreetMap URL: https://www.openstreetmap.org/node/7245658925
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7245658925
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

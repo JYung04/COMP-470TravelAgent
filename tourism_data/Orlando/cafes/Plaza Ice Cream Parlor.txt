@@ -1,0 +1,25 @@
+Name: Plaza Ice Cream Parlor
+City: Orlando
+Category: cafes
+Cuisine: ice_cream
+Address: Main Street
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/magic-kingdom/plaza-ice-cream-parlor/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4179152
+Longitude: -81.5810451
+OpenStreetMap URL: https://www.openstreetmap.org/node/3296857989
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3296857989
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

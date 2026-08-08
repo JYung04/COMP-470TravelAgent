@@ -1,0 +1,25 @@
+Name: Bronx Library Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 310 East Kingsbridge Road, Bronx 10458
+Description: Not listed
+Website: https://www.nypl.org/locations/bronx-library-center
+Phone: +1-718-579-4244
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.8630135
+Longitude: -73.8945201
+OpenStreetMap URL: https://www.openstreetmap.org/way/276299869
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/276299869
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

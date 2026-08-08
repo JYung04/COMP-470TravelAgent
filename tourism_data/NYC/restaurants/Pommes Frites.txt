@@ -1,0 +1,25 @@
+Name: Pommes Frites
+City: NYC
+Category: restaurants
+Cuisine: fries
+Address: 128 MacDougal Street, New York NY 10012
+Description: Pommes Frites is a New York City restaurant which specializes in Belgian-style fries. The restaurant was located in the East Village at 123 2nd Avenue, but relocated to 128 MacDougal Street after the original building was destroyed in a 2015 natural gas explosion.
+Website: https://www.pommesfritesnyc.com/
+Phone: +1-212-674-1234
+Email: contact@pommesfritesnyc.com
+Opening Hours: Su-Th 11:00-01:00, Fr-Sa 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7300993
+Longitude: -74.0002841
+OpenStreetMap URL: https://www.openstreetmap.org/node/4738808807
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4738808807
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

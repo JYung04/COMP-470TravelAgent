@@ -1,0 +1,25 @@
+Name: Bati Ethiopian Kitchen
+City: NYC
+Category: restaurants
+Cuisine: ethiopian
+Address: 1057 Fulton Street, 11238
+Description: Not listed
+Website: https://www.batikitchen.com
+Phone: +1-718-797-9696
+Email: Not listed
+Opening Hours: Mo-Tu 18:00-22:00; We-Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6820512
+Longitude: -73.9594715
+OpenStreetMap URL: https://www.openstreetmap.org/node/2565140913
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2565140913
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

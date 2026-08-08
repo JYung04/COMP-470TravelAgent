@@ -1,0 +1,25 @@
+Name: Chestnut Hill Reservation
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Chestnut Hill Reservation is a public recreation area and historic preserve surrounding the Chestnut Hill Reservoir in the Chestnut Hill and Brighton neighborhoods of Boston, Massachusetts, United States. The reserve is part of the Chestnut Hill Reservoir Historic District, is listed on the National Register of Historic Places, and is a City of Boston Landmark. It is managed by the Department of Conservation and Recreation.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3351754
+Longitude: -71.1573205
+OpenStreetMap URL: https://www.openstreetmap.org/way/29838473
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29838473
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

@@ -1,0 +1,25 @@
+Name: Eaton DC
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1201 K Street Northwest, Washington DC 20005
+Description: Not listed
+Website: https://www.eatonworkshop.com/en-us/washington-dc/
+Phone: +1-202-289-7600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9027867
+Longitude: -77.028462
+OpenStreetMap URL: https://www.openstreetmap.org/node/6372830485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6372830485
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

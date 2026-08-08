@@ -1,0 +1,25 @@
+Name: Best Western Plus
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 891 Massachusetts Avenue, Boston 02118-2607
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-boston/best-western-plus-boston-hotel/propertyCode.22046.html
+Phone: +1 617-989-1000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3317622
+Longitude: -71.0714689
+OpenStreetMap URL: https://www.openstreetmap.org/way/29716653
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29716653
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

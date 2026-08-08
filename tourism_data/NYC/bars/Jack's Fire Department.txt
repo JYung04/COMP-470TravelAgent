@@ -1,0 +1,25 @@
+Name: Jack's Fire Department
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 39-46 Skillman Avenue, 11104
+Description: Not listed
+Website: https://www.jacksfiredepartment.com/
+Phone: +1 718-784-9090
+Email: contact@jacksfiredepartment.com
+Opening Hours: Mo-We, Su 11:00-02:00; Th-Sa 11:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7471095
+Longitude: -73.9237457
+OpenStreetMap URL: https://www.openstreetmap.org/node/2845014928
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2845014928
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

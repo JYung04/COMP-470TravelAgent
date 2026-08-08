@@ -1,0 +1,25 @@
+Name: Fancy Plants Cafe
+City: Chicago
+Category: cafes
+Cuisine: Vegan, Vegetarian
+Address: 613 West Briar Place, Chicago IL 60657
+Description: Not listed
+Website: https://fancyplantscatering.com/
+Phone: +1-773-857-1588
+Email: Not listed
+Opening Hours: Mo-Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9390327
+Longitude: -87.6448996
+OpenStreetMap URL: https://www.openstreetmap.org/node/8847543105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8847543105
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

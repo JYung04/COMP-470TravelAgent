@@ -1,0 +1,24 @@
+Name: Yaya Tea Garden
+City: NYC
+Category: cafes
+Cuisine: japanese, chinese
+Address: 51 Chrystie Street, 10002
+Description: Not listed
+Website: https://yayatea.com/
+Phone: +1-212-226-8803
+Email: Not listed
+Opening Hours: Mo-Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7162569
+Longitude: -73.9950007
+OpenStreetMap URL: https://www.openstreetmap.org/node/2555123886
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2555123886
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; gardens

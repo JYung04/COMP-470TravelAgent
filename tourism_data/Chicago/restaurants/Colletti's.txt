@@ -1,0 +1,24 @@
+Name: Colletti's
+City: Chicago
+Category: restaurants
+Cuisine: italian, pizza, american, steak_house
+Address: 5707 North Central Avenue, Chicago IL 60646
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9851889
+Longitude: -87.7679769
+OpenStreetMap URL: https://www.openstreetmap.org/way/162807155
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162807155
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

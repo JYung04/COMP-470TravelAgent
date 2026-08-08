@@ -1,0 +1,25 @@
+Name: Seneca Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 220 East Chicago Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/seneca-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8972013
+Longitude: -87.6223428
+OpenStreetMap URL: https://www.openstreetmap.org/way/143702456
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/143702456
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

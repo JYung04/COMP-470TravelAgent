@@ -1,0 +1,24 @@
+Name: Saigon Shack
+City: NYC
+Category: restaurants
+Cuisine: vietnamese, coffee, noodle, sandwich
+Address: 114 MacDougal Street
+Description: Not listed
+Website: https://saigonshack.squarespace.com/
+Phone: +1-212-228-0588
+Email: saigonshack114@gmail.com
+Opening Hours: Mo-Th, Su 11:00-23:00; Fr, Sa 11:00-01:00
+Wheelchair Accessibility: yes
+Latitude: 40.729691
+Longitude: -74.000637
+OpenStreetMap URL: https://www.openstreetmap.org/node/3863997257
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3863997257
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

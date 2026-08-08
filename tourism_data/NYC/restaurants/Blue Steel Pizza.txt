@@ -1,0 +1,24 @@
+Name: Blue Steel Pizza
+City: NYC
+Category: restaurants
+Cuisine: american, pizza
+Address: 285 Glenwood Avenue, 07003
+Description: Not listed
+Website: https://bluesteelpizzaco.com/
+Phone: +1 973-678-1873
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7923814
+Longitude: -74.1987298
+OpenStreetMap URL: https://www.openstreetmap.org/node/11163110505
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11163110505
+Price: Not listed
+Rating: 4.6
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

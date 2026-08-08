@@ -1,0 +1,25 @@
+Name: Bánh Mì Huong Que
+City: Boston
+Category: restaurants
+Cuisine: vietnamese
+Address: 696 Washington Street
+Description: Not listed
+Website: https://order.snackpass.co/Banh-Mi-Huong-Que-(Boston-Washington-St)-644955ff28dec085aa6971a4
+Phone: +1 415-738-9515
+Email: Not listed
+Opening Hours: Mo-Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3511734
+Longitude: -71.0628128
+OpenStreetMap URL: https://www.openstreetmap.org/node/6074876793
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6074876793
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

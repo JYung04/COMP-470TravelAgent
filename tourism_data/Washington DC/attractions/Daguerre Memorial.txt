@@ -1,0 +1,25 @@
+Name: Daguerre Memorial
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://npg.si.edu/object/npg_L_AD_NPG.1.89;http://siris-artinventories.si.edu/ipac20/ipac.jsp?&profile=all&source=~!siartinventories&uri=full=3100001~!6508~!0#focus
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8976199
+Longitude: -77.0221275
+OpenStreetMap URL: https://www.openstreetmap.org/node/358960371
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358960371
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

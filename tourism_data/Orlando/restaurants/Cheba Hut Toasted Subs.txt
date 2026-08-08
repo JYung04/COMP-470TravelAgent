@@ -1,0 +1,25 @@
+Name: Cheba Hut "Toasted" Subs
+City: Orlando
+Category: restaurants
+Cuisine: sandwich
+Address: 12100 East Colonial Drive, Orlando FL 32826
+Description: Not listed
+Website: https://chebahut.com/locations/orlando
+Phone: +1 407 250-4120
+Email: Not listed
+Opening Hours: Su-Sa 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5655838
+Longitude: -81.2015472
+OpenStreetMap URL: https://www.openstreetmap.org/node/10539967885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10539967885
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

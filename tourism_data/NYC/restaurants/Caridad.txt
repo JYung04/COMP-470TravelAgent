@@ -1,0 +1,24 @@
+Name: Caridad
+City: NYC
+Category: restaurants
+Cuisine: italian, latin_american
+Address: 1660 East Gun Hill Road
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8658252
+Longitude: -73.8377489
+OpenStreetMap URL: https://www.openstreetmap.org/node/5282139104
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5282139104
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

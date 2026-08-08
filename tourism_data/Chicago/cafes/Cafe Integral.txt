@@ -1,0 +1,25 @@
+Name: Cafe Integral
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 19 East Ohio Street, Chicago IL 60611
+Description: Not listed
+Website: https://freehandhotels.com/chicago/cafe-integral/
+Phone: +1-224-231-4190
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.892319
+Longitude: -87.6273305
+OpenStreetMap URL: https://www.openstreetmap.org/node/6273576337
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6273576337
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

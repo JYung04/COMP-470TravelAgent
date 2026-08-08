@@ -1,0 +1,25 @@
+Name: Bankside
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 2385 3rd Avenue, Bronx NY 10451
+Description: Not listed
+Website: Not listed
+Phone: +1 929 535 7501
+Email: thirdatbankside@brookfieldpropertiesmultifamily.com
+Opening Hours: Mo-Su 06:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8073948
+Longitude: -73.9309165
+OpenStreetMap URL: https://www.openstreetmap.org/way/1280023786
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1280023786
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

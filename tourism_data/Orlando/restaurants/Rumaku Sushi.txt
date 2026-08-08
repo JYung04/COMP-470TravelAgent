@@ -1,0 +1,25 @@
+Name: Rumaku Sushi
+City: Orlando
+Category: restaurants
+Cuisine: sushi
+Address: 3050 Alafaya Trail, Oviedo FL 32765
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6253055
+Longitude: -81.2073778
+OpenStreetMap URL: https://www.openstreetmap.org/node/5152523224
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5152523224
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

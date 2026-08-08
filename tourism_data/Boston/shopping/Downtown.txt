@@ -1,0 +1,25 @@
+Name: Downtown
+City: Boston
+Category: shopping
+Cuisine: Not listed
+Address: Grantham Road, Boston PE21 7NL
+Description: Located in the heart of Boston, Downtown has served as Boston's hub since the 1700s. Home to City Hall, numerous corporate headquarters, condos and apartments, and some of Boston’s most beloved tourist attractions — including the historic Freedom Trail and Faneuil Hall — something is always going on Downtown.
+Website: http://www.downtownboston.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.970879
+Longitude: -0.0596329
+OpenStreetMap URL: https://www.openstreetmap.org/way/61998768
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/61998768
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping; art

@@ -1,0 +1,25 @@
+Name: Snow Dragon Shavery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2618 North Clark Street, Chicago IL 60614
+Description: Not listed
+Website: https://www.facebook.com/SnowDragonShavery/
+Phone: +1 773-281-9866
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9300814
+Longitude: -87.6437038
+OpenStreetMap URL: https://www.openstreetmap.org/node/5646224380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5646224380
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

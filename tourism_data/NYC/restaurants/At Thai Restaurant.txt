@@ -1,0 +1,25 @@
+Name: At Thai Restaurant
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 641 10th Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-212-245-4601
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-16:00, 17:00-22:00; Sa, Su 12:00-22:15
+Wheelchair Accessibility: limited
+Latitude: 40.7618562
+Longitude: -73.9940965
+OpenStreetMap URL: https://www.openstreetmap.org/node/6568824111
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6568824111
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Raoul's
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 180 Prince Street
+Description: Not listed
+Website: http://raouls.com/
+Phone: +1 212-966-3518
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7262443
+Longitude: -74.002053
+OpenStreetMap URL: https://www.openstreetmap.org/node/2477336967
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2477336967
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Albi
+City: Washington DC
+Category: restaurants
+Cuisine: lebanese
+Address: 1346 4th Street Southeast, Washington DC 20003-2597
+Description: Capitol Riverfront Chef Michael Rafidi pours his heart into his Navy Yard restaurant. That’s no joke, either; Albi literally means “heart” in Arabic, a nod to the chef’s Levantine roots that matches his signature mix of mezze plates and mashawi, dishes cooked over an open flame. Savor Mediterranean staples with a twist, like a saccharine fattoush with pear and cucumber or the sumac bok choy with honey, whipped feta and smoked peanut harissa. Entrees bend the mind, such as the lump crab tabouli b
+Website: https://albidc.com/
+Phone: +1 202-921-9592
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8740554
+Longitude: -77.0003218
+OpenStreetMap URL: https://www.openstreetmap.org/node/13044120790
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13044120790
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

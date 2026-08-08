@@ -1,0 +1,24 @@
+Name: Market To Market
+City: Washington DC
+Category: restaurants
+Cuisine: deli, buffet, korean
+Address: 740 5th Street Northwest, Washington DC
+Description: Not listed
+Website: Not listed
+Phone: +1-202-589-0141
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-14:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.898683
+Longitude: -77.0191447
+OpenStreetMap URL: https://www.openstreetmap.org/node/739150332
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739150332
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

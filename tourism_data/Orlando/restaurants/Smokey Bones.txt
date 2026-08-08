@@ -1,0 +1,25 @@
+Name: Smokey Bones
+City: Orlando
+Category: restaurants
+Cuisine: barbecue
+Address: 3400 E Colonial Dr, Orlando, FL 32803, United States
+Description: Not listed
+Website: https://locations.smokeybones.com/fl/orlando/3400-e-colonial-dr/
+Phone: +1 407-894-1511
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5528368
+Longitude: -81.3408098
+OpenStreetMap URL: https://www.openstreetmap.org/way/646448102
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/646448102
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

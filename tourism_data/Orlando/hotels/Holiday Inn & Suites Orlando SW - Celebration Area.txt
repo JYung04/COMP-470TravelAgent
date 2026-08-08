@@ -1,0 +1,25 @@
+Name: Holiday Inn & Suites Orlando SW - Celebration Area
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3339389
+Longitude: -81.513005
+OpenStreetMap URL: https://www.openstreetmap.org/way/320476739
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/320476739
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

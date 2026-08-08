@@ -1,0 +1,25 @@
+Name: Flying Fox Tavern
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 678 Woodward Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1 718-673-6384
+Email: Not listed
+Opening Hours: We-Su 17:00-00:00; Mo-Tu off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7050758
+Longitude: -73.9062739
+OpenStreetMap URL: https://www.openstreetmap.org/node/5810746758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5810746758
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

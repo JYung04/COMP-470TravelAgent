@@ -1,0 +1,24 @@
+Name: BK Bagel
+City: NYC
+Category: cafes
+Cuisine: bagel, pastry, sandwich
+Address: 1120 Broadway
+Description: Not listed
+Website: https://bkbagels.co/
+Phone: +1-718-443-2323
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-19:00; Sa, Su 07:00-18:00
+Wheelchair Accessibility: no
+Latitude: 40.6936921
+Longitude: -73.9297143
+OpenStreetMap URL: https://www.openstreetmap.org/node/5163776190
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5163776190
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

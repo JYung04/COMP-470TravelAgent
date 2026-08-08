@@ -1,0 +1,25 @@
+Name: William W. Powers State Recreation Area
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 12949 South Avenue O, Chicago IL 60633
+Description: William W. Powers State Recreation Area is an Illinois state park administered by the Illinois Department of Natural Resources on 580 acres (230 ha) in the Hegewisch community area of the City of Chicago in Cook County, Illinois, United States. The area includes 419 acres (170 ha) of water in Wolf Lake that provides about 6 miles (10 km) of shoreline to fishermen. The park hosts about half a million visitors annually. The park contains numerous species, and is one of the most important biological sites in the Chicago region.
+Website: https://dnr.illinois.gov/parks/park.williamwpowers.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6629746
+Longitude: -87.5322686
+OpenStreetMap URL: https://www.openstreetmap.org/way/229731721
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/229731721
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

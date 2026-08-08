@@ -1,0 +1,25 @@
+Name: Uru-Swati
+City: Chicago
+Category: restaurants
+Cuisine: indian
+Address: 2629 West Devon Avenue, Chicago IL 60659
+Description: Not listed
+Website: https://uruswationline.com/
+Phone: +1-773-381-1010
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9973907
+Longitude: -87.6957703
+OpenStreetMap URL: https://www.openstreetmap.org/node/5842957474
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5842957474
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

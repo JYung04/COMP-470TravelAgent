@@ -1,0 +1,25 @@
+Name: Gargiulo's
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 2911 West 15th Street, Brooklyn NY 11224
+Description: Not listed
+Website: https://gargiulos.com
+Phone: +1-718-266-4891
+Email: info@gargiulos.com
+Opening Hours: Mo,We-Th 12:00-21:30; Tu off; Fr-Sa 12:00-22:30; Su 12:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.5764063
+Longitude: -73.9823799
+OpenStreetMap URL: https://www.openstreetmap.org/node/5035203421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5035203421
+Price: Not listed
+Rating: 4.4
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Peng's Noodle Folk
+City: NYC
+Category: restaurants
+Cuisine: ramen, chinese, japanese
+Address: 1016 Lexington Avenue
+Description: Reopens June 14
+Website: https://www.pengsnoodlefolk.com/
+Phone: +1 212-348-2878
+Email: hello@pengsnoodlefolk.com
+Opening Hours: closed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7709533
+Longitude: -73.96202
+OpenStreetMap URL: https://www.openstreetmap.org/node/9480316905
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9480316905
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

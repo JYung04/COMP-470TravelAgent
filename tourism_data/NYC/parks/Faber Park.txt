@@ -1,0 +1,25 @@
+Name: Faber Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/faber-pool-and-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6410508
+Longitude: -74.1357948
+OpenStreetMap URL: https://www.openstreetmap.org/way/34965878
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/34965878
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

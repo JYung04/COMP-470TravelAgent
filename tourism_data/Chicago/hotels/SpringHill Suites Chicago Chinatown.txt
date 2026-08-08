@@ -1,0 +1,25 @@
+Name: SpringHill Suites Chicago Chinatown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 2357 South Wentworth Avenue, Chicago IL 60616
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/chisn-springhill-suites-chicago-chinatown/overview/
+Phone: +1 312-766-9668
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.849717
+Longitude: -87.6315053
+OpenStreetMap URL: https://www.openstreetmap.org/way/897843372
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/897843372
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

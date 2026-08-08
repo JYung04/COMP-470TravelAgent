@@ -1,0 +1,25 @@
+Name: Murphy’s Grill
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 620 Michigan Avenue Northeast, Washington DC 20064-0001
+Description: Not listed
+Website: https://www.murphysgrillcua.com
+Phone: +1 202-319-4770
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.935518
+Longitude: -76.9984803
+OpenStreetMap URL: https://www.openstreetmap.org/node/6933358286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6933358286
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

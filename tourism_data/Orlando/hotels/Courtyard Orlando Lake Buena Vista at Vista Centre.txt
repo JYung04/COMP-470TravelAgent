@@ -1,0 +1,25 @@
+Name: Courtyard Orlando Lake Buena Vista at Vista Centre
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8501 Palm Parkway, Orlando FL 32836
+Description: Not listed
+Website: https://www.marriott.com/mcobn
+Phone: +1 407-239-6900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3869566
+Longitude: -81.5020663
+OpenStreetMap URL: https://www.openstreetmap.org/way/449766811
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/449766811
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

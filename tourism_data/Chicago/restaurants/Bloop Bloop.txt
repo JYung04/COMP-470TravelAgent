@@ -1,0 +1,25 @@
+Name: Bloop Bloop
+City: Chicago
+Category: restaurants
+Cuisine: sushi
+Address: 2205 West Montrose Avenue, Chicago IL 60618
+Description: Not listed
+Website: Not listed
+Phone: +1-330-940-9982
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9612731
+Longitude: -87.6840759
+OpenStreetMap URL: https://www.openstreetmap.org/node/1557259859
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1557259859
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

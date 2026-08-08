@@ -1,0 +1,24 @@
+Name: Taste of China
+City: NYC
+Category: restaurants
+Cuisine: tex-mex, chinese, american, mexican
+Address: 67-08 Fresh Pond Road
+Description: Not listed
+Website: http://tasteofchinaridgewood.com/
+Phone: +1-718-628-5797
+Email: Not listed
+Opening Hours: Mo-Sa 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7055632
+Longitude: -73.8966972
+OpenStreetMap URL: https://www.openstreetmap.org/node/5702768703
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5702768703
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

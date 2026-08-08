@@ -1,0 +1,25 @@
+Name: Brews & Bites Riverwalk
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 201 - 231 Chicago Riverwalk, Chicago IL 60606
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo 16:00-22:00; Tu-Sa 11:00-22:00; Su 11:10-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8870421
+Longitude: -87.6346968
+OpenStreetMap URL: https://www.openstreetmap.org/node/13335102922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13335102922
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

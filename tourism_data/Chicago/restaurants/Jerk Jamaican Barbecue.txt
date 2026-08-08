@@ -1,0 +1,25 @@
+Name: Jerk Jamaican Barbecue
+City: Chicago
+Category: restaurants
+Cuisine: jamaican
+Address: 811 West Chicago Avenue, Chicago IL 60642
+Description: Not listed
+Website: http://www.cafe.blue/
+Phone: +1-312-763-2870
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8962302
+Longitude: -87.6482057
+OpenStreetMap URL: https://www.openstreetmap.org/node/4567406790
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4567406790
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

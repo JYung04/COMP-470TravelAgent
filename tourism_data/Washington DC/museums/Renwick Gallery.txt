@@ -1,0 +1,25 @@
+Name: Renwick Gallery
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1661 Pennsylvania Avenue Northwest, Washington DC 20006
+Description: The Renwick Gallery is a branch of the Smithsonian American Art Museum located in Washington, D.C. that displays American craft and decorative arts from the 19th to 21st century. The gallery is housed in a National Historic Landmark building that was opened in 1859 on Pennsylvania Avenue and originally housed the Corcoran Gallery of Art. When it was built in 1859, it was called "the American Louvre", and is now named for its architect James Renwick Jr.
+Website: https://americanart.si.edu/visit/renwick
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8991269
+Longitude: -77.0390789
+OpenStreetMap URL: https://www.openstreetmap.org/way/66420114
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66420114
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

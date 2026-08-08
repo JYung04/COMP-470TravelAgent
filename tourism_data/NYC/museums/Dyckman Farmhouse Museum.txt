@@ -1,0 +1,25 @@
+Name: Dyckman Farmhouse Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 4881 Broadway, New York NY 10034
+Description: Museum in the city's only remaining Dutch colonial farmhouse (built circa 1764) and its garden.
+Website: https://dyckmanfarmhouse.org/
+Phone: +1-212-304-9422
+Email: info@dyckmanfarmhouse.org
+Opening Hours: Th-Sa 11:00-16:00; Su 11:00-15:00
+Wheelchair Accessibility: no
+Latitude: 40.8673822
+Longitude: -73.9228859
+OpenStreetMap URL: https://www.openstreetmap.org/node/1549441335
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1549441335
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; gardens

@@ -1,0 +1,25 @@
+Name: Shellfish Market
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 443 Kennedy Street Northwest, 20011
+Description: Not listed
+Website: Not listed
+Phone: +1-202-528-4765
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.956603
+Longitude: -77.0196945
+OpenStreetMap URL: https://www.openstreetmap.org/node/3010902615
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3010902615
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

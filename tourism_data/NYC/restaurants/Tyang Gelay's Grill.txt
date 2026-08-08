@@ -1,0 +1,25 @@
+Name: Tyang Gelay's Grill
+City: NYC
+Category: restaurants
+Cuisine: filipino
+Address: 68-28 Roosevelt Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 929-623-1539
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7461763
+Longitude: -73.8965427
+OpenStreetMap URL: https://www.openstreetmap.org/node/11946716272
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11946716272
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

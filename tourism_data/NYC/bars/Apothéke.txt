@@ -1,0 +1,25 @@
+Name: Apothéke
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 9 Doyers Street, New York NY
+Description: Not listed
+Website: https://www.apothekenyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 18:30-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7143873
+Longitude: -73.9981634
+OpenStreetMap URL: https://www.openstreetmap.org/node/2244743660
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2244743660
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

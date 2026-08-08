@@ -1,0 +1,25 @@
+Name: McKiernan Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 10714 South Sawyer Avenue, Chicago IL 60655
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/mckiernan-david-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6983524
+Longitude: -87.7029241
+OpenStreetMap URL: https://www.openstreetmap.org/way/32484734
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/32484734
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

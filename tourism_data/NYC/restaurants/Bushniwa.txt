@@ -1,0 +1,25 @@
+Name: Bushniwa
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: Not listed
+Description: Not listed
+Website: https://bushniwa.com
+Phone: +1-718-386-8886
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-23:00, Su 13:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7040836
+Longitude: -73.9334781
+OpenStreetMap URL: https://www.openstreetmap.org/node/12977783185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12977783185
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

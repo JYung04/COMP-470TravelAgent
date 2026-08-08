@@ -1,0 +1,25 @@
+Name: Shawn Michelle's Homemade Ice Cream
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 46 East 47th Street, Chicago IL 60653
+Description: Not listed
+Website: https://www.shawnmichelles.com/
+Phone: +1-773-615-3238
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8094083
+Longitude: -87.6241931
+OpenStreetMap URL: https://www.openstreetmap.org/node/6565212550
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6565212550
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

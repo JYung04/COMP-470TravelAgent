@@ -1,0 +1,25 @@
+Name: Broadway Playhouse at Water Tower Place
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Broadway Playhouse at Water Tower Place is operated by Broadway In Chicago, a Nederlander subsidiary. Located at Water Tower Place in Chicago, Illinois, it was formerly known as Drury Lane Theatre Water Tower Place. It was reopened in 2004 and seats 549.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8982462
+Longitude: -87.6223534
+OpenStreetMap URL: https://www.openstreetmap.org/node/4036847469
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4036847469
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

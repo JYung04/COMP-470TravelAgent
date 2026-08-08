@@ -1,0 +1,25 @@
+Name: Gloria's Project Space
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 454 Seneca Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: https://gloriasprojectspace.com/
+Phone: +1-860-805-0614
+Email: info@gloriasprojectspace.com
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7060783
+Longitude: -73.913545
+OpenStreetMap URL: https://www.openstreetmap.org/node/6037663037
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6037663037
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

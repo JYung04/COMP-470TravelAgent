@@ -1,0 +1,25 @@
+Name: James M. Nederlander Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 24 West Randolph Street, Chicago IL 60601
+Description: Not listed
+Website: https://www.broadwayinchicago.com/theatre/chicagos-james-m-nederlander-theatre/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8848514
+Longitude: -87.6288665
+OpenStreetMap URL: https://www.openstreetmap.org/way/1176482825
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1176482825
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

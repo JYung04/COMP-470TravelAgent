@@ -1,0 +1,25 @@
+Name: Jeni's Splendid Ice Creams
+City: Washington DC
+Category: cafes
+Cuisine: ice_cream
+Address: 1921 14th Street Northwest, Washington DC 20009
+Description: Not listed
+Website: https://jenis.com
+Phone: +1 202-621-8625
+Email: Not listed
+Opening Hours: 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9163753
+Longitude: -77.0317403
+OpenStreetMap URL: https://www.openstreetmap.org/node/810766123
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/810766123
+Price: $$$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

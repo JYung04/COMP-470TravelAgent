@@ -1,0 +1,25 @@
+Name: Park No. 382
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 8116 South Halsted Street, Chicago IL 60620
+Description: Officially classified as unimproved park. Covers approximately 0.8 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/park-no-382
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7465932
+Longitude: -87.6444045
+OpenStreetMap URL: https://www.openstreetmap.org/way/302011119
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/302011119
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Freedom Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Freedom Park is a two block long elevated linear park in the Rosslyn section of Arlington, Virginia. It was built on an elevated concrete structure originally constructed for use as an automobile overpass, and as such, rises above and over the surrounding streets.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8950347
+Longitude: -77.0701944
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20127863
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/20127863
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

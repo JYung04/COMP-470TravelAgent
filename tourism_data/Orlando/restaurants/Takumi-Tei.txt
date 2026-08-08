@@ -1,0 +1,25 @@
+Name: Takumi-Tei
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3677319
+Longitude: -81.5509087
+OpenStreetMap URL: https://www.openstreetmap.org/node/7562508002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7562508002
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

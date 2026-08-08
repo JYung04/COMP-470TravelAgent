@@ -1,0 +1,25 @@
+Name: Peace Garden
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: McKeldin Mall is a nine-acre quad in the heart of the campus of the University of Maryland, College Park, United States. Named after Theodore McKeldin, the former Governor of Maryland, McKeldin Mall was considered to be the largest academic mall in the United States on its opening. It has been named one of the most picturesque college campus quads in the nation.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9860144
+Longitude: -76.9403909
+OpenStreetMap URL: https://www.openstreetmap.org/way/972123475
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/972123475
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; gardens

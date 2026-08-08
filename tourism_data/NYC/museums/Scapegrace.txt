@@ -1,0 +1,25 @@
+Name: Scapegrace
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 20 Wyckoff Avenue, Brooklyn NY 11237
+Description: Not listed
+Website: https://www.solidgoldyogi.com/scapegrace-events/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7063172
+Longitude: -73.9228131
+OpenStreetMap URL: https://www.openstreetmap.org/way/250424657
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250424657
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

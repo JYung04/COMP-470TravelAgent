@@ -1,0 +1,24 @@
+Name: Whitmans
+City: NYC
+Category: restaurants
+Cuisine: american, burger
+Address: 410 East 9th Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.727843
+Longitude: -73.9843074
+OpenStreetMap URL: https://www.openstreetmap.org/node/13003072801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13003072801
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

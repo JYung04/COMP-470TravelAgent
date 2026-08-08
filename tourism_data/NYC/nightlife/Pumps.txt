@@ -1,0 +1,25 @@
+Name: Pumps
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 1089 Grand Street
+Description: Not listed
+Website: https://pumpsbar.com/
+Phone: +1-718-599-2474
+Email: Not listed
+Opening Hours: Mo-Fr 15:00-04:00; Sa 16:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7140596
+Longitude: -73.9327098
+OpenStreetMap URL: https://www.openstreetmap.org/node/5678541961
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5678541961
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

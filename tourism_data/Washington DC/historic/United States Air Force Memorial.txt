@@ -1,0 +1,25 @@
+Name: United States Air Force Memorial
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.afdw.af.mil/afmemorial/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8685965
+Longitude: -77.0666726
+OpenStreetMap URL: https://www.openstreetmap.org/way/171790083
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/171790083
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

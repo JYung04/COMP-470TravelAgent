@@ -1,0 +1,25 @@
+Name: Conference House Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Conference House Park is a park in Tottenville, Staten Island, New York City. The park is located along the Arthur Kill coast where the kill opens into Raritan Bay. It contains clay bluffs, part of the terminal moraine, formed when the Wisconsin Glacier receded 10,000 years ago. Ward's Point, the southernmost point in New York state, is in the park.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5015673
+Longitude: -74.2393196
+OpenStreetMap URL: https://www.openstreetmap.org/way/33972093
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/33972093
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

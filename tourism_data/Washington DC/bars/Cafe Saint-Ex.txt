@@ -1,0 +1,25 @@
+Name: Cafe Saint-Ex
+City: Washington DC
+Category: bars
+Cuisine: american
+Address: 1847 14th Street Northwest, Washington DC 20009
+Description: Not listed
+Website: https://cafesaint-ex.com/
+Phone: +1 202-265-7839
+Email: Not listed
+Opening Hours: Su 11:00-01:30; Mo 17:00-01:30; Tu-Th 11:00-01:30; Fr-Sa 11:00-02:30
+Wheelchair Accessibility: no
+Latitude: 38.9154205
+Longitude: -77.0317015
+OpenStreetMap URL: https://www.openstreetmap.org/node/60471261
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/60471261
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

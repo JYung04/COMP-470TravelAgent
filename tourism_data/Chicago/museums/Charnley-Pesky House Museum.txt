@@ -1,0 +1,25 @@
+Name: Charnley-Pesky House Museum
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 1365 North Astor Street, Chicago IL 60610
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9076645
+Longitude: -87.627534
+OpenStreetMap URL: https://www.openstreetmap.org/way/210684426
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210684426
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

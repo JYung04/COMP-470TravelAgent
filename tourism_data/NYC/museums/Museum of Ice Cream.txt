@@ -1,0 +1,25 @@
+Name: Museum of Ice Cream
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 558 Broadway, 10012
+Description: Not listed
+Website: https://www.museumoficecream.com/new-york-city
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo,We,Th 09:30-20:00; Fr,Sa 09:30-20:30; Su 09:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7238576
+Longitude: -73.9979181
+OpenStreetMap URL: https://www.openstreetmap.org/node/7152625885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7152625885
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Tsob Tsobe
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 2817 Coney Island Avenue, Brooklyn NY 11235
+Description: Not listed
+Website: https://www.tsobtsobe.com/
+Phone: +1-718-676-2444
+Email: Not listed
+Opening Hours: Mo-Th 09:00-24:00; Fr,Sa 09:00-01:00; Su 09:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5878312
+Longitude: -73.9600341
+OpenStreetMap URL: https://www.openstreetmap.org/way/248818934
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248818934
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

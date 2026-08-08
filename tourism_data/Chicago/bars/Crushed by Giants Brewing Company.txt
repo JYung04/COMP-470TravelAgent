@@ -1,0 +1,25 @@
+Name: Crushed by Giants Brewing Company
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 600 North Michigan Avenue, 60611
+Description: Crushed by Giants Just off Michigan Avenue in Streeterville , this independent craft brewery and restaurant serves up an ever-changing draft list featuring everything from hoppy IPAs to sours to funky saisons and beyond. The Crushed by Giants taproom, a modern space with soaring windows overlooking the surrounding cityscape, also offers a menu of simple but stellar dishes designed to perfectly pair with their brews.
+Website: https://crushedbygiants.com/
+Phone: +1-312-544-0322
+Email: Not listed
+Opening Hours: Su-Th 12:00-21:00; Fr-Sa 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8927378
+Longitude: -87.6249566
+OpenStreetMap URL: https://www.openstreetmap.org/node/13571317401
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13571317401
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Disney's Grand Floridian Resort & Spa
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 4401 Floridian Way, Kissimmee FL 34747
+Description: Delight in timeless Victorian-style accommodations, a full-service spa, award-winning dining and more at Disney’s Grand Floridian Resort & Spa and The Villas at Disney’s Grand Floridian Resort & Spa . Exquisite dining options include chef’s tasting menus at AAA Five Diamond and One-MICHELIN-Star Victoria & Albert’s, Southern European flavors at the MICHELIN Recommended Cítricos , casual fare at the elegant Grand Floridian Cafe , cocktails with character at the Enchanted Rose lounge, and more acc
+Website: https://disneyworld.disney.go.com/resorts/grand-floridian-resort-and-spa/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4112789
+Longitude: -81.5877134
+OpenStreetMap URL: https://www.openstreetmap.org/relation/5329045
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/5329045
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

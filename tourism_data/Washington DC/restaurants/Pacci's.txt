@@ -1,0 +1,24 @@
+Name: Pacci's
+City: Washington DC
+Category: restaurants
+Cuisine: italian, pizza
+Address: 106 13th Street Southeast
+Description: Not listed
+Website: https://www.paccistrattoria.com/
+Phone: +1-202-735-0026
+Email: Not listed
+Opening Hours: Tu-Fr 11:00-21:00; Sa 09:00-21:00; Su 09:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8894219
+Longitude: -76.9881039
+OpenStreetMap URL: https://www.openstreetmap.org/node/737405170
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737405170
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

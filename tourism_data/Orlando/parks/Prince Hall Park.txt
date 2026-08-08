@@ -1,0 +1,25 @@
+Name: Prince Hall Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 4420 Prince Hall Boulevard, Orlando, FL 32811
+Description: Prince Hall Park is a neighborhood park on the west side of the city, located at 4420 Prince Hall Boulevard. It has amenities for nearby residents to enjoy such as a walking path, bike racks, beautiful lake views, green space and more.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Prince-Hall-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5145405
+Longitude: -81.4346731
+OpenStreetMap URL: https://www.openstreetmap.org/way/77083451
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/77083451
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

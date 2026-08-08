@@ -1,0 +1,25 @@
+Name: For Five Coffee Roasters
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 1735 North Lynn Street, 22209
+Description: Not listed
+Website: https://www.forfivecoffee.com/location/for-five-coffee-rosslyn/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8960729
+Longitude: -77.0705613
+OpenStreetMap URL: https://www.openstreetmap.org/node/571865134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/571865134
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

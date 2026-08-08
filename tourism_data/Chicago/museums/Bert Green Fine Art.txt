@@ -1,0 +1,25 @@
+Name: Bert Green Fine Art
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 8 South Michigan Avenue, Chicago IL 60603
+Description: Not listed
+Website: https://bgfa.us/
+Phone: +1 312-434-7544
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8819299
+Longitude: -87.6247089
+OpenStreetMap URL: https://www.openstreetmap.org/node/2560067669
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2560067669
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

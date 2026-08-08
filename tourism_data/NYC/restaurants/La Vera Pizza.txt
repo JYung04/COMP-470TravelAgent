@@ -1,0 +1,25 @@
+Name: La Vera Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 2547 Broadway, New York NY 10025
+Description: Not listed
+Website: https://www.laverapizzanycbroadway.com
+Phone: +1-212-866-6500
+Email: Not listed
+Opening Hours: Mo-Su 10:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7943168
+Longitude: -73.9724172
+OpenStreetMap URL: https://www.openstreetmap.org/node/2443892142
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2443892142
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

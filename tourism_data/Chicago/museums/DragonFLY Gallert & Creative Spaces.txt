@@ -1,0 +1,25 @@
+Name: DragonFLY Gallert & Creative Spaces
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 2436 West Madison Street
+Description: Not listed
+Website: https://www.dragonflygallery.space/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8813155
+Longitude: -87.6878952
+OpenStreetMap URL: https://www.openstreetmap.org/node/11158104313
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11158104313
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

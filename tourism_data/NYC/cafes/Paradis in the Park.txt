@@ -1,0 +1,25 @@
+Name: Paradis in the Park
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: New York NY 10018
+Description: Not listed
+Website: https://www.paradisinthepark.com/
+Phone: +16467588580
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7563121
+Longitude: -73.9997868
+OpenStreetMap URL: https://www.openstreetmap.org/node/11153420446
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11153420446
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

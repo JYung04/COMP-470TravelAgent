@@ -1,0 +1,25 @@
+Name: Casa Enrique
+City: NYC
+Category: restaurants
+Cuisine: latin_american
+Address: 5-48 49th Avenue, Long Island City NY 11101
+Description: Not listed
+Website: https://henrinyc.com/casa-enrique/
+Phone: +1-347-448-6040
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7433617
+Longitude: -73.9542277
+OpenStreetMap URL: https://www.openstreetmap.org/node/2847083667
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2847083667
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

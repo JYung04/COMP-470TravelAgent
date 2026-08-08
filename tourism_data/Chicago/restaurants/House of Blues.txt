@@ -1,0 +1,25 @@
+Name: House of Blues
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: Not listed
+Description: House of Blues brings a dose of the Mississippi Delta to downtown Chicago. The unique space blends the welcoming atmosphere of a Southern juke joint with the soaring architecture of an opera house. The lineup includes plenty of live blues, plus national touring acts representing country, folk, jazz, world music, and beyond.
+Website: https://www.houseofblues.com/chicago
+Phone: +1-312-923-2000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.8882631
+Longitude: -87.6288306
+OpenStreetMap URL: https://www.openstreetmap.org/node/10942408377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10942408377
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; architecture; music

@@ -1,0 +1,25 @@
+Name: Lake Estelle Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 1230 Dorchester Street, Orlando, FL 32803
+Description: Lake Estelle Park is located on 1230 Dorchester Street. The park has a bike and walking trail around the lake for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Estelle-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5749803
+Longitude: -81.3632087
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1169982
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1169982
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

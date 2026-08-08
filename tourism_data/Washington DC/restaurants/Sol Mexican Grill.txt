@@ -1,0 +1,25 @@
+Name: Sol Mexican Grill
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 655 K Street Northwest, Washington DC 20001-2385
+Description: Not listed
+Website: https://www.solmexicangrilldc.com
+Phone: +1 202-891-7914
+Email: Not listed
+Opening Hours: Mo-Th 10:45-22:00; Fr-Sa 10:45-24:00; Su 10:45-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.902775
+Longitude: -77.0209726
+OpenStreetMap URL: https://www.openstreetmap.org/node/5026600022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5026600022
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

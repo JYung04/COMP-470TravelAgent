@@ -1,0 +1,25 @@
+Name: Golden House Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 4744 North Racine Avenue, Chicago IL 60640
+Description: Not listed
+Website: https://golden-house-restaurant.wusaw.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9684538
+Longitude: -87.6600246
+OpenStreetMap URL: https://www.openstreetmap.org/way/210382262
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210382262
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

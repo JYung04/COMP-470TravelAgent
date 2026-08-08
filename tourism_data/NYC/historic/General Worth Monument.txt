@@ -1,0 +1,25 @@
+Name: General Worth Monument
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/worth-square/monuments/1734
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7427549
+Longitude: -73.9889671
+OpenStreetMap URL: https://www.openstreetmap.org/node/1251496233
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1251496233
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

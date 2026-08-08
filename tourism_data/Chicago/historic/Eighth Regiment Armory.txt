@@ -1,0 +1,25 @@
+Name: Eighth Regiment Armory
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 3533 S. Giles Ave.
+Description: A National Register property categorized as building. Areas of significance include MILITARY; BLACK; SOCIAL HISTORY. Listed date: 1986-04-30.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8306889
+Longitude: -87.6191977
+OpenStreetMap URL: https://www.openstreetmap.org/node/10152102393
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10152102393
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

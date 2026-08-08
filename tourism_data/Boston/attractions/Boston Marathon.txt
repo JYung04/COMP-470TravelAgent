@@ -1,0 +1,25 @@
+Name: Boston Marathon
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: MA
+Description: The world's oldest annual marathon race
+Website: https://www.baa.org/races/boston-marathon
+Phone: +1-617-236-1652
+Email: info@baa.org
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.2897644
+Longitude: -71.2984106
+OpenStreetMap URL: https://www.openstreetmap.org/relation/11680552
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/11680552
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

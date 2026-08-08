@@ -1,0 +1,25 @@
+Name: Timothy O’Toole’s Pub
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 622 North Fairbanks Court, Chicago IL 60611
+Description: Not listed
+Website: https://www.timothyotooles.com/
+Phone: +1-312-642-0700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.8932428
+Longitude: -87.6204681
+OpenStreetMap URL: https://www.openstreetmap.org/node/1648217475
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1648217475
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

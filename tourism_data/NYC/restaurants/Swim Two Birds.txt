@@ -1,0 +1,25 @@
+Name: Swim Two Birds
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 76-05 37th Avenue, Jackson Heights NY 11372
+Description: Not listed
+Website: https://swimtwobirds.nyc/
+Phone: +1-347-843-9922
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7493119
+Longitude: -73.8896388
+OpenStreetMap URL: https://www.openstreetmap.org/node/2715249072
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2715249072
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

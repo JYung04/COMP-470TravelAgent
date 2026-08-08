@@ -1,0 +1,25 @@
+Name: Library of Congress, James Madison Memorial Building
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 101 Independence Avenue Southeast, Washington DC 20540
+Description: Not listed
+Website: https://www.loc.gov/visit/online-tours/james-madison-memorial-building/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8867383
+Longitude: -77.0046914
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418868
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66418868
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

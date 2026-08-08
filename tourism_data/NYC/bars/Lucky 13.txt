@@ -1,0 +1,24 @@
+Name: Lucky 13
+City: NYC
+Category: bars
+Cuisine: pizza
+Address: 644 Sackett Street, 11217
+Description: Not listed
+Website: https://www.lucky13saloon.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 14:00-04:00; Su 14:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6782019
+Longitude: -73.9835983
+OpenStreetMap URL: https://www.openstreetmap.org/way/241845962
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241845962
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

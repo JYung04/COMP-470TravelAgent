@@ -1,0 +1,25 @@
+Name: Mike's Pizzeria & Italian Restaurant
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 474 Avenue C
+Description: Not listed
+Website: http://www.mikespizzabayonne.com/
+Phone: +1 201-437-9550
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.663411
+Longitude: -74.1217005
+OpenStreetMap URL: https://www.openstreetmap.org/node/11179190066
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11179190066
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

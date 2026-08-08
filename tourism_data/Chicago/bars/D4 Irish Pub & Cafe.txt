@@ -1,0 +1,25 @@
+Name: D4 Irish Pub & Cafe
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 345 East Ohio Street, Chicago IL 60611
+Description: Not listed
+Website: http://d4pub.com/
+Phone: +1-312-624-8385
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.892086
+Longitude: -87.6192076
+OpenStreetMap URL: https://www.openstreetmap.org/node/6284067097
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6284067097
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

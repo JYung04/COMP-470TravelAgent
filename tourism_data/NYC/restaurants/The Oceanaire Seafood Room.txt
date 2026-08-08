@@ -1,0 +1,25 @@
+Name: The Oceanaire Seafood Room
+City: NYC
+Category: restaurants
+Cuisine: Seafood
+Address: 175 Riverside Square Mall, Hackensack, NJ 07601, United States
+Description: Not listed
+Website: https://www.theoceanaire.com/location/hackensack-nj/
+Phone: +1 201-343-8862
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9049974
+Longitude: -74.0310792
+OpenStreetMap URL: https://www.openstreetmap.org/node/5181090081
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5181090081
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

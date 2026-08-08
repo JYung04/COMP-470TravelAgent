@@ -1,0 +1,25 @@
+Name: HRC By Emissary
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 3210 Grace Street Northwest, Washington DC 20007
+Description: Not listed
+Website: Not listed
+Phone: +1 202-552-9256
+Email: Not listed
+Opening Hours: Mo off; Tu-Sa 09:00-23:00; Su 09:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9039112
+Longitude: -77.063326
+OpenStreetMap URL: https://www.openstreetmap.org/node/12230463346
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12230463346
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

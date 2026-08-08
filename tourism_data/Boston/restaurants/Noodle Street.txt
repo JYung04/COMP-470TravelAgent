@@ -1,0 +1,25 @@
+Name: Noodle Street
+City: Boston
+Category: restaurants
+Cuisine: thai
+Address: 627 Commonwealth Avenue, Boston MA 02215
+Description: Not listed
+Website: https://noodlestreet.com/
+Phone: +1-617-536-3100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3497799
+Longitude: -71.1016122
+OpenStreetMap URL: https://www.openstreetmap.org/relation/9686032
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/9686032
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

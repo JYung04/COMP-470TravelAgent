@@ -1,0 +1,25 @@
+Name: Taste of Chicago
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1912 East 71st Street, Chicago IL 60649
+Description: Chicago’s biggest food festival and one of the largest outdoor food events in the country, Taste of Chicago is an epic eating extravaganza in the city’s downtown. The weekend food festival takes place each summer in lakefront Grant Park. The lineup includes some of the city’s most beloved and iconic local restaurants, along with rotating pop-up restaurants, local food trucks, and live chef demos. And don’t miss the free concerts featuring big-name acts at the Petrillo Music Shell.
+Website: Not listed
+Phone: +1-773-579-0355
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7663445
+Longitude: -87.5781222
+OpenStreetMap URL: https://www.openstreetmap.org/node/6154498894
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6154498894
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; music

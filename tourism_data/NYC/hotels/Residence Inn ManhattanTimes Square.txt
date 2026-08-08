@@ -1,0 +1,25 @@
+Name: Residence Inn Manhattan/Times Square
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 1033 Avenue of the Americas, New York NY 10018
+Description: Not listed
+Website: https://www.marriott.com/nycri
+Phone: +1 212-768-0007
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7528306
+Longitude: -73.9858447
+OpenStreetMap URL: https://www.openstreetmap.org/node/5228777783
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5228777783
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

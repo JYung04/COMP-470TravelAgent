@@ -1,0 +1,24 @@
+Name: The Green Bee
+City: Washington DC
+Category: restaurants
+Cuisine: bagel, coffee_shop, american, breakfast
+Address: 1129 20th Street Northwest, Washington DC 20036-3403
+Description: Not listed
+Website: https://www.thegreenbeecafe.com/
+Phone: +1 202-466-2676
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9046242
+Longitude: -77.0446612
+OpenStreetMap URL: https://www.openstreetmap.org/node/3000714257
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3000714257
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

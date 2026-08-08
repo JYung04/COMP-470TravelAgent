@@ -1,0 +1,25 @@
+Name: Wildberry Pancakes and Cafe
+City: Chicago
+Category: restaurants
+Cuisine: breakfast
+Address: East Randolph Street 130
+Description: Not listed
+Website: https://wildberrycafe.com/locations/chicago-prudential-plaza
+Phone: +1-312-938-9777
+Email: Not listed
+Opening Hours: Mo-Su 07:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8846784
+Longitude: -87.6228175
+OpenStreetMap URL: https://www.openstreetmap.org/node/1830940587
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1830940587
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

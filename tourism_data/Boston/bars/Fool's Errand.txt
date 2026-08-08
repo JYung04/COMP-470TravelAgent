@@ -1,0 +1,25 @@
+Name: Fool's Errand
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 1377 Boylston Street, Boston MA 02215
+Description: Not listed
+Website: https://www.foolserrandboston.com/
+Phone: Not listed
+Email: info@foolserrandboston.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3439541
+Longitude: -71.1009542
+OpenStreetMap URL: https://www.openstreetmap.org/node/7711828639
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7711828639
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

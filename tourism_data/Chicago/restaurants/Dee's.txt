@@ -1,0 +1,24 @@
+Name: Dee's
+City: Chicago
+Category: restaurants
+Cuisine: chinese, sushi
+Address: 1114 West Armitage Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://deesrestaurant.com/
+Phone: +17734771500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9182484
+Longitude: -87.656054
+OpenStreetMap URL: https://www.openstreetmap.org/way/210314960
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210314960
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

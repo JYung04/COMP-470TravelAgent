@@ -1,0 +1,25 @@
+Name: Boston Marriott Copley Place
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 110 Huntington Avenue, Boston MA 02116
+Description: Boston Marriott Copley Place stands tall in Boston's Back Bay capturing the city's rich history and modern style. Reimagined hotel rooms and suites feature sleek décor, platform beds, modern bathrooms, and remarkable city views for the ultimate Boston stay. Hotel amenities include premier dining options such as A La Carte guestroom delivery, Yard House, and Starbucks®. Experience the 24-hour state-of-the-art fitness center, expansive indoor pool, and redesigned public spaces including an exclusive M Club. Plan future meetings and social affairs in the 70,000 square feet of versatile event space, enhanced by expert planners and one of the largest ballrooms in New England. Centrally located in Boston’s Back Bay, stay within reach of top Boston attractions, including Copley Square, Fenway Park, and directly connected to over 200 premier restaurants and shops at the Prudential Center and Copley Place Mall. Boston FIFA.
+Website: https://www.marriott.com/hotels/travel/bosco-boston-marriott-copley-place
+Phone: +1-617-236-5800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3472371
+Longitude: -71.0777364
+OpenStreetMap URL: https://www.openstreetmap.org/way/240501783
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/240501783
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art; views

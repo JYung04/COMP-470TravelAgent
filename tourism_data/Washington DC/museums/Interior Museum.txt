@@ -1,0 +1,25 @@
+Name: Interior Museum
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1849 C Street Northwest, Washington DC 20240
+Description: The Interior Museum is a museum operated by the United States Department of the Interior and housed at the department's headquarters at the Stewart Lee Udall Main Interior Building in Washington, D.C., on the first floor.
+Website: https://www.doi.gov/interiormuseum
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-17:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8940589
+Longitude: -77.042798
+OpenStreetMap URL: https://www.openstreetmap.org/node/4015360177
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4015360177
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

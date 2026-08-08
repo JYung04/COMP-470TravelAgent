@@ -1,0 +1,25 @@
+Name: Carl Hammer Gallery
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 740 North Wells Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.carlhammergallery.com/
+Phone: +1-312-266-8512
+Email: info@carlhammergallery.com
+Opening Hours: Tu-Fr 12:00-17:00; Sa 12:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8959859
+Longitude: -87.6344572
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680271
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210680271
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

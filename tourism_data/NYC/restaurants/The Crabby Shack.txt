@@ -1,0 +1,25 @@
+Name: The Crabby Shack
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 613 Franklin Avenue, Brooklyn NY 11238
+Description: Not listed
+Website: https://thecrabbyshack.com
+Phone: +1-718-484-1507
+Email: Not listed
+Opening Hours: Mo,We,Th 15:00-22:00; Fr 15:00-23:00; Sa 13:00-23:00; Su 15:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6772879
+Longitude: -73.9554258
+OpenStreetMap URL: https://www.openstreetmap.org/node/4092433427
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4092433427
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

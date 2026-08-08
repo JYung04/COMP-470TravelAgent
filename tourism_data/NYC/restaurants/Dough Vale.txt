@@ -1,0 +1,25 @@
+Name: Dough Vale
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 330 South 3rd Street, Brooklyn NY 11211
+Description: Not listed
+Website: https://www.doughvale.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7093286
+Longitude: -73.9540657
+OpenStreetMap URL: https://www.openstreetmap.org/node/7507478441
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7507478441
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

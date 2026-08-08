@@ -1,0 +1,25 @@
+Name: Los Arrieros
+City: NYC
+Category: restaurants
+Cuisine: colombian
+Address: 76-02 Roosevelt Avenue, Jackson Heights NY 11373
+Description: Not listed
+Website: https://www.losarrierosrestaurantnyc.com
+Phone: +1-718-898-3359
+Email: losarrierosrestaurantny@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7469399
+Longitude: -73.889421
+OpenStreetMap URL: https://www.openstreetmap.org/node/2846354178
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2846354178
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

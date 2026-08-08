@@ -1,0 +1,25 @@
+Name: Hoanh Long
+City: Chicago
+Category: restaurants
+Cuisine: vietnamese
+Address: 6148 North Lincoln Avenue, Chicago IL 60659
+Description: Not listed
+Website: https://www.hoanhlongrestaurant.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Th 10:30-21:00; Fr,Sa 10:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9937797
+Longitude: -87.71325
+OpenStreetMap URL: https://www.openstreetmap.org/node/3629859634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3629859634
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

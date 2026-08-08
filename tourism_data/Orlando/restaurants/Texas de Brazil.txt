@@ -1,0 +1,25 @@
+Name: Texas de Brazil
+City: Orlando
+Category: restaurants
+Cuisine: Steak house, Brazilian, South American
+Address: 5259 International Drive, Orlando FL 32819
+Description: Not listed
+Website: https://texasdebrazil.com/locations/orlando/?utm_source=gmb&utm_medium=yext&y_source=1_NDg4MzA3MzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Phone: +1 407 355 0355
+Email: Not listed
+Opening Hours: Mo-Th 11:00-20:00, Fr-Sa 10:00-21:00, Su 11:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4676868
+Longitude: -81.4510812
+OpenStreetMap URL: https://www.openstreetmap.org/way/141017003
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/141017003
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

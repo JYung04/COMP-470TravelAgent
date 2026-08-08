@@ -1,0 +1,24 @@
+Name: Mordi's Sandwich Shop
+City: NYC
+Category: restaurants
+Cuisine: israeli, sandwich
+Address: 321 Communipaw Avenue
+Description: Not listed
+Website: https://mordissandwichshop.com
+Phone: +1 551-203-2348
+Email: info@mordisfoodtruck.com
+Opening Hours: Mo-Fr 10:00-20:00; Sa 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7103866
+Longitude: -74.0611253
+OpenStreetMap URL: https://www.openstreetmap.org/node/10248416533
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10248416533
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

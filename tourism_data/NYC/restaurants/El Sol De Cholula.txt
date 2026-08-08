@@ -1,0 +1,25 @@
+Name: El Sol De Cholula
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 161 Wilson Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-917-340-3901
+Email: Not listed
+Opening Hours: Su-Th 10:30-22:30; Fr,Sa 10:30-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7002211
+Longitude: -73.9246127
+OpenStreetMap URL: https://www.openstreetmap.org/node/6127452092
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6127452092
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

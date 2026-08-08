@@ -1,0 +1,25 @@
+Name: Castle Clinton
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: 10 Battery Place, 10004
+Description: Castle Clinton is a restored circular sandstone fort within Battery Park at the southern end of Manhattan in New York City, United States. Built from 1808 to 1811, it was the first American immigration station, predating Ellis Island. More than 7.5 million people arrived in the United States at Fort Clinton between 1855 and 1890. Over its active life, it has also functioned as a beer garden, exhibition hall, theater, and public aquarium. The structure is a New York City designated landmark and a U.S. national monument, and it is listed on the National Register of Historic Places.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7034606
+Longitude: -74.0167714
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3695755
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3695755
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history; gardens

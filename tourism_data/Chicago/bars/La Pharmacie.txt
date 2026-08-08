@@ -1,0 +1,25 @@
+Name: La Pharmacie
+City: Chicago
+Category: bars
+Cuisine: tapas
+Address: 5557 North Sheridan Road, 60640
+Description: Not listed
+Website: https://www.lapharmaciechicago.com/
+Phone: +1-773-944-0399
+Email: lapharmacie.chicago@gmail.com
+Opening Hours: Su, We 16:00-22:00; Th-Sa 16:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9835986
+Longitude: -87.6550091
+OpenStreetMap URL: https://www.openstreetmap.org/node/12581402601
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12581402601
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

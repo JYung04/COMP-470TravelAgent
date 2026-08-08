@@ -1,0 +1,24 @@
+Name: Le Basque French Vegan Restaurant
+City: NYC
+Category: restaurants
+Cuisine: french, spanish
+Address: 15 Union Square West, New York NY 10003
+Description: Not listed
+Website: https://lebasquenyc.com/
+Phone: +1 212 457 6261
+Email: Not listed
+Opening Hours: Mo-Th 16:30-22:30; Fr 16:30-23:30; Sa 11:30-23:30; Su 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.736072
+Longitude: -73.9918636
+OpenStreetMap URL: https://www.openstreetmap.org/node/12373675569
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12373675569
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

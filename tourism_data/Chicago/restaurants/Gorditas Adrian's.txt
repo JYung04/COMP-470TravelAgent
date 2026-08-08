@@ -1,0 +1,25 @@
+Name: Gorditas Adrian's
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 13507 South Brainard Avenue, Chicago IL 60633
+Description: Not listed
+Website: Not listed
+Phone: +1-872-666-5704
+Email: Not listed
+Opening Hours: Mo-Su 09:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.6493598
+Longitude: -87.5467613
+OpenStreetMap URL: https://www.openstreetmap.org/way/211326696
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/211326696
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Shanghai You Garden Restaurant
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 135-33 40th Road, Flushing NY 11354
+Description: Classy kitchen serving traditional Shanghainese food, including handmade soup dumplings & dim sum.
+Website: https://www.yougardenny.com/
+Phone: +1-718-886-2286
+Email: Not listed
+Opening Hours: Mo-Su 08:00-23:00
+Wheelchair Accessibility: limited
+Latitude: 40.7588429
+Longitude: -73.8304623
+OpenStreetMap URL: https://www.openstreetmap.org/node/5526630523
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5526630523
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

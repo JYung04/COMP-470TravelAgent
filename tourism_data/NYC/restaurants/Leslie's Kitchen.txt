@@ -1,0 +1,25 @@
+Name: Leslie's Kitchen
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 12:00-22:00; Fr-Sa 12:00-23:00; Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7013684
+Longitude: -73.9266136
+OpenStreetMap URL: https://www.openstreetmap.org/node/6876300972
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6876300972
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

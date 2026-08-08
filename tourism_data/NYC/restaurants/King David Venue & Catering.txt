@@ -1,0 +1,24 @@
+Name: King David Venue & Catering
+City: NYC
+Category: restaurants
+Cuisine: kebab, barbecue
+Address: 101-10 Queens Blvd, Forest Hills NY 11375
+Description: Not listed
+Website: https://www.kingdavidnyc.com/
+Phone: +1 718-896-7686
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7261762
+Longitude: -73.8525133
+OpenStreetMap URL: https://www.openstreetmap.org/node/13282180219
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13282180219
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

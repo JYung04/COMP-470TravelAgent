@@ -1,0 +1,25 @@
+Name: Parm Battery Park City
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 10281
+Description: Not listed
+Website: https://www.parmnyc.com/
+Phone: +12127764927
+Email: Not listed
+Opening Hours: Su-We 11:30-22:00; Th-Sa 11:30-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7144941
+Longitude: -74.016133
+OpenStreetMap URL: https://www.openstreetmap.org/node/4930944423
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4930944423
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

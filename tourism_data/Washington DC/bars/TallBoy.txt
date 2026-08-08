@@ -1,0 +1,25 @@
+Name: TallBoy
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1239 9th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.tallboybar.com/
+Phone: +1 202-465-4822
+Email: Not listed
+Opening Hours: Su 13:00-23:00; Mo-Th 17:00-01:30; Fr 17:00-02:00; Sa 13:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9065768
+Longitude: -77.0237048
+OpenStreetMap URL: https://www.openstreetmap.org/node/6372810697
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6372810697
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

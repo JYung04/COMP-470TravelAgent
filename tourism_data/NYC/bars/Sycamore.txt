@@ -1,0 +1,25 @@
+Name: Sycamore
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 1118 Cortelyou Road, Brooklyn NY 11218
+Description: Not listed
+Website: http://www.sycamorebrooklyn.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 02:00-14:00; Fr 14:00-03:00; Sa 12:00-03:00; Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6397709
+Longitude: -73.9672216
+OpenStreetMap URL: https://www.openstreetmap.org/node/1987892671
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1987892671
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

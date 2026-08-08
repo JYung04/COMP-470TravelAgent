@@ -1,0 +1,25 @@
+Name: Wine Bar George
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 1610 East Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Florida is home to the first-ever master-sommelier-led wine bar courtesy of Wine Bar George at Disney Springs ®, part of Walt Disney World ® Resort . The expert in question is George Miliotes, who was part of the opening team for California Grill at Disney’s Contemporary Resort and has since established himself as an authority in wine circles. The venue, which also serves food, is reminiscent of a winemaker’s home estate. Discover: Things to Do at DISNEY SPRINGS
+Website: https://disneyworld.disney.go.com/dining/disney-springs/wine-bar-george/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3713322
+Longitude: -81.5179226
+OpenStreetMap URL: https://www.openstreetmap.org/way/766433275
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/766433275
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

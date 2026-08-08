@@ -1,0 +1,25 @@
+Name: Grand Hyatt New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 109 East 42nd Street, New York NY 10017
+Description: Not listed
+Website: https://www.hyatt.com/hyatt-hotels/en-US/nycgh-hyatt-grand-central-new-york
+Phone: +1 212-883-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.752045
+Longitude: -73.9763361
+OpenStreetMap URL: https://www.openstreetmap.org/way/265947371
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265947371
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

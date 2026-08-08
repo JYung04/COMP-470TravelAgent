@@ -1,0 +1,25 @@
+Name: Pera SoHo
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 54 Thompson Street, 10012
+Description: Not listed
+Website: https://www.pera-soho.com
+Phone: +1-212-878-6305
+Email: Not listed
+Opening Hours: Mo-Tu 16:30-21:30; We-Fr 12:00-22:30; Sa 10:30-23:00; Su 10:30-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.723831
+Longitude: -74.0033719
+OpenStreetMap URL: https://www.openstreetmap.org/node/5515156304
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5515156304
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

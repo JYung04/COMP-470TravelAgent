@@ -1,0 +1,24 @@
+Name: Conway Diner
+City: NYC
+Category: restaurants
+Cuisine: american, asian
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-212-228-6868
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7264399
+Longitude: -73.9890013
+OpenStreetMap URL: https://www.openstreetmap.org/node/11196500985
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11196500985
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

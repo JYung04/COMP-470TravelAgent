@@ -1,0 +1,25 @@
+Name: Marina City
+City: Chicago
+Category: shopping
+Cuisine: Not listed
+Address: 300 North State Street, Chicago IL 60654
+Description: Marina City is a mixed-use residential-commercial building complex in Chicago, Illinois, United States, designed by architect Bertrand Goldberg. The multi-building complex on State Street on the north bank of the Chicago River on the Near North Side, directly across from the Loop, opened between 1963 and 1967. Portions of the complex were designated a Chicago Landmark in 2016. The towers' symbolic similarity to rural Illinois corncobs has been noted in media.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8883312
+Longitude: -87.6288406
+OpenStreetMap URL: https://www.openstreetmap.org/way/153328601
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/153328601
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,24 @@
+Name: Hadramout Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: yemeni, middle_eastern, mediterranean
+Address: 3100 West Devon Avenue, Chicago IL 60659
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9977241
+Longitude: -87.7072509
+OpenStreetMap URL: https://www.openstreetmap.org/node/10089743231
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10089743231
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: William Tecumseh Sherman
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: William Tecumseh Sherman, also known as the Sherman Memorial or Sherman Monument, is a sculpture group honoring William Tecumseh Sherman, created by Augustus Saint-Gaudens and located at Grand Army Plaza in Manhattan, New York. Cast in 1902 and dedicated on May 30, 1903, the gilded-bronze monument consists of an equestrian statue of Sherman and an accompanying statue, Victory, an allegorical female figure of the Greek goddess Nike. The statues are set on a Stony Creek granite pedestal designed by the architect Charles Follen McKim.
+Website: https://www.nycgovparks.org/parks/grand-army-plaza-m062/monuments/1442
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7648102
+Longitude: -73.9730615
+OpenStreetMap URL: https://www.openstreetmap.org/way/988716842
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/988716842
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

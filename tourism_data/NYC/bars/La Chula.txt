@@ -1,0 +1,25 @@
+Name: La Chula
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 137 East 116th Street New York NY 10029
+Description: Not listed
+Website: https://www.lachulanyc.com/
+Phone: +1-646-590-3975
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7745097
+Longitude: -73.8692287
+OpenStreetMap URL: https://www.openstreetmap.org/node/6107114925
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6107114925
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

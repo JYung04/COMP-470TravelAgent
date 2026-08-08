@@ -1,0 +1,25 @@
+Name: Ozio Martini & Cigar Lounge
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1813 M Street Northwest, Washington DC 20036-2503
+Description: Not listed
+Website: http://www.oziodc.com/
+Phone: +1 202-822-6000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9058284
+Longitude: -77.04237
+OpenStreetMap URL: https://www.openstreetmap.org/node/739339938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739339938
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

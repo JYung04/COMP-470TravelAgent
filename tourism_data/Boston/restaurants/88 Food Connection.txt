@@ -1,0 +1,24 @@
+Name: 88 Food Connection
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 1 Brighton Avenue, Allston MA 02134
+Description: Not listed
+Website: Not listed
+Phone: (617) 787-2288
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3525408
+Longitude: -71.1253921
+OpenStreetMap URL: https://www.openstreetmap.org/way/29931141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29931141
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Boston Nature Center
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 500 Walk Hill Street
+Description: Officially classified as urban wilds. Located in Mattapan. Covers approximately 58.5 acres.
+Website: https://www.massaudubon.org/get-outdoors/wildlife-sanctuaries/boston-nature-center
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2883525
+Longitude: -71.1007259
+OpenStreetMap URL: https://www.openstreetmap.org/relation/16706705
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/16706705
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

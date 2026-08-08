@@ -1,0 +1,25 @@
+Name: Joseph Regenstein Library
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 1100 East 57th Street, Chicago IL 60637
+Description: Not listed
+Website: https://www.lib.uchicago.edu/spaces/joseph-regenstein-library/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 08:00-20:00; Fr 08:00-17:00; Sa,Su 09:00-17:00
+Wheelchair Accessibility: limited
+Latitude: 41.7921638
+Longitude: -87.5999355
+OpenStreetMap URL: https://www.openstreetmap.org/way/194224828
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/194224828
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

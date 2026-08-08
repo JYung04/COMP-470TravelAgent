@@ -1,0 +1,25 @@
+Name: The Libary Café by Amys Bread
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.amysbread.com/nypl-42nd-5th
+Phone: +1-646-957-7137
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-16:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7530803
+Longitude: -73.9822414
+OpenStreetMap URL: https://www.openstreetmap.org/node/13763544692
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13763544692
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

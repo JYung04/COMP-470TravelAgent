@@ -1,0 +1,24 @@
+Name: Johnny's Classic Quizine
+City: NYC
+Category: restaurants
+Cuisine: jamaican, american
+Address: 713 Beach 20th Street, Far Rockaway NY 11691
+Description: Not listed
+Website: https://www.johnnysclassicquizine.com/
+Phone: +1 718-868-3268
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-22:00; Su 09:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6020124
+Longitude: -73.7536526
+OpenStreetMap URL: https://www.openstreetmap.org/node/5919831350
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5919831350
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

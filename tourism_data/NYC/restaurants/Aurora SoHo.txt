@@ -1,0 +1,25 @@
+Name: Aurora SoHo
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 510 Broome Street, 10013
+Description: Not listed
+Website: https://www.aurorasoho.com
+Phone: +1-212-334-9020
+Email: info@aurorasoho.com
+Opening Hours: Mo-Th 12:00-23:00; Fr 12:00-23:30; Sa 11:00-23:30; Su 11:00-22:30
+Wheelchair Accessibility: no
+Latitude: 40.7235403
+Longitude: -74.0031561
+OpenStreetMap URL: https://www.openstreetmap.org/node/5515220109
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5515220109
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

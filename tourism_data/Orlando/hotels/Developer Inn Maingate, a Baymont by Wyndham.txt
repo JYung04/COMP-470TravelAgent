@@ -1,0 +1,25 @@
+Name: Developer Inn Maingate, a Baymont by Wyndham
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 2930 Polynesian Isles Boulevard, Kissimmee FL 34746
+Description: Not listed
+Website: https://www.wyndhamhotels.com/baymont/kissimmee-florida/developer-inn-maingate-a-baymont/overview
+Phone: +1 407 449 2526
+Email: hello.maingate@developerhotels.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3347078
+Longitude: -81.4967436
+OpenStreetMap URL: https://www.openstreetmap.org/way/310024538
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/310024538
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

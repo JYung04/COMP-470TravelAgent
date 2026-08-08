@@ -1,0 +1,25 @@
+Name: Petworth Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 4200 Kansas Avenue Northwest, Washington DC 20011-5732
+Description: Not listed
+Website: https://www.dclibrary.org/petworth
+Phone: +1 202-243-1188
+Email: Not listed
+Opening Hours: Mo,Tu,Fr,Sa 10:00-18:00; We 10:00-20:00; Th 12:00-20:00; Su 13:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.942191
+Longitude: -77.0261366
+OpenStreetMap URL: https://www.openstreetmap.org/way/70071166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/70071166
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

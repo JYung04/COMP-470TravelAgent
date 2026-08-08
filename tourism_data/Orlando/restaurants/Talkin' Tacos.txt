@@ -1,0 +1,25 @@
+Name: Talkin' Tacos
+City: Orlando
+Category: restaurants
+Cuisine: mexican
+Address: 3123 South Orange Avenue, 32806
+Description: Not listed
+Website: https://youtube.com/shorts/981xa-1KXak?si=Y9oW6A_EQaiKSDum
+Phone: +1-689-210-2917
+Email: Info@TalkinTacos.net
+Opening Hours: Mo-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5090797
+Longitude: -81.3752011
+OpenStreetMap URL: https://www.openstreetmap.org/node/13123414301
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13123414301
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

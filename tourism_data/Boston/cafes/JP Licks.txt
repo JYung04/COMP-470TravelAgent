@@ -1,0 +1,25 @@
+Name: JP Licks
+City: Boston
+Category: cafes
+Cuisine: ice_cream
+Address: 659 Centre Street, Boston 02130
+Description: Not listed
+Website: http://www.jplicks.com
+Phone: +1 617 524-6740
+Email: Not listed
+Opening Hours: Mo-Su 06:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 42.3128781
+Longitude: -71.1144595
+OpenStreetMap URL: https://www.openstreetmap.org/way/29823581
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29823581
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: B&L Diner
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 1262 Broadway, New York NY 10001
+Description: Not listed
+Website: https://www.bldiner.com/
+Phone: +1 646-838-9020
+Email: info@bldiner.com
+Opening Hours: Mo-Su 07:00-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7484569
+Longitude: -73.9879549
+OpenStreetMap URL: https://www.openstreetmap.org/node/10828734041
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10828734041
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

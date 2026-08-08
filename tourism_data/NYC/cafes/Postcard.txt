@@ -1,0 +1,24 @@
+Name: Postcard
+City: NYC
+Category: cafes
+Cuisine: japanese, coffee, tea, bubble_tea
+Address: 31 Carmine Street, New York NY 10014
+Description: Not listed
+Website: https://postcardbakery.co
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7302444
+Longitude: -74.0031534
+OpenStreetMap URL: https://www.openstreetmap.org/node/12207721100
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12207721100
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

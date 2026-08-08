@@ -1,0 +1,25 @@
+Name: El Sabor a Mexico
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 353 Cedar Street Northwest, WASHINGTON DC 20012
+Description: Not listed
+Website: https://www.elsaboramexicodc.com/
+Phone: +1 202-248-1913
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 38.9748868
+Longitude: -77.018248
+OpenStreetMap URL: https://www.openstreetmap.org/node/1066861990
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1066861990
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

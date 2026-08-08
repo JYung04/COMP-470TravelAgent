@@ -1,0 +1,25 @@
+Name: Brooklyn Moon
+City: NYC
+Category: bars
+Cuisine: caribbean
+Address: 745 Fulton Street, 11217
+Description: Not listed
+Website: https://www.facebook.com/BrooklynMoonCafe/
+Phone: +1-718-855-7149
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6866181
+Longitude: -73.9748413
+OpenStreetMap URL: https://www.openstreetmap.org/node/3154284869
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3154284869
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

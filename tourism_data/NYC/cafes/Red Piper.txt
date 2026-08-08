@@ -1,0 +1,25 @@
+Name: Red Piper
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 71-60 Austin Street
+Description: Not listed
+Website: Not listed
+Phone: +1 718 635 0245
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7193032
+Longitude: -73.8428059
+OpenStreetMap URL: https://www.openstreetmap.org/node/10245833835
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10245833835
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

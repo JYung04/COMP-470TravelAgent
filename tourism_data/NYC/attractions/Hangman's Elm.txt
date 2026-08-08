@@ -1,0 +1,25 @@
+Name: Hangman's Elm
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/facilities/great-trees?id=33
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7319686
+Longitude: -73.9986093
+OpenStreetMap URL: https://www.openstreetmap.org/node/5927576885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5927576885
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

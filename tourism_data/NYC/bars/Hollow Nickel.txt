@@ -1,0 +1,25 @@
+Name: Hollow Nickel
+City: NYC
+Category: bars
+Cuisine: burger
+Address: Not listed
+Description: Not listed
+Website: https://www.hollownickel.com
+Phone: +1-347-236-3417
+Email: Not listed
+Opening Hours: Mo-Th 16:00-02:00, Sa-Su 14:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6856296
+Longitude: -73.9819251
+OpenStreetMap URL: https://www.openstreetmap.org/node/5542993926
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5542993926
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

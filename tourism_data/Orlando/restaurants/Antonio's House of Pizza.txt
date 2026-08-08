@@ -1,0 +1,25 @@
+Name: Antonio's House of Pizza
+City: Orlando
+Category: restaurants
+Cuisine: italian
+Address: 4626 Kirkman Road, Orlando 32811
+Description: Not listed
+Website: https://antonioshouseofpizza.com/
+Phone: +1-407-290-1200
+Email: Not listed
+Opening Hours: Mo-Su 16:00-23:00; Th,Fr 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4948111
+Longitude: -81.4611262
+OpenStreetMap URL: https://www.openstreetmap.org/way/714664931
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/714664931
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

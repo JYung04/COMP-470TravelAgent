@@ -1,0 +1,25 @@
+Name: Tai Tung Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 110 Tyler Street
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Central Boston. Covers approximately 0.0 acres. Also known as Tai Tung Tot Lot.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3483026
+Longitude: -71.0615298
+OpenStreetMap URL: https://www.openstreetmap.org/way/103381416
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/103381416
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,24 @@
+Name: Vanessa's Dumpling House
+City: NYC
+Category: restaurants
+Cuisine: chinese, dumplings
+Address: 102-30 Queens Boulevard, Forest Hills NY 11375
+Description: Not listed
+Website: https://www.vanessas.com
+Phone: +1 718 233 8081;+1 718 885 4600
+Email: Not listed
+Opening Hours: Mo-Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7250179
+Longitude: -73.8508997
+OpenStreetMap URL: https://www.openstreetmap.org/node/8904932598
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8904932598
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

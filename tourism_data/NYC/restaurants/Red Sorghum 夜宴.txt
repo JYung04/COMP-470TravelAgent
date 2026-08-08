@@ -1,0 +1,24 @@
+Name: Red Sorghum 夜宴
+City: NYC
+Category: restaurants
+Cuisine: szechuan, hunan, chinese
+Address: 28-03 Jackson Avenue, 11101
+Description: Not listed
+Website: https://www.redsorghumlic.com/
+Phone: +1 929-545-2023
+Email: redsorghumnyc@gmail.com
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7484928
+Longitude: -73.9390719
+OpenStreetMap URL: https://www.openstreetmap.org/node/8953971449
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8953971449
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

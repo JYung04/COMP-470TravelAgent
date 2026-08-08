@@ -1,0 +1,25 @@
+Name: Post Pub
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1422 L Street Northwest, Washington DC 20005
+Description: Not listed
+Website: https://postpubdc.com/
+Phone: +1-202-990-7782
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9035782
+Longitude: -77.0340264
+OpenStreetMap URL: https://www.openstreetmap.org/node/739150345
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739150345
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

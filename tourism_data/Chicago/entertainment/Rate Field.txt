@@ -1,0 +1,25 @@
+Name: Rate Field
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 333 West 35th Street, Chicago IL 60616
+Description: Rate Field is a baseball stadium on the South Side of Chicago, Illinois. It is the home ballpark of the Chicago White Sox, one of the city's two Major League Baseball teams, and is owned by the state of Illinois through the Illinois Sports Facilities Authority. Built for US$137 million, the park opened as Comiskey Park on April 18, 1991, taking its name from the original Comiskey Park, the team's home since 1910.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8296742
+Longitude: -87.6337933
+OpenStreetMap URL: https://www.openstreetmap.org/way/1285780677
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1285780677
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

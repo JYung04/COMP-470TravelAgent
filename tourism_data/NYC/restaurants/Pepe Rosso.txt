@@ -1,0 +1,25 @@
+Name: Pepe Rosso
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 168 Sullivan Street, New York NY 10012
+Description: Not listed
+Website: https://peperossotogo.com
+Phone: +1-212-677-4555
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-23:00; Su 15:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7279209
+Longitude: -74.0013375
+OpenStreetMap URL: https://www.openstreetmap.org/node/5015212723
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5015212723
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

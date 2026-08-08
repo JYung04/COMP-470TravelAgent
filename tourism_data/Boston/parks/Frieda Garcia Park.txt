@@ -1,0 +1,25 @@
+Name: Frieda Garcia Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 38 Stanhope Street, Boston MA 02116
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Back Bay/Beacon Hill. Covers approximately 0.3 acres.
+Website: http://www.halvorsondesign.com/frieda-garcia-park/
+Phone: +1-617-635-4505
+Email: parks@boston.gov
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3481603
+Longitude: -71.0733447
+OpenStreetMap URL: https://www.openstreetmap.org/way/485199758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/485199758
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

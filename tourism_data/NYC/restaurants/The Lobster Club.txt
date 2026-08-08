@@ -1,0 +1,24 @@
+Name: The Lobster Club
+City: NYC
+Category: restaurants
+Cuisine: japanese, sushi, fine_dining
+Address: 98 East 53rd Street, New York NY 10022
+Description: Not listed
+Website: https://thelobsterclub.com/
+Phone: +1-212-375-9001
+Email: Not listed
+Opening Hours: Mo-Fr 11:45-14:00 open "Lunch", Mo-Sa 17:00-22:00 "Dinner"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7584777
+Longitude: -73.9721247
+OpenStreetMap URL: https://www.openstreetmap.org/node/6342212317
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6342212317
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

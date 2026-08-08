@@ -1,0 +1,25 @@
+Name: Taco City DC
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 1102 8th Street Southeast, Washington DC 20003-3635
+Description: Not listed
+Website: https://tacocitydc.com/
+Phone: +1 202-629-4012
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8773163
+Longitude: -76.9947361
+OpenStreetMap URL: https://www.openstreetmap.org/node/6367809955
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6367809955
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

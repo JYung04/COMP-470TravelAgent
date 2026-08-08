@@ -1,0 +1,25 @@
+Name: Stockyard Restaurant
+City: Boston
+Category: restaurants
+Cuisine: steak_house
+Address: 135 Market Street, 02135
+Description: Not listed
+Website: https://www.stockyardrestaurant.com/
+Phone: +1-617-782-4700
+Email: info@stockyardrestaurant.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3577733
+Longitude: -71.1486168
+OpenStreetMap URL: https://www.openstreetmap.org/way/29609494
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29609494
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

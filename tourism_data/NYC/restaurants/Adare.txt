@@ -1,0 +1,25 @@
+Name: Adare
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 149 East 57th Street, 10022
+Description: Not listed
+Website: http://adarenyc.com/
+Phone: +1 212-477-7070
+Email: Not listed
+Opening Hours: Mo-Sa 17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.760815
+Longitude: -73.9683972
+OpenStreetMap URL: https://www.openstreetmap.org/node/11293344181
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11293344181
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

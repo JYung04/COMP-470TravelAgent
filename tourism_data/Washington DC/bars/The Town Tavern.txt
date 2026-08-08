@@ -1,0 +1,25 @@
+Name: The Town Tavern
+City: Washington DC
+Category: bars
+Cuisine: Comfort, Wings, Chicken, Burgers
+Address: 2323 18th Street Northwest, Washington DC 20009-1814
+Description: Not listed
+Website: http://www.TownTavernDC.com/
+Phone: +1 202-387-8696
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.9203105
+Longitude: -77.0416294
+OpenStreetMap URL: https://www.openstreetmap.org/node/737066361
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737066361
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

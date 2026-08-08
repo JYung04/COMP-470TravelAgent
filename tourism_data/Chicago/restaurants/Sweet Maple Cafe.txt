@@ -1,0 +1,25 @@
+Name: Sweet Maple Cafe
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 1339 West Taylor Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.sweetmaplecafechicago.com/
+Phone: +1-312-243-8908
+Email: Not listed
+Opening Hours: We-Su 07:00-13:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8691709
+Longitude: -87.6607411
+OpenStreetMap URL: https://www.openstreetmap.org/node/7554540187
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7554540187
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

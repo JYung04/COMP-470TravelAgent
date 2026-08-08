@@ -1,0 +1,25 @@
+Name: Shy Bird
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: 12 Old Colony Avenue, Boston MA 02127
+Description: While plenty of the restaurants on this list call for dressed-up date nights, sometimes you just need a chill hangout with some grub. Shy Bird, an all-day rotisserie spot that started in Cambridge , expanded not long ago to the industrial-chic Iron Works development on Old Colony Ave. in Southie. That nesting spot means you and your pals can go rock climbing at Rock Spot, hit the pickleball courts at PKL Boston , then flock to Shy Bird for rotisserie chicken, snacks, and other entrees. The rotisserie chickens are the main event, of course, and besides the piri piri bird, the other options are gluten-free and served with sauces and a house salad. Other clearly marked gluten-free items take flight, like the blackened shrimp tostada that gets a lift from a chipotle lime crema, and the steak a la plancha.
+Website: https://www.shybird.com/location/shy-bird-south-boston/
+Phone: +1-617-766-8309
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-11:00 "Breakfast" || Mo-Fr 11:00-16:00 "Lunch" || Su-Tu 16:00-21:00; We-Sa 16:00-22:00 "Dinner" || Sa,Su 10:00-15:00 "Brunch"
+Wheelchair Accessibility: Not listed
+Latitude: 42.3376711
+Longitude: -71.0566058
+OpenStreetMap URL: https://www.openstreetmap.org/node/11014851373
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11014851373
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

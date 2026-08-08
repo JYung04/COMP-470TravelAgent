@@ -1,0 +1,25 @@
+Name: Chen's Kitchen
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 301 Jackson St #2, Hoboken, NJ 07030, United States
+Description: Not listed
+Website: http://www.chenskitchenhoboken.com/?utm_source=gmb&utm_medium=website
+Phone: +1 201-656-0949
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7418938
+Longitude: -74.039913
+OpenStreetMap URL: https://www.openstreetmap.org/node/10591087786
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10591087786
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

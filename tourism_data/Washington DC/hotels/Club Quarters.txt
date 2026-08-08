@@ -1,0 +1,25 @@
+Name: Club Quarters
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 839 17th Street Northwest
+Description: Not listed
+Website: http://www.clubquarters.com/
+Phone: +1 202-463-6400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9010756
+Longitude: -77.0391649
+OpenStreetMap URL: https://www.openstreetmap.org/node/759570192
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/759570192
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

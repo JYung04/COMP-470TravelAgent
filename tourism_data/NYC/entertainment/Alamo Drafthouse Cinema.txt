@@ -1,0 +1,25 @@
+Name: Alamo Drafthouse Cinema
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 445 Albee Square, Brooklyn NY 11201
+Description: movie theater in Brooklyn, New York City, New York, United States
+Website: https://drafthouse.com/nyc/theater/downtown-brooklyn
+Phone: +1 718-513-2547
+Email: comments.brooklyn@drafthouse.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6906381
+Longitude: -73.983202
+OpenStreetMap URL: https://www.openstreetmap.org/node/4620805945
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4620805945
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

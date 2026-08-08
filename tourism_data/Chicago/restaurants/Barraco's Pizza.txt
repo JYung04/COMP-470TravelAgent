@@ -1,0 +1,25 @@
+Name: Barraco's Pizza
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 2105 West 95th Street, Chicago IL 60643
+Description: Not listed
+Website: https://www.barracos.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7207302
+Longitude: -87.6750582
+OpenStreetMap URL: https://www.openstreetmap.org/way/209616238
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209616238
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

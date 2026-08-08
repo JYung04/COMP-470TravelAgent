@@ -1,0 +1,25 @@
+Name: Kimberly Klark
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 788 Woodward Avenue
+Description: Not listed
+Website: https://kimberly-klark.com/
+Phone: Not listed
+Email: info@kimberly-klark.com
+Opening Hours: Su 13:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7036328
+Longitude: -73.9037854
+OpenStreetMap URL: https://www.openstreetmap.org/node/6389096486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6389096486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

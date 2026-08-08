@@ -1,0 +1,25 @@
+Name: Boston National Historical Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Boston National Historical Park tells the story of the events that led to the American Revolution and the Navy that kept the nation strong. Visit the historic sites that make up Boston National Historical Park. Many of the historic sites that make up Boston National Historical Park can be found along the Freedom Trail. In downtown Boston, Old South Meeting House, Old State House, Faneuil Hall, the Paul Revere House and Old North Church bring to life the American ideals of freedom of speech, religion, government, and self-determination. In Charlestown, visit the Bunker Hill Monument, the site of the first major battle of the American Revolution. Nearby is the Charlestown Navy Yard, one of the nation's first naval shipyards and home to USS Constitution, the oldest commissioned warship afloat in the world. Located in South Boston and separate from the.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3551521
+Longitude: -71.0536259
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20268111
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/20268111
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

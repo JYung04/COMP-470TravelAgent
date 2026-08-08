@@ -1,0 +1,25 @@
+Name: Rooster & Owl
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 2436 14th Street Northwest, Washington DC 20009-4502
+Description: Capitol Hill After honing his skills at renowned kitchens around New York City, chef Yuan Tang teamed up with wife Carey Tang to open Rooster & Owl in DC. The couple’s 14th Street NW restaurant serves contemporary American fare, offering diners a four-course, prix-fixe menu where seasonal ingredients and vegetarian dishes shine. Diners can expect something unique from the jump with takes like the Carolina-style barbecue carrots with a cornbread ice cream, meatless larb made with lime-kissed shii
+Website: https://www.roosterowl.com/
+Phone: +1-202-813-3976
+Email: Not listed
+Opening Hours: Tu-Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.92149
+Longitude: -77.032167
+OpenStreetMap URL: https://www.openstreetmap.org/node/4936276312
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4936276312
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Nostra Cucina
+City: Washington DC
+Category: restaurants
+Cuisine: italian, pizza, sandwich
+Address: 320 D Street Northeast, Washington DC 20002
+Description: Not listed
+Website: https://nostracucinadc.com/
+Phone: +1-202-546-4522; +1 202-548-2964
+Email: Not listed
+Opening Hours: Mo-Sa 16:00-22:00; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8949485
+Longitude: -77.0011784
+OpenStreetMap URL: https://www.openstreetmap.org/node/737404996
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737404996
+Price: $
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

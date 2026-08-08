@@ -1,0 +1,25 @@
+Name: Rasika
+City: Washington DC
+Category: restaurants
+Cuisine: indian
+Address: 1190 New Hampshire Avenue Northwest, Washington DC 20037
+Description: Valet parking available nightly from 5 pm onwards. $15 per car.
+Website: https://www.rasikarestaurant.com/
+Phone: +1-202-466-2500
+Email: Not listed
+Opening Hours: Mo-Th 11:30-14:30,17:00-22:00; Fr 11:30-14:30,17:00-22:30; Sa 16:00-22:30; Su 11:00-14:30,16:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9050577
+Longitude: -77.0480931
+OpenStreetMap URL: https://www.openstreetmap.org/node/4978285124
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4978285124
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Park No. 512
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1800 North Ashland Avenue, Chicago IL 60622
+Description: Officially classified as passive park. Covers approximately 3.5 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/park-no-512
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9144703
+Longitude: -87.668451
+OpenStreetMap URL: https://www.openstreetmap.org/way/1086775958
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1086775958
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

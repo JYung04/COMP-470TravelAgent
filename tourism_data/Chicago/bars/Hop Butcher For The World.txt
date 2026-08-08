@@ -1,0 +1,25 @@
+Name: Hop Butcher For The World
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4257 North Lincoln Avenue, Chicago IL 60618
+Description: Not listed
+Website: http://www.hopbutcher.com/
+Phone: +1-773-754-8488
+Email: Not listed
+Opening Hours: Mo-Th 15:00-22:00, Fr 15:00-23:00, Sa 12:00-23:00, Su 12:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9592861
+Longitude: -87.6821711
+OpenStreetMap URL: https://www.openstreetmap.org/node/1385113906
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1385113906
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

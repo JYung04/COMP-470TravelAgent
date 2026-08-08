@@ -1,0 +1,25 @@
+Name: Toojay's
+City: Orlando
+Category: restaurants
+Cuisine: jewish
+Address: 10185 West Colonial Drive, Ocoee FL 34761
+Description: Not listed
+Website: Not listed
+Phone: +1-407-798-2000
+Email: Not listed
+Opening Hours: Mo-Su 09:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5525001
+Longitude: -81.5282317
+OpenStreetMap URL: https://www.openstreetmap.org/node/7198087691
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7198087691
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

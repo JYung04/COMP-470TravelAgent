@@ -1,0 +1,25 @@
+Name: Playground 115
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/playground-115
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7852238
+Longitude: -73.8525949
+OpenStreetMap URL: https://www.openstreetmap.org/way/389592778
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/389592778
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

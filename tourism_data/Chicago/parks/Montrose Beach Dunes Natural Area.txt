@@ -1,0 +1,25 @@
+Name: Montrose Beach Dunes Natural Area
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 900 West Montrose Harbor Drive, Chicago IL 60640
+Description: In 2001, the Chicago Park District stopped grooming the southeast end of the beach to encourage dune formation. As a result, this area now contains beach, foredune, and globally rare panne wetlands, which support numerous threatened and endangered plants.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park-montrose-beach-dunes-natural-area
+Phone: Not listed
+Email: Not listed
+Opening Hours: dawn-dusk
+Wheelchair Accessibility: Not listed
+Latitude: 41.9654495
+Longitude: -87.6334231
+OpenStreetMap URL: https://www.openstreetmap.org/way/238689193
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/238689193
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

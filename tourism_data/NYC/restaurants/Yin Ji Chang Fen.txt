@@ -1,0 +1,24 @@
+Name: Yin Ji Chang Fen
+City: NYC
+Category: restaurants
+Cuisine: chinese, cantonese
+Address: 91 Bayard Street, New York NY 10013
+Description: Local outpost of a popular Guangzhou chain offering rice noodle rolls plus other Cantonese fare.
+Website: https://www.yinji-usa.com/
+Phone: +1-212-227-4888
+Email: Not listed
+Opening Hours: Mo-Su 08:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7158075
+Longitude: -73.9992587
+OpenStreetMap URL: https://www.openstreetmap.org/node/8991994598
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8991994598
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

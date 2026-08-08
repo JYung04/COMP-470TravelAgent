@@ -1,0 +1,25 @@
+Name: Slurp Slurp Noodles
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2247 South Wentworth Avenue, 60616
+Description: Not listed
+Website: https://www.slurpslurpnoodles.com/
+Phone: +1-312-982-2969
+Email: Not listed
+Opening Hours: Su-Tu, Th 10:30-18:30; Fr-Sa 10:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8515082
+Longitude: -87.6318557
+OpenStreetMap URL: https://www.openstreetmap.org/node/12964893501
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12964893501
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

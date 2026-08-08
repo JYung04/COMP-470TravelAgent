@@ -1,0 +1,25 @@
+Name: Beer Spa
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: You won’t find any hands-on spa treatments at this unconventional spa. Rather, Beer Spa invites you to sip back and relax in a hot tub filled with natural beer ingredients like barley, hops and brewer’s yeast. The hot water relaxes tight muscles while vitamins and minerals help purify the skin, lock in moisture and reduce stress. Best of all, the experience includes unlimited beer on tap from local favorite Ivanhoe Park Brewing Company . Discover: Orlando Breweries
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3929731
+Longitude: -81.4657381
+OpenStreetMap URL: https://www.openstreetmap.org/way/1065535245
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1065535245
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

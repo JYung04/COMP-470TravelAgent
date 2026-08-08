@@ -1,0 +1,25 @@
+Name: de Mole
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 45-02 48th Avenue
+Description: Not listed
+Website: https://demolenyc.com/home
+Phone: +1 718-392-2161
+Email: demolerestaurant@aol.com
+Opening Hours: 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7392696
+Longitude: -73.9202773
+OpenStreetMap URL: https://www.openstreetmap.org/node/5721470367
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5721470367
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Kings Kolache
+City: NYC
+Category: cafes
+Cuisine: texan, breakfast
+Address: 321 Starr Street, 11237
+Description: Not listed
+Website: https://www.kingskolache.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 08:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7081895
+Longitude: -73.9202089
+OpenStreetMap URL: https://www.openstreetmap.org/node/9595950539
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9595950539
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

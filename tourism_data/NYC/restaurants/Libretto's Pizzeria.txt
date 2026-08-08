@@ -1,0 +1,25 @@
+Name: Libretto's Pizzeria
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: Not listed
+Description: Not listed
+Website: http://librettosnyc.com
+Phone: +1-212-213-6445
+Email: Not listed
+Opening Hours: Mo-We 09:00-23:00; Th-Fr 09:00-04:00; Sa 10:00-04:00; Su 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7472798
+Longitude: -73.9772262
+OpenStreetMap URL: https://www.openstreetmap.org/node/5254366208
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5254366208
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

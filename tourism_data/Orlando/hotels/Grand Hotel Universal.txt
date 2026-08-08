@@ -1,0 +1,25 @@
+Name: Grand Hotel Universal
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 7825 Universal Boulevard, Orlando FL 32819
+Description: Not listed
+Website: https://grandhotelorlando.com/
+Phone: +1 407 313 9999
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4514007
+Longitude: -81.464523
+OpenStreetMap URL: https://www.openstreetmap.org/way/141114077
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/141114077
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

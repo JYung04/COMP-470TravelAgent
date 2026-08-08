@@ -1,0 +1,25 @@
+Name: Saint George Library Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 5 Central Avenue, Staten Island NY 10301
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/st-george-library-center
+Phone: +1-718-442-8560
+Email: stgeorge@nypl.org
+Opening Hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-17:00; Su 13:00-17:00; PH off
+Wheelchair Accessibility: yes
+Latitude: 40.6417407
+Longitude: -74.0766976
+OpenStreetMap URL: https://www.openstreetmap.org/way/241842668
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241842668
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

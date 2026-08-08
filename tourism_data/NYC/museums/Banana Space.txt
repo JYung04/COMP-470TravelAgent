@@ -1,0 +1,25 @@
+Name: Banana Space
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1882 Linden Street, Ridgewood NY 11385
+Description: Not listed
+Website: https://banana-space.com/
+Phone: Not listed
+Email: info@banana-space.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7053632
+Longitude: -73.9072428
+OpenStreetMap URL: https://www.openstreetmap.org/node/5629537804
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5629537804
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

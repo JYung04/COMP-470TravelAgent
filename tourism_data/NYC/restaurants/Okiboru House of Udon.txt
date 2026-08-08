@@ -1,0 +1,25 @@
+Name: Okiboru House of Udon
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 124 2nd Avenue, New York NY 10003
+Description: Not listed
+Website: https://www.instagram.com/okiboru_udon/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Fr 12:00-15:00,17:00-21:00; Sa 12:00-21:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.728188
+Longitude: -73.9877361
+OpenStreetMap URL: https://www.openstreetmap.org/node/9659538027
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9659538027
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

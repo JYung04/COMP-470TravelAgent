@@ -1,0 +1,25 @@
+Name: El Asadero Colombiano
+City: Chicago
+Category: restaurants
+Cuisine: colombian
+Address: 4800 North Central Avenue, Chicago IL 60630
+Description: Not listed
+Website: https://www.elasaderocolombiano.com/
+Phone: +1 773-283-8323;+1 773-283-7588
+Email: Not listed
+Opening Hours: Su-Th 10:00-22:00; Fr-Sa 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9679347
+Longitude: -87.7676669
+OpenStreetMap URL: https://www.openstreetmap.org/node/6412876024
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6412876024
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

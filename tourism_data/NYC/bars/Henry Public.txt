@@ -1,0 +1,24 @@
+Name: Henry Public
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 329 Henry St, Brooklyn, NY 11201, United States
+Description: Not listed
+Website: https://www.henrypublic.com
+Phone: +1-718-852-8630
+Email: Not listed
+Opening Hours: Mo-Th 16:00-23:00; Fr 16:00-24:00; Sa 12:00-24:00; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6902852
+Longitude: -73.9962966
+OpenStreetMap URL: https://www.openstreetmap.org/node/6824102445
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6824102445
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

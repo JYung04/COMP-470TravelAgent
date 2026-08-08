@@ -1,0 +1,25 @@
+Name: Mango's Tropical Cafe Orlando
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: 8126 International Drive, Orlando FL 32819
+Description: Located in the heart of the International Drive Entertainment District, aka I-Drive, Mango’s Tropical Cafe offers a lavish dining experience like no other. Watch in wonder as the world-famous Mango’s Dancers perform on an Italian glass mosaic after walking past an amazing terrazzo mural. Outdoor covered patio spaces include a sidewalk cafe and a second-floor veranda, which are surrounded by the copper sculpture Mambo Bar, the mystical Samba Bar and the lovely Mermaid Bar. It’s the perfect place
+Website: https://mangos.com/mangos-orlando/
+Phone: +1-407-673-4422
+Email: info@mangos.com
+Opening Hours: Th 19:00-02:00; Fr 17:00-02:00; Sa 18:00-02:00; Su 21:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 28.448123
+Longitude: -81.4717409
+OpenStreetMap URL: https://www.openstreetmap.org/way/140619619
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/140619619
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: nightlife; art

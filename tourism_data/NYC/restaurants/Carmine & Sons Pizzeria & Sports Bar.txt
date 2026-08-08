@@ -1,0 +1,24 @@
+Name: Carmine & Sons Pizzeria & Sports Bar
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: 356 Graham Avenue, 11211
+Description: Not listed
+Website: https://www.carmineandsonspizza.com
+Phone: +1 718-782-9659
+Email: Not listed
+Opening Hours: Mo-Th 11:30-24:00; Fr, Sa 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7149179
+Longitude: -73.9442822
+OpenStreetMap URL: https://www.openstreetmap.org/node/9696064166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9696064166
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

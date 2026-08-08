@@ -1,0 +1,25 @@
+Name: Albert Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 2400 Edgewater Drive, Orlando, FL 32804
+Description: Albert Park is located on 2400 Edgewater Drive. The park has a gazebo, picnic tables and other amenities for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Albert-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5732239
+Longitude: -81.3898066
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2852289
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2852289
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

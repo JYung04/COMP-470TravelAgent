@@ -1,0 +1,24 @@
+Name: Chocolate Museum & Cafe
+City: Orlando
+Category: cafes
+Cuisine: chocolate, coffee
+Address: 11701 International Drive, 32821
+Description: Not listed
+Website: https://wocorlando.com/cafe-menu/
+Phone: +1-407-778-4871
+Email: wocorlando@gmail.com
+Opening Hours: Mo-Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3938038
+Longitude: -81.4648777
+OpenStreetMap URL: https://www.openstreetmap.org/way/1065535233
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1065535233
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

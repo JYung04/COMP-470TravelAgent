@@ -1,0 +1,25 @@
+Name: Lexington Betty Smoke House
+City: Chicago
+Category: restaurants
+Cuisine: barbecue
+Address: 756 East 111th Street, Chicago IL 60628
+Description: Lexington Betty Smokehouse Adding a soulful touch to Chicago-style grilled fare, Lexington Betty Smokehouse in Roseland is a Black woman-owned eatery that’s redefining Midwestern barbecue. Chef Dominique Leach transitioned from classical cooking to helm her own barbecue hub in her hometown. As pitmaster, she smokes a great range of meat, from chicken wings to pork shoulder, to pair with addictive side dishes like collard greens, candied yams, and corn muffins.
+Website: https://www.lexingtonbettysmokehouse.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.6931402
+Longitude: -87.6025851
+OpenStreetMap URL: https://www.openstreetmap.org/node/9139948323
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9139948323
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Trattoria Cerbone
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 71-24 Fresh Pond Road
+Description: Not listed
+Website: Not listed
+Phone: +1-718-386-4400
+Email: Not listed
+Opening Hours: Su 13:00-21:00; Tu-Th 16:00-22:00; Fr, Sa 16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7011525
+Longitude: -73.8948799
+OpenStreetMap URL: https://www.openstreetmap.org/node/5351724534
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5351724534
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

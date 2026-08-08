@@ -1,0 +1,24 @@
+Name: China Restaurant
+City: NYC
+Category: restaurants
+Cuisine: chinese, chicken
+Address: 937 Utica Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 718-498-5108
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-22:30; Su 11:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.6502411
+Longitude: -73.9300285
+OpenStreetMap URL: https://www.openstreetmap.org/node/11009510556
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11009510556
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

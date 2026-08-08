@@ -1,0 +1,25 @@
+Name: Double Crispy Bakery
+City: NYC
+Category: cafes
+Cuisine: chinese
+Address: 230 Grand Street, 10013
+Description: Not listed
+Website: Not listed
+Phone: +1 212-966-6929
+Email: Not listed
+Opening Hours: 07:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7186934
+Longitude: -73.9950879
+OpenStreetMap URL: https://www.openstreetmap.org/node/8881347704
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8881347704
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

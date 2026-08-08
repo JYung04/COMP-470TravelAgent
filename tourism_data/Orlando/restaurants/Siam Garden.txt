@@ -1,0 +1,25 @@
+Name: Siam Garden
+City: Orlando
+Category: restaurants
+Cuisine: Thai
+Address: 1111 W Webster Ave, Winter Park, FL 32789, United States
+Description: Not listed
+Website: http://www.siamgardenwinterpark.com/
+Phone: +1 407-599-7443
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6042574
+Longitude: -81.3643738
+OpenStreetMap URL: https://www.openstreetmap.org/node/9157208119
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9157208119
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

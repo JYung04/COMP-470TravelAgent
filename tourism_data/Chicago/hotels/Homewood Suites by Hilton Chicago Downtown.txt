@@ -1,0 +1,25 @@
+Name: Homewood Suites by Hilton Chicago Downtown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 40 East Grand Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chihwhw-homewood-suites-chicago-downtown/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8918953
+Longitude: -87.6262464
+OpenStreetMap URL: https://www.openstreetmap.org/way/686333247
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/686333247
+Price: Not listed
+Rating: 3.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

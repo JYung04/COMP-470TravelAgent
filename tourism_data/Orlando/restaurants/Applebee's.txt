@@ -1,0 +1,25 @@
+Name: Applebee's
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: 14990 East Orange Lake Boulevard, Kissimmee FL 34747
+Description: Not listed
+Website: https://restaurants.applebees.com/en-us/fl/kissimmee/14990-e-orange-lake-blvd-76086
+Phone: +1-407-465-5506
+Email: Not listed
+Opening Hours: Mo-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3476928
+Longitude: -81.6133825
+OpenStreetMap URL: https://www.openstreetmap.org/way/311065891
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/311065891
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Tridim West
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 467 Columbus Avenue, New York NY 10024
+Description: Not listed
+Website: https://tridimwest.com
+Phone: +1-212-585-1398
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-22:45; Sa-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7841086
+Longitude: -73.9736584
+OpenStreetMap URL: https://www.openstreetmap.org/node/6969716318
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6969716318
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

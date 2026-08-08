@@ -1,0 +1,25 @@
+Name: Pebble Beach
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: A place to sit and look at the river or launch a canoe or kayak or even go for a swim. Its fairly noisy with the subway rumbling over the nearby Manhattan Bridge
+Website: https://www.brooklynbridgepark.org/places-to-see/pebble-beach/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7043783
+Longitude: -73.9905922
+OpenStreetMap URL: https://www.openstreetmap.org/way/328253995
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/328253995
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

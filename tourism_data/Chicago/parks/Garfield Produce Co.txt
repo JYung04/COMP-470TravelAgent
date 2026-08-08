@@ -1,0 +1,25 @@
+Name: Garfield Produce Co.
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 401 North Trumbull Avenue, Chicago IL 60624
+Description: Not listed
+Website: https://www.garfieldproduce.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8887501
+Longitude: -87.7122639
+OpenStreetMap URL: https://www.openstreetmap.org/node/5157207475
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5157207475
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

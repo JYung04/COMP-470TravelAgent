@@ -1,0 +1,25 @@
+Name: Road House Restaurant
+City: NYC
+Category: restaurants
+Cuisine: Caterer, Italian
+Address: 1400 Clove Rd, Staten Island, NY 10301, United States
+Description: Not listed
+Website: http://theroadhousesi.com/
+Phone: +1 718-447-0033
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.613363
+Longitude: -74.1007268
+OpenStreetMap URL: https://www.openstreetmap.org/node/12634032973
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12634032973
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

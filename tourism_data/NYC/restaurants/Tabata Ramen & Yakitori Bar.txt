@@ -1,0 +1,25 @@
+Name: Tabata Ramen & Yakitori Bar
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 1435 2nd Avenue, 10021
+Description: Not listed
+Website: https://www.tabatanyc.com/
+Phone: +1 646-833-7977
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7706469
+Longitude: -73.9572778
+OpenStreetMap URL: https://www.openstreetmap.org/node/10982822000
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10982822000
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

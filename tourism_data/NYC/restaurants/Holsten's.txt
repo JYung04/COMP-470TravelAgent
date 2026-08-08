@@ -1,0 +1,25 @@
+Name: Holsten's
+City: NYC
+Category: restaurants
+Cuisine: ice_cream
+Address: 1063 Broad Street, Bloomfield 07003
+Description: Not listed
+Website: https://www.holstens.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-23:30; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.828289
+Longitude: -74.1867177
+OpenStreetMap URL: https://www.openstreetmap.org/node/2730315335
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2730315335
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

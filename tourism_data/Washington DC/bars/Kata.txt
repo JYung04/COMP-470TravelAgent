@@ -1,0 +1,25 @@
+Name: Kata
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Upscale cocktail bar
+Website: https://www.kata-dc.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-We 16:00-23:00; Th 16:00-24:00; Fr-Sa 16:00-02:00; Su-Mo off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8971671
+Longitude: -77.0201167
+OpenStreetMap URL: https://www.openstreetmap.org/node/12509773884
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12509773884
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

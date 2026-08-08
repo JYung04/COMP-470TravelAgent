@@ -1,0 +1,24 @@
+Name: Brownstone Pancake Factory
+City: NYC
+Category: restaurants
+Cuisine: american, italian
+Address: 717 East Palisade Avenue, Englewood Cliffs 07632
+Description: Not listed
+Website: https://www.brownstonepancakefactory.com/
+Phone: +1 201 503 0104
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-22:00; Sa 10:00-23:00; Su 10:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.8809994
+Longitude: -73.951465
+OpenStreetMap URL: https://www.openstreetmap.org/way/525052458
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/525052458
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

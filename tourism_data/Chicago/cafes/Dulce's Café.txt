@@ -1,0 +1,24 @@
+Name: Dulce's Café
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2957 East 88th Street, Chicago IL 60617
+Description: Not listed
+Website: Not listed
+Phone: +1-773-672-0839
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7354033
+Longitude: -87.5519286
+OpenStreetMap URL: https://www.openstreetmap.org/way/690817050
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/690817050
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

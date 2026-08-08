@@ -1,0 +1,24 @@
+Name: Tatte Bakery & Cafe
+City: Boston
+Category: cafes
+Cuisine: bakery, coffee_shop
+Address: 399 Boylston Street, Boston MA 02116
+Description: Not listed
+Website: https://tattebakery.com/locations/boston-back-bay/
+Phone: +1-617-366-1555
+Email: tzurit@tattebakery.com
+Opening Hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.351799
+Longitude: -71.0718774
+OpenStreetMap URL: https://www.openstreetmap.org/node/6622714485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6622714485
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

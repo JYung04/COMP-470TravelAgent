@@ -1,0 +1,25 @@
+Name: Westgate New York Grand Central Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 304 East 42nd Street, New York 10017
+Description: Not listed
+Website: https://www.westgateresorts.com/hotels/new-york/midtown-manhattan/westgate-new-york-grand-central/
+Phone: +1 212 986 8800
+Email: wgny-fdm@wgresorts.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7495001
+Longitude: -73.9718919
+OpenStreetMap URL: https://www.openstreetmap.org/node/2711712840
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2711712840
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

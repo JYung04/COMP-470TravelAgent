@@ -1,0 +1,25 @@
+Name: Octagon House
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1799 New York Avenue Northwest, Washington DC 20006
+Description: Listed in Washington, DC official data as museum / zoo. Status: ACTIVE.
+Website: https://architectsfoundation.org/octagon-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8963439
+Longitude: -77.0414324
+OpenStreetMap URL: https://www.openstreetmap.org/way/65780799
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/65780799
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Hoard Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 7201 South Dobson Avenue, Chicago IL 60619
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/hoard-edison-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7637194
+Longitude: -87.5984866
+OpenStreetMap URL: https://www.openstreetmap.org/way/135887314
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/135887314
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

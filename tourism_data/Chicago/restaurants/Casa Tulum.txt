@@ -1,0 +1,25 @@
+Name: Casa Tulum
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1700 South Michigan Avenue, Chicago IL 60616
+Description: Not listed
+Website: https://www.casatulumchicago.com/
+Phone: +1-773-759-1429
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00; Fr,Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8589458
+Longitude: -87.6241593
+OpenStreetMap URL: https://www.openstreetmap.org/node/12972298888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12972298888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

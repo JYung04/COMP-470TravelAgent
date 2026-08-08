@@ -1,0 +1,25 @@
+Name: Harry P. Leu Gardens
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: A 50-acre botanical oasis near downtown Orlando, Harry P. Leu Gardens is home to over 40 diverse plant collections from around the world, including a tropical rainforest, Florida’s largest formal rose garden and the largest documented camellia collection in Eastern North America. It’s also the site of a beautiful, 1880s-era family home, the Leu House Museum, which is listed on the National Register of Historic Places. Part of Orlando’s charming Audubon Park Garden District , Leu Gardens offers c
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5679108
+Longitude: -81.357382
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1173248
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1173248
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; gardens

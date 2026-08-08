@@ -1,0 +1,25 @@
+Name: Sa Rit Gol
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 166 Main St, Fort Lee, NJ 07024, United States
+Description: Not listed
+Website: http://www.saritgol.com/
+Phone: +1 201-944-1201
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8508222
+Longitude: -73.9686452
+OpenStreetMap URL: https://www.openstreetmap.org/node/12233725016
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12233725016
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

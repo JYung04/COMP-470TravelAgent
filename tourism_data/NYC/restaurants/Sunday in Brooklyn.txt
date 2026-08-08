@@ -1,0 +1,25 @@
+Name: Sunday in Brooklyn
+City: NYC
+Category: restaurants
+Cuisine: American, Cocktail, Event venue
+Address: 348 Wythe Ave, Brooklyn, NY 11249, United States
+Description: Not listed
+Website: http://sundayinbrooklyn.com/
+Phone: +1 347-222-6722
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7141954
+Longitude: -73.9653382
+OpenStreetMap URL: https://www.openstreetmap.org/node/4848257934
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4848257934
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

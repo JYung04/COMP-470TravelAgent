@@ -1,0 +1,25 @@
+Name: Sabrosura Mexican Restaurant
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 29-12 36th Avenue, Astoria 11106
+Description: Not listed
+Website: https://sabrosuramexicana.com
+Phone: +1 718-433-4541
+Email: Not listed
+Opening Hours: Mo-Su 06:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7570898
+Longitude: -73.9311189
+OpenStreetMap URL: https://www.openstreetmap.org/node/2846995279
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2846995279
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

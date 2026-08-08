@@ -1,0 +1,25 @@
+Name: Lookingglass Theatre Company
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://lookingglasstheatre.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8971267
+Longitude: -87.623589
+OpenStreetMap URL: https://www.openstreetmap.org/way/1284267230
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1284267230
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

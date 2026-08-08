@@ -1,0 +1,25 @@
+Name: Thia Basil
+City: Orlando
+Category: restaurants
+Cuisine: thai
+Address: 5800 Red Bug Lake Road, Winter Springs FL 32708
+Description: Not listed
+Website: https://www.thaibasil.org/
+Phone: +1 407-699-8889
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-2:30 open "lunch" || Mo-Th17:30-21:30 open "Dinner" || Fr-Sa 17:00-22:00 open "Dinner"; Su closed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6489184
+Longitude: -81.2684986
+OpenStreetMap URL: https://www.openstreetmap.org/node/3936724894
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3936724894
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

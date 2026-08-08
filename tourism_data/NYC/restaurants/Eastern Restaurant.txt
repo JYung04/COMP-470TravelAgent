@@ -1,0 +1,25 @@
+Name: Eastern Restaurant
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-718-479-8004
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-21:30; Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7146254
+Longitude: -73.7518988
+OpenStreetMap URL: https://www.openstreetmap.org/node/5134078517
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5134078517
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

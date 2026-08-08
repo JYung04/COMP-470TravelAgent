@@ -1,0 +1,24 @@
+Name: Akahoshi Ramen
+City: Chicago
+Category: restaurants
+Cuisine: japanese, ramen
+Address: 2340 North California Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.akahoshiramen.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9240374
+Longitude: -87.6975828
+OpenStreetMap URL: https://www.openstreetmap.org/node/11505059040
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11505059040
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

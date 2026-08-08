@@ -1,0 +1,25 @@
+Name: Alulu Brewery & Pub
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2011 South Laflin Street, Chicago IL 60608
+Description: Not listed
+Website: http://www.alulubrew.com/
+Phone: +1-312-600-9865
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8547478
+Longitude: -87.663475
+OpenStreetMap URL: https://www.openstreetmap.org/node/5791054158
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5791054158
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

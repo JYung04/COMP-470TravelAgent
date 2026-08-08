@@ -1,0 +1,24 @@
+Name: Lupo Marino
+City: Washington DC
+Category: restaurants
+Cuisine: pizza, italian, italian_pizza, pasta
+Address: 40 Pearl Street Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.lupomarinodc.com/
+Phone: +1 202-506-1306
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8789596
+Longitude: -77.0240959
+OpenStreetMap URL: https://www.openstreetmap.org/node/8691887365
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8691887365
+Price: $
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

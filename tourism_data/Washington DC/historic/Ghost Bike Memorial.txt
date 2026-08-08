@@ -1,0 +1,25 @@
+Name: Ghost Bike Memorial
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Ghost bike memorial for an unidentified cyclist who was killed by a driver on Eastern Ave NE on July 4, 2023.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9018287
+Longitude: -76.9209396
+OpenStreetMap URL: https://www.openstreetmap.org/node/11044316319
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11044316319
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

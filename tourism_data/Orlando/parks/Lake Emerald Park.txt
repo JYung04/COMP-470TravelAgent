@@ -1,0 +1,25 @@
+Name: Lake Emerald Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 1016 Lake Weldona Dr, Orlando, FL 32806
+Description: Lake Emerald Park is located on 1016 Lake Weldona Drive.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Emerald-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5301952
+Longitude: -81.3627538
+OpenStreetMap URL: https://www.openstreetmap.org/way/69559331
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/69559331
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

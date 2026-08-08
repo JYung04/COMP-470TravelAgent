@@ -1,0 +1,25 @@
+Name: Sushi World
+City: Chicago
+Category: restaurants
+Cuisine: sushi
+Address: 6251 North McCormick Road, Chicago IL 60659
+Description: Not listed
+Website: http://sushiworldchicago.com/
+Phone: +1 773 977 7189
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9951859
+Longitude: -87.7125119
+OpenStreetMap URL: https://www.openstreetmap.org/node/10068085447
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10068085447
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

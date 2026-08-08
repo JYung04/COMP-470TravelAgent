@@ -1,0 +1,25 @@
+Name: Lewis Howard Latimer House Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 34-41 137th Street, Flushing NY 11354
+Description: Not listed
+Website: https://historichousetrust.org/
+Phone: +1-718-961-8585
+Email: Not listed
+Opening Hours: Mo,Tu,Th,Sa off; We,Fr 12:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7660962
+Longitude: -73.829377
+OpenStreetMap URL: https://www.openstreetmap.org/way/284617356
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284617356
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

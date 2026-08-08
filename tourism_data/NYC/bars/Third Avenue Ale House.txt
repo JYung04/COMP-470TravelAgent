@@ -1,0 +1,24 @@
+Name: Third Avenue Ale House
+City: NYC
+Category: bars
+Cuisine: american
+Address: 1644 3rd Avenue, 10128
+Description: Not listed
+Website: https://www.thirdavealehousenyc.com/
+Phone: +1-646-559-9131
+Email: Not listed
+Opening Hours: Mo-Th 14:00-01:00; Fr-Sa 12:00-03:00; Su 12:00-01:00
+Wheelchair Accessibility: yes
+Latitude: 40.7827926
+Longitude: -73.9513056
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978510506
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978510506
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

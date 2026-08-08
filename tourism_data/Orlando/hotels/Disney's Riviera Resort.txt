@@ -1,0 +1,25 @@
+Name: Disney's Riviera Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: Esplanade Avenue, Lake Buena Vista FL 32830
+Description: Escape to the French and Italian Riviera at one of the newest additions to the Disney Resorts Collection, Disney’s Riviera Resort. Timeless and elegant, the resort boasts a unique art collection honoring beloved Disney characters and icons, including two enormous mosaics depicting scenes from Disney animated classics Tangled and Peter Pan . Furthering your sense of la bonne vie , Disney’s Riviera Resort boasts a tranquil Beau Soleil garden pool, a colorful Riviera Pool with a 2-story waterslide,
+Website: https://disneyworld.disney.go.com/resorts/riviera-resort/
+Phone: +1-407-828-7030
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3668334
+Longitude: -81.5418689
+OpenStreetMap URL: https://www.openstreetmap.org/way/806364921
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/806364921
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art; gardens

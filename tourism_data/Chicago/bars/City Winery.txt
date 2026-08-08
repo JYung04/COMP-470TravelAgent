@@ -1,0 +1,25 @@
+Name: City Winery
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1200 West Randolph Street, Chicago IL 60607
+Description: This outdoor wine garden has it all — wine on tap, artisanal cheese plates, beer, cocktails, a full food menu, and sweeping views of the Chicago River. At City Winery at the Chicago Riverwalk , you can sip on a glass of Riverwalk white, specialty cocktails, and local draft beers. Grab a table or order at the walk-up bar, then kick back and watch the boats drift past the iconic Marina Towers. City Winery
+Website: https://www.citywinery.com/chicago/
+Phone: +1-312-733-9463
+Email: Not listed
+Opening Hours: Su-We 11:00-22:00; Th-Sa 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8846427
+Longitude: -87.6572429
+OpenStreetMap URL: https://www.openstreetmap.org/way/210269727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210269727
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art; views

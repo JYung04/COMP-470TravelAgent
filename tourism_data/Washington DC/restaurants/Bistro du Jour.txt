@@ -1,0 +1,24 @@
+Name: Bistro du Jour
+City: Washington DC
+Category: restaurants
+Cuisine: french, bistro, coffee, bakery
+Address: 99 District Square Southwest, Washington DC 20024
+Description: All-day Parisian bistro serving traditional French fare, featuring live jazz every Sunday.
+Website: https://bistro-dujour.com/
+Phone: +1 202-984-7400
+Email: info@bistro-dujour.com
+Opening Hours: Mo-Th 08:00-21:00; Fr-Sa 08:00-22:00; Su 08:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 38.8795506
+Longitude: -77.025414
+OpenStreetMap URL: https://www.openstreetmap.org/node/9278919529
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9278919529
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

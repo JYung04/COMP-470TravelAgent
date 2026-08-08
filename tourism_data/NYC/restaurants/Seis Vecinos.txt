@@ -1,0 +1,24 @@
+Name: Seis Vecinos
+City: NYC
+Category: restaurants
+Cuisine: honduran, mexican
+Address: 640 Prospect Avenue, Bronx NY 10455
+Description: Not listed
+Website: https://www.seisvecinos.com/
+Phone: +1 718 684 8604
+Email: info@seisvecinos.com
+Opening Hours: Mo-Su 09:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8153204
+Longitude: -73.9031697
+OpenStreetMap URL: https://www.openstreetmap.org/node/2799974187
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2799974187
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

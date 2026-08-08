@@ -1,0 +1,25 @@
+Name: Don Pollo
+City: NYC
+Category: restaurants
+Cuisine: peruvian
+Address: 100-05 Metropolitan Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 718 575 0041
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.71091
+Longitude: -73.8529664
+OpenStreetMap URL: https://www.openstreetmap.org/node/13005426191
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13005426191
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

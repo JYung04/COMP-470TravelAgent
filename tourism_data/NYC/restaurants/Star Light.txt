@@ -1,0 +1,25 @@
+Name: Star Light
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-718-505-8800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7650585
+Longitude: -73.8888353
+OpenStreetMap URL: https://www.openstreetmap.org/way/281391733
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/281391733
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

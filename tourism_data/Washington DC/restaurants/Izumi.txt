@@ -1,0 +1,24 @@
+Name: Izumi
+City: Washington DC
+Category: restaurants
+Cuisine: japanese, sushi, ramen
+Address: 1832 Columbia Road Northwest, Washington DC 20009-2002
+Description: Not listed
+Website: https://www.izumi1832.com/
+Phone: +1-202-355-7700
+Email: Not listed
+Opening Hours: Mo 11:00-22:00; Tu off; We 11:00-22:00; Fr,Sa 11:00-22:30; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.921784
+Longitude: -77.043138
+OpenStreetMap URL: https://www.openstreetmap.org/node/6942961844
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6942961844
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

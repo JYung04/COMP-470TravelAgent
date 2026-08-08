@@ -1,0 +1,24 @@
+Name: Mangia Bene La Botegga
+City: NYC
+Category: restaurants
+Cuisine: pizza, italian
+Address: 624 Middle Neck Road, Great Neck NY 11023
+Description: Not listed
+Website: https://www.labottegamangiabeneristorante.com/
+Phone: +1-516-482-3335
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8033932
+Longitude: -73.7361351
+OpenStreetMap URL: https://www.openstreetmap.org/way/613566916
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/613566916
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

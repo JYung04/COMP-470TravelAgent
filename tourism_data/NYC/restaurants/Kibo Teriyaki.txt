@@ -1,0 +1,24 @@
+Name: Kibo Teriyaki
+City: NYC
+Category: restaurants
+Cuisine: asian, japanese
+Address: 527 Merrick Road, Valley Stream NY
+Description: Not listed
+Website: Not listed
+Phone: +1-516-612-7888
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6700716
+Longitude: -73.7163822
+OpenStreetMap URL: https://www.openstreetmap.org/node/6241723988
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6241723988
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

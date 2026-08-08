@@ -1,0 +1,25 @@
+Name: Roxbury Heritage State Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 183 Roxbury Street
+Description: Roxbury Heritage State Park is a history-themed heritage park in the oldest part of Roxbury, a former town annexed in 1868 by Boston, Massachusetts. It is anchored by the Dillaway–Thomas House, a large colonial structure built in 1750 and thought to be the oldest surviving house in Roxbury. The location includes an adjacent 1-acre (0.40 ha) landscaped park with views of the Boston skyline, and is part of the Metropolitan Park System of Greater Boston.
+Website: https://www.mass.gov/locations/roxbury-heritage-state-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3307127
+Longitude: -71.0900823
+OpenStreetMap URL: https://www.openstreetmap.org/way/127381925
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/127381925
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; views

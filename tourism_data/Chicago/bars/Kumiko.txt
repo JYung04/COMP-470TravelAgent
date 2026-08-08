@@ -1,0 +1,25 @@
+Name: Kumiko
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 630 West Lake Street, Chicago IL 60661
+Description: Not listed
+Website: https://barkumiko.com/
+Phone: +1-312-285-2912
+Email: Not listed
+Opening Hours: We-Su 17:30-24:00
+Wheelchair Accessibility: no
+Latitude: 41.8858683
+Longitude: -87.6440648
+OpenStreetMap URL: https://www.openstreetmap.org/node/9837527417
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9837527417
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

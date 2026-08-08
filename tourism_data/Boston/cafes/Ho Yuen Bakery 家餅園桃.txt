@@ -1,0 +1,25 @@
+Name: Ho Yuen Bakery 家餅園桃
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 54 Beach Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 42.3514769
+Longitude: -71.0606021
+OpenStreetMap URL: https://www.openstreetmap.org/node/8714685478
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8714685478
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Mr C’s Midway Bar
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4654 West 63rd Street, Chicago IL 60629
+Description: Not listed
+Website: Not listed
+Phone: +1-773-582-0833
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7786634
+Longitude: -87.739553
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322996165
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322996165
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

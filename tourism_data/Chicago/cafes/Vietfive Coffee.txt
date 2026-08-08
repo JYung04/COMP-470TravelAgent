@@ -1,0 +1,24 @@
+Name: Vietfive Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop, vietnamese
+Address: 1116 West Madison Street, Chicago IL 60607
+Description: Not listed
+Website: https://vietfive.com/
+Phone: +1-312-929-4732
+Email: team@vietfive.com
+Opening Hours: Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 41.8817986
+Longitude: -87.6550926
+OpenStreetMap URL: https://www.openstreetmap.org/node/10971474405
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10971474405
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

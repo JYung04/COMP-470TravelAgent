@@ -1,0 +1,25 @@
+Name: Thai Pastry Cafe and Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 1113 West Argyle Street, Chicago IL 60640
+Description: Not listed
+Website: http://www.thaipastry.com/
+Phone: +1 773-784-5399
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.97316
+Longitude: -87.6583183
+OpenStreetMap URL: https://www.openstreetmap.org/node/7152419170
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7152419170
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

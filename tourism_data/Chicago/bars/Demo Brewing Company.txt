@@ -1,0 +1,25 @@
+Name: Demo Brewing Company
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1763 West Berteau Avenue, Chicago IL 60613
+Description: Not listed
+Website: https://demobrewery.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9576655
+Longitude: -87.673239
+OpenStreetMap URL: https://www.openstreetmap.org/node/11712372629
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11712372629
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

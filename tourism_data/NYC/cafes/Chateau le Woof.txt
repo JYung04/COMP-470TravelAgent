@@ -1,0 +1,25 @@
+Name: Chateau le Woof
+City: NYC
+Category: cafes
+Cuisine: french
+Address: 31-01 Vernon Boulevard, 11106
+Description: Not listed
+Website: https://www.chateaulewoof.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7689891
+Longitude: -73.9356112
+OpenStreetMap URL: https://www.openstreetmap.org/node/5763904853
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5763904853
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

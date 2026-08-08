@@ -1,0 +1,25 @@
+Name: Bushwick Inlet Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 50 Kent Avenue
+Description: Bushwick Inlet Park is a public park in the Williamsburg neighborhood of Brooklyn, New York City. The park currently consists of two non-contiguous sections along the East River and is eventually planned to reach into Greenpoint at Quay Street. The park is named for the nearby Bushwick Inlet, which it is planned to encompass upon completion.
+Website: https://www.nycgovparks.org/planning-and-building/capital-project-tracker/project/8955
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7232104
+Longitude: -73.9596926
+OpenStreetMap URL: https://www.openstreetmap.org/way/1028241522
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1028241522
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

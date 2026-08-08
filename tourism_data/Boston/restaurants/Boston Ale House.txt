@@ -1,0 +1,25 @@
+Name: Boston Ale House
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: 1885, 02132
+Description: Not listed
+Website: https://bostonalehousegroup.com/
+Phone: +1 617-477-3298
+Email: info@bostonalehousegroup.com
+Opening Hours: Sa-Su 11:00-22:00; Mo-We 15:00-22:00; Th 15:00-23:00; Fr 11:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.28587
+Longitude: -71.1559048
+OpenStreetMap URL: https://www.openstreetmap.org/node/12162168001
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12162168001
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Greene Turtle
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1237 1st Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://thegreeneturtle.com/location/washingtondc/
+Phone: +1-202-629-1784
+Email: Not listed
+Opening Hours: Su-Th 11:00-01:00; Fr-Sa 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.875687
+Longitude: -77.006164
+OpenStreetMap URL: https://www.openstreetmap.org/node/4936227050
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4936227050
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

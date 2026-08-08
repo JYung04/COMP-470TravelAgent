@@ -1,0 +1,25 @@
+Name: Taqueria Mexicana
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 605 West Lake Street, Chicago IL 60661
+Description: Not listed
+Website: https://taqueriachi.com/
+Phone: +1-773-842-3358
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-20:00; Sa 10:30-16:00
+Wheelchair Accessibility: yes
+Latitude: 41.885526
+Longitude: -87.6430092
+OpenStreetMap URL: https://www.openstreetmap.org/node/11673117988
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11673117988
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Area 53 Laser Tag
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 53 Bridge Street, 11201
+Description: Not listed
+Website: https://area53nyc.com/dumbo/
+Phone: +1-347-305-7448
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7027248
+Longitude: -73.9845511
+OpenStreetMap URL: https://www.openstreetmap.org/node/13296626424
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13296626424
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

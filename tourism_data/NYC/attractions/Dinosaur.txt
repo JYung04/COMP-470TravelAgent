@@ -1,0 +1,25 @@
+Name: Dinosaur
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: A space for rotating, large contemporary art commissions. Artworks are in place for 18 months.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7520679
+Longitude: -74.0010071
+OpenStreetMap URL: https://www.openstreetmap.org/node/9421123767
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9421123767
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing; art

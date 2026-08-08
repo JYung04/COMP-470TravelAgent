@@ -1,0 +1,25 @@
+Name: Lawlor's Bar
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 6854 West Archer Avenue, Chicago IL 60638
+Description: Not listed
+Website: https://lawlorsbar.com/
+Phone: +1-773-229-2277
+Email: Not listed
+Opening Hours: Tu-Su 15:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7923738
+Longitude: -87.7937307
+OpenStreetMap URL: https://www.openstreetmap.org/node/6326506182
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6326506182
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

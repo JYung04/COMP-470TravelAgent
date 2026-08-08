@@ -1,0 +1,25 @@
+Name: Hart's
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 506 Franklin Ave, Brooklyn, NY 11238, United States
+Description: Not listed
+Website: https://www.hartsbrooklyn.com
+Phone: +1-718-636-6228
+Email: Not listed
+Opening Hours: Tu-Sa 17:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6814612
+Longitude: -73.9558777
+OpenStreetMap URL: https://www.openstreetmap.org/node/3808851732
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3808851732
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

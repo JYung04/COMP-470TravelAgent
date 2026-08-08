@@ -1,0 +1,25 @@
+Name: Gideon‘s Bakehouse
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 1600 East Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Shop sinfully delicious treats in an antique Victorian setting at Gideon’s Bakehouse, which has two Orlando locations to satisfy your darkest culinary desires. From towering cakes and nearly half-pound cookies to curious commodities and otherworldly cold brew (available only at Disney Springs ®), this is one stop you won’t want to miss. Stop by the original walk-up inside East End Market , part of the Audubon Park Garden District , or visit the much larger flagship store at Disney Springs for th
+Website: https://gideonsbakehouse.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-We 10:00-22:00; Th-Sa 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3711541
+Longitude: -81.5181205
+OpenStreetMap URL: https://www.openstreetmap.org/node/8677080117
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8677080117
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art; gardens

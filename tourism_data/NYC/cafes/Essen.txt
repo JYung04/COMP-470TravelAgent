@@ -1,0 +1,25 @@
+Name: Essen
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 519 8th Avenue, 10018
+Description: Not listed
+Website: Not listed
+Phone: +1 212-290-1515
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7534341
+Longitude: -73.9928127
+OpenStreetMap URL: https://www.openstreetmap.org/node/8669227466
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8669227466
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

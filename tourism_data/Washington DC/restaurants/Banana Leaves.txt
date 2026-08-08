@@ -1,0 +1,25 @@
+Name: Banana Leaves
+City: Washington DC
+Category: restaurants
+Cuisine: asian
+Address: 2020 Florida Avenue Northwest, Washington DC 20009
+Description: Not listed
+Website: https://www.mybananaleaves.com/
+Phone: +1 202-986-1333
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 38.9144873
+Longitude: -77.0455899
+OpenStreetMap URL: https://www.openstreetmap.org/node/737066426
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737066426
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

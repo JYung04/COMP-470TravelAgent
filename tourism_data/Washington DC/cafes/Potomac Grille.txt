@@ -1,0 +1,25 @@
+Name: Potomac Grille
+City: Washington DC
+Category: cafes
+Cuisine: american
+Address: 972 Ohio Drive Southwest, Washington DC 20024-2002
+Description: Not listed
+Website: Not listed
+Phone: +1 202-554-7660
+Email: Not listed
+Opening Hours: Mo-Su 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8745514
+Longitude: -77.0267781
+OpenStreetMap URL: https://www.openstreetmap.org/node/661500759
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/661500759
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

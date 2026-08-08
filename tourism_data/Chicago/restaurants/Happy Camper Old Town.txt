@@ -1,0 +1,25 @@
+Name: Happy Camper Old Town
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 1209 North Wells Street, Chicago IL 60610
+Description: Not listed
+Website: http://www.happycamperchicago.com
+Phone: +1-312-344-1634
+Email: Not listed
+Opening Hours: Mo-We 11:00-23:00; Th 11:00-11:30; Fr 11:00-01:00; Sa 10:00-01:00; Su 10:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9042068
+Longitude: -87.6342984
+OpenStreetMap URL: https://www.openstreetmap.org/node/6280019306
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6280019306
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

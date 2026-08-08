@@ -1,0 +1,25 @@
+Name: The Hideout
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1354 West Wabansia Avenue, Chicago IL 60642
+Description: The Hideout Everyone’s welcome at The Hideout . A true community bar, this tiny venue’s welcoming feel and eclectic events have earned it a legion of loyal regulars. Tucked inside a 100-year-old house, you might walk right by if not for the beer sign hanging above the door (and the crowd starting to form in the front yard). On any given night, you could see a live podcast recording on the intimate stage or a punk rock show on the front porch.
+Website: https://www.hideoutchicago.com/
+Phone: +1-773-227-4433
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.9139157
+Longitude: -87.6626385
+OpenStreetMap URL: https://www.openstreetmap.org/node/6315597292
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6315597292
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

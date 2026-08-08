@@ -1,0 +1,25 @@
+Name: Horatio Harris Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 85 Harold Street
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Roxbury. Covers approximately 2.5 acres. Also known as Fountain Square, Fountain Park.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3186118
+Longitude: -71.0900288
+OpenStreetMap URL: https://www.openstreetmap.org/way/29836041
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29836041
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

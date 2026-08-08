@@ -1,0 +1,25 @@
+Name: Il Canale
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 1065 31st Street Northwest, Washington DC 20007
+Description: Not listed
+Website: https://ilcanale.com/
+Phone: +1-202-337-4444
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9044854
+Longitude: -77.0610221
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272439
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272439
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

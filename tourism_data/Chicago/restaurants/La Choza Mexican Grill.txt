@@ -1,0 +1,25 @@
+Name: La Choza Mexican Grill
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 7022 North Clark Street, Chicago IL 60626
+Description: Not listed
+Website: Not listed
+Phone: +1-773-465-2162
+Email: Not listed
+Opening Hours: Su-Th 10:00-00:00;Fr-Sa 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.0097145
+Longitude: -87.6744344
+OpenStreetMap URL: https://www.openstreetmap.org/node/6412792357
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6412792357
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

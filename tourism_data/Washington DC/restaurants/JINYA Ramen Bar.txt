@@ -1,0 +1,25 @@
+Name: JINYA Ramen Bar
+City: Washington DC
+Category: restaurants
+Cuisine: ramen
+Address: 675 Wharf Street Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.jinyaramenbar.com/locations/wharf/
+Phone: +1 202-217-4757
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8775437
+Longitude: -77.0228153
+OpenStreetMap URL: https://www.openstreetmap.org/node/9914470410
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9914470410
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

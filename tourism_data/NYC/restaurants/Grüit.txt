@@ -1,0 +1,25 @@
+Name: Grüit
+City: NYC
+Category: restaurants
+Cuisine: eastern_european
+Address: 252 Empire Boulevard, 11225
+Description: Not listed
+Website: https://www.gruitbk.com
+Phone: +1-347-846-0622
+Email: Not listed
+Opening Hours: Mo-Th,Su 18:00-23:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.6634593
+Longitude: -73.9536681
+OpenStreetMap URL: https://www.openstreetmap.org/way/250170749
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250170749
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

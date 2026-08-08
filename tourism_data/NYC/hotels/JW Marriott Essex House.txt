@@ -1,0 +1,25 @@
+Name: JW Marriott Essex House
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 160 Central Park South, New York 10019
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/nycex-jw-marriott-essex-house-new-york/
+Phone: +1-888-236-2427
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7661722
+Longitude: -73.9785114
+OpenStreetMap URL: https://www.openstreetmap.org/way/265147735
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265147735
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

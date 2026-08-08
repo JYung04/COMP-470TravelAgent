@@ -1,0 +1,25 @@
+Name: John F. Andrew House
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 32 Hereford Street, Boston MA 02115
+Description: Not listed
+Website: https://backbayhouses.org/32-hereford/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3502094
+Longitude: -71.0861381
+OpenStreetMap URL: https://www.openstreetmap.org/way/405394938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/405394938
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

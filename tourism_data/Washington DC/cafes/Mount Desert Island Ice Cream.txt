@@ -1,0 +1,25 @@
+Name: Mount Desert Island Ice Cream
+City: Washington DC
+Category: cafes
+Cuisine: Desserts, Vegetarian, Coffee and Tea, Healthy
+Address: 3110 Mount Pleasant Street Northwest, Washington DC
+Description: Not listed
+Website: https://www.fearlessflavor.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 14:00-21:30; Fr-Sa 12:00-22:00; Su 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9292033
+Longitude: -77.0377631
+OpenStreetMap URL: https://www.openstreetmap.org/node/11265325020
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11265325020
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

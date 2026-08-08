@@ -1,0 +1,25 @@
+Name: Gotham Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 1443 York Avenue, New York NY 10021
+Description: Not listed
+Website: https://www.gothampizzany.com
+Phone: +1-212-288-8085
+Email: Not listed
+Opening Hours: Mo-Su 10:30-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7699155
+Longitude: -73.9517326
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978510502
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978510502
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

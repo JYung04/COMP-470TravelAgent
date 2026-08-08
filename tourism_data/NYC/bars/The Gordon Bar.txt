@@ -1,0 +1,25 @@
+Name: The Gordon Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 60 Thompson Street
+Description: Not listed
+Website: https://www.thegordonbar.com/
+Phone: +1-212-219-3200
+Email: events@mercerstreethospitality.com
+Opening Hours: Mo-Su 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7239715
+Longitude: -74.003139
+OpenStreetMap URL: https://www.openstreetmap.org/node/5515185730
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5515185730
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

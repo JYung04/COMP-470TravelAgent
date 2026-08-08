@@ -1,0 +1,25 @@
+Name: The Hugh
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 157 East 53rd Street, 10022
+Description: Not listed
+Website: https://www.thehughnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-21:00, Mo-Su 07:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7583874
+Longitude: -73.9702549
+OpenStreetMap URL: https://www.openstreetmap.org/node/11922630169
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11922630169
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Albert Einstein Memorial
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The Albert Einstein Memorial is a monumental bronze statue by sculptor Robert Berks, depicting Albert Einstein seated with manuscript papers in hand. It is located in central Washington, D.C., United States, in a grove of trees at the southwest corner of the grounds of the National Academy of Sciences at 2101 Constitution Avenue N.W., near the Vietnam Veterans Memorial. Two replicas exist at the Israel Academy of Sciences and Humanities and the Georgia Institute of Technology.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8923968
+Longitude: -77.0484445
+OpenStreetMap URL: https://www.openstreetmap.org/node/358959416
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358959416
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

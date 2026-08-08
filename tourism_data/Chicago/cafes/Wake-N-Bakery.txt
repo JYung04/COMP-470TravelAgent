@@ -1,0 +1,25 @@
+Name: Wake-N-Bakery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3508 North Broadway, Chicago IL 60657
+Description: Not listed
+Website: https://wakenbakery.net
+Phone: +1 773-857-1059
+Email: Not listed
+Opening Hours: Mo-Tu, We-Su 08:00-20:00; Fr-Sa 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9456745
+Longitude: -87.6463977
+OpenStreetMap URL: https://www.openstreetmap.org/node/11227975990
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11227975990
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

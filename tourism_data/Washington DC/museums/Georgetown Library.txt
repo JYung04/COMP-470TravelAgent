@@ -1,0 +1,25 @@
+Name: Georgetown Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 3260 R Street Northwest, Washington DC
+Description: The Georgetown Neighborhood Library is a branch of the District of Columbia Public Library located in the Georgetown neighborhood of Washington, D.C. Established by an Act of Congress in 1934, the library houses the collection of its predecessor Peabody Library, which was founded in 1872 by a donation of George Peabody. The library opened in 1935 upon completion of the building, designed by Nathan C. Wyeth in the Colonial Revival style. It holds the only collection of materials relating to Georgetown's history in the public library system.
+Website: https://www.dclibrary.org/plan-visit/georgetown-library
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9133985
+Longitude: -77.0660199
+OpenStreetMap URL: https://www.openstreetmap.org/way/66692910
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66692910
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

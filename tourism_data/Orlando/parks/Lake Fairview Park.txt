@@ -1,0 +1,25 @@
+Name: Lake Fairview Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 2200 Lee Road, Orlando, FL 32810
+Description: Lake Fairview Park is a great space for those who enjoy a walk along the water.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Fairview-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5981277
+Longitude: -81.4145249
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1178022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1178022
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

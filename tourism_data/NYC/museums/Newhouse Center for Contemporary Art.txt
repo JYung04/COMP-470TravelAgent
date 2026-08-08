@@ -1,0 +1,25 @@
+Name: Newhouse Center for Contemporary Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10301
+Description: Snug Harbor is an 83-acre (34 ha) campus containing more than two dozen architecturally significant buildings set along the Kill Van Kull on the North Shore of Staten Island in New York City, New York, US. It functioned as Sailors' Snug Harbor, a retirement home for sailors, during the 19th and 20th centuries. Since 1976, the buildings and grounds have been managed by Snug Harbor Cultural Center and Botanical Garden as a cultural center complex and used by various cultural and arts organizations. The entire complex is a National Historic Landmark district, and several structures are New York City designated landmarks.
+Website: https://snug-harbor.org/newhousecenter/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6443808
+Longitude: -74.102099
+OpenStreetMap URL: https://www.openstreetmap.org/node/424048146
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/424048146
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art; gardens

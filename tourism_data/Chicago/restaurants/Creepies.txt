@@ -1,0 +1,25 @@
+Name: Creepies
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1360 West Randolph Street
+Description: Not listed
+Website: https://www.creepieschicago.com
+Phone: +1 312-579-2727
+Email: info@creepieschicago.com
+Opening Hours: Mo-Tu off; We-Su 11:00-14:00,17:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8844145
+Longitude: -87.6611872
+OpenStreetMap URL: https://www.openstreetmap.org/node/13731089939
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13731089939
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

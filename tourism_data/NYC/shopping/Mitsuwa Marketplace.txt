@@ -1,0 +1,25 @@
+Name: Mitsuwa Marketplace
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 595 River Road, 07020
+Description: large selection of Japanese and other imported groceries, alcohol, and housewares, marketplace with various vendors, food court
+Website: https://mitsuwa.com/nj/
+Phone: +1-201-941-9113
+Email: Not listed
+Opening Hours: Mo-Su 09:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.815975
+Longitude: -73.9799566
+OpenStreetMap URL: https://www.openstreetmap.org/way/163332643
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163332643
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

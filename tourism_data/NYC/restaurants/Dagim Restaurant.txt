@@ -1,0 +1,25 @@
+Name: Dagim Restaurant
+City: NYC
+Category: restaurants
+Cuisine: Kosher
+Address: 8 Bond Street, Great Neck NY 11021
+Description: Not listed
+Website: http://dagimrestaurant.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Dagim%20Restaurant
+Phone: +1 516-588-6385
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.788062
+Longitude: -73.7276259
+OpenStreetMap URL: https://www.openstreetmap.org/node/7196216932
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7196216932
+Price: Not listed
+Rating: 4.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

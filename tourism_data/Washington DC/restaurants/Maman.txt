@@ -1,0 +1,25 @@
+Name: Maman
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 7140 Bethesda Lane
+Description: Not listed
+Website: https://mamannyc.com/locations/foggy-bottom
+Phone: +1-202-516-4872
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9818494
+Longitude: -77.0979722
+OpenStreetMap URL: https://www.openstreetmap.org/node/1323152133
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1323152133
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: I Love Paraguay
+City: NYC
+Category: restaurants
+Cuisine: paraguayan
+Address: 43-16 Greenpoint Avenue, 11104
+Description: Not listed
+Website: https://www.ilovepy.com
+Phone: +1 718-786-5534
+Email: ilovepyrestaurant@hotmail.com
+Opening Hours: Mo-Fr, Su 11:00-22:00; Sa, Su 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7410168
+Longitude: -73.9214463
+OpenStreetMap URL: https://www.openstreetmap.org/node/10996864805
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10996864805
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

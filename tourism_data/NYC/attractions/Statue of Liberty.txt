@@ -1,0 +1,25 @@
+Name: Statue of Liberty
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 10004
+Description: The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City. The copper statue, a gift from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi.
+Website: https://www.nps.gov/stli/index.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.6892395
+Longitude: -74.0445353
+OpenStreetMap URL: https://www.openstreetmap.org/way/32965412
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/32965412
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: statue of liberty
+Best For: sightseeing; art

@@ -1,0 +1,25 @@
+Name: Bistango
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 145 East 50th Street, New York NY 10022
+Description: Not listed
+Website: https://www.bistangonyc.com/kimberly
+Phone: +12128884121
+Email: Not listed
+Opening Hours: Mo-Fr 00:00-16:00, Su-We 16:00-21:00, Th-Sa 16:00-22:00, Sa,Su 11:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7563844
+Longitude: -73.9713268
+OpenStreetMap URL: https://www.openstreetmap.org/node/11053422057
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11053422057
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Corner 28
+City: NYC
+Category: restaurants
+Cuisine: asian, chinese
+Address: 135-24 40th Road, Flushing NY 11354
+Description: Not listed
+Website: Not listed
+Phone: +1-718-886-6628
+Email: Not listed
+Opening Hours: Mo-Su 06:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7585823
+Longitude: -73.8306664
+OpenStreetMap URL: https://www.openstreetmap.org/node/7292366579
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7292366579
+Price: Not listed
+Rating: 3.8
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

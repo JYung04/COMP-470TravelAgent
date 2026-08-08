@@ -1,0 +1,24 @@
+Name: Lobstah on a Roll
+City: Boston
+Category: restaurants
+Cuisine: seafood, lobster
+Address: 254 Newbury Street, Boston MA 02116
+Description: Not listed
+Website: https://www.lobstahonaroll.com/
+Phone: +1-617-431-2284
+Email: lobstahrollma@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3493147
+Longitude: -71.082737
+OpenStreetMap URL: https://www.openstreetmap.org/node/7542547671
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7542547671
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Mojo Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 330 North Wabash Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://us.mojo.coffee/collections/locations/products/30-north-wabash-street-river-north-ama-plaza
+Phone: +1-312-661-7000
+Email: Not listed
+Opening Hours: Mo-Fr 08:30-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8884921
+Longitude: -87.627433
+OpenStreetMap URL: https://www.openstreetmap.org/node/11261582489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11261582489
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

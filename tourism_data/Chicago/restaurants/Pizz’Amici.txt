@@ -1,0 +1,25 @@
+Name: Pizz’Amici
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 1215 West Grand Avenue, Chicago IL 60642
+Description: Not listed
+Website: https://www.pizz-amici.com
+Phone: +1-312-285-2382
+Email: holler@pizz-amici.com
+Opening Hours: We-Su 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8909072
+Longitude: -87.6580555
+OpenStreetMap URL: https://www.openstreetmap.org/node/13099684895
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13099684895
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

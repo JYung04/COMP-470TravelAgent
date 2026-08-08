@@ -1,0 +1,25 @@
+Name: Tacos Loteria
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 3329 West Armitage Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://tacosloteria.com/
+Phone: +1-773-486-0378
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9172133
+Longitude: -87.7112472
+OpenStreetMap URL: https://www.openstreetmap.org/node/9790646299
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9790646299
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

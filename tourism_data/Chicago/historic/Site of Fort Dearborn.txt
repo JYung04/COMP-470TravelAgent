@@ -1,0 +1,25 @@
+Name: Site of Fort Dearborn
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: at the intersection of Michigan Av & Wacker Dr
+Description: Fort Dearborn was a United States fort, first built in 1803 beside the Chicago River, in what is now Chicago, Illinois. It was constructed by U.S. troops under Captain John Whistler and named in honor of Henry Dearborn, then United States Secretary of War. The original fort was destroyed following the Battle of Fort Dearborn during the War of 1812, and a replacement Fort Dearborn was constructed on the same site in 1816 and decommissioned by 1837.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8884422
+Longitude: -87.6248707
+OpenStreetMap URL: https://www.openstreetmap.org/node/9777365618
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9777365618
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

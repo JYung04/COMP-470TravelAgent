@@ -1,0 +1,25 @@
+Name: Colonnade row
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Colonnade Row, also known as LaGrange Terrace, is a group of 1830s row houses on present-day Lafayette Street in the NoHo neighborhood of Manhattan in New York City. They are believed to have been built by Seth Geer, although the project has been attributed to a number of other architects. The buildings' original name comes from the Marquis de Lafayette's estate in France, but the series of nine row houses, of which four remain, owe their existence to John Jacob Astor, who bought the property and whose grandson John Jacob Astor III later lived at No. 424. The remaining buildings are New York City designated landmarks and listed on the National Register of Historic Places under the name LaGrange Terrace..
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.72928
+Longitude: -73.9924535
+OpenStreetMap URL: https://www.openstreetmap.org/node/4319650089
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4319650089
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

@@ -1,0 +1,24 @@
+Name: Excuse My French
+City: NYC
+Category: bars
+Cuisine: french, eclectic
+Address: 96 Orchard Street, New York NY 10002-0946
+Description: Not listed
+Website: https://www.excusemyfrench-nyc.com
+Phone: +1-212-780-9600
+Email: Not listed
+Opening Hours: Tu-Th 17:00-24:00, Fr-Sa 17:00-01:00, Su 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7184645
+Longitude: -73.9899363
+OpenStreetMap URL: https://www.openstreetmap.org/node/7048181785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7048181785
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Red House Kitchen
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 7147 Yellowstone Blvd, Flushing, NY 11375, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 718-261-5601
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:30; Fr,Sa 11:00-23:00; Su 00:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7212264
+Longitude: -73.8548718
+OpenStreetMap URL: https://www.openstreetmap.org/node/9063451498
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9063451498
+Price: Not listed
+Rating: 3.8
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

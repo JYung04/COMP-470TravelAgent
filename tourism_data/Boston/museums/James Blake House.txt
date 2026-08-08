@@ -1,0 +1,25 @@
+Name: James Blake House
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 735 Columbia Road, Boston MA 02118
+Description: The James Blake House is the oldest surviving house in Boston, Massachusetts, United States. The house was built in 1661 and the date was confirmed by dendrochronology in 2007. It is located at 735 Columbia Road, in Edward Everett Square in Dorchester, Boston, just a block from Massachusetts Avenue. The Dorchester Historical Society now owns the building and tours are given on the third Sunday of the month.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3196348
+Longitude: -71.06002
+OpenStreetMap URL: https://www.openstreetmap.org/way/503385551
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/503385551
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

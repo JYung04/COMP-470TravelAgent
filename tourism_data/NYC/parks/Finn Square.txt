@@ -1,0 +1,25 @@
+Name: Finn Square
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY 10013
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/greenstreet-mz30/history
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.718642
+Longitude: -74.0068687
+OpenStreetMap URL: https://www.openstreetmap.org/way/219612698
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/219612698
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

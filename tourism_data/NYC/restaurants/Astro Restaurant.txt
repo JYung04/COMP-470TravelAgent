@@ -1,0 +1,24 @@
+Name: Astro Restaurant
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 1361 6th Avenue, 10019
+Description: Not listed
+Website: https://astrorestaurant.com
+Phone: +1 212-489-6284
+Email: astrorestaurnant@yahoo.com
+Opening Hours: Tu-Sa 06:00-22:30; Su, Mo 06:00-21:30; Jan 1 07:00-22:30; Dec 24 06:00-20:00; Dec 25 06:00-21:30; Dec 31 06:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7632094
+Longitude: -73.9782428
+OpenStreetMap URL: https://www.openstreetmap.org/node/2708133494
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2708133494
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

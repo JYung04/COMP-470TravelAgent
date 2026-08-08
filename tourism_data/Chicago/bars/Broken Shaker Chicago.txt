@@ -1,0 +1,25 @@
+Name: Broken Shaker Chicago
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 19 East Ohio Street, Chicago IL 60611
+Description: Not listed
+Website: https://freehandhotels.com/chicago/broken-shaker/
+Phone: +1-773-303-3419
+Email: Not listed
+Opening Hours: Mo-Fr 16:00-02:00; Sa 16:00-03:00; Su 18:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8922764
+Longitude: -87.6273201
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458040762
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458040762
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

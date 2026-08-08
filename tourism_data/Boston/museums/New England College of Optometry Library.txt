@@ -1,0 +1,25 @@
+Name: New England College of Optometry Library
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://library.neco.edu/
+Phone: +1-617-587-5589
+Email: library@neco.edu
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.351948
+Longitude: -71.0868521
+OpenStreetMap URL: https://www.openstreetmap.org/node/7624557254
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7624557254
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

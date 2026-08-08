@@ -1,0 +1,25 @@
+Name: Boston Duck Tours
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 1 Science Park, Boston MA 02114
+Description: Hop aboard Boston Duck Tours and enjoy a fully narrated, historic tour of Boston in a "DUCK", a W.W.II style amphibious landing craft that travels on land and water. You'll cruise by all the places that make Boston the birthplace of freedom and a city of firsts. Just when you think you've seen it all, your conDUCKtor drives the DUCK right into the Charles River for a breathtaking view of the Boston and Cambridge skylines. This Business is Group Friendly! Boston Duck Tours is a perfect fit for any group outing in Boston. Our fully narrated land and water sightseeing tours offer your guests an unparalleled view of the city of Boston aboard one of our 28 amphibious DUCKs. We give your guests a fantastic overview of the city, driving past all of the sights that make Boston a city.
+Website: https://bostonducktours.com/the-tour/departure-locations/museum-of-science/
+Phone: +1-617-450-0065
+Email: info@bostonducktours.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3673698
+Longitude: -71.0700952
+OpenStreetMap URL: https://www.openstreetmap.org/node/7745736227
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7745736227
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; views

@@ -1,0 +1,25 @@
+Name: The Pierre
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: The Pierre is a luxury hotel located at 2 East 61st Street, at the intersection of that street with Fifth Avenue, in Manhattan, New York City, facing Central Park. Designed by Schultze & Weaver, the hotel opened in 1930 with 100+ employees, now with over a thousand. In 2005, the hotel was acquired by Taj Hotels Resorts and Palaces of India. Standing 525 feet (160 m) tall, it is located within the Upper East Side Historic District as designated in 1981 by the New York City Landmarks Preservation Commission.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7650793
+Longitude: -73.9716642
+OpenStreetMap URL: https://www.openstreetmap.org/way/265345851
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265345851
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Calumet Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 9801 South Avenue G, Chicago IL 60617
+Description: Calumet Park is a 198-acre (79-hectare) urban park in Chicago, Illinois. Providing access to Lake Michigan from the East Side neighborhood on the city's Southeast Side, the park contains approximately 0.9 miles (1.5 km) of lake frontage from 95th Street to 102nd Street, which extends to the city limits at Illinois' border with Indiana. The park is listed on the National Register of Historic Places.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/calumet-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7155968
+Longitude: -87.5297006
+OpenStreetMap URL: https://www.openstreetmap.org/way/135887317
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/135887317
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

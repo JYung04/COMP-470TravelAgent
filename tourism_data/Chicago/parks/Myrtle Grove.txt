@@ -1,0 +1,25 @@
+Name: Myrtle Grove
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 6101 North Neva Avenue, Chicago IL 60631
+Description: Officially classified as passive park. Covers approximately 1.7 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/myrtle-grove-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9928111
+Longitude: -87.8047966
+OpenStreetMap URL: https://www.openstreetmap.org/way/119617624
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/119617624
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

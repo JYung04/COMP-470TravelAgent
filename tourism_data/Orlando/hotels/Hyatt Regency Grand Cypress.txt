@@ -1,0 +1,25 @@
+Name: Hyatt Regency Grand Cypress
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1 Grand Cypress Boulevard, Orlando FL 32836
+Description: The sprawling Hyatt Regency Grand Cypress features an 800,000-gallon lagoon-style pool with 12 waterfalls, two hot tubs, a splash pad, a swim-through grotto and a waterslide — and that’s just the start of what this resort has to offer. Add MICHELIN Recommended dining , a private lake with watersports and a white-sand beach, two spectacular golf courses, and a wide range of outdoor activities, and you’ll barely need to leave the resort. When you’re ready to venture out, let complimentary shuttles
+Website: https://www.hyatt.com/en-us/hotel/florida/hyatt-regency-grand-cypress-resort/vista
+Phone: +1 407-239-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3819474
+Longitude: -81.5105733
+OpenStreetMap URL: https://www.openstreetmap.org/way/312067635
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/312067635
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

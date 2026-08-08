@@ -1,0 +1,25 @@
+Name: Hilton Orlando
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 6001 Destination Parkway, Orlando FL 32819
+Description: Hilton Orlando offers incredible views and amenities just a short walk away from the Orange County Convention Center, and within easy driving distance of SeaWorld and Universal Orlando. Highlights include a zero-entry pool, a lazy river, a full-service spa and salon , and multiple unique dining concepts, from coastal Italian cuisine at Trabucco to elevated gameday fare with a biergarten at FastBreak . End your night in a room overlooking Universal Epic Universe, then start fresh the next day wit
+Website: https://www.hilton.com/en/hotels/orlochh-hilton-orlando/
+Phone: +1 407 313 4300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4248465
+Longitude: -81.4581905
+OpenStreetMap URL: https://www.openstreetmap.org/way/549089335
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/549089335
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art; views

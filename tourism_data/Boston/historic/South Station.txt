@@ -1,0 +1,25 @@
+Name: South Station
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 700 Atlantic Avenue, Boston MA 02210;02110
+Description: South Station is a railroad terminal located at Dewey Square in downtown Boston, Massachusetts. It is the busiest railroad station in Greater Boston and the second-busiest transportation facility. It is New England's second-largest transportation center after Logan International Airport. Along with North Station, it is one of two Boston terminals for the MBTA Commuter Rail system and Amtrak intercity rail service. South Station is a major intermodal transit hub; the South Station Bus Terminal is located above the platforms, and the adjacent subway station is served by the Red Line and Silver Line of the MBTA subway system.
+Website: https://www.mbta.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3507463
+Longitude: -71.0555329
+OpenStreetMap URL: https://www.openstreetmap.org/way/29742438
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29742438
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

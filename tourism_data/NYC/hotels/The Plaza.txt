@@ -1,0 +1,25 @@
+Name: The Plaza
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 768 5th Avenue, 10019
+Description: The Plaza Hotel is a luxury hotel and condominium apartment building in Midtown Manhattan in New York City. It is located on the western side of Grand Army Plaza, after which it is named, just west of Fifth Avenue, and is between 58th Street and Central Park South, at the southeastern corner of Central Park. Its primary address is 768 Fifth Avenue, though the residential entrance is One Central Park South. Since 2018, the hotel has been owned by the Qatari firm Katara Hospitality.
+Website: https://www.theplazany.com
+Phone: +1 212-759-3000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7644602
+Longitude: -73.9744924
+OpenStreetMap URL: https://www.openstreetmap.org/relation/9771573
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/9771573
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

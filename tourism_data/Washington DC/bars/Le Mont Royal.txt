@@ -1,0 +1,24 @@
+Name: Le Mont Royal
+City: Washington DC
+Category: bars
+Cuisine: french_canadian, quebec
+Address: 1815 Adams Mill Road Northwest, Washington DC 20009-1987
+Description: Not listed
+Website: https://lemontdc.com/
+Phone: +1 202-804-3968
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9231946
+Longitude: -77.0426585
+OpenStreetMap URL: https://www.openstreetmap.org/node/737066571
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737066571
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

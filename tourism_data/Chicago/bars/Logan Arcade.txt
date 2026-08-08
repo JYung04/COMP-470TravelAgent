@@ -1,0 +1,25 @@
+Name: Logan Arcade
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2410 West Fullerton Avenue, Chicago IL 60647
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 00:00-02:00, 18:00-24:00; Sa 00:00-02:00, 15:00-24:00; Su 00:00-03:00, 15:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9252192
+Longitude: -87.688126
+OpenStreetMap URL: https://www.openstreetmap.org/way/209454070
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209454070
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

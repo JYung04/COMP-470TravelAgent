@@ -1,0 +1,25 @@
+Name: Starting Point Bar & Grill
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 2 Avenue A, Bayonne, NJ 07002, United States
+Description: Not listed
+Website: https://www.facebook.com/TheStartingPointBarAndGrill/
+Phone: +1 201-243-0092
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6477598
+Longitude: -74.1412039
+OpenStreetMap URL: https://www.openstreetmap.org/node/9670359907
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9670359907
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

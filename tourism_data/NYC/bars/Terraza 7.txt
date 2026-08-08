@@ -1,0 +1,25 @@
+Name: Terraza 7
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 40-19 Gleane Street, Elmhurst NY 11373
+Description: Not listed
+Website: https://terraza7.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 16:00-04:00
+Wheelchair Accessibility: limited
+Latitude: 40.7475083
+Longitude: -73.8820151
+OpenStreetMap URL: https://www.openstreetmap.org/way/250587865
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250587865
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

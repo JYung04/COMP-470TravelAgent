@@ -1,0 +1,25 @@
+Name: Metaphor Projects
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://metaphorprojects.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa,Su 14:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6871133
+Longitude: -73.9857727
+OpenStreetMap URL: https://www.openstreetmap.org/node/5809142477
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5809142477
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

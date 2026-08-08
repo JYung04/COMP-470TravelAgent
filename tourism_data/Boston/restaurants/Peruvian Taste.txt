@@ -1,0 +1,25 @@
+Name: Peruvian Taste
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 78 Arlington Avenue
+Description: Not listed
+Website: https://www.peruvian-taste-restaurant.com/
+Phone: +1 617 242 5100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3872109
+Longitude: -71.0749627
+OpenStreetMap URL: https://www.openstreetmap.org/node/9688398596
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9688398596
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

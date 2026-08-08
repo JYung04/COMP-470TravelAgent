@@ -1,0 +1,25 @@
+Name: John Paul Jones Memorial
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The John Paul Jones Memorial, also known as Commodore John Paul Jones, is a monument in West Potomac Park, Washington, D.C. The memorial honors John Paul Jones (1747–1792), the United States' first naval war hero, who received the Congressional Gold Medal after the end of the American Revolutionary War. Jones is famous for allegedly saying "I have not yet begun to fight!" during the Battle of Flamborough Head.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.888248
+Longitude: -77.0394859
+OpenStreetMap URL: https://www.openstreetmap.org/way/658567961
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/658567961
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

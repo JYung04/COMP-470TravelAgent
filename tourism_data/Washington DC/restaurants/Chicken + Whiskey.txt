@@ -1,0 +1,25 @@
+Name: Chicken + Whiskey
+City: Washington DC
+Category: restaurants
+Cuisine: peruvian
+Address: 1738 14th Street Northwest, Washington DC 20009-4426
+Description: Not listed
+Website: https://www.chickenandwhiskey.com/
+Phone: +1 202-667-2456
+Email: Not listed
+Opening Hours: Mo-Tu 11:00-23:00; We-Th 11:00-24:00; Fr-Sa 11:00-03:00; Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9138293
+Longitude: -77.0322076
+OpenStreetMap URL: https://www.openstreetmap.org/node/4922793034
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4922793034
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

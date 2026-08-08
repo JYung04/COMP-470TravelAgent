@@ -1,0 +1,25 @@
+Name: Providence Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Providence Park, known locally as X Park, is a 2.4-acre (0.97 ha) urban park in the residential Capitol Hill neighborhood in Southeast Washington, D.C. It is bound by 2nd, 3rd, D and E streets SE. It is owned and maintained by the Architect of the Capitol, the real estate office for Congress, as part of the United States Capitol Complex.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8837676
+Longitude: -77.0027896
+OpenStreetMap URL: https://www.openstreetmap.org/way/4721369
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/4721369
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

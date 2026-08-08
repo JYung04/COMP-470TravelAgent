@@ -1,0 +1,24 @@
+Name: Olivier Bistro
+City: NYC
+Category: restaurants
+Cuisine: french, breakfast
+Address: 469 4th Avenue, Brooklyn NY 11215
+Description: Not listed
+Website: https://olivierbistro.com/
+Phone: +1-718-768-6600
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:30, Fr 11:00-23:00; Sa 10:00-23:00; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6688126
+Longitude: -73.9897325
+OpenStreetMap URL: https://www.openstreetmap.org/node/3671145141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3671145141
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

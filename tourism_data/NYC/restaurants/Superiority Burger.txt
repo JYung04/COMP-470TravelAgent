@@ -1,0 +1,25 @@
+Name: Superiority Burger
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 119 Avenue A
+Description: Not listed
+Website: https://www.superiorityburger.com/
+Phone: +1 646-422-7707
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-15:00, Mo-Fr 17:00-22:45, Sa-Su 11:00-14:30, Sa-Su 17:00-1:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7264466
+Longitude: -73.9834307
+OpenStreetMap URL: https://www.openstreetmap.org/node/6278128485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6278128485
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Boat
+City: NYC
+Category: bars
+Cuisine: Dive Bar
+Address: 175 Smith St (at Wyckoff), Brooklyn, NY 11201
+Description: Not listed
+Website: Not listed
+Phone: (718) 254-0607
+Email: Not listed
+Opening Hours: Mo-Su 17:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.685806
+Longitude: -73.9909431
+OpenStreetMap URL: https://www.openstreetmap.org/node/4951740122
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4951740122
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

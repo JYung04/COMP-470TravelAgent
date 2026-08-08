@@ -1,0 +1,25 @@
+Name: Albert's Mofongo
+City: NYC
+Category: restaurants
+Cuisine: latin_american
+Address: 4762 Broadway
+Description: Always open spot for Pan-Latin eats like mofongo (dish made with mashed plantains), late-night coffee, wine, and beers.
+Website: http://albertsmofongoonline.com/
+Phone: +1-212-569-3441
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 40.8654854
+Longitude: -73.9268295
+OpenStreetMap URL: https://www.openstreetmap.org/node/5712378927
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5712378927
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Greenwood Urban Wetlands
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 1411 Greenwood Street, Orlando FL 32801
+Description: Greenwood Urban Wetlands is filled with tall Cypress trees and wildlife, with a paved trail that goes around the lake for you to enjoy with family and friends – two and four legged alike.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Greenwood-Urban-Wetlands
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5355357
+Longitude: -81.3612876
+OpenStreetMap URL: https://www.openstreetmap.org/way/584015535
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/584015535
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

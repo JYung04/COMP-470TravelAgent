@@ -1,0 +1,25 @@
+Name: Umaya Izakaya
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 733 10th street northwest
+Description: Not listed
+Website: https://www.umayadc.com/
+Phone: +1 202-290-3443
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8989503
+Longitude: -77.0257852
+OpenStreetMap URL: https://www.openstreetmap.org/node/11182392255
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11182392255
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

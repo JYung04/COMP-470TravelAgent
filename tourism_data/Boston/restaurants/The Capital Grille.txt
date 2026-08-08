@@ -1,0 +1,25 @@
+Name: The Capital Grille
+City: Boston
+Category: restaurants
+Cuisine: American, Chophouse, Seafood
+Address: 900 Boylston Street
+Description: The Capital Grille boasts an atmosphere of power dining, relaxed elegance and style. Nationally acclaimed for dry-aging steaks on the premises, The Capital Grille serves classic steak house offerings such as chops, large North Atlantic lobsters and fresh seafood. The restaurant features an award-winning wine list and professional, gracious service. Let the masters of steak provide the perfect dining experience. Full bar, reservations recommended. Dine Out Boston is August 1 – 15, 2026 See amenity tab for more information.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: +16172628900
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr 11:30-23:00; Sa 17:00-23:00; Su 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.347762
+Longitude: -71.0852028
+OpenStreetMap URL: https://www.openstreetmap.org/node/4163233292
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4163233292
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Birdland Jazz Club
+City: NYC
+Category: bars
+Cuisine: american, caribbean
+Address: 315 West 44th Street, New York NY
+Description: Not listed
+Website: https://www.birdlandjazz.com/
+Phone: +1-212-581-3080
+Email: Not listed
+Opening Hours: Mo-Su 17:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7590063
+Longitude: -73.9896838
+OpenStreetMap URL: https://www.openstreetmap.org/node/3573482095
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3573482095
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

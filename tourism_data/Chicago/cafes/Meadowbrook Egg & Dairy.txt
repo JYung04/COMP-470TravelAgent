@@ -1,0 +1,25 @@
+Name: Meadowbrook Egg & Dairy
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2455 South Damen Avenue, Chicago IL 60608
+Description: Not listed
+Website: https://www.meadowbrookegg.com/
+Phone: +1-312-738-2228
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8470562
+Longitude: -87.6752104
+OpenStreetMap URL: https://www.openstreetmap.org/node/6326365810
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6326365810
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

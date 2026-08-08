@@ -1,0 +1,25 @@
+Name: American Museum of Natural History
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 200 Central Park West, New York NY 10024
+Description: The American Museum of Natural History is a natural history museum on the Upper West Side of Manhattan in New York City. In Theodore Roosevelt Park, across the street from Central Park, the museum complex comprises 26 interconnected buildings.
+Website: https://www.amnh.org/
+Phone: +1 212-769-5100
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 40.7810986
+Longitude: -73.974211
+OpenStreetMap URL: https://www.openstreetmap.org/way/388436810
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/388436810
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: american museum of natural history
+Best For: museums and culture

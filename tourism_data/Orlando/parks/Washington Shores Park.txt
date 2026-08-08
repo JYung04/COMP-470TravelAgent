@@ -1,0 +1,25 @@
+Name: Washington Shores Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 3637 Columbia Street, Orlando, FL 32805
+Description: park in Orange County, Florida, United States of America
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Washington-Shores-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5281744
+Longitude: -81.4210151
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1202789
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1202789
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

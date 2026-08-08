@@ -1,0 +1,25 @@
+Name: Rosen Centre Hotel
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 9840 International Drive, Orlando FL 32819
+Description: Not listed
+Website: https://www.rosencentre.com/
+Phone: +1 407 996 9840;+1 800 204 7234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4235821
+Longitude: -81.4642636
+OpenStreetMap URL: https://www.openstreetmap.org/way/331939982
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/331939982
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

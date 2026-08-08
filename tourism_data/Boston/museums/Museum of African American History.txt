@@ -1,0 +1,25 @@
+Name: Museum of African American History
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: With campuses in Boston & Nantucket, the Museum of Afro-American History is New England's largest African American history museum with four national historic sites dating back to the early 1800's and the BLACK HERITAGE TRAIL that attracts visitors from around the world. Permanent interactive exhibits in Boston at the Museum's Abiel Smith School include: The Times We Had, Separate Schools, Unequal Education and Building on a Firm Foundation, historic artifacts, and works of art. The Museum preserves the remarkable and vivid history of free African Americans and white abolitionists whose efforts changed a nation. The Black Heritage Trail is a 1.6 mile walking tour encompassing the largest collection of historic sites in the country relating to the life of a free African American community prior to the Civil War. The history of these buildings and sites is national in scope.
+Website: https://www.maah.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3599588
+Longitude: -71.0653315
+OpenStreetMap URL: https://www.openstreetmap.org/way/814701583
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/814701583
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

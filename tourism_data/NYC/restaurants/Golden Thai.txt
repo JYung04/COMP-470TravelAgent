@@ -1,0 +1,25 @@
+Name: Golden Thai
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 469 Irving Avenue
+Description: Not listed
+Website: https://www.goldenthaibrooklyn.com/
+Phone: +1-917-966-1203
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.6955747
+Longitude: -73.9080513
+OpenStreetMap URL: https://www.openstreetmap.org/node/5412871172
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5412871172
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

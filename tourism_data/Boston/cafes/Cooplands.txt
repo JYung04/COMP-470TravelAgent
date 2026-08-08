@@ -1,0 +1,25 @@
+Name: Cooplands
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 9 Strait Bargate, Boston PE21 6EE
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9790239
+Longitude: -0.0232467
+OpenStreetMap URL: https://www.openstreetmap.org/node/7304469829
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7304469829
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

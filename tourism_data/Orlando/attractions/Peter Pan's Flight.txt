@@ -1,0 +1,25 @@
+Name: Peter Pan's Flight
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/attractions/magic-kingdom/peter-pan-flight/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.420154
+Longitude: -81.5819994
+OpenStreetMap URL: https://www.openstreetmap.org/way/296377266
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/296377266
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

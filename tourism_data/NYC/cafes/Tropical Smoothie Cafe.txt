@@ -1,0 +1,25 @@
+Name: Tropical Smoothie Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 39-13 Queens Boulevard, 11104
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7442404
+Longitude: -73.9254492
+OpenStreetMap URL: https://www.openstreetmap.org/node/2845014918
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2845014918
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

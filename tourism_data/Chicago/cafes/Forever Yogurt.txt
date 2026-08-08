@@ -1,0 +1,24 @@
+Name: Forever Yogurt
+City: Chicago
+Category: cafes
+Cuisine: Frozen Yogurt Shop
+Address: 3510 N Halsted St (btwn Brompton & Cornelia Ave), Chicago, IL 60657
+Description: Not listed
+Website: http://www.foreveryogurt.com
+Phone: (773) 698-7031
+Email: Not listed
+Opening Hours: Mo-Su 14:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9457115
+Longitude: -87.6496251
+OpenStreetMap URL: https://www.openstreetmap.org/node/6975184603
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6975184603
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

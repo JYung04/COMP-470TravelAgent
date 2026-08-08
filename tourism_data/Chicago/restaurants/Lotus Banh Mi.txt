@@ -1,0 +1,25 @@
+Name: Lotus Banh Mi
+City: Chicago
+Category: restaurants
+Cuisine: vietnamese
+Address: 818 South Wolcott Avenue Chicago IL 60612
+Description: Not listed
+Website: https://www.lotusbanhmi.com/
+Phone: +1-312-733-7595
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8799035
+Longitude: -87.6339775
+OpenStreetMap URL: https://www.openstreetmap.org/node/10788368689
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10788368689
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

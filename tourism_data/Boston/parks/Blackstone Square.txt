@@ -1,0 +1,25 @@
+Name: Blackstone Square
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 1535 Washington Street
+Description: Blackstone and Franklin Squares are public parks located in the South End neighborhood of Boston, Massachusetts.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3396606
+Longitude: -71.0735238
+OpenStreetMap URL: https://www.openstreetmap.org/way/832372451
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/832372451
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

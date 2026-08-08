@@ -1,0 +1,25 @@
+Name: Ina Mae Tavern & Packaged Goods
+City: Chicago
+Category: restaurants
+Cuisine: southern
+Address: 1415 North Wood Street, Chicago IL 60622
+Description: Not listed
+Website: https://www.inamaetavern.com/
+Phone: +1-773-527-1335
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9076621
+Longitude: -87.6721902
+OpenStreetMap URL: https://www.openstreetmap.org/way/209864002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209864002
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

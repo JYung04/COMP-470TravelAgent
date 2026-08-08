@@ -1,0 +1,25 @@
+Name: The Hall CP
+City: Washington DC
+Category: restaurants
+Cuisine: Event venue, Wedding venue
+Address: 4656 Hotel Drive, College Park 20742
+Description: Not listed
+Website: https://thehallcp.com
+Phone: +1 301-264-7644
+Email: events@thehallcp.com
+Opening Hours: Mo-Th 16:00-21:00; Fr 11:00-22:00; Sa 10:00-22:00; Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.986095
+Longitude: -76.9337656
+OpenStreetMap URL: https://www.openstreetmap.org/node/8592736861
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8592736861
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

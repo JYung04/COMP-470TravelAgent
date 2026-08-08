@@ -1,0 +1,25 @@
+Name: Kava Neo-Taverna
+City: Boston
+Category: restaurants
+Cuisine: Greek
+Address: 315 Shawmut Avenue
+Description: Not listed
+Website: https://kavaneotaverna.com/
+Phone: +1-617-356-1100
+Email: info@kavaneotaverna.com
+Opening Hours: Mo-Th 16:00-22:30; Fr-Sa 11:00-23:30; Su 11:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3423233
+Longitude: -71.0705177
+OpenStreetMap URL: https://www.openstreetmap.org/node/11110582105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11110582105
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

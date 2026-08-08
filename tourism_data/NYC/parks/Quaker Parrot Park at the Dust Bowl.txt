@@ -1,0 +1,25 @@
+Name: Quaker Parrot Park at the Dust Bowl
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: park in Kings County, New York, United States of America
+Website: https://www.nycgovparks.org/parks/quaker-parrot-park-at-the-dust-bowl
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6326818
+Longitude: -74.0134507
+OpenStreetMap URL: https://www.openstreetmap.org/way/185021927
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/185021927
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

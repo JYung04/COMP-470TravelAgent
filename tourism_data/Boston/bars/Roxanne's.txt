@@ -1,0 +1,25 @@
+Name: Roxanne's
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 6B Beacon Street
+Description: Not listed
+Website: Not listed
+Phone: +1-617-742-0306
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3581795
+Longitude: -71.0615308
+OpenStreetMap URL: https://www.openstreetmap.org/node/4867297121
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4867297121
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

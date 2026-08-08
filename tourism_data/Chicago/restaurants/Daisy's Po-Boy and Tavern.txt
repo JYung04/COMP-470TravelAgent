@@ -1,0 +1,24 @@
+Name: Daisy's Po-Boy and Tavern
+City: Chicago
+Category: restaurants
+Cuisine: creole, cajun
+Address: 5215 South Harper Avenue, Chicago IL 60615
+Description: Not listed
+Website: https://www.daisyspoboychicago.com/
+Phone: +1-773-675-8767
+Email: Not listed
+Opening Hours: Tu-Th 11:00-21:00 Fr-Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8004434
+Longitude: -87.5889364
+OpenStreetMap URL: https://www.openstreetmap.org/node/13060940603
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13060940603
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

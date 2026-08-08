@@ -1,0 +1,25 @@
+Name: Tacos El Dorado
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 1228 Flatbush Avenue, Brooklyn NY 11226
+Description: Not listed
+Website: http://ordertacoseldoradobrooklyn.com/
+Phone: +1-718-856-6677
+Email: Not listed
+Opening Hours: 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6402054
+Longitude: -73.9555551
+OpenStreetMap URL: https://www.openstreetmap.org/node/11590098388
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11590098388
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

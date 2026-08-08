@@ -1,0 +1,25 @@
+Name: James Madison Plaza
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 1 Madison Street, New York NY 10038
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/james-madison-plaza
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7114226
+Longitude: -74.0003749
+OpenStreetMap URL: https://www.openstreetmap.org/way/109330342
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/109330342
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

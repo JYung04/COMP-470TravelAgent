@@ -1,0 +1,25 @@
+Name: Roberta's
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 261 Moore Street, Brooklyn 11206
+Description: Roberta's is a New American pizzeria in Brooklyn, New York. Located in the neighborhood of East Williamsburg, it is known for its wood oven cooked pizza and hipster vibe. The restaurant serves pizza containing ingredients cooked from a rooftop garden, and houses a radio station in the rear of the building.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-24:00;Sa-Su 10:00-24:00
+Wheelchair Accessibility: limited
+Latitude: 40.7050062
+Longitude: -73.9335894
+OpenStreetMap URL: https://www.openstreetmap.org/node/2838575984
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2838575984
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

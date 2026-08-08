@@ -1,0 +1,25 @@
+Name: Al Horno
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.alhornoleanmexicankitchen.com/
+Phone: +1 212-977-1000
+Email: Not listed
+Opening Hours: Mo-Fr 08:15-21:30; Sa-Su 10:15-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7620536
+Longitude: -73.9910987
+OpenStreetMap URL: https://www.openstreetmap.org/node/5401978031
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5401978031
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Mr Purple
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 10002
+Description: Not listed
+Website: https://www.mrpurplenyc.com/
+Phone: +1-212-237-1790
+Email: Not listed
+Opening Hours: We 11:00-03:00; Th-Sa 11:00-04:00; Su-Tu 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7218111
+Longitude: -73.9882321
+OpenStreetMap URL: https://www.openstreetmap.org/node/4475036592
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4475036592
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

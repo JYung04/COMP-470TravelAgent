@@ -1,0 +1,25 @@
+Name: Brooklyn Cannery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 145 12th Street, 11215
+Description: Not listed
+Website: https://www.brooklyncannery.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6700974
+Longitude: -73.9929059
+OpenStreetMap URL: https://www.openstreetmap.org/way/248171248
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248171248
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

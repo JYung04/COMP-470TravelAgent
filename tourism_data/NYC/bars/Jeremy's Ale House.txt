@@ -1,0 +1,25 @@
+Name: Jeremy's Ale House
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 10038
+Description: Not listed
+Website: https://www.jeremysalehouse.com/
+Phone: +12129643537
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-00:00; Sa 10:00-00:00; Su 12:00-00:00
+Wheelchair Accessibility: no
+Latitude: 40.7076703
+Longitude: -74.0020534
+OpenStreetMap URL: https://www.openstreetmap.org/node/4850227823
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4850227823
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

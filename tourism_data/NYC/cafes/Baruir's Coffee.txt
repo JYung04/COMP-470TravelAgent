@@ -1,0 +1,25 @@
+Name: Baruir's Coffee
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 40-07 Queens Boulevard, 11104
+Description: Not listed
+Website: Not listed
+Phone: +1 718-784-0842
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 08:00-14:00
+Wheelchair Accessibility: yes
+Latitude: 40.7440626
+Longitude: -73.9238885
+OpenStreetMap URL: https://www.openstreetmap.org/node/2845010823
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2845010823
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

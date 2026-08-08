@@ -1,0 +1,25 @@
+Name: The UPS Store #6657
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 6526 Old Brick Road, Windermere FL 34786
+Description: Not listed
+Website: Not listed
+Phone: +1-407-612-5600
+Email: store6557@theupsstore.com
+Opening Hours: Mo-Fr 08:00-18:30, Sa 09:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4500972
+Longitude: -81.5635356
+OpenStreetMap URL: https://www.openstreetmap.org/node/5362620603
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5362620603
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

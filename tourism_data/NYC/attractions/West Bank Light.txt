@@ -1,0 +1,25 @@
+Name: West Bank Light
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: West Bank Light, officially West Bank Front Range Light, is a lighthouse in Lower New York Bay, within New York City, and acts as the front range light for the Ambrose Channel. It is currently active and not open to the public. The tower was built in 1901 and heightened in 1908. Staten Island Light serves as the rear range light.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5379433
+Longitude: -74.042961
+OpenStreetMap URL: https://www.openstreetmap.org/node/2576304638
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2576304638
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

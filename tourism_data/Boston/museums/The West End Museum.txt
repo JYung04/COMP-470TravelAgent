@@ -1,0 +1,25 @@
+Name: The West End Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Step into Boston’s rich history at The West End Museum! This small but dynamic museum explores stories of community resilience, immigration, and the impacts of urban renewal on the city. With rotating exhibits and interactive elements, you’ll gain a deeper understanding of Boston beyond the Revolution.
+Website: https://thewestendmuseum.org/
+Phone: +1 617 723 2125
+Email: Not listed
+Opening Hours: Mo-Tu off; We-Th 10:30-17:00; Fr-Sa 10:30-18:00; Su 13:30-17:00
+Wheelchair Accessibility: yes
+Latitude: 42.364276
+Longitude: -71.0637633
+OpenStreetMap URL: https://www.openstreetmap.org/node/4779856587
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4779856587
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

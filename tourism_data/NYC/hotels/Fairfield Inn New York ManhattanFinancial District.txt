@@ -1,0 +1,25 @@
+Name: Fairfield Inn New York Manhattan/Financial District
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 161 Front Street, New York NY 10038
+Description: high-rise building in Lower Manhattan, New York City, United States
+Website: https://www.marriott.com/hotels/travel/nyclm-fairfield-inn-new-york-manhattan-financial-district/
+Phone: +1 212-826-0001
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.705899
+Longitude: -74.0049488
+OpenStreetMap URL: https://www.openstreetmap.org/way/303772389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/303772389
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

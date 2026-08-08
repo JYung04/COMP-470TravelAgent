@@ -1,0 +1,24 @@
+Name: Cosmic Diner
+City: NYC
+Category: restaurants
+Cuisine: american, breakfast
+Address: 10019
+Description: Not listed
+Website: https://foodeist.com/place/cosmicdiner
+Phone: +12123335888
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 40.7636131
+Longitude: -73.9849057
+OpenStreetMap URL: https://www.openstreetmap.org/node/4317887892
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4317887892
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

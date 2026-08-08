@@ -1,0 +1,25 @@
+Name: Park No. 468
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4556 West 56th Street, Chicago IL 60629
+Description: Officially classified as unimproved park. Covers approximately 1.4 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/park-no-468
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7919773
+Longitude: -87.7374876
+OpenStreetMap URL: https://www.openstreetmap.org/way/210311139
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210311139
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

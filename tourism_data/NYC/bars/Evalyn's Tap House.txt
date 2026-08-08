@@ -1,0 +1,24 @@
+Name: Evalyn's Tap House
+City: NYC
+Category: bars
+Cuisine: northern_european
+Address: 236 Butler Street, 11217
+Description: Not listed
+Website: https://www.evalynstaphouse.com
+Phone: +1-718-210-1899
+Email: Not listed
+Opening Hours: Tu-Fr 16:00-24:00; Sa 11:00-24:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6815018
+Longitude: -73.9856228
+OpenStreetMap URL: https://www.openstreetmap.org/node/11290926682
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11290926682
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

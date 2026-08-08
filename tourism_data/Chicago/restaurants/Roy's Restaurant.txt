@@ -1,0 +1,25 @@
+Name: Roy's Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: hawaiian
+Address: 720 North State Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.roysrestaurant.com/
+Phone: +1-312-787-7599
+Email: Not listed
+Opening Hours: Mo-Th 16:00-22:00; Fr 16:00-23:00; Sa 11:00-23:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8955249
+Longitude: -87.6286917
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458131876
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458131876
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

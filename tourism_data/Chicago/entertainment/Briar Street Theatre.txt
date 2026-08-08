@@ -1,0 +1,24 @@
+Name: Briar Street Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 3133 North Halsted Street, Chicago IL 60657
+Description: The Briar Street Theatre is a theatre located in Lake View, Chicago, and was home to the long-running Blue Man Group. Originally the carriage house for the Marshall Field and Company horses, the space was purchased by Walter Topel and reconstructed into a theater. The Briar Street Theatre is most notably associated with the Blue Man Group act, which began performing at the Briar Street Theatre in 1997 and, as of January 2025, has ceased performances.
+Website: http://www.blueman.com/chicago/briar-st-theatre
+Phone: (773) 348-4000
+Email: korip@blueman.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9389003
+Longitude: -87.648884
+OpenStreetMap URL: https://www.openstreetmap.org/way/210326271
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210326271
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; views

@@ -1,0 +1,24 @@
+Name: Monkey Room
+City: NYC
+Category: bars
+Cuisine: burger, american
+Address: 589 Fort Washington Avenue
+Description: Not listed
+Website: http://monkeyroomnyc.com
+Phone: +1-212-543-9888
+Email: Not listed
+Opening Hours: Mo-Su 15:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.8549084
+Longitude: -73.9371187
+OpenStreetMap URL: https://www.openstreetmap.org/node/5413554330
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5413554330
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

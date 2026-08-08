@@ -1,0 +1,24 @@
+Name: Spring Shabu-Shabu Boston
+City: Boston
+Category: restaurants
+Cuisine: japanese, hotpot
+Address: 304 Western Avenue, Brighton MA 02135
+Description: Not listed
+Website: https://www.springshabu.com/boston
+Phone: +1 617-202-5422
+Email: Not listed
+Opening Hours: Mo-Su 17:00-22:00; Sa-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3625216
+Longitude: -71.1359961
+OpenStreetMap URL: https://www.openstreetmap.org/way/1052848266
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1052848266
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

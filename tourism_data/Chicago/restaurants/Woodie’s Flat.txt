@@ -1,0 +1,25 @@
+Name: Woodie’s Flat
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1535 North Wells Street, Chicago IL 60610
+Description: Not listed
+Website: https://www.woodieschicago.com/
+Phone: +1-312-643-0093
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9102129
+Longitude: -87.6344
+OpenStreetMap URL: https://www.openstreetmap.org/node/6325995436
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6325995436
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

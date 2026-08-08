@@ -1,0 +1,24 @@
+Name: La Villetta
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: 398 East 52nd Street, 10022
+Description: Not listed
+Website: https://perkchops.com/la-villetta-398-e-52nd-st-new-york-ny-10022?ref=06
+Phone: +1-212-829-0003
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7548931
+Longitude: -73.9649433
+OpenStreetMap URL: https://www.openstreetmap.org/node/12674202671
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12674202671
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

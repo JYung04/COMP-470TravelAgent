@@ -1,0 +1,25 @@
+Name: Oppa Sushi
+City: Boston
+Category: restaurants
+Cuisine: sushi
+Address: 185 Harvard Avenue, Allston MA 02134
+Description: Not listed
+Website: Not listed
+Phone: +16172023808
+Email: Not listed
+Opening Hours: Mo-Su 12:00-15:00, 16:30-21:45
+Wheelchair Accessibility: Not listed
+Latitude: 42.3508919
+Longitude: -71.1314683
+OpenStreetMap URL: https://www.openstreetmap.org/node/9647708056
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9647708056
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

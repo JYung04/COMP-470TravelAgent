@@ -1,0 +1,25 @@
+Name: Lillo Cucina Italiana
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: Not listed
+Description: Not listed
+Website: https://lillobrooklyn.com
+Phone: +1-347-763-0899
+Email: Not listed
+Opening Hours: We-Sa 12:30-20:00, Su 12:30-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6902039
+Longitude: -73.9963352
+OpenStreetMap URL: https://www.openstreetmap.org/node/5994557685
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5994557685
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

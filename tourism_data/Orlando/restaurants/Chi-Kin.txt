@@ -1,0 +1,25 @@
+Name: Chi-Kin
+City: Orlando
+Category: restaurants
+Cuisine: korean
+Address: 813 North Mills Avenue, Orlando FL 32803
+Description: Not listed
+Website: https://chi-kin.com
+Phone: +1-407-730-8658
+Email: Not listed
+Opening Hours: Su-Th 11:00-15:00, 17:00-21:00; Fr-Sa 11:00-15:00, 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5554875
+Longitude: -81.3642956
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455417045
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11455417045
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

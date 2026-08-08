@@ -1,0 +1,25 @@
+Name: Hyatt
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 899 O Street Northwest Washington DC 20001
+Description: Not listed
+Website: https://www.hyattwashingtondcconventioncenter.com
+Phone: +1 202-299-1188
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8909761
+Longitude: -77.0875363
+OpenStreetMap URL: https://www.openstreetmap.org/node/6141051175
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6141051175
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

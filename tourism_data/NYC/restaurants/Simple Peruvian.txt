@@ -1,0 +1,25 @@
+Name: Simple Peruvian
+City: NYC
+Category: restaurants
+Cuisine: peruvian
+Address: 45-06 Greenpoint Avenue
+Description: Not listed
+Website: https://www.simpleperuvian.com/
+Phone: +1 347-448-6663
+Email: Not listed
+Opening Hours: Mo, We-Su 12:00-21:15
+Wheelchair Accessibility: Not listed
+Latitude: 40.7417997
+Longitude: -73.9196633
+OpenStreetMap URL: https://www.openstreetmap.org/node/13346680018
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13346680018
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

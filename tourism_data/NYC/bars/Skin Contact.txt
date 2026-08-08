@@ -1,0 +1,24 @@
+Name: Skin Contact
+City: NYC
+Category: bars
+Cuisine: charcuterie, snack
+Address: 76 Orchard Street, New York NY 10002-4511
+Description: Not listed
+Website: https://skincontact.nyc
+Phone: +1-212-933-9398
+Email: Not listed
+Opening Hours: Mo-Fr 17:00-24:00, Sa-Su 15:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7177244
+Longitude: -73.9903192
+OpenStreetMap URL: https://www.openstreetmap.org/node/12719181899
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12719181899
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

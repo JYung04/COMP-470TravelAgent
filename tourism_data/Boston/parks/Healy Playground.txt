@@ -1,0 +1,25 @@
+Name: Healy Playground
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 160 Florence Street
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Roslindale. Covers approximately 9.6 acres.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2883163
+Longitude: -71.123648
+OpenStreetMap URL: https://www.openstreetmap.org/way/29860074
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29860074
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

@@ -1,0 +1,24 @@
+Name: Danbo
+City: NYC
+Category: restaurants
+Cuisine: japanese, ramen
+Address: Not listed
+Description: Not listed
+Website: http://ramendanbo.com/locations/#brooklyn
+Phone: +1-718-783-0150
+Email: info@ramendanbo.com
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.6761132
+Longitude: -73.9745244
+OpenStreetMap URL: https://www.openstreetmap.org/node/4252894691
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4252894691
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

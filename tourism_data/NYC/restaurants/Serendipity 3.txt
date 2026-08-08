@@ -1,0 +1,25 @@
+Name: Serendipity 3
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 225 East 60th Street
+Description: Serendipity 3, often written Serendipity III, is a restaurant located at 225 East 60th Street, between Second and Third avenues in New York City, founded by Calvin L Holt, Patch Caradine and Stephen Bruce in 1954. It also served as a boutique that sold one-of-a-kind fashion and artistic items and hosted famous artists and popular culture figures. The restaurant has been the scene of several films, including the 2001 romantic comedy Serendipity. American singer and actress Selena Gomez has an ownership stake in the restaurant.
+Website: https://serendipity3.com/
+Phone: +1 212-838-3531
+Email: info@serendipity3.com
+Opening Hours: Mo-Th, Su 11:30-24:00; Fr, Sa 11:30-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7618022
+Longitude: -73.9649381
+OpenStreetMap URL: https://www.openstreetmap.org/node/4352204390
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4352204390
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

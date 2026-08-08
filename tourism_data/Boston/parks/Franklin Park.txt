@@ -1,0 +1,25 @@
+Name: Franklin Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Official Boston park data lists features including Athletic Field, Athletic Seating, Bike Rack, Drinking Fountain, Fitness Equipment, Flagpole, Handball, Ornamental Fountain, Parking Lot, Playground, Restroom, Spray Play.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3031781
+Longitude: -71.0958644
+OpenStreetMap URL: https://www.openstreetmap.org/relation/65053
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/65053
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

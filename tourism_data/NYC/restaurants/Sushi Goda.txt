@@ -1,0 +1,24 @@
+Name: Sushi Goda
+City: NYC
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 1574 3rd Avenue, 10128
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7805459
+Longitude: -73.952953
+OpenStreetMap URL: https://www.openstreetmap.org/node/10777014284
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10777014284
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

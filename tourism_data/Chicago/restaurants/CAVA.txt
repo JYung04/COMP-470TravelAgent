@@ -1,0 +1,25 @@
+Name: CAVA
+City: Chicago
+Category: restaurants
+Cuisine: mediterranean
+Address: 155 West Kinzie Street, Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: +1-773-348-8899
+Email: Not listed
+Opening Hours: Fr 23:00-02:00; Sa 23:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8890557
+Longitude: -87.633264
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458051764
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458051764
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

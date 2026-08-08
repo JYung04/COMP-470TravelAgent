@@ -1,0 +1,25 @@
+Name: Nuccio's Bakery & Pastry
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 261 Avenue U
+Description: Not listed
+Website: https://nucciosbakery.blogspot.com/
+Phone: +1 718-449-3035
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-20:30; Su 07:00-19:30
+Wheelchair Accessibility: yes
+Latitude: 40.5969611
+Longitude: -73.9745007
+OpenStreetMap URL: https://www.openstreetmap.org/node/13556408353
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13556408353
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

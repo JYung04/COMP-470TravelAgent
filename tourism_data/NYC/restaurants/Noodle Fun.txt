@@ -1,0 +1,25 @@
+Name: Noodle Fun
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 1744 1st Avenue, 10128
+Description: Not listed
+Website: https://www.noodlefunnewyork.com/
+Phone: +1 212-828-3881
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-21:00; Sa, Su 13:00-21:00
+Wheelchair Accessibility: limited
+Latitude: 40.7795944
+Longitude: -73.9471609
+OpenStreetMap URL: https://www.openstreetmap.org/node/8570165360
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8570165360
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

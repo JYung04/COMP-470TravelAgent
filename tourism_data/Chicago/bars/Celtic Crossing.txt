@@ -1,0 +1,25 @@
+Name: Celtic Crossing
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 751 North Clark Street, Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-We 16:00-24:00, Sa,Su 00:00-00:00, Th,Fr 16:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8963281
+Longitude: -87.6309694
+OpenStreetMap URL: https://www.openstreetmap.org/node/6050592287
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6050592287
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,24 @@
+Name: Adam's Chicken & Pocha
+City: NYC
+Category: restaurants
+Cuisine: korean, chicken
+Address: 153-02A Northern Boulevard
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7646863
+Longitude: -73.8118555
+OpenStreetMap URL: https://www.openstreetmap.org/node/12062511884
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12062511884
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food
