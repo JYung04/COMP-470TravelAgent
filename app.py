@@ -7,7 +7,7 @@ from database import database_count
 def ensure_database_ready():
     return database_count() > 0
 if not ensure_database_ready():
-    with st.spinner("Setting up the knowledge base — this may take a minute..."):
+    with st.spinner("Setting up the knowledge base..."):
         ensure_database_ready()
 
 APP_TITLE = "AI Travel Planner"
@@ -42,7 +42,7 @@ with st.sidebar:
     st.divider()
     st.write(
         "Fill out your trip details to get a starting itinerary, then keep "
-        "chatting to refine it — swap out a day, add restaurants, adjust "
+        "chatting to refine it, swap out a day, add restaurants, adjust "
         "for budget, etc."
     )
     st.divider()
@@ -96,9 +96,9 @@ def send_message(prompt_text: str, display_text: str | None = None):
 
         except Exception as e:
             st.session_state.error_count += 1
-            friendly_msg = "Sorry, something went wrong generating a response. Please try again."
+            friendly_msg = "Sorry, something went wrong. Please try again."
             if st.session_state.error_count >= 3:
-                friendly_msg += " If this keeps happening, please refresh the page."
+                friendly_msg += " Please try to refresh the page."
             placeholder.markdown(f"! {friendly_msg}")
             st.session_state.messages.append(
                 {"role": "assistant", "content": f"! {friendly_msg}", "sources": None}
@@ -110,11 +110,11 @@ def validate_trip_form(city, arrival, departure, budget, interests) -> str | Non
     if not city:
         return "Please select a city."
     if arrival is None or departure is None:
-        return "Please select both arrival and departure dates."
+        return "When you flying bruh."
     if departure <= arrival:
-        return "Departure date must be after the arrival date."
+        return "How you return before you leave -_-"
     if budget is None or budget <= 0:
-        return "Please enter a budget greater than $0."
+        return "Sleeping besides the road??"
     if not interests:
         return "Please select at least one interest."
     return None
@@ -173,7 +173,7 @@ else:
                     for src in msg["sources"]:
                         st.markdown(f"- {src}")
 
-    follow_up = st.chat_input("Ask for changes — e.g. \"make day 2 more relaxed\"")
+    follow_up = st.chat_input("Ask for changes — e.g. \"add more activities on day 3\"")
     if follow_up is not None:
         error = validate_chat_input(follow_up)
         if error:
