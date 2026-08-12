@@ -22,9 +22,6 @@ Functions I did:
     - resolve_search_center
     - find_places_from_question
     - test_knowledge_base
-
-The class notebook supplied the basic RAG structure. I changed it from campus
-examples into a TXT-based tourism project and added the location search.
 """
 
 # Used for the distance calculations in the haversine function.
@@ -63,7 +60,7 @@ city_folders = [
 ]
 
 # Cache neighborhood lookups so the free geocoder is not asked for the same
-# place repeatedly. Please be nice to the free servers!
+# place repeatedly.
 geocode_cache_file = project_folder / "geocode_cache.json"
 last_geocode_request = 0.0
 
@@ -121,7 +118,7 @@ def split_text_into_chunks(text, chunk_size=150, overlap=30):
     if overlap < 0 or overlap >= chunk_size:
         raise ValueError("overlap must be at least 0 and smaller than chunk_size")
 
-    # From class notes: split the text by words and build overlapping chunks.
+    # Split the text by words and build overlapping chunks.
     words = text.split()
 
     chunks = []
@@ -293,10 +290,10 @@ def build_knowledge_base():
 
     print("Creating embeddings...")
 
-    # From class notes: create embeddings for all chunks.
+    # Create embeddings for all chunks.
     chunk_embeddings = create_embeddings(document_chunks)
 
-    # From class notes: give every chunk a unique ID before storing it.
+    # Give every chunk a unique ID before storing it.
     chunk_ids = [
         f"travel_chunk_{index}"
         for index in range(len(document_chunks))
@@ -320,7 +317,7 @@ def retrieve_context(question, number_of_results=3):
     Return the stored chunks that are most relevant to a question.
     """
 
-    # From class notes: create the question embedding and retrieve the top chunks.
+    # Create the question embedding and retrieve the top chunks.
     question_embedding = create_query_embeddings(question)
 
     results = search_database(
