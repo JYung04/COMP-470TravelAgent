@@ -8,6 +8,7 @@ def ensure_database_ready():
     return database_count() > 0
 if not ensure_database_ready():
     with st.spinner("Setting up the knowledge base..."):
+        Init.setup()
         ensure_database_ready()
 
 APP_TITLE = "AI Travel Planner"
