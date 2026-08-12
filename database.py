@@ -1,11 +1,6 @@
 """
 Store and search travel-guide chunks with a ChromaDB vector database.
 
-This file is the database layer. Other files call these small functions instead
-of needing to know all of ChromaDB's commands. ChromaDB stores three connected
-things for each record: the original text, its numerical embedding, and useful
-metadata such as the city or source filename.
-
 Functions from class notes:
     - add_documents (adapted from the class collection.add example)
     - search_database (adapted from the class collection.query example)
@@ -34,11 +29,7 @@ def add_documents(documents, embeddings, metadata, ids, batch_size=5000):
     Add or update document chunks in ChromaDB in manageable batches.
 
     ChromaDB limits how much information can be sent in one request. Breaking a
-    large list into batches prevents an oversized-request error. ``upsert``
-    means "insert this ID if it is new, or update it if it already exists."
-
-    The document, embedding, metadata, and ID lists must stay in the same order
-    because matching positions describe the same stored chunk.
+    large list into batches prevents an oversized-request error.
     """
 
     total_documents = len(documents)
@@ -66,8 +57,7 @@ def search_database(query_embedding, top_k=3):
     """
     Return the ChromaDB chunks closest to a question embedding.
 
-    The result includes the text, metadata, and distance for each match. A
-    smaller distance means the chunk is more closely related to the question.
+    The result includes the text, metadata, and distance for each match. 
     """
 
     # From class notes: query ChromaDB for the top matching chunks.
@@ -81,9 +71,6 @@ def search_database(query_embedding, top_k=3):
 def database_count():
     """
     Return the number of records currently stored in the collection.
-
-    The RAG test uses this to decide whether it needs to build the knowledge
-    base before trying a search.
 
     A count of zero means the knowledge base has not been built yet.
     """
@@ -100,7 +87,7 @@ def get_all_documents(batch_size=5000):
     The RAG code gets all records and performs that distance math in Python.
 
     Embeddings are left out because geographic search only needs document text
-    and metadata, which saves some memory.
+    and metadata.
     """
 
     documents = []
