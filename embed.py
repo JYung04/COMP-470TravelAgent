@@ -1,10 +1,5 @@
 """
-Turn travel text and user questions into numerical embedding vectors.
-
-Computers cannot directly compare the meaning of two sentences. An embedding
-model changes each sentence into a list of numbers. Text with similar meaning
-usually receives nearby vectors, which lets ChromaDB find useful travel-guide
-chunks for a question even when the wording is not exactly the same.
+Turns travel text and user questions into numerical embedding vectors.
 
 Functions from class notes:
     - create_embeddings (adapted from the class chunk-embedding example)
@@ -12,7 +7,7 @@ Functions from class notes:
 
 Functions I did:
     - None in this file. I organized the class examples into reusable functions
-      for the travel project.
+      for the project.
 """
 
 # From class notes: import the SentenceTransformer model.
