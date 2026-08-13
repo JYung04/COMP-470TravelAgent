@@ -13,7 +13,7 @@ if not ensure_database_ready():
 
 APP_TITLE = "AI Travel Planner"
 APP_SUBTITLE = "Get a personalized itinerary for your next US city trip"
-CITIES = ["Boston", "New York City", "Los Angeles", "Washington DC", "Orlando"]
+CITIES = ["Boston", "Chicago", "NYC", "Orlando", "Washington DC"]
 INTEREST_OPTIONS = [
     "Food & Dining", "Museums & History", "Nightlife", "Outdoors & Nature",
     "Shopping", "Family-Friendly", "Art & Culture", "Sports",
@@ -31,11 +31,11 @@ if "trip_submitted" not in st.session_state:
 if "error_count" not in st.session_state:
     st.session_state.error_count = 0
 
-
 def reset_trip():
     st.session_state.messages = []
     st.session_state.trip_submitted = False
     st.session_state.error_count = 0
+    st.session_state.city = None
 
 with st.sidebar:
     st.header(APP_TITLE)
@@ -77,6 +77,7 @@ def send_message(prompt_text: str, display_text: str | None = None):
             result = backend.generate_response(
                 user_input=prompt_text,
                 history=st.session_state.messages[:-1],
+                city=st.session_state.get("city"),
             )
             answer = (result.get("answer") or "").strip()
             sources = result.get("sources")
@@ -162,6 +163,7 @@ if not st.session_state.trip_submitted:
                 f"({num_days} days) · Budget ${budget} · {', '.join(interests)}"
             )
             st.session_state.trip_submitted = True
+            st.session_state.city = city
             send_message(prompt, display_text=display)
             st.rerun()
 

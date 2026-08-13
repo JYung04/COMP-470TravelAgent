@@ -87,15 +87,16 @@ def generate_answer(question, documents, metadatas, history=None):
     return response["message"]["content"]
 
 
-def answer_question(question, number_of_results=3, history=None):
+def answer_question(question, number_of_results=3, history=None, city=None):
     """
     Pipeline for RAG integration returns answer, documents, metadatas, distances
     :param question:
     :param number_of_results:
     :param history:
+    :param city:
     :return:
     """
-    documents, metadatas, distances = retrieve_context(question,number_of_results=number_of_results) # ChromaDB top-k relevant chunks
+    documents, metadatas, distances = retrieve_context(question, number_of_results=number_of_results, city=city) # ChromaDB top-k relevant chunks
 
     if not documents:
         return "I don't have any information on that.", [], [], []
@@ -105,16 +106,18 @@ def answer_question(question, number_of_results=3, history=None):
     return answer, documents, metadatas, distances
 
 # adapter for app.py
-def generate_response(user_input, history=None):
+def generate_response(user_input, history=None, city=None):
     """
     Adapter function so app.py's expected interface matches what answer_question() actually returns.
     :param user_input:
     :param history:
+    :param city:
     :return:
     """
     answer, documents, metadatas, distances = answer_question(
         user_input,
-        history=history
+        history=history,
+        city=city
     )
 
     sources = [

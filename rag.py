@@ -184,7 +184,7 @@ def build_knowledge_base():
     )
 
 # Retrieve the Top-3 most relevant travel-guide chunks
-def retrieve_context(question, number_of_results=3):
+def retrieve_context(question, number_of_results=3, city=None):
 
     question_embedding = create_query_embeddings(
         question
@@ -192,9 +192,9 @@ def retrieve_context(question, number_of_results=3):
 
     results = search_database(
         question_embedding,
-        top_k=number_of_results
+        top_k=number_of_results,
+        city=city
     )
-
     documents = results["documents"][0]
     metadatas = results["metadatas"][0]
     distances = results["distances"][0]

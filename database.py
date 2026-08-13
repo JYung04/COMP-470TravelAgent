@@ -31,9 +31,15 @@ def add_documents(documents, embeddings, metadata, ids, batch_size = 5000):
         )
 
 #Search database for chunks and their embeddings
-def search_database(query_embedding, top_k=3):
+def search_database(query_embedding, top_k=3, city=None):
 
-    results = collection.query(query_embeddings=[query_embedding], n_results=top_k)
+    where_filter = {"city": city} if city else None
+
+    results = collection.query(
+        query_embeddings=[query_embedding],
+        n_results=top_k,
+        where=where_filter
+    )
     return results
 
 # Count database
