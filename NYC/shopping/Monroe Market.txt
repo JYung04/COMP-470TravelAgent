@@ -1,0 +1,25 @@
+Name: Monroe Market
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 9 Monroe Street, New York NY 10002
+Description: Not listed
+Website: Not listed
+Phone: +1-212-285-2182
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.711586
+Longitude: -73.9961061
+OpenStreetMap URL: https://www.openstreetmap.org/node/6231307186
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6231307186
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

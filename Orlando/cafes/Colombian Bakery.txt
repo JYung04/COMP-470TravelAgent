@@ -1,0 +1,25 @@
+Name: Colombian Bakery
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 14650 Gatorland Drive, Orlando FL 32837
+Description: Not listed
+Website: https://www.colombiabakery.com/
+Phone: +1 407 888 0600
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-19:00, Sa 08:00-19:00, Su 08:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 28.3532742
+Longitude: -81.4050302
+OpenStreetMap URL: https://www.openstreetmap.org/node/9505562927
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9505562927
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

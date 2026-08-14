@@ -1,0 +1,25 @@
+Name: John Bowne House
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 37-01 Bowne Street, 11354
+Description: A designated New York City individual landmark. Status: DESIGNATED. Designation date: 2/15/1966.
+Website: https://www.bownehouse.org
+Phone: Not listed
+Email: bownehouseeducation@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7628819
+Longitude: -73.8248834
+OpenStreetMap URL: https://www.openstreetmap.org/way/284556746
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284556746
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

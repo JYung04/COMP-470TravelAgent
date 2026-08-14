@@ -1,0 +1,25 @@
+Name: Greenhouse Kitchen
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 435 Faneuil Street, Brighton MA 02135
+Description: Not listed
+Website: https://www.greenhousekitchenma.com/home/3021042
+Phone: +1-617-903-3097
+Email: jose_amarquez74@live.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3511742
+Longitude: -71.1685301
+OpenStreetMap URL: https://www.openstreetmap.org/way/715996548
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/715996548
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

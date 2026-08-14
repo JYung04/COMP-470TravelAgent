@@ -1,0 +1,25 @@
+Name: KOHOKU-KU RAMEN
+City: Chicago
+Category: restaurants
+Cuisine: japanese
+Address: 1136 West Thorndale Avenue, Chicago IL 60660
+Description: Not listed
+Website: https://www.kohoku-kuramen.com/
+Phone: +1 773 654 3342
+Email: kohokuchicago@gmail.com
+Opening Hours: Mo-Th 11:30-21:30; Fr-Sa 11:30-22:00; Su 11:30-21:30
+Wheelchair Accessibility: yes
+Latitude: 41.9901436
+Longitude: -87.6597547
+OpenStreetMap URL: https://www.openstreetmap.org/node/13500696563
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13500696563
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: New Win Hing Chinese Restaurant
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6143903
+Longitude: -74.0665263
+OpenStreetMap URL: https://www.openstreetmap.org/node/11040468189
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11040468189
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

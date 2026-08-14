@@ -1,0 +1,24 @@
+Name: New Asian Cuisine
+City: NYC
+Category: restaurants
+Cuisine: chinese, thai
+Address: 44-20 48th Avenue, 11377
+Description: Not listed
+Website: Not listed
+Phone: +1 718-784-4989
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:30; Fr-Su 11:00-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7393123
+Longitude: -73.9205614
+OpenStreetMap URL: https://www.openstreetmap.org/node/2844871581
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2844871581
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

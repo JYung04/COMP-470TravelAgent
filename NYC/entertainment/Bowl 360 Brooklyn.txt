@@ -1,0 +1,25 @@
+Name: Bowl 360 Brooklyn
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 1 Bouck Court, Brooklyn NY 11223
+Description: Not listed
+Website: https://bowl360brooklyn.nyc/
+Phone: +1-718-336-6700
+Email: Not listed
+Opening Hours: 10:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 40.5889816
+Longitude: -73.9736151
+OpenStreetMap URL: https://www.openstreetmap.org/way/248835587
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248835587
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

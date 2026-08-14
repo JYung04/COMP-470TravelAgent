@@ -1,0 +1,25 @@
+Name: The Seas with Nemo & Friends
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The Seas with Nemo & Friends is a pavilion and aquarium located in the World Nature section of Epcot, a theme park at the Walt Disney World Resort in Bay Lake, Florida. The pavilion is themed as an oceanic exploration base called SeaBase Alpha, with several exhibits devoted to oceanic study. The building includes an aquarium and its attached dark ride attraction, a talk show-type attraction called Turtle Talk with Crush, and the Coral Reef Restaurant. With 5.7 million US gallons of tank volume, the pavilion is also the second-largest aquarium in the U.S. and the ninth-largest in the world.
+Website: https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3753336
+Longitude: -81.5508942
+OpenStreetMap URL: https://www.openstreetmap.org/way/307684414
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/307684414
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

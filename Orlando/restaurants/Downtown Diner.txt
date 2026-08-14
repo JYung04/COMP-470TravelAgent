@@ -1,0 +1,24 @@
+Name: Downtown Diner
+City: Orlando
+Category: restaurants
+Cuisine: breakfast, american
+Address: 701 Front Street, Celebration FL 34747
+Description: Not listed
+Website: https://downtowndinercelebration.net/
+Phone: +1 855-681-7835
+Email: downtowndinercelebration1@gmail.com
+Opening Hours: 09:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 28.3181188
+Longitude: -81.5407322
+OpenStreetMap URL: https://www.openstreetmap.org/node/2766190766
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2766190766
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

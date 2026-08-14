@@ -1,0 +1,25 @@
+Name: Peninsula Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 280 Central Avenue, Lawrence NY 11559
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 12:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.6167174
+Longitude: -73.7322028
+OpenStreetMap URL: https://www.openstreetmap.org/way/548597316
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/548597316
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

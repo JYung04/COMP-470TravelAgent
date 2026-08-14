@@ -1,0 +1,25 @@
+Name: Frederick C. Robie House
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 5757 South Woodlawn Avenue, Chicago IL 60637
+Description: The Frederick C. Robie House is a historic house museum on the University of Chicago campus in the Hyde Park neighborhood of Chicago, Illinois, United States. Designed by the architect Frank Lloyd Wright in the Prairie style, it was completed in 1910. The house was built for the manufacturing executive Frederick Carlton Robie and his family. George Mann Niedecken oversaw the interior design, while associate architects Hermann von Holst and Marion Mahony also assisted with the design. The Robie House, described as one of Wright's best Prairie style buildings, was one of the last structures he designed at his studio in Oak Park, Illinois.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7898086
+Longitude: -87.5959318
+OpenStreetMap URL: https://www.openstreetmap.org/way/125667497
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/125667497
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

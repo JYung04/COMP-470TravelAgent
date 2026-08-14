@@ -1,0 +1,25 @@
+Name: Mr Chow
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 324 East 57th Street, 10022
+Description: Not listed
+Website: https://www.mrchow.com
+Phone: +1 212-751-9030
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7587671
+Longitude: -73.9644197
+OpenStreetMap URL: https://www.openstreetmap.org/node/2711029303
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2711029303
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

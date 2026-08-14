@@ -1,0 +1,25 @@
+Name: Peking Duck House
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 28 Mott Street, New York NY
+Description: Not listed
+Website: https://www.pekingduckhousenyc.com
+Phone: +1-212-227-1810
+Email: Not listed
+Opening Hours: Su-Th 11:30-22:30; Fr-Sa 11:45-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7146382
+Longitude: -73.9985571
+OpenStreetMap URL: https://www.openstreetmap.org/node/4181417794
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4181417794
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

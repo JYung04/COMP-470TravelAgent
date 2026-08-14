@@ -1,0 +1,25 @@
+Name: Best Western Orlando East Inn & Suites
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8750 East Colonial Drive, Orlando FL 32817
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-orlando/best-western-orlando-east-inn-suites/propertyCode.10346.html
+Phone: +1 407-282-3900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5675109
+Longitude: -81.2679488
+OpenStreetMap URL: https://www.openstreetmap.org/way/936320163
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/936320163
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

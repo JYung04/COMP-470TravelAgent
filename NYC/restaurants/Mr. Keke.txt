@@ -1,0 +1,25 @@
+Name: Mr. Keke
+City: NYC
+Category: restaurants
+Cuisine: ramen
+Address: 63 Cooper Square, 10003
+Description: Not listed
+Website: https://www.mrkeke.net/restaurant-location-manhattan
+Phone: +1-917-328-5777
+Email: Not listed
+Opening Hours: Mo-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7290829
+Longitude: -73.990007
+OpenStreetMap URL: https://www.openstreetmap.org/node/2494161089
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2494161089
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Peking Empire
+City: NYC
+Category: restaurants
+Cuisine: chinese, chicken, dumpling, fried_rice
+Address: 141-06 Northern Boulevard, Flushing NY 11354
+Description: Not listed
+Website: http://pekingempire.com
+Phone: +1-718-762-3080
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:45, Fr-Sa 11:00-23:30, Su 11:30-22:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.7642549
+Longitude: -73.8255725
+OpenStreetMap URL: https://www.openstreetmap.org/node/2883431954
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2883431954
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

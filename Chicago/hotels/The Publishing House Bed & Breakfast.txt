@@ -1,0 +1,25 @@
+Name: The Publishing House Bed & Breakfast
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 108 North May Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.publishinghousebnb.com/
+Phone: +1 312-554-5857
+Email: info@publishinghousebnb.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8831559
+Longitude: -87.6557867
+OpenStreetMap URL: https://www.openstreetmap.org/node/12776738450
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12776738450
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

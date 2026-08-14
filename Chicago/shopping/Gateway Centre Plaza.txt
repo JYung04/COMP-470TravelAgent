@@ -1,0 +1,25 @@
+Name: Gateway Centre Plaza
+City: Chicago
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0182285
+Longitude: -87.6744126
+OpenStreetMap URL: https://www.openstreetmap.org/relation/19997548
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/19997548
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

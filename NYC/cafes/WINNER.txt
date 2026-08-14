@@ -1,0 +1,24 @@
+Name: WINNER
+City: NYC
+Category: cafes
+Cuisine: chicken, coffee_shop, sandwich
+Address: 367 7th Avenue, Brooklyn NY 11215
+Description: Not listed
+Website: https://www.winner.nyc
+Phone: Not listed
+Email: info@winner.nyc
+Opening Hours: Mo-Su 07:30-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6657195
+Longitude: -73.982369
+OpenStreetMap URL: https://www.openstreetmap.org/node/2568710180
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2568710180
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

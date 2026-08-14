@@ -1,0 +1,25 @@
+Name: El Gauchito
+City: NYC
+Category: restaurants
+Cuisine: argentinian
+Address: 158-15 Horace Harding Expressway Service Road North, NY 11367
+Description: Not listed
+Website: http://elgauchitonyc.com
+Phone: +1-718-661-4262
+Email: Not listed
+Opening Hours: Mo-Th 03:00-22:00; Tu off; Fr,Sa 03:00-23:30; Su 01:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7390561
+Longitude: -73.8097888
+OpenStreetMap URL: https://www.openstreetmap.org/way/284488848
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284488848
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

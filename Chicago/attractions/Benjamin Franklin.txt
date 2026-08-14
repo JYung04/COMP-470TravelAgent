@@ -1,0 +1,25 @@
+Name: Benjamin Franklin
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: A statue of Benjamin Franklin, known as the Benjamin Franklin Monument, is installed in Chicago's Lincoln Park, in the U.S. state of Illinois. Designed by Richard Henry Park, the work was created in 1895, installed in 1896, and relocated in 1966.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/benjamin-franklin-monument
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9138025
+Longitude: -87.6310959
+OpenStreetMap URL: https://www.openstreetmap.org/way/608421763
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/608421763
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

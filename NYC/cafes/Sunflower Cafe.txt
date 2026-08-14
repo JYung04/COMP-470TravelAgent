@@ -1,0 +1,24 @@
+Name: Sunflower Cafe
+City: NYC
+Category: cafes
+Cuisine: breakfast, american
+Address: 335 3rd Avenue, 10010
+Description: Not listed
+Website: https://www.sunflowercafe.nyc
+Phone: +1-917-262-0804
+Email: Not listed
+Opening Hours: Mo-Su 07:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.7398896
+Longitude: -73.9821488
+OpenStreetMap URL: https://www.openstreetmap.org/node/7036452476
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7036452476
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

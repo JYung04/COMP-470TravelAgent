@@ -1,0 +1,25 @@
+Name: Cheeky Monkey Brewing Co.
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 3 Lansdowne Street, Boston MA 02215
+Description: Cheeky Monkey is a person containing incredible amounts of awesomeness through use of sarcasm. Cheeky Monkey Brewing Co. is excited to bring sarcasm and freshly brewed beers to Lansdowne Street. Going far beyond your average brewery, Cheeky Monkey creates a one of a kind experience in Boston, featuring cross cultured street food and entertainment classics. Located behind historic Fenway Park on Lansdowne Street, Cheeky Monkey Brewing Co. is the perfect location for your next social or corporate event. With an on-site brewery delivering freshly brewed craft beers, cross-cultured street food creations, billiards, pingpong and shuffleboard, Cheeky Monkey has something for everyone at your event. Cheeky Monkey Brewing Co is perfect for Birthday Parties Office or Business Meetings Corporate Events Holiday Parties Social Gatherings And More! Discover our space and get in touch with us to book an event today!
+Website: https://www.luckystrikeent.com/location/cheeky-monkey-brewing-co
+Phone: +1-617-859-0030
+Email: Not listed
+Opening Hours: Su 12:00-22:00; Mo 15:00-22:00; Tu-We 15:00-23:00; Th 15:00-25:00; Fr 15:00-26:00; Sa 12:00-26:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3473229
+Longitude: -71.0947146
+OpenStreetMap URL: https://www.openstreetmap.org/node/7605546624
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7605546624
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

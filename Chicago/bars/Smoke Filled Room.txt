@@ -1,0 +1,25 @@
+Name: Smoke Filled Room
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3359 West 79th Street, Chicago IL 60652
+Description: Not listed
+Website: Not listed
+Phone: +1-773-424-5738
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7495275
+Longitude: -87.7070827
+OpenStreetMap URL: https://www.openstreetmap.org/node/6298892199
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6298892199
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Storyville
+City: Boston
+Category: nightlife
+Cuisine: Not listed
+Address: 90 Exeter Street, Boston MA 02116
+Description: Storyville was a Boston jazz nightclub organized by Boston jazz promoter and producer George Wein during the 1940s.
+Website: https://www.facebook.com/StoryvilleBoston/
+Phone: +1-617-236-1134
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3482396
+Longitude: -71.0787107
+OpenStreetMap URL: https://www.openstreetmap.org/node/7539441335
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7539441335
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

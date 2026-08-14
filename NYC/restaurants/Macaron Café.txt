@@ -1,0 +1,24 @@
+Name: Macaron Café
+City: NYC
+Category: restaurants
+Cuisine: french, sandwich, salad
+Address: 152 West 36th Street
+Description: Not listed
+Website: https://macaroncafe.com/
+Phone: +1-212-564-3525
+Email: info@macaroncafe.com
+Opening Hours: Mo-Fr 07:00-19:30; Sa 09:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7518625
+Longitude: -73.9890435
+OpenStreetMap URL: https://www.openstreetmap.org/node/5816276401
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5816276401
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Orchid Thai Cuisine
+City: Orlando
+Category: restaurants
+Cuisine: Thai, Gluten-free, Health, Vegan
+Address: 305 N Park Ave, Winter Park, FL 32789, United States
+Description: Not listed
+Website: https://www.enjoyorchidthai.com/
+Phone: +1 407-331-1400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5998002
+Longitude: -81.3511769
+OpenStreetMap URL: https://www.openstreetmap.org/node/3411731061
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3411731061
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

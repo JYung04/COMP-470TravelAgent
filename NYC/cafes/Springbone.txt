@@ -1,0 +1,25 @@
+Name: Springbone
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 277 Bedford Avenue Brooklyn NY 11211
+Description: Not listed
+Website: https://springbone.com
+Phone: +1-929-295-0537
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-19:00; Sa 09:00-19:00; Su 09:00-16:00
+Wheelchair Accessibility: yes
+Latitude: 40.7365465
+Longitude: -73.9903398
+OpenStreetMap URL: https://www.openstreetmap.org/way/1112170141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1112170141
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

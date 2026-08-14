@@ -1,0 +1,25 @@
+Name: Guapo's
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 3050 K Street Northwest, Washington DC 20007-5100
+Description: Not listed
+Website: https://www.guaposrestaurant.com/location/georgetown-dc/
+Phone: +1 202-844-5777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9016585
+Longitude: -77.0603402
+OpenStreetMap URL: https://www.openstreetmap.org/node/6171656559
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6171656559
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

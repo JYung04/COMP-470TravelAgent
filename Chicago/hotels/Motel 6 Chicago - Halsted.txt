@@ -1,0 +1,25 @@
+Name: Motel 6 Chicago - Halsted
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 10022 South Halsted Street, Chicago IL 60628
+Description: Not listed
+Website: https://www.motel6.com/en/home/motels.il.chicago.9738.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7114609
+Longitude: -87.6433326
+OpenStreetMap URL: https://www.openstreetmap.org/way/210047314
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210047314
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

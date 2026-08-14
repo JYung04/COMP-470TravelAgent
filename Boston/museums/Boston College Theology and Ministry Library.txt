@@ -1,0 +1,25 @@
+Name: Boston College Theology and Ministry Library
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 117 Lake Street, MA
+Description: Not listed
+Website: https://www.bc.edu/bc-web/schools/stm/faculty/Theology-Ministry-Library.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3428925
+Longitude: -71.1636371
+OpenStreetMap URL: https://www.openstreetmap.org/way/29779620
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29779620
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

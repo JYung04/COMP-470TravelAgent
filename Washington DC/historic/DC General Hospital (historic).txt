@@ -1,0 +1,25 @@
+Name: DC General Hospital (historic)
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: 1900 Massachusetts Avenue Southeast, Washington DC 20003
+Description: The District of Columbia General Hospital, commonly known as DC General Hospital, was a hospital located in the Hill East neighborhood of Washington, D.C. It was operational from 1806 to its closing by mayor Anthony A. Williams in 2001 as the city was trying to cut costs while recovering from bankruptcy. At the time of its closure, it was the only public hospital located within the District.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8860052
+Longitude: -76.9747768
+OpenStreetMap URL: https://www.openstreetmap.org/node/13186828250
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13186828250
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

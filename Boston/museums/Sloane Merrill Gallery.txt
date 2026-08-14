@@ -1,0 +1,25 @@
+Name: Sloane Merrill Gallery
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 75 Charles Street, Boston MA 02114
+Description: Not listed
+Website: http://sloanemerrillgallery.com/
+Phone: +1-617-227-1775
+Email: info@sloanemerrillgallery.com
+Opening Hours: Tu-Sa 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3582742
+Longitude: -71.0704057
+OpenStreetMap URL: https://www.openstreetmap.org/node/13665677403
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13665677403
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

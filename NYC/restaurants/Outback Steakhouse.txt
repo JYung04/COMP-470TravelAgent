@@ -1,0 +1,24 @@
+Name: Outback Steakhouse
+City: NYC
+Category: restaurants
+Cuisine: american, steak
+Address: 280 Marsh Avenue, Staten Island NY 10314
+Description: Not listed
+Website: https://locations.outback.com/new-york/staten-island/280-marsh-avenue
+Phone: +1 718-761-3907
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.5787021
+Longitude: -74.1639728
+OpenStreetMap URL: https://www.openstreetmap.org/way/904206143
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/904206143
+Price: Not listed
+Rating: 4.3
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

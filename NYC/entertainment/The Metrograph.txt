@@ -1,0 +1,25 @@
+Name: The Metrograph
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 7 Ludlow Street, New York NY 10002
+Description: Not listed
+Website: https://metrograph.com/
+Phone: +1-212-660-0312
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7150975
+Longitude: -73.991025
+OpenStreetMap URL: https://www.openstreetmap.org/node/11087509305
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11087509305
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

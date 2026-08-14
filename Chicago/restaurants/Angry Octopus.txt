@@ -1,0 +1,25 @@
+Name: Angry Octopus
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 2100 North Clark Street, Chicago IL 60614-4614
+Description: Not listed
+Website: https://angry-octopus.square.site/
+Phone: +1-773-296-9600
+Email: angryoctopus36@gmail.com
+Opening Hours: Mo-Tu 10:00-20:00; We off; Th-Fr 10:00-20:00; Sa-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9203145
+Longitude: -87.637469
+OpenStreetMap URL: https://www.openstreetmap.org/node/13806688096
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13806688096
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

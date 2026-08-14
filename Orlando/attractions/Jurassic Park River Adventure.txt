@@ -1,0 +1,25 @@
+Name: Jurassic Park River Adventure
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Jurassic Park: The Ride, also known as Jurassic Park River Adventure, is a water-based amusement ride at several Universal theme parks. It was inspired by Steven Spielberg's 1993 film Jurassic Park and Michael Crichton's 1990 novel of the same name, on which the film is based.
+Website: https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/jurassic-park-river-adventure
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4702522
+Longitude: -81.4737818
+OpenStreetMap URL: https://www.openstreetmap.org/node/9108591232
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9108591232
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

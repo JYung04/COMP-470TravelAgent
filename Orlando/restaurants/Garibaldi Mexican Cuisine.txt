@@ -1,0 +1,25 @@
+Name: Garibaldi Mexican Cuisine
+City: Orlando
+Category: restaurants
+Cuisine: mexican
+Address: 848 Sand Lake Road, Orlando FL 32809
+Description: Not listed
+Website: https://www.garibaldimexicancuisine.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:00-21:00; Fr, Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4501216
+Longitude: -81.3900445
+OpenStreetMap URL: https://www.openstreetmap.org/way/587054580
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/587054580
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

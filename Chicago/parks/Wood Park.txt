@@ -1,0 +1,25 @@
+Name: Wood Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2914 North Leavitt Street, Chicago IL 60618
+Description: Not listed
+Website: https://chicagoplaygrounds.com/s/guide/item/3039#lg=1&slide=9
+Phone: Not listed
+Email: Not listed
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 41.9347184
+Longitude: -87.6833302
+OpenStreetMap URL: https://www.openstreetmap.org/way/349295673
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/349295673
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

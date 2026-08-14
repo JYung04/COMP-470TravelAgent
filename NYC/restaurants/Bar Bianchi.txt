@@ -1,0 +1,25 @@
+Name: Bar Bianchi
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 5 Avenue A, 10009
+Description: Not listed
+Website: https://www.barbianchinyc.com/
+Phone: +1-646-490-6004
+Email: Not listed
+Opening Hours: Mo 17:00-23:00, Tu-We 17:00-24:00, Th 17:00-01:00, Fr 16:00-01:00, Sa 12:00-01:00, Su 12:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7225091
+Longitude: -73.9862947
+OpenStreetMap URL: https://www.openstreetmap.org/node/1683399834
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1683399834
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

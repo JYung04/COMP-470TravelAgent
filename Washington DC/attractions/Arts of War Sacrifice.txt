@@ -1,0 +1,25 @@
+Name: Arts of War: Sacrifice
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: statue by Leo Friedlander in Washington, D.C., United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8887076
+Longitude: -77.0521515
+OpenStreetMap URL: https://www.openstreetmap.org/node/358960320
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358960320
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing; art

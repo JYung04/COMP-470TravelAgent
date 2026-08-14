@@ -1,0 +1,25 @@
+Name: Fiore's Bakery
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://fioresbakeryjp.com/
+Phone: +1-617-524-9200
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-15:00; Sa-Su 09:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3079697
+Longitude: -71.1157177
+OpenStreetMap URL: https://www.openstreetmap.org/node/4037635226
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4037635226
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

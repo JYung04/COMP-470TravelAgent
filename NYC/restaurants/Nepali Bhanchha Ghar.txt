@@ -1,0 +1,24 @@
+Name: Nepali Bhanchha Ghar
+City: NYC
+Category: restaurants
+Cuisine: tibetan, nepalese
+Address: 74-15 Roosevelt Avenue, Jackson Heights NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7470294
+Longitude: -73.8908243
+OpenStreetMap URL: https://www.openstreetmap.org/node/5658796960
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5658796960
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

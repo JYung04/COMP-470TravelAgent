@@ -1,0 +1,25 @@
+Name: Society of Illustrators
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 128 East 63rd Street, New York NY 10065
+Description: Not listed
+Website: https://societyillustrators.org/
+Phone: +1 212 838 2560
+Email: info@societyillustrators.org
+Opening Hours: We-Sa 11:00-17:00; Dec 30 off
+Wheelchair Accessibility: limited
+Latitude: 40.7648187
+Longitude: -73.966827
+OpenStreetMap URL: https://www.openstreetmap.org/node/7041713696
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7041713696
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

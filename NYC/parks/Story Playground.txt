@@ -1,0 +1,25 @@
+Name: Story Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8231382
+Longitude: -73.8628999
+OpenStreetMap URL: https://www.openstreetmap.org/way/1231110161
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1231110161
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

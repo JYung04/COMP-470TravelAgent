@@ -1,0 +1,25 @@
+Name: Drake Fountain
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 92nd St @ South Chicago & Exchange Ave
+Description: A designated Chicago landmark. Built: 1892. Architect: Richard Henry Park. Landmark designation date: 2004-03-10T00:00:00.000.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.728094
+Longitude: -87.5527489
+OpenStreetMap URL: https://www.openstreetmap.org/way/211359445
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/211359445
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history

@@ -1,0 +1,25 @@
+Name: Jessops
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: Market Place, Boston PE20 3LJ
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9450015
+Longitude: -0.1584301
+OpenStreetMap URL: https://www.openstreetmap.org/node/1853016064
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1853016064
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

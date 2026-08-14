@@ -1,0 +1,25 @@
+Name: Art & Soul
+City: Washington DC
+Category: bars
+Cuisine: southern
+Address: 415 New Jersey Avenue Northwest, Washington DC 20001-2001
+Description: Not listed
+Website: https://www.artandsouldc.com/
+Phone: +1 202-393-7777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8952727
+Longitude: -77.0106516
+OpenStreetMap URL: https://www.openstreetmap.org/node/739150378
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739150378
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

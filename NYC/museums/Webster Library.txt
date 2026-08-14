@@ -1,0 +1,25 @@
+Name: Webster Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1465 York Avenue, New York 10021
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/webster
+Phone: +1-212-288-5049
+Email: Not listed
+Opening Hours: Mo-Th 11:00-19:00; Fr,Sa 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.7706584
+Longitude: -73.9513496
+OpenStreetMap URL: https://www.openstreetmap.org/way/266900751
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266900751
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

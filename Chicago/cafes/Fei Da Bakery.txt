@@ -1,0 +1,25 @@
+Name: Fei Da Bakery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2228 South Wentworth Avenue, Chicago IL 60616
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8519948
+Longitude: -87.6321563
+OpenStreetMap URL: https://www.openstreetmap.org/node/10583112891
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10583112891
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

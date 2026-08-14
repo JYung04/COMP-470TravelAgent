@@ -1,0 +1,25 @@
+Name: Vanka Cafe
+City: NYC
+Category: restaurants
+Cuisine: russian
+Address: 3810 Nostrand Avenue
+Description: Not listed
+Website: https://vankacafe.com/
+Phone: +1 347-702-4023
+Email: Not listed
+Opening Hours: Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.591021
+Longitude: -73.9403596
+OpenStreetMap URL: https://www.openstreetmap.org/node/12984640549
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12984640549
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

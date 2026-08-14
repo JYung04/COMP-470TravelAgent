@@ -1,0 +1,25 @@
+Name: Teammates
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Ted Williams (9), Bobby Doerr (1), Johnny Pesky (6), and Dom DiMaggio (7)
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.346151
+Longitude: -71.095699
+OpenStreetMap URL: https://www.openstreetmap.org/node/7603989922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7603989922
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

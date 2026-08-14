@@ -1,0 +1,25 @@
+Name: Jersey City 9/11 Memorial
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Jersey City 9/11 Memorial is located on the Hudson River Waterfront Walkway at the foot of Grand Street in Paulus Hook near Exchange Place in Jersey City, New Jersey. It comprises three components: a sculpture of steel girders from the original World Trade Center, an inscribed black granite stele, and Makeshift Memorial. The site on the Hudson Waterfront opposite the World Trade Center site was a triage set up during the '9/11 boatlift' and thereafter became a staging area for rescue operations.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7148073
+Longitude: -74.0332614
+OpenStreetMap URL: https://www.openstreetmap.org/node/9688305193
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9688305193
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history

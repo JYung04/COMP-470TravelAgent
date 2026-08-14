@@ -1,0 +1,25 @@
+Name: Young and Rich
+City: NYC
+Category: restaurants
+Cuisine: Chinese, Mandarin
+Address: 36-19 Prince Street, 11354
+Description: Not listed
+Website: https://www.youngandrichnyc.com/
+Phone: +1 667-866-8686
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7617708
+Longitude: -73.832889
+OpenStreetMap URL: https://www.openstreetmap.org/node/2883431999
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2883431999
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

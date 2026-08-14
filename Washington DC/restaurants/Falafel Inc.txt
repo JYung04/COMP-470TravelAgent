@@ -1,0 +1,25 @@
+Name: Falafel Inc.
+City: Washington DC
+Category: restaurants
+Cuisine: middle_eastern
+Address: 1210 Potomac Street Northwest, Washington DC 20007
+Description: Not listed
+Website: https://www.falafelinc.org/
+Phone: +1 202-333-4265
+Email: Not listed
+Opening Hours: Mo-Sa 12:00-22:00, Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9054725
+Longitude: -77.0653413
+OpenStreetMap URL: https://www.openstreetmap.org/node/5109682461
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5109682461
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

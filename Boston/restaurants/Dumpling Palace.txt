@@ -1,0 +1,25 @@
+Name: Dumpling Palace
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 179 Massachusetts Avenue, Boston MA 02115
+Description: Not listed
+Website: https://www.dumpling-palace.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 15:30-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3457309
+Longitude: -71.0871907
+OpenStreetMap URL: https://www.openstreetmap.org/node/2350127258
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2350127258
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

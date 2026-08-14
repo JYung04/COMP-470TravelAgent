@@ -1,0 +1,25 @@
+Name: LuLu's Allston
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: 421 Cambridge Street, 02134
+Description: Not listed
+Website: https://lulusallston.com/
+Phone: +1-617-787-1117
+Email: LULUSALLSTON@GMAIL.COM
+Opening Hours: Mo-Th 11:30-22:00; Fr 11:30-23:00; Sa 09:00-23:00; Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3550891
+Longitude: -71.1340758
+OpenStreetMap URL: https://www.openstreetmap.org/node/4727567602
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4727567602
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

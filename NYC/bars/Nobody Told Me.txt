@@ -1,0 +1,25 @@
+Name: Nobody Told Me
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 188 Front Street, Brooklyn NY 11201
+Description: Not listed
+Website: https://nobodytoldme.squarespace.com/dumbo
+Phone: Not listed
+Email: dumbo@nobodytoldme.nyc
+Opening Hours: Mo-Su 15:00-26:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7022294
+Longitude: -73.9849719
+OpenStreetMap URL: https://www.openstreetmap.org/node/11746463842
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11746463842
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

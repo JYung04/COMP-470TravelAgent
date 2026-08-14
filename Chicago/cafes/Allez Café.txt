@@ -1,0 +1,25 @@
+Name: Allez Café
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2239 North Western Avenue
+Description: Not listed
+Website: https://www.allezcafechicago.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: 08:00-14:00
+Wheelchair Accessibility: yes
+Latitude: 41.9228996
+Longitude: -87.687353
+OpenStreetMap URL: https://www.openstreetmap.org/node/12329253050
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12329253050
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

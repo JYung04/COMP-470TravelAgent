@@ -1,0 +1,25 @@
+Name: The Verb Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 1271 Boylston Street, Boston MA 02215
+Description: Not listed
+Website: https://www.theverbhotel.com/?utm_source=local-directories&utm_medium=organic&utm_campaign=travelclick-localconnect
+Phone: +1 617 566 4500
+Email: info@theverbhotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3453419
+Longitude: -71.0969246
+OpenStreetMap URL: https://www.openstreetmap.org/way/29716183
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29716183
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Perkins
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: 6425 University Boulevard, Winter Park FL 32792
+Description: Not listed
+Website: Not listed
+Phone: +1-407-752-9537
+Email: Not listed
+Opening Hours: 06:00-24:00+ "some nights until 01:00"
+Wheelchair Accessibility: Not listed
+Latitude: 28.598011
+Longitude: -81.2979175
+OpenStreetMap URL: https://www.openstreetmap.org/way/557969749
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/557969749
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

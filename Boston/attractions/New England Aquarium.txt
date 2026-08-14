@@ -1,0 +1,25 @@
+Name: New England Aquarium
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 1 Central Wharf, Boston MA 02110
+Description: Experience the wonder of 70 exhibits featuring aquatic animals from around the world. Get your hands wet at The Trust Family Foundation Shark and Ray Touch Tank. Watch Northern fur seals at the New Balance Foundation Marine Mammal Center. Finally, experience an unforgettable film on New England’s largest screen. The New England Aquarium is located on Central Wharf, just steps from historic Faneuil Hall, the Rose Kennedy Greenway, and right on the bustling waterfront. Spend your day at the Aquarium. Visit our exhibits, watch a nature film, and during the months of April-October take a Whale Watch trip which departs right from the Aquarium. Lunch packages are available at the Aquarium cafe and on board the Whale Watch or dine at restaurants in Faneuil Hall. This Business is Group Friendly! SUMMER HOURS June – August Monday – Thursday: 9:00 a.m..
+Website: https://www.neaq.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-18:00; Sa,Su 09:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 42.3591988
+Longitude: -71.0493558
+OpenStreetMap URL: https://www.openstreetmap.org/way/29660091
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29660091
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: new england aquarium
+Best For: sightseeing; art

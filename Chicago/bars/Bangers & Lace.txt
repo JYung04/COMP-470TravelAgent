@@ -1,0 +1,25 @@
+Name: Bangers & Lace
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1670 West Division Street, Chicago IL 60622
+Description: Not listed
+Website: https://www.bangersandlacebar.com/
+Phone: +1-773-252-6499
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9034821
+Longitude: -87.6702749
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575070913
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575070913
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

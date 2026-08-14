@@ -1,0 +1,24 @@
+Name: Apache Motel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 5535 North Lincoln Avenue, Chicago IL 60625
+Description: Not listed
+Website: http://www.apachemotelchicago.com
+Phone: (773) 728-9400
+Email: info@ezdesignstop.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9824746
+Longitude: -87.6934719
+OpenStreetMap URL: https://www.openstreetmap.org/way/209486254
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209486254
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

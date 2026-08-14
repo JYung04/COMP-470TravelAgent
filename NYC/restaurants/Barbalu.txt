@@ -1,0 +1,25 @@
+Name: Barbalu
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 10038
+Description: Not listed
+Website: https://www.barbalu.com/
+Phone: +16469186565
+Email: Not listed
+Opening Hours: Mo-Sa 10:30-22:30; Su 11:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.7074502
+Longitude: -74.0020779
+OpenStreetMap URL: https://www.openstreetmap.org/node/4845866424
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4845866424
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

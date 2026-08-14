@@ -1,0 +1,25 @@
+Name: Valedor
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1620 North Milwaukee Avenue
+Description: Not listed
+Website: https://valedorchi.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Th,Su 17:00-23:00; Fr-Sa 17:00-01:00
+Wheelchair Accessibility: yes
+Latitude: 41.9108153
+Longitude: -87.678445
+OpenStreetMap URL: https://www.openstreetmap.org/node/13139823130
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13139823130
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

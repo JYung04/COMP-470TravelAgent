@@ -1,0 +1,25 @@
+Name: Lucky Charm Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3600 West Irving Park Road, Chicago IL 60618
+Description: Not listed
+Website: http://luckycharmcafe.com/
+Phone: +1-773-293-7207
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9539575
+Longitude: -87.7179881
+OpenStreetMap URL: https://www.openstreetmap.org/node/6320668646
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6320668646
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

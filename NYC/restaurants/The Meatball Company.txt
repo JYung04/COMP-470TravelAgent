@@ -1,0 +1,25 @@
+Name: The Meatball Company
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 200 9th Avenue, New York
+Description: Not listed
+Website: https://www.themeatballshop.com/locations/#chelsea
+Phone: +1 212-257-4363
+Email: Not listed
+Opening Hours: Mo,Su 00:00-02:00,12:00-24:00; Tu-Sa 00:00-04:00,12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7458946
+Longitude: -74.0014911
+OpenStreetMap URL: https://www.openstreetmap.org/node/2409946234
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2409946234
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

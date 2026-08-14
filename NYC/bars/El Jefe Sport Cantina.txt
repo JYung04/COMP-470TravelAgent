@@ -1,0 +1,25 @@
+Name: El Jefe Sport Cantina
+City: NYC
+Category: bars
+Cuisine: mexican
+Address: 186 Dyckman Street, New York NY 10040
+Description: Not listed
+Website: http://eljefe.nyc/
+Phone: +1-917-261-7967
+Email: Not listed
+Opening Hours: Mo-We 16:00-02:00; Th-Sa 15:00-03:00; Su 13:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.8644051
+Longitude: -73.9268547
+OpenStreetMap URL: https://www.openstreetmap.org/node/5712392304
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5712392304
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

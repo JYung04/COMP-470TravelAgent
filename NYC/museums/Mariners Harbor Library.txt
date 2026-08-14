@@ -1,0 +1,25 @@
+Name: Mariners Harbor Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 206 South Avenue, Staten Island 10303
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/mariners-harbor
+Phone: +1-212-621-0690
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6346877
+Longitude: -74.1666022
+OpenStreetMap URL: https://www.openstreetmap.org/way/241790268
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241790268
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

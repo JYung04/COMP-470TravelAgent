@@ -1,0 +1,25 @@
+Name: Queens Place
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 88-01 Queens Boulevard, Elmhurst NY 11373
+Description: Queens Place is an urban shopping mall in Elmhurst, Queens, New York City. Just northwest of the larger Queens Center, it is located on Queens Boulevard between 55th and 56th Avenues. The building was constructed in 1965 as Macy's and was designed by Skidmore, Owings & Merrill. It was later converted to Stern's, due to Macy's of Elmhurst moving into Queens Center, as part of Macy's dissolving of Abraham & Straus, in 1994, and then, as a result of Macy's dissolving Stern's in 2001, closed by Federated Department Stores. Today its flagship stores are Target, Macy's Furniture Gallery and Lidl, and it contains many smaller stores such as Mattress Firm and Skechers.
+Website: https://www.shopqueensplace.com/
+Phone: +1 718-393-9400
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7357372
+Longitude: -73.8742332
+OpenStreetMap URL: https://www.openstreetmap.org/way/280494570
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/280494570
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping; families; art

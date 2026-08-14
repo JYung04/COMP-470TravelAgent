@@ -1,0 +1,24 @@
+Name: Curry House
+City: NYC
+Category: restaurants
+Cuisine: malaysian, thai
+Address: 9 Pell Street
+Description: Not listed
+Website: http://www malacurryhouse.com
+Phone: +1 646 678 5131
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7146812
+Longitude: -73.997729
+OpenStreetMap URL: https://www.openstreetmap.org/node/13520165301
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13520165301
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Eris Evolution
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 167 Graham Avenue
+Description: Art filled nightclub.
+Website: https://www.erisevolution.com
+Phone: Not listed
+Email: media@erisevolution.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7077257
+Longitude: -73.9434941
+OpenStreetMap URL: https://www.openstreetmap.org/node/6112503970
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6112503970
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; art

@@ -1,0 +1,25 @@
+Name: Bourbon Steak
+City: Washington DC
+Category: restaurants
+Cuisine: steak_house
+Address: 2800 Pennsylvania Avenue Northwest, Washington DC 20007
+Description: Not listed
+Website: http://www.bourbonsteakdc.com
+Phone: +1-202-944-2026
+Email: Not listed
+Opening Hours: Su 14:30-24:00; Mo-Th 11:30-24:00; Fr 11:30-01:00; Sa 14:30-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9042693
+Longitude: -77.0572939
+OpenStreetMap URL: https://www.openstreetmap.org/node/4879530735
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4879530735
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

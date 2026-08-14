@@ -1,0 +1,24 @@
+Name: Covington Mill
+City: Orlando
+Category: restaurants
+Cuisine: American Restaurant, Breakfast Spot
+Address: 1751 Hotel Plaza Blvd (Hilton Orlando Lake Buena Vista), Lake Buena Vista, FL 32830
+Description: Not listed
+Website: http://www.hilton.com
+Phone: (407) 827-4000
+Email: Not listed
+Opening Hours: 07:00-11:00, 11:30-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3724095
+Longitude: -81.5105752
+OpenStreetMap URL: https://www.openstreetmap.org/way/1497798035
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1497798035
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

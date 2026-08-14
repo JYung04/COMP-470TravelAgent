@@ -1,0 +1,25 @@
+Name: Robsham Theater Arts Center
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: MA
+Description: Not listed
+Website: https://www.bc.edu/bc-web/offices/studentaffairs/sites/robsham-theater/box-office.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3379145
+Longitude: -71.1681831
+OpenStreetMap URL: https://www.openstreetmap.org/node/367777762
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367777762
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

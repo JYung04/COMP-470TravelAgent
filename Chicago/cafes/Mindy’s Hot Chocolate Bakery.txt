@@ -1,0 +1,25 @@
+Name: Mindy’s Hot Chocolate Bakery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 25 South Clark Street, Chicago IL 60603
+Description: Not listed
+Website: https://www.revivalfoodhall.com/vendors/hotchocolate-bakery/
+Phone: +1-773-770-6241
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8815015
+Longitude: -87.6301217
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322634588
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322634588
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

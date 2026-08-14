@@ -1,0 +1,25 @@
+Name: Fish Market
+City: Boston
+Category: restaurants
+Cuisine: sushi
+Address: 170 Brighton Avenue, Allston MA 02134
+Description: Not listed
+Website: https://fishmarketsushibar.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3529636
+Longitude: -71.1329577
+OpenStreetMap URL: https://www.openstreetmap.org/node/4727380456
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4727380456
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

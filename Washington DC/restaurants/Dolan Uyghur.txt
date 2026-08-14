@@ -1,0 +1,25 @@
+Name: Dolan Uyghur
+City: Washington DC
+Category: restaurants
+Cuisine: uyghur
+Address: 3518 Connecticut Avenue Northwest, Washington DC 20008
+Description: Not listed
+Website: https://www.dolanuyghur.com
+Phone: +1 833 693 6526
+Email: order@dolanuyghur.com
+Opening Hours: Mo-Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9361564
+Longitude: -77.0591553
+OpenStreetMap URL: https://www.openstreetmap.org/node/737476828
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737476828
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

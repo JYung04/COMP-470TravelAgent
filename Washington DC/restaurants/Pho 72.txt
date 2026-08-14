@@ -1,0 +1,25 @@
+Name: Pho 72
+City: Washington DC
+Category: restaurants
+Cuisine: vietnamese
+Address: 1376 Park Road Northwest, Washington DC 20010-2308
+Description: Not listed
+Website: https://pho72dc.com/
+Phone: +1 202-621-8235
+Email: Not listed
+Opening Hours: Mo-Su 10:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9303924
+Longitude: -77.0319727
+OpenStreetMap URL: https://www.openstreetmap.org/node/2066553064
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2066553064
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Simple Loaf
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, sandwich
+Address: Not listed
+Description: Not listed
+Website: https://www.simpleloaf.com
+Phone: +1-347-384-2205
+Email: Not listed
+Opening Hours: Tu-Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6732806
+Longitude: -73.9830685
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550565259
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550565259
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

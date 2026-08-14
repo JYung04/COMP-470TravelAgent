@@ -1,0 +1,25 @@
+Name: The Kitty Beautiful
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 360 State Lane, Orlando FL 32801
+Description: Not listed
+Website: https://thekittybeautiful.com/
+Phone: +1 321 209 2081
+Email: thekittybeautiful@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.546843
+Longitude: -81.3803744
+OpenStreetMap URL: https://www.openstreetmap.org/node/13301952041
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13301952041
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

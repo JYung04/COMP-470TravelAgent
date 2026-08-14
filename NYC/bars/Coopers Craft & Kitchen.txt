@@ -1,0 +1,24 @@
+Name: Coopers Craft & Kitchen
+City: NYC
+Category: bars
+Cuisine: american
+Address: 87 2nd Avenue, 10003
+Description: Not listed
+Website: https://www.coopersnyc.com
+Phone: +1-646-606-2384
+Email: Not listed
+Opening Hours: Mo-We 12:00-02:00; Th-Sa 12:00-03:00; Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7269503
+Longitude: -73.9890887
+OpenStreetMap URL: https://www.openstreetmap.org/node/4470157291
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4470157291
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

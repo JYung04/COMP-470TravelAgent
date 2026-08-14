@@ -1,0 +1,25 @@
+Name: Rania
+City: Washington DC
+Category: restaurants
+Cuisine: indian
+Address: 427 11th Street Northwest, Washington DC
+Description: Downtown Rania translates to “queen” in Hindi and Sanskrit so it’s no surprise that this hot spot is a royal delight. Chef Chetan Shetty exceeds expectations of a traditional Indian restaurant with a captivating menu of three courses for $75 or four for $90, featuring inventive dishes like beef short rib with saffron nihari and charred maitake mushroom. Masseria
+Website: https://www.raniadc.com/
+Phone: +1 202-804-6434
+Email: Not listed
+Opening Hours: Tu-Sa 17:00-22:00; Su 17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8956521
+Longitude: -77.0267703
+OpenStreetMap URL: https://www.openstreetmap.org/node/2357976893
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2357976893
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

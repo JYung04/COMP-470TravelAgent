@@ -1,0 +1,25 @@
+Name: Coffee Project New York | Financial District
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 135 John Street, New York 10038
+Description: Not listed
+Website: https://www.coffeeprojectny.com/
+Phone: +13157146564
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-17:00, Sa-Su 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7071222
+Longitude: -74.0049867
+OpenStreetMap URL: https://www.openstreetmap.org/node/2898706760
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2898706760
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

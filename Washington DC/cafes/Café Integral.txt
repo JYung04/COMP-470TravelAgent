@@ -1,0 +1,25 @@
+Name: Café Integral
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 1900 Connecticut Avenue Northwest, Washington DC 20009
+Description: Not listed
+Website: https://staygenerator.com/hotels/washington-dc?utm_source=bing-places&utm_medium=organic&utm_campaign=hostel-washington
+Phone: +1 202-332-9300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9159523
+Longitude: -77.0467062
+OpenStreetMap URL: https://www.openstreetmap.org/node/10975484894
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10975484894
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

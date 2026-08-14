@@ -1,0 +1,25 @@
+Name: Ama
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 885 New Jersey Avenue Southeast, Washington DC 20003-3385
+Description: Capitol Riverfront The next best thing to the agriturismo experience in Europe is a visit to Ama , a Northern Italian farm-to-table spot specializing in minimally processed foods from regenerative farms. It’s a blend of new, sustainable technology (all-electric kitchen), contemporary style and reflections of the founders' roots. Pick up pastries, focaccia and coffee by day and stop by the lively bar or dining room by night. The spot earned a nomination for Best New Restaurant of the Year from th
+Website: https://www.amarestaurant.bar/
+Phone: +1-202-830-2505
+Email: Not listed
+Opening Hours: Tu-Sa 16:00-21:30; Fr-Sa 16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8800543
+Longitude: -77.0056166
+OpenStreetMap URL: https://www.openstreetmap.org/node/11877513689
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11877513689
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

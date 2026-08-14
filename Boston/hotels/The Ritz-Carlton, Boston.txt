@@ -1,0 +1,25 @@
+Name: The Ritz-Carlton, Boston
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 10 Avery Street, Boston MA 02111
+Description: The Ritz-Carlton, Boston is the epitome of modern elegance. Conveniently located overlooking the Boston Common and within easy reach of the Theatre and Financial Districts, numerous historic sites, and trendy shopping in the Back Bay and Fanueil Hall. Direct access to the world-class facilities of Equinox Sports Club this high-energy destination is the perfect spot to take in everything that Boston has to offer. Artisan Bistro, featuring fresh, local seasonal dishes that present artisanal cooking in an approachable way. Avery Bar, offering signature cocktails reminiscent of the pre-prohibition era, a collection of ten variations of the classic Martini and small bites for tasting and sharing. The Ritz-Carlton, Boston, located in the heart of downtown Boston, boasts a contemporary, cosmopolitan design and sleek, sophisticated decor. An extremely professional and highly-skilled event production staff combined with an ideal location, nine function room.
+Website: http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm
+Phone: +1-617-574-7100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3531653
+Longitude: -71.0636868
+OpenStreetMap URL: https://www.openstreetmap.org/node/3000813985
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3000813985
+Price: Not listed
+Rating: 5.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

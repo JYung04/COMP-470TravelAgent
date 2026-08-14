@@ -1,0 +1,25 @@
+Name: Siam Country Thai Cuisine
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 4637 N. Damen Ave
+Description: Not listed
+Website: https://www.siamcountrychicago.com
+Phone: +1-773-277-0704
+Email: Not listed
+Opening Hours: Fr, Sa 11:30-22:00; Mo-Th, Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.966233
+Longitude: -87.6789369
+OpenStreetMap URL: https://www.openstreetmap.org/node/13910993626
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13910993626
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

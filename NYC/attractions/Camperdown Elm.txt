@@ -1,0 +1,25 @@
+Name: Camperdown Elm
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Mid-park Of the 30,000-some trees in Prospect Park, perhaps none stands out as much as the Camperdown Elm. The tree, planted in 1872, has a thick, knobby base that splinters into what look like two separate trunks—each of which sprouts its own fantastical, contorted branches. It’s a plant with personality, like something out of Dr. Seuss. The elm is ringed by a fence with an explanatory sign, letting you know that cables now help support its limbs. Dog walker and dogs on Center Drive, at foot of
+Website: https://www.nycgovparks.org/facilities/great-trees?id=8
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6601734
+Longitude: -73.9651184
+OpenStreetMap URL: https://www.openstreetmap.org/node/2645523669
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2645523669
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

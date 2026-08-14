@@ -1,0 +1,24 @@
+Name: Terrace Restaurant
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 280 5th Avenue, 11215
+Description: Not listed
+Website: https://www.terracerestaurantbk.com
+Phone: +1-929-624-2646
+Email: Not listed
+Opening Hours: Mo-Su 07:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6742528
+Longitude: -73.9824066
+OpenStreetMap URL: https://www.openstreetmap.org/way/241843139
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241843139
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Soluna Taco
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: Not listed
+Description: tacos and ramen
+Website: https://www.solunataco.com/
+Phone: +1 407-604-1212
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5521798
+Longitude: -81.624595
+OpenStreetMap URL: https://www.openstreetmap.org/node/11132433706
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11132433706
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

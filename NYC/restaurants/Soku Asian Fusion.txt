@@ -1,0 +1,25 @@
+Name: Soku Asian Fusion
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 36 Middle Neck Road, Great Neck NY 11021
+Description: Not listed
+Website: http://sokuasianfusion.com/
+Phone: +1 516-482-1923
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7874656
+Longitude: -73.7286509
+OpenStreetMap URL: https://www.openstreetmap.org/way/613233227
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/613233227
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: J.J. Foley's Cafe
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 117 East Berkeley Street, Boston 02118
+Description: Local pub crawlers nodded knowingly when British social media star Jason Hackett called this South End institution’s pint of Guinness the best in America in a 2025 review . The fourth Foley generation (with help from the fifth) continues to gamely preserve the tradition the first Jeremiah Foley started in 1909: serving locals of every stripe—and now some tourists—with solid pub fare and drinks with warm Irish-American hospitality. Bostonians didn’t need a world-famous beer geek’s commentary to know that. 117 East Berkeley St. , Boston , 617-728-9101 , jjfoleyscafe.com
+Website: https://www.jjfoleyscafe.com/
+Phone: +1-617-728-9101
+Email: Not listed
+Opening Hours: Mo-Su 00:00-02:00, 10:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3436416
+Longitude: -71.0652939
+OpenStreetMap URL: https://www.openstreetmap.org/node/464793771
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/464793771
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art; views

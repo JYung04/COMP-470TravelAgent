@@ -1,0 +1,25 @@
+Name: Mom's Place - A Chicago Gathering Spot
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 650 North Dearborn Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.momsplacechicago.com/
+Phone: +1-312-265-0768
+Email: Not listed
+Opening Hours: Su-Fr 14:00-02:00; Sa 14:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8938953
+Longitude: -87.6299888
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458108105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458108105
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Bangkok Pinto
+City: Boston
+Category: restaurants
+Cuisine: thai
+Address: 1041 Tremont Street, Boston MA 02120
+Description: Not listed
+Website: http://www.bangkok-pinto.com/
+Phone: +1-617-442-5555
+Email: Not listed
+Opening Hours: Tu-Fr 12:00-21:00; Sa 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3365682
+Longitude: -71.085623
+OpenStreetMap URL: https://www.openstreetmap.org/node/1914521961
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1914521961
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

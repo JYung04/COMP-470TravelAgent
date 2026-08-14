@@ -1,0 +1,25 @@
+Name: Uptown Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 4816 North Broadway, Chicago IL 60640
+Description: Uptown Theatre is a former movie palace and concert venue located in the Uptown neighborhood of Chicago, Illinois. Designed by Rapp and Rapp and built by Paschen Bros. contractors, it is one of the many movie palaces built by the Balaban & Katz theatre chain run by A. J. Balaban, his brother Barney Balaban, and their partner Sam Katz.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9694501
+Longitude: -87.6605129
+OpenStreetMap URL: https://www.openstreetmap.org/node/368069220
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368069220
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art

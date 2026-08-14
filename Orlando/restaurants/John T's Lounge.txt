@@ -1,0 +1,25 @@
+Name: John T's Lounge
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 1751 Hotel Plaza Boulevard, Lake Buena Vista FL 32830
+Description: Not listed
+Website: Not listed
+Phone: +1-407-827-4000
+Email: Not listed
+Opening Hours: 16:00+
+Wheelchair Accessibility: Not listed
+Latitude: 28.372495
+Longitude: -81.5111984
+OpenStreetMap URL: https://www.openstreetmap.org/way/1497798020
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1497798020
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

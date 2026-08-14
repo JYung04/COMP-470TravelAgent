@@ -1,0 +1,25 @@
+Name: Bedford Studio
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 62 Bedford Street, New York NY 10014
+Description: Not listed
+Website: https://bedfordstudio.nyc/
+Phone: +19173010351
+Email: Not listed
+Opening Hours: Mo-Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7311268
+Longitude: -74.0046067
+OpenStreetMap URL: https://www.openstreetmap.org/node/2562460591
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2562460591
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

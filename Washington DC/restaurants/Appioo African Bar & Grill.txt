@@ -1,0 +1,25 @@
+Name: Appioo African Bar & Grill
+City: Washington DC
+Category: restaurants
+Cuisine: ghanaian
+Address: 1924 9th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: http://www.appiooafricanbargrill.com/
+Phone: +1 202-588-7366
+Email: Not listed
+Opening Hours: Mo-We 11-22; Th 12-24; Fr-Sa 12-2:30; Su 11-22
+Wheelchair Accessibility: Not listed
+Latitude: 38.9162904
+Longitude: -77.0241875
+OpenStreetMap URL: https://www.openstreetmap.org/node/750467878
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750467878
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

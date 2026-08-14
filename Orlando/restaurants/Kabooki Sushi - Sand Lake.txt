@@ -1,0 +1,25 @@
+Name: Kabooki Sushi - Sand Lake
+City: Orlando
+Category: restaurants
+Cuisine: sushi
+Address: 7705 Turkey Lake Road, Orlando FL
+Description: Not listed
+Website: https://kabookisushi.com
+Phone: +1-407-776-2001
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4527941
+Longitude: -81.4759158
+OpenStreetMap URL: https://www.openstreetmap.org/node/1548125529
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1548125529
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

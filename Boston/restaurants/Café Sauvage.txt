@@ -1,0 +1,25 @@
+Name: Café Sauvage
+City: Boston
+Category: restaurants
+Cuisine: french
+Address: 25 Massachusetts Avenue
+Description: Not listed
+Website: https://www.cafesauvage.com/
+Phone: +1 857 226 4799
+Email: cafesauvage.boston@gmail.com
+Opening Hours: Tu-Fr 08:00-15:00,We-Th 16:30-21:00,Fr 16:30-22:00,Sa 09:00-16:00,17:00-22:00,Su 09:00-15:00,17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3505007
+Longitude: -71.0895305
+OpenStreetMap URL: https://www.openstreetmap.org/node/2350330758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2350330758
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

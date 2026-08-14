@@ -1,0 +1,25 @@
+Name: Night Shift Brewing
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 1 Lovejoy Wharf, Boston MA 02114
+Description: Not listed
+Website: https://nightshiftbrewing.com/locations/lovejoy-wharf/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3673628
+Longitude: -71.0594069
+OpenStreetMap URL: https://www.openstreetmap.org/node/7641684551
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7641684551
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Sarima Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1924 West North Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://sarimacafe.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 09:00-14:00
+Wheelchair Accessibility: yes
+Latitude: 41.9106343
+Longitude: -87.6761029
+OpenStreetMap URL: https://www.openstreetmap.org/node/2707458421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2707458421
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Ever
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1340 West Fulton Market, Chicago IL 60607
+Description: The stunning dining room at Ever is just a hint of the meal experience that’s ahead. And it truly is an experience — the menu is an 8- to 10-course meal that changes frequently with the seasons, dreamed up by acclaimed chef Curtis Duffy. Each night’s wine pairings are carefully curated to accompany each dish. The West Loop restaurant is the proud owner of two Michelin stars and guarantees an unforgettable evening. Top off the evening at the chic in-house cocktail bar and lounge After , offering
+Website: https://www.ever-restaurant.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 17:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8868452
+Longitude: -87.660486
+OpenStreetMap URL: https://www.openstreetmap.org/node/12194545678
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12194545678
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

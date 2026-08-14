@@ -1,0 +1,25 @@
+Name: Abunai Poke
+City: Washington DC
+Category: restaurants
+Cuisine: hawaiian
+Address: 1920 L Street Northwest, Washington DC 20036-5000
+Description: Not listed
+Website: https://www.abunaipoke.com/
+Phone: +1-202-838-9718
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-20:00; Sa-Su 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9035877
+Longitude: -77.044303
+OpenStreetMap URL: https://www.openstreetmap.org/node/4796772334
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4796772334
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

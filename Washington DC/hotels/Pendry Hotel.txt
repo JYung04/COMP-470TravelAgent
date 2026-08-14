@@ -1,0 +1,25 @@
+Name: Pendry Hotel
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 655 Water Street Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.pendry.com/washington-dc/
+Phone: +1 202-843-1111
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8773728
+Longitude: -77.0222964
+OpenStreetMap URL: https://www.openstreetmap.org/node/9901878576
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9901878576
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: La Adelita de Woodside
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 53-21 Roosevelt Avenue, 11377
+Description: Not listed
+Website: https://laadelitadewoodsideny.com/
+Phone: +1 917-451-7362
+Email: laadelitany@gmail.con
+Opening Hours: Mo-Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7448428
+Longitude: -73.9108153
+OpenStreetMap URL: https://www.openstreetmap.org/node/5301474422
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5301474422
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

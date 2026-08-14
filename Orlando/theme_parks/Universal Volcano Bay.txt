@@ -1,0 +1,25 @@
+Name: Universal Volcano Bay
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 6000 Universal Blvd, Orlando FL 32819
+Description: Universal Volcano Bay is a tropical-themed water park at Universal Orlando Resort in Orlando, Florida. Owned by NBCUniversal (Comcast) and operated by Universal Destinations & Experiences, Volcano Bay replaced Wet 'n Wild as Universal Orlando Resort's only water park, the third theme park overall, and the first water park constructed by Universal Creative. The park opened on May 25, 2017.
+Website: https://www.universalorlando.com/web/en/us/theme-parks/volcano-bay
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.461398
+Longitude: -81.472718
+OpenStreetMap URL: https://www.openstreetmap.org/way/392502551
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/392502551
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

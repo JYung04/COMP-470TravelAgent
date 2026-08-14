@@ -1,0 +1,25 @@
+Name: Hilton Washington DC Capitol Hill
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 525 New Jersey Avenue Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/dcadchh-hilton-washington-dc-capitol-hill/
+Phone: +1-202-628-2100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8969235
+Longitude: -77.0108206
+OpenStreetMap URL: https://www.openstreetmap.org/way/48040879
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48040879
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

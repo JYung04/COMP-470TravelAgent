@@ -1,0 +1,25 @@
+Name: Cariño
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 82 South 4th Street, Brooklyn NY 11211
+Description: Not listed
+Website: https://carinonyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.712472
+Longitude: -73.9647679
+OpenStreetMap URL: https://www.openstreetmap.org/node/1907729885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1907729885
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

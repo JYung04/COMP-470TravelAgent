@@ -1,0 +1,25 @@
+Name: Queens Center
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 90-15 Queens Boulevard, Elmhurst NY 11373
+Description: Queens Center is an urban shopping mall in Elmhurst, Queens, New York City, on Queens Boulevard between 57th Avenue and Woodhaven Boulevard, one block away from Queens Place Mall. Queens Center is the largest mall in Queens. It is currently owned and managed by The Macerich Company, who purchased the mall in the 1990s. The building where JCPenney and Burlington are located is separately owned by Ashkenazy Acquisition Corp, yet it is interconnected with the Macerich-owned main portion of the mall.
+Website: https://www.shopqueenscenter.com
+Phone: +1 718-592-3900
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7346304
+Longitude: -73.8695786
+OpenStreetMap URL: https://www.openstreetmap.org/way/280494567
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/280494567
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

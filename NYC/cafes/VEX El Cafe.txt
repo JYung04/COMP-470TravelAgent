@@ -1,0 +1,25 @@
+Name: VEX El Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 104 Wyckoff Avenue
+Description: Not listed
+Website: https://www.instagram.com/vexelcafe/
+Phone: +1-646-683-8951
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-17:00; Sa, Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7039682
+Longitude: -73.9190111
+OpenStreetMap URL: https://www.openstreetmap.org/node/5627868643
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5627868643
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

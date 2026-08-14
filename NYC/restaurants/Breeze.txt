@@ -1,0 +1,25 @@
+Name: Breeze
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 595 Manhattan Avenue, 11222
+Description: Sichuan Chinese Food
+Website: https://www.breezebk.com
+Phone: +1 212-718-0797
+Email: Service@breezebk.com
+Opening Hours: Mo-Th,Su 12:00-15:00,16:30-21:00; Fr-Sa 12:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.7230226
+Longitude: -73.9505013
+OpenStreetMap URL: https://www.openstreetmap.org/node/11264964167
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11264964167
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

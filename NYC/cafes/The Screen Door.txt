@@ -1,0 +1,25 @@
+Name: The Screen Door
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: This is a classic ice cream shop with a modern twist that sells all sorts of delicious ice creams and sundaes giving a taste of the old days.
+Website: https://www.thescreendoorbrooklyn.com/
+Phone: +1-929-283-5818
+Email: Not listed
+Opening Hours: 14:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7229769
+Longitude: -73.944312
+OpenStreetMap URL: https://www.openstreetmap.org/node/13683820571
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13683820571
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

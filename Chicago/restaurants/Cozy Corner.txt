@@ -1,0 +1,24 @@
+Name: Cozy Corner
+City: Chicago
+Category: restaurants
+Cuisine: american, breakfast
+Address: 6349 North Clark Street, Chicago IL 60660
+Description: Not listed
+Website: https://www.cozycornerrestaurant.com/
+Phone: +1 773 274 1100
+Email: Not listed
+Opening Hours: Mo-Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9978878
+Longitude: -87.6701915
+OpenStreetMap URL: https://www.openstreetmap.org/way/209952935
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209952935
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

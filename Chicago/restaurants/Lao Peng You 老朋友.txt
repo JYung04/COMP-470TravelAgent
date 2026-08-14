@@ -1,0 +1,25 @@
+Name: Lao Peng You 老朋友
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2020 West Chicago Avenue, Chicago IL 60622
+Description: Chinese food, especially jiaozi and noodles.
+Website: https://www.oldfriendchicago.com
+Phone: +18722068624
+Email: Not listed
+Opening Hours: Th-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8960953
+Longitude: -87.6779327
+OpenStreetMap URL: https://www.openstreetmap.org/node/8094461261
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8094461261
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Royal Sonesta Chicago River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 505 North State Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/
+Phone: +1-312-755-9703
+Email: FrontDesk_RSRiverNorth@sonesta.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8911493
+Longitude: -87.6278016
+OpenStreetMap URL: https://www.openstreetmap.org/node/1666768375
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1666768375
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

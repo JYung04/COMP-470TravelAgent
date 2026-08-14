@@ -1,0 +1,25 @@
+Name: Noodles In the Pot
+City: Chicago
+Category: restaurants
+Cuisine: Thai, Asian
+Address: 2453 North Halsted Street, Chicago IL 60614
+Description: Not listed
+Website: https://www.noodlesinthepot.com/
+Phone: +1-773-975-6177
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9269656
+Longitude: -87.6485799
+OpenStreetMap URL: https://www.openstreetmap.org/node/6323191927
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6323191927
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Rainbow Beach Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 3111 East 77th Street, Chicago IL 60649
+Description: Officially classified as citywide park. Covers approximately 109.1 acres. Facilities include beach, community center, fitness center, gymnasium, playground.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/rainbow-beach-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7567829
+Longitude: -87.5494417
+OpenStreetMap URL: https://www.openstreetmap.org/way/161614499
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/161614499
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

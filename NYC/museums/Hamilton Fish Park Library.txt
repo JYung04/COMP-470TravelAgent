@@ -1,0 +1,25 @@
+Name: Hamilton Fish Park Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 415 East Houston Street, New York NY 10002
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/hamilton-fish-park
+Phone: +1-212-673-2290
+Email: Not listed
+Opening Hours: Mo-Th 11:00-18:00; Fr-Sa 10:00-17:00; Su off
+Wheelchair Accessibility: limited
+Latitude: 40.7197787
+Longitude: -73.9793368
+OpenStreetMap URL: https://www.openstreetmap.org/node/368050625
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368050625
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

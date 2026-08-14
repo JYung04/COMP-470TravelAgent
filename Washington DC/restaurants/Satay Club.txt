@@ -1,0 +1,25 @@
+Name: Satay Club
+City: Washington DC
+Category: restaurants
+Cuisine: malaysian
+Address: 4654 Wisconsin Avenue Northwest, Washington DC 20016
+Description: Not listed
+Website: https://satayclubwashingtondc.com/29416
+Phone: +1 202-363-8888
+Email: Not listed
+Opening Hours: Mo-Th 11:30-21:00; Fr 03:00-21:30; Sa 12:00-21:30; Su 15:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9508325
+Longitude: -77.0810725
+OpenStreetMap URL: https://www.openstreetmap.org/node/736998230
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/736998230
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

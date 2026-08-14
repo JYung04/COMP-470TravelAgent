@@ -1,0 +1,25 @@
+Name: 286 South
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 286 Richmond Valley Road, Staten Island NY 10309
+Description: Not listed
+Website: https://www.286south.com/
+Phone: +1 718-227-2258
+Email: Not listed
+Opening Hours: Mo off; Tu-We 11:30-22:00; Th 11:30-22:30; Fr-Sa 11:30-23:00; Su 12:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.520988
+Longitude: -74.2386158
+OpenStreetMap URL: https://www.openstreetmap.org/node/11186618653
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11186618653
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Sultan's Market
+City: Chicago
+Category: restaurants
+Cuisine: middle_eastern
+Address: 2204 North California Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://chicagofalafel.com/
+Phone: +1-773-235-3072
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9220029
+Longitude: -87.6974958
+OpenStreetMap URL: https://www.openstreetmap.org/node/3232688565
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3232688565
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Shawmut Inn
+City: Boston
+Category: restaurants
+Cuisine: new_american
+Address: 477 Shawmut Avenue, Boston MA 02118
+Description: The Shawmut Inn is a modern neighborhood bistro offering elevated comfort food, craft cocktails, and warm hospitality. Located in the heart of the South End, it’s a welcoming gathering place for locals, visitors, and business travelers alike. Dine Out Boston is August 1-15, 2026 See amenity tab for more information.
+Website: https://www.shawmutinn.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: 17:00-23:00 "Dinner" || Sa-Su 11:00-15:00 "Brunch"
+Wheelchair Accessibility: Not listed
+Latitude: 42.3388813
+Longitude: -71.0759089
+OpenStreetMap URL: https://www.openstreetmap.org/node/12174007118
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12174007118
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

@@ -1,0 +1,24 @@
+Name: Jetties
+City: Washington DC
+Category: restaurants
+Cuisine: sandwich, salad, soup
+Address: 1921 I Street Northwest, Washington 20006
+Description: Not listed
+Website: https://jettiesdc.com/
+Phone: +1-202-381-7459
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9014757
+Longitude: -77.0444235
+OpenStreetMap URL: https://www.openstreetmap.org/node/6381973780
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6381973780
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

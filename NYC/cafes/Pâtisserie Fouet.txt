@@ -1,0 +1,25 @@
+Name: Pâtisserie Fouet
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 15 East 13th Street, New York NY 10003
+Description: Not listed
+Website: https://www.fouetnyc.com
+Phone: +12126200622
+Email: Not listed
+Opening Hours: Tu-Th,Su 10:00-20:00; Fr-Sa 10:00-22:00
+Wheelchair Accessibility: limited
+Latitude: 40.7349886
+Longitude: -73.9930818
+OpenStreetMap URL: https://www.openstreetmap.org/node/6621617756
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6621617756
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

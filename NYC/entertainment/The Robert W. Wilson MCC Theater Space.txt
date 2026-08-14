@@ -1,0 +1,25 @@
+Name: The Robert W. Wilson MCC Theater Space
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 511 West 52nd Street, New York NY 10019
+Description: Not listed
+Website: https://mcctheater.org
+Phone: +1-646-506-9393
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7664555
+Longitude: -73.9917224
+OpenStreetMap URL: https://www.openstreetmap.org/node/11502442178
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11502442178
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

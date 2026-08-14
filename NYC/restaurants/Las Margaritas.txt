@@ -1,0 +1,25 @@
+Name: Las Margaritas
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 67-12 Fresh Pond Road, Ridgewood NY 11385
+Description: Not listed
+Website: https://www.lasmargaritassunset.com/astoria/
+Phone: +1-718-417-4040
+Email: Not listed
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7054738
+Longitude: -73.89665
+OpenStreetMap URL: https://www.openstreetmap.org/node/5413050635
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5413050635
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

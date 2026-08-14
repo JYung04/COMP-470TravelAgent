@@ -1,0 +1,25 @@
+Name: Gupshup
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 115 East 18th Street, 10003
+Description: Not listed
+Website: https://www.gupshupnyc.com
+Phone: +1-212-518-7313
+Email: Not listed
+Opening Hours: Mo-We 17:00-22:00; Th 17:00-23:00; Fr-Sa 11:30-15:30,16:30-23:00; Su 11:30-15:30,16:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7368581
+Longitude: -73.987637
+OpenStreetMap URL: https://www.openstreetmap.org/node/11241986543
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11241986543
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

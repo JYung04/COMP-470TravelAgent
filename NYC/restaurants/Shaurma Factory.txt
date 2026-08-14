@@ -1,0 +1,25 @@
+Name: Shaurma Factory
+City: NYC
+Category: restaurants
+Cuisine: georgian
+Address: 3086 Brighton 2nd Street, 11235
+Description: Not listed
+Website: https://shaurmafactory.com/
+Phone: +1 347-312-7184
+Email: info@shaurmafactory.com
+Opening Hours: Mo-Su 09:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.5765048
+Longitude: -73.9651639
+OpenStreetMap URL: https://www.openstreetmap.org/node/4866589921
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4866589921
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

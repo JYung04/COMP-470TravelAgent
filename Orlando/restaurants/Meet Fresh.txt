@@ -1,0 +1,25 @@
+Name: Meet Fresh
+City: Orlando
+Category: restaurants
+Cuisine: taiwanese
+Address: 5144 West Colonial Drive, Orlando FL 32808
+Description: Not listed
+Website: https://meetfresh.us/
+Phone: +1-407-601-3165
+Email: Not listed
+Opening Hours: Su-Th 11:30-21:00; Fr-Sa 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.5504761
+Longitude: -81.4509555
+OpenStreetMap URL: https://www.openstreetmap.org/node/10557018410
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10557018410
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

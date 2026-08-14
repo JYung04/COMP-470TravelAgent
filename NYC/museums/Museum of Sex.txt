@@ -1,0 +1,25 @@
+Name: Museum of Sex
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 233 5th Avenue, New York NY 10016
+Description: Not listed
+Website: https://www.museumofsex.com/locations/new-york-city/
+Phone: +1 212-689-6337
+Email: info@museumofsex.com
+Opening Hours: Mo-Th,Su 13:00-22:00; Fr 13:00-00:00; Sa 12:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.7440374
+Longitude: -73.9873576
+OpenStreetMap URL: https://www.openstreetmap.org/node/4224363289
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4224363289
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

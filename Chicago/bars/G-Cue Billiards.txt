@@ -1,0 +1,25 @@
+Name: G-Cue Billiards
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 157 North Morgan Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8847834
+Longitude: -87.6519411
+OpenStreetMap URL: https://www.openstreetmap.org/node/13815785294
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13815785294
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

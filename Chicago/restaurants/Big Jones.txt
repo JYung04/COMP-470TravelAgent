@@ -1,0 +1,25 @@
+Name: Big Jones
+City: Chicago
+Category: restaurants
+Cuisine: southern
+Address: 5347 North Clark Street, Chicago IL 60640
+Description: Offering bold flavors and Southern hospitality, Big Jones in Andersonville remains a local favorite. Get your fix of sweet griddle cakes, fried green tomatoes, Cajun boudin balls, and rich gumbo made with house-cured Andouille sausage.
+Website: https://bigjoneschicago.com
+Phone: +1-773-275-5725
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9794434
+Longitude: -87.6679813
+OpenStreetMap URL: https://www.openstreetmap.org/node/6267247639
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6267247639
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

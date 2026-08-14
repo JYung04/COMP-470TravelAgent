@@ -1,0 +1,25 @@
+Name: Lila Acheson Wallace Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 60 Lincoln Center Plaza, New York NY 10023-6588
+Description: Not listed
+Website: Not listed
+Phone: +1-212-799-5000 ext. 265
+Email: library@juilliard.edu
+Opening Hours: week 1-20,35-52 Mo-Th 08:30-21:00; Fr 08:30-19:00; Sa 09:00-18:00; Su 14:00-19:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7737406
+Longitude: -73.982941
+OpenStreetMap URL: https://www.openstreetmap.org/node/368049383
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368049383
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

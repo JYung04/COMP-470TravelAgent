@@ -1,0 +1,24 @@
+Name: Angelo's Gourmet Eatery
+City: NYC
+Category: cafes
+Cuisine: breakfast, lunch
+Address: Not listed
+Description: offers breakfast and lunch catering; breakfast and lunch served
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7834642
+Longitude: -74.1830236
+OpenStreetMap URL: https://www.openstreetmap.org/node/7440296515
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7440296515
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

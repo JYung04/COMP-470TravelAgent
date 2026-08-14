@@ -1,0 +1,24 @@
+Name: Aragon Arms Hotel
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 4917-4919 North Kenmore Avenue
+Description: Not listed
+Website: https://aragon-arms-hotel.hotelsearchusa.com
+Phone: (773) 561-4970
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9721345
+Longitude: -87.6559079
+OpenStreetMap URL: https://www.openstreetmap.org/way/210382364
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210382364
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

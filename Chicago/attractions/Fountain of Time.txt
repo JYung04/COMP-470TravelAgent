@@ -1,0 +1,25 @@
+Name: Fountain of Time
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Fountain of Time, or simply Time, is a sculpture by Lorado Taft, measuring 126 feet 10 inches (38.66 m) in length, situated at the western edge of the Midway Plaisance within Washington Park in Chicago, Illinois, in the United States. The sculpture is inspired by Henry Austin Dobson's poem "Paradox of Time". Its 100 figures passing before Father Time were created as a monument to the 100 years of peace between the United States and the United Kingdom following the Treaty of Ghent in 1814. Father Time faces the 100 from across a water basin. The fountain's water was turned on in 1920, and the sculpture was dedicated in 1922. It is a contributing structure to the Washington Park United.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7867553
+Longitude: -87.6076412
+OpenStreetMap URL: https://www.openstreetmap.org/way/143459724
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/143459724
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

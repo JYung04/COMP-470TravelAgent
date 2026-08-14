@@ -1,0 +1,25 @@
+Name: Subterranean
+City: Chicago
+Category: nightlife
+Cuisine: Not listed
+Address: 2011 West North Avenue, Chicago IL 60622
+Description: Down the street from Chop Shop, Subterranean is a cornerstone of Chicago’s music and nightlife scene. The two-level venue hosts a variety of live entertainment, from musicians to DJs to burlesque dancers. Come for long-running weekly events, like reggae nights and a hip-hop open mic, or to see big names like Halsey, Lizzo, and Tame Impala — before they get big.
+Website: https://subt.net/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.910282
+Longitude: -87.678004
+OpenStreetMap URL: https://www.openstreetmap.org/way/209868231
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209868231
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; music

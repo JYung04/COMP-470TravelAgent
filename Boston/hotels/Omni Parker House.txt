@@ -1,0 +1,25 @@
+Name: Omni Parker House
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 60 School Street, Boston 02108
+Description: Celebrate over 150 years of hospitality excellence at the historic Omni Parker House. Located in the heart of downtown Boston along the Freedom Trail, America's longest operating hotel has been established since 1855. Known as the birthplace of the Boston Cream Pie, Parker House Rolls and the term "scrod", our timeless charm will envelop you. Dine in any of our 3 restaurants, host a function in our 23,000 square feet of meeting space including our Rooftop Ballroom, or experience all of Boston's finest steps from all the historic sites & attractions, such as the Boston Common, Quincy Market & Faneuil Hall, the Theatre District, shops, and more! Whether you are traveling for business or leisure, the elegant ambiance and modern day conveniences, including 32" LCD flat-screen televisions, lap top size safes, high speed internet, Wi-Fi in all public areas and.
+Website: https://www.omnihotels.com/hotels/boston-parker-house
+Phone: +1 617 227-8600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3578372
+Longitude: -71.0602361
+OpenStreetMap URL: https://www.openstreetmap.org/node/3046507038
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3046507038
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

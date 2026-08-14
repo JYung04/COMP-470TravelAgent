@@ -1,0 +1,25 @@
+Name: Reliable Tavern
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 3655 Georgia Avenue Northwest, Washington DC 20010-1641
+Description: Cocktails, beer, snacks
+Website: https://www.reliable-tavern.com/
+Phone: +1 202-800-0441
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9360645
+Longitude: -77.0240629
+OpenStreetMap URL: https://www.openstreetmap.org/node/4128580071
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4128580071
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

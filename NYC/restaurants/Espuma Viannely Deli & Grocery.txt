@@ -1,0 +1,25 @@
+Name: Espuma Viannely Deli & Grocery
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 250 Wyckoff Avenue
+Description: Not listed
+Website: http://www.viannelybrooklyn.com/
+Phone: +1-718-497-3262
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-15:00; Sa, Su 09:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 40.7004765
+Longitude: -73.9130992
+OpenStreetMap URL: https://www.openstreetmap.org/node/5541527930
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5541527930
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

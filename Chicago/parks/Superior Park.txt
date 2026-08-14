@@ -1,0 +1,25 @@
+Name: Superior Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2101 West Superior Street, Chicago IL 60622
+Description: Officially classified as mini-park. Covers approximately 0.3 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/superior-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8946904
+Longitude: -87.6797536
+OpenStreetMap URL: https://www.openstreetmap.org/way/174049278
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/174049278
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Starlight Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Starlight Park is a public park located along the Bronx River in the Bronx in New York City. Starlight Park stands on the site of an amusement park of the same name that operated in the first half of the 20th century.
+Website: https://www.nycgovparks.org/parks/starlight-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8340487
+Longitude: -73.8811886
+OpenStreetMap URL: https://www.openstreetmap.org/relation/4623388
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/4623388
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

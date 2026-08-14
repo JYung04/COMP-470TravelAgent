@@ -1,0 +1,25 @@
+Name: Chimalli
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9441413
+Longitude: -77.032504
+OpenStreetMap URL: https://www.openstreetmap.org/node/12640854956
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12640854956
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Rocky's Pancake House
+City: Chicago
+Category: restaurants
+Cuisine: pancake, breakfast
+Address: 2948 East 83rd Street, Chicago IL 60617
+Description: Not listed
+Website: Not listed
+Phone: +1-773-731-6694
+Email: Not listed
+Opening Hours: Mo-Su 06:30-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.744816
+Longitude: -87.5520408
+OpenStreetMap URL: https://www.openstreetmap.org/way/211377783
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/211377783
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

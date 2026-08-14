@@ -1,0 +1,24 @@
+Name: Republic Cantina
+City: Washington DC
+Category: restaurants
+Cuisine: american, mexican
+Address: 43 N Street Northwest, Washington DC 20001
+Description: Not listed
+Website: http://republic-cantina.com
+Phone: +1-202-997-4340
+Email: contact@republic-cantina.com
+Opening Hours: Mo-Th 09:00-14:00, 16:00-22:00; Fr 09:00-14:00, 16:00-23:00; Sa 09:00-15:00, 16:00-23:00; Su 09:00-15:00, 16:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9074253
+Longitude: -77.010868
+OpenStreetMap URL: https://www.openstreetmap.org/node/11495410369
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11495410369
+Price: $
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

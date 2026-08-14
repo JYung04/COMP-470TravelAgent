@@ -1,0 +1,25 @@
+Name: Morris-Jumel Mansion
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: The Morris–Jumel Mansion is an 18th-century historic house museum in the Washington Heights neighborhood of Upper Manhattan in New York City, United States. It is the oldest extant house in Manhattan, having been built in 1765 by British military officer Roger Morris, and was also home to the family of socialite Eliza Jumel in the 19th century. The New York City government has owned the house since 1903. The house's facade and interior are New York City designated landmarks, and the building is a National Historic Landmark and a contributing property to the Jumel Terrace Historic District and the Dominican Historic District.
+Website: https://www.morrisjumel.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th 13:00-16:00; Fr,Sa 11:00-16:00
+Wheelchair Accessibility: limited
+Latitude: 40.8344678
+Longitude: -73.9385796
+OpenStreetMap URL: https://www.openstreetmap.org/way/275014150
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/275014150
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

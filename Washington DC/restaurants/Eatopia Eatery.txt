@@ -1,0 +1,25 @@
+Name: Eatopia Eatery
+City: Washington DC
+Category: restaurants
+Cuisine: ethiopian
+Address: 1301 U Street Northwest, Washington DC 20008
+Description: Not listed
+Website: https://www.eatopiaeatery.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9171762
+Longitude: -77.0301564
+OpenStreetMap URL: https://www.openstreetmap.org/node/750467900
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750467900
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

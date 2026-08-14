@@ -1,0 +1,24 @@
+Name: PubKey
+City: NYC
+Category: bars
+Cuisine: hot_dog, sandwich, chicken
+Address: 85 Washington Place, New York NY 10011
+Description: Not listed
+Website: https://pubkey.bar/
+Phone: +1 305 773 4249
+Email: Not listed
+Opening Hours: Mo-Th 15:00-02:00; Fr 15:00-04:00; Sa 12:00-04:00; Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.732185
+Longitude: -74.0000205
+OpenStreetMap URL: https://www.openstreetmap.org/node/10245589405
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10245589405
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

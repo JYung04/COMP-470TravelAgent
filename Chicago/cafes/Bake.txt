@@ -1,0 +1,25 @@
+Name: Bake
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2246 West North Avenue, Chicago IL 60647
+Description: Not listed
+Website: http://getbakedchicago.com/
+Phone: +1-773-384-7655
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9104535
+Longitude: -87.684184
+OpenStreetMap URL: https://www.openstreetmap.org/node/6264275141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6264275141
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

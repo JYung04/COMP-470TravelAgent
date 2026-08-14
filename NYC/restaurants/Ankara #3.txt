@@ -1,0 +1,25 @@
+Name: Ankara #3
+City: NYC
+Category: restaurants
+Cuisine: turkish
+Address: 183 East Houston Street
+Description: Not listed
+Website: Not listed
+Phone: +1 212-473-1212
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:00-00:00; Fr, Sa 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7225587
+Longitude: -73.988108
+OpenStreetMap URL: https://www.openstreetmap.org/node/7097867546
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7097867546
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

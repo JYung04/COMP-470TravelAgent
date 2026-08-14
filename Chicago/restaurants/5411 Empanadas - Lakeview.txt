@@ -1,0 +1,24 @@
+Name: 5411 Empanadas - Lakeview
+City: Chicago
+Category: restaurants
+Cuisine: argentinian, empanada
+Address: 2850 North Clark Street, Chicago IL 60657
+Description: Not listed
+Website: https://www.5411empanadas.com/
+Phone: +1-773-755-5411
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9340863
+Longitude: -87.6462185
+OpenStreetMap URL: https://www.openstreetmap.org/node/6410371289
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6410371289
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; views

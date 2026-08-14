@@ -1,0 +1,25 @@
+Name: Athena
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 535 6th Avenue, 11215
+Description: Not listed
+Website: https://athenacuisine.com/
+Phone: +1-718-965-4578
+Email: Not listed
+Opening Hours: Mo-Th 12:00-21:30; Fr-Sa 12:00-22:30; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6648688
+Longitude: -73.9863911
+OpenStreetMap URL: https://www.openstreetmap.org/node/5914043150
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5914043150
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

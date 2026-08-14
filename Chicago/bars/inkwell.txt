@@ -1,0 +1,25 @@
+Name: inkwell
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1043 West Lake Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.inkwellbar.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo,Su 16:00-01:00; Tu-Th 16:00-02:00; Fr-Sa 15:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8853765
+Longitude: -87.6538577
+OpenStreetMap URL: https://www.openstreetmap.org/node/12479624261
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12479624261
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

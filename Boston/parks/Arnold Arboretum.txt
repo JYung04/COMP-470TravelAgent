@@ -1,0 +1,25 @@
+Name: Arnold Arboretum
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 125 The Arborway; 25 Flora Way
+Description: The Arnold Arboretum is a botanical research institution and free public park affiliated with Harvard University and located in the Jamaica Plain and Roslindale neighborhoods of Boston.
+Website: https://arboretum.harvard.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2993728
+Longitude: -71.1252921
+OpenStreetMap URL: https://www.openstreetmap.org/relation/64871
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/64871
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

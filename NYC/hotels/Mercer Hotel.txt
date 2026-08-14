@@ -1,0 +1,25 @@
+Name: Mercer Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 147 Mercer Street, New York NY 10012
+Description: The Mercer Hotel, located at the corner of Mercer and Prince Streets in SoHo, Manhattan, New York City. It offers 73 guest rooms on six floors of a Romanesque Revival building, and features Sartiano's Italian restaurant and the Submercer lounge.
+Website: https://www.mercerhotel.com/
+Phone: +1-212-966-6060
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7249122
+Longitude: -73.9986434
+OpenStreetMap URL: https://www.openstreetmap.org/node/5749566253
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5749566253
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

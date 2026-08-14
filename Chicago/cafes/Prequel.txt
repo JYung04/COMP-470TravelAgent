@@ -1,0 +1,24 @@
+Name: Prequel
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop, breakfast, lunch, tea
+Address: 1957 West Chicago Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://prequelcafe.com/menu
+Phone: +1-312- 733-2701
+Email: Not listed
+Opening Hours: 07:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8957846
+Longitude: -87.6768082
+OpenStreetMap URL: https://www.openstreetmap.org/node/5952502359
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5952502359
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

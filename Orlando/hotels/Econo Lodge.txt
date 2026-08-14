@@ -1,0 +1,25 @@
+Name: Econo Lodge
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 2934 Polynesian Isles Boulevard, Kissimmee FL 34746
+Description: Not listed
+Website: https://www.choicehotels.com/florida/kissimmee/econo-lodge-hotels/fl662?brand=EL
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3352528
+Longitude: -81.4970489
+OpenStreetMap URL: https://www.openstreetmap.org/way/310024539
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/310024539
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

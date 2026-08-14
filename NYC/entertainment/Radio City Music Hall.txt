@@ -1,0 +1,25 @@
+Name: Radio City Music Hall
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Radio City Music Hall is an entertainment venue and theater at 1260 Avenue of the Americas, within Rockefeller Center, in the Midtown Manhattan neighborhood of New York City. Nicknamed "The Showplace of the Nation", it is the headquarters for the Rockettes. Radio City Music Hall was designed by Edward Durell Stone and Donald Deskey in the Art Deco style.
+Website: http://www.radiocity.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 09:30-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.7598175
+Longitude: -73.9792746
+OpenStreetMap URL: https://www.openstreetmap.org/way/266170808
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266170808
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art; music

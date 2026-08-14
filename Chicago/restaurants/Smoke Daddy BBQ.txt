@@ -1,0 +1,25 @@
+Name: Smoke Daddy BBQ
+City: Chicago
+Category: restaurants
+Cuisine: barbecue
+Address: 3636 North Clark Street, Chicago IL 60613
+Description: Not listed
+Website: https://www.thesmokedaddy.com/
+Phone: +1-773-227-2583
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9481236
+Longitude: -87.6574646
+OpenStreetMap URL: https://www.openstreetmap.org/node/5834769444
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5834769444
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

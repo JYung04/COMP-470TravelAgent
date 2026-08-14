@@ -1,0 +1,25 @@
+Name: Sammy's Breakfast
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 250 East 103rd Street, Chicago IL 60628
+Description: Not listed
+Website: Not listed
+Phone: +1-773-264-9100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7075557
+Longitude: -87.6166414
+OpenStreetMap URL: https://www.openstreetmap.org/node/8175731505
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8175731505
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

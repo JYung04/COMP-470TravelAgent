@@ -1,0 +1,25 @@
+Name: Maxwells Trading
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 1516 West Carroll Avenue, Chicago IL 60607
+Description: Not listed
+Website: https://www.maxwellstrading.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8875428
+Longitude: -87.6652337
+OpenStreetMap URL: https://www.openstreetmap.org/node/11505059038
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11505059038
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

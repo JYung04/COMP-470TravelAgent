@@ -1,0 +1,25 @@
+Name: River Roux
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 110 North Wacker Drive
+Description: Not listed
+Website: https://riverrouxbistro.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-16:00
+Wheelchair Accessibility: yes
+Latitude: 41.8835102
+Longitude: -87.6375238
+OpenStreetMap URL: https://www.openstreetmap.org/node/13179005209
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13179005209
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

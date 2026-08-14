@@ -1,0 +1,25 @@
+Name: Smallcakes
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: West Washington Street, Chicago IL 60606
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-18:00; Sa 10:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 41.8833632
+Longitude: -87.6347937
+OpenStreetMap URL: https://www.openstreetmap.org/node/9970984563
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9970984563
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

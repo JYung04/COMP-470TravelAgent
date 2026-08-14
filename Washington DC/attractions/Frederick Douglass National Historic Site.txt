@@ -1,0 +1,25 @@
+Name: Frederick Douglass National Historic Site
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: 1411 W Street Southeast, 20020
+Description: The Frederick Douglass National Historic Site, administered by the National Park Service, is located at 1411 W Street, SE, in Anacostia, a neighborhood east of the Anacostia River in Southeast Washington, D.C. United States. Established in 1988 as a National Historic Site, the site preserves the home and estate of Frederick Douglass, one of the most prominent African Americans of the 19th century. Douglass lived in this house, which he named Cedar Hill, from 1877–1878 until his death in 1895. Perched on a hilltop, the site offers a sweeping view of the U.S. Capitol and the Washington, D.C., skyline.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8633547
+Longitude: -76.9851833
+OpenStreetMap URL: https://www.openstreetmap.org/way/295276504
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295276504
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; views

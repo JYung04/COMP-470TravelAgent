@@ -1,0 +1,25 @@
+Name: Yi Ji Shi Mo
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 88 Elizabeth Street, New York NY 10013
+Description: Rice Rolls
+Website: Not listed
+Phone: +16462336311
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7182009
+Longitude: -73.9958285
+OpenStreetMap URL: https://www.openstreetmap.org/node/9543912817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9543912817
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

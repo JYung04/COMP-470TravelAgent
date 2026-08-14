@@ -1,0 +1,25 @@
+Name: Yakiniku TORAJI
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 217 East 43rd Street, 10017
+Description: Not listed
+Website: https://torajiny.com/
+Phone: +1 929-417-2629
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-14:30,17:00-24:00; Sa-Su 11:30-14:30,16:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 40.7510434
+Longitude: -73.9727833
+OpenStreetMap URL: https://www.openstreetmap.org/node/2711692856
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2711692856
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

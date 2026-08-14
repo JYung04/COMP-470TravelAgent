@@ -1,0 +1,25 @@
+Name: French Press Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 970 East 58th Street, Chicago IL 60637
+Description: Not listed
+Website: https://chicagofrenchpress.com/pages/chicago-french-press-retail-locations
+Phone: Not listed
+Email: Not listed
+Opening Hours: mo-fr 08:00-20:00 sa-su 09:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7897081
+Longitude: -87.6017075
+OpenStreetMap URL: https://www.openstreetmap.org/node/5243143548
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5243143548
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

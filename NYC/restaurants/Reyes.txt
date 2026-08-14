@@ -1,0 +1,25 @@
+Name: Reyes
+City: NYC
+Category: restaurants
+Cuisine: dominican
+Address: 47-54 46th Street, 11377
+Description: Not listed
+Website: Not listed
+Phone: +1 718-752-9577
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7395041
+Longitude: -73.9195552
+OpenStreetMap URL: https://www.openstreetmap.org/node/2844905728
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2844905728
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

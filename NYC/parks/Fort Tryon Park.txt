@@ -1,0 +1,25 @@
+Name: Fort Tryon Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Fort Tryon Park is a public park located in the Washington Heights and Inwood neighborhoods of the borough of Manhattan in New York City. The 67-acre (27 ha) park is situated on a ridge in Upper Manhattan, close to the Hudson River to the west. It extends mostly from 192nd Street in the south to Riverside Drive in the north, and from Broadway in the east to the Henry Hudson Parkway in the west. The main entrance to the park is at Margaret Corbin Circle, at the intersection of Fort Washington Avenue and Cabrini Boulevard.
+Website: https://www.nycgovparks.org/parks/fort-tryon-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8619781
+Longitude: -73.9326365
+OpenStreetMap URL: https://www.openstreetmap.org/relation/5625630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/5625630
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

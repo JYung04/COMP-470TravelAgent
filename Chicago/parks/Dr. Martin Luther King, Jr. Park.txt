@@ -1,0 +1,25 @@
+Name: Dr. Martin Luther King, Jr. Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1200 West 77th Street, Chicago IL 60620
+Description: park in Cook County, Illinois, United States of America; geonames ID = 4895384
+Website: https://www.chicagoparkdistrict.com/parks/King-Dr-Martin-Luther-Jr-Park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7551019
+Longitude: -87.6551114
+OpenStreetMap URL: https://www.openstreetmap.org/way/135921687
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/135921687
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

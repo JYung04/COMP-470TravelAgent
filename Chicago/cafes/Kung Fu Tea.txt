@@ -1,0 +1,25 @@
+Name: Kung Fu Tea
+City: Chicago
+Category: cafes
+Cuisine: bubble_tea
+Address: 2126 South Archer Avenue, Chicago IL 60616
+Description: Not listed
+Website: https://www.kungfutea.com/
+Phone: +1-312-255-7331
+Email: Not listed
+Opening Hours: Mo-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00; Su 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8543478
+Longitude: -87.6328364
+OpenStreetMap URL: https://www.openstreetmap.org/node/6319847128
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6319847128
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

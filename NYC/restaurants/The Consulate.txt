@@ -1,0 +1,25 @@
+Name: The Consulate
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 519 Columbus Avenue, New York NY 10024
+Description: Not listed
+Website: https://www.machiavellinyc.com/
+Phone: +1 646-781-9288
+Email: Not listed
+Opening Hours: Su-We 08:00-01:00; Th-Sa 08:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7858452
+Longitude: -73.9723966
+OpenStreetMap URL: https://www.openstreetmap.org/node/2409398838
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2409398838
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

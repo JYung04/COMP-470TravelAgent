@@ -1,0 +1,25 @@
+Name: Manhatta
+City: NYC
+Category: bars
+Cuisine: New American, Cocktail, Event venue
+Address: 28 Liberty Street
+Description: Not listed
+Website: https://www.manhattarestaurant.com
+Phone: +1 212-230-5788
+Email: info@manhattarestaurant.com
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7078151
+Longitude: -74.0086882
+OpenStreetMap URL: https://www.openstreetmap.org/node/5801870934
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5801870934
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

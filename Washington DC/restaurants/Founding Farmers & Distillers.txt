@@ -1,0 +1,25 @@
+Name: Founding Farmers & Distillers
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 600 Massachusetts Avenue Northwest, Washington DC 20001
+Description: Full-service restaurant & bar with on-site distillery (Founding Spirits). Breakfast, lunch, dinner, weekday happy hour (bar area), weekend Farmers Market Buffet Brunch, catering, private dining.
+Website: https://www.wearefoundingfarmers.com/location/founding-farmers-distillers/
+Phone: +1-202-464-3001
+Email: Not listed
+Opening Hours: Mo,Su 07:00-21:00; Tu-Th 07:00-22:00; Fr-Sa 07:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 38.9013438
+Longitude: -77.0202236
+OpenStreetMap URL: https://www.openstreetmap.org/node/5406239828
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5406239828
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

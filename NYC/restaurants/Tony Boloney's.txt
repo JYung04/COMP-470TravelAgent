@@ -1,0 +1,25 @@
+Name: Tony Boloney's
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 263 1st St, Hoboken, NJ 07030, United States
+Description: Not listed
+Website: http://tonyboloneys.com/
+Phone: +1 201-222-8669
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7379823
+Longitude: -74.0342865
+OpenStreetMap URL: https://www.openstreetmap.org/node/6751307639
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6751307639
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

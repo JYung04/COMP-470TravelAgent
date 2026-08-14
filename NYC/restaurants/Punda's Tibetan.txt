@@ -1,0 +1,25 @@
+Name: Punda's Tibetan
+City: NYC
+Category: restaurants
+Cuisine: tibetan
+Address: 39-35 47th Avenue, Long Island City NY 11104
+Description: Not listed
+Website: https://www.pundasrestaurant.com/
+Phone: +1 718-806-1845
+Email: Not listed
+Opening Hours: Mo-Su 12:00-23:00
+Wheelchair Accessibility: limited
+Latitude: 40.7419873
+Longitude: -73.9252095
+OpenStreetMap URL: https://www.openstreetmap.org/node/4215939888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4215939888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

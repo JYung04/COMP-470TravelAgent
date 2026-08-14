@@ -1,0 +1,25 @@
+Name: Homemade Taqueria
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 72-36 Austin Street, 11375
+Description: Not listed
+Website: https://www.homemadetaqueria.com
+Phone: +1-212-419-3866
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7186946
+Longitude: -73.8414426
+OpenStreetMap URL: https://www.openstreetmap.org/node/10739588523
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10739588523
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

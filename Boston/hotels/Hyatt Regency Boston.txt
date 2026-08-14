@@ -1,0 +1,25 @@
+Name: Hyatt Regency Boston
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 1 Avenue De Lafayette, Boston MA 02111
+Description: Discover the city’s launchpad at our downtown destination, Hyatt Regency Boston, where luxury and convenience collide. Recognized with TripAdvisor's 2018 Certificate of Excellence, Hyatt Regency Boston is situated steps from Boston’s most desirable area-attractions and restaurants such as the Boston Common, Faneuil Hall, and Boston’s famous shopping destination, Newbury Street, the hotel sits at the edge of the city’s excitement and is connected to the “T,” Boston’s mass transit system. Experience Boston’s exhilarating 24-hour neighborhood and burgeoning restaurant scene that includes our restaurant, Avenue One We are making innovative changes to make you feel more welcome with new standard complimentary Wi-Fi in all public spaces, reimagined living areas to keep up with the demands of our travelers and venues that double as destinations. Steps away from Boston’s most desirable area attractions we welcome you to experience your recently renovated home-away-from-home..
+Website: https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto
+Phone: +1 617-912-1234
+Email: qualitybosto@hyatt.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3534041
+Longitude: -71.0607712
+OpenStreetMap URL: https://www.openstreetmap.org/node/2425716948
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2425716948
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

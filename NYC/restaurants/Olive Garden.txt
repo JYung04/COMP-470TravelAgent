@@ -1,0 +1,25 @@
+Name: Olive Garden
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1684 Shore Parkway, Brooklyn NY 11214
+Description: Not listed
+Website: https://www.olivegarden.com/locations/ny/brooklyn/brooklyn-caesars-bay/6414
+Phone: +1-718-265-1019
+Email: Not listed
+Opening Hours: Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.5940209
+Longitude: -73.998306
+OpenStreetMap URL: https://www.openstreetmap.org/node/7217404913
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7217404913
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

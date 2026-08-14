@@ -1,0 +1,25 @@
+Name: Applebee's
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: MA
+Description: Not listed
+Website: https://restaurants.applebees.com/en-us/ma/dorchester/11a-allstate-road-81086
+Phone: +1 617-442-7139
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3261063
+Longitude: -71.0635699
+OpenStreetMap URL: https://www.openstreetmap.org/node/4070813631
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4070813631
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

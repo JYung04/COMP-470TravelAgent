@@ -1,0 +1,25 @@
+Name: Meritage and Rowes Wharf Sea Grille
+City: Boston
+Category: restaurants
+Cuisine: Seafood
+Address: 70 Rowes Wharf, Boston, MA 02110, United States
+Description: Not listed
+Website: http://www.roweswharfseagrille.com/?utm_source=local-directories&utm_medium=organic&utm_campaign=rowes-wharf-local-directories
+Phone: +1 617-856-7744
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.356244
+Longitude: -71.05015
+OpenStreetMap URL: https://www.openstreetmap.org/node/1325873758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1325873758
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

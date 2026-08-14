@@ -1,0 +1,25 @@
+Name: B. Cafe
+City: NYC
+Category: restaurants
+Cuisine: belgian
+Address: 240 East 75th Street
+Description: Not listed
+Website: https://bcafe.com/
+Phone: +1 212-249-3300
+Email: info@bcafe.com
+Opening Hours: Tu-Fr 17:00-23:00; Sa 10:00-23:00; Su 10:00-22:00; Mo 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7708948
+Longitude: -73.9576006
+OpenStreetMap URL: https://www.openstreetmap.org/node/6704527437
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6704527437
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: La Mom Kitchen
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 5357A North Broadway
+Description: Sichuan and Shanghai-style Chinese food
+Website: https://www.lamomcuisine.com/
+Phone: +1-773-293-7482
+Email: Not listed
+Opening Hours: Mo-Su 11:30-21:00, 11:30-22:00, 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9797802
+Longitude: -87.6597599
+OpenStreetMap URL: https://www.openstreetmap.org/node/13427890738
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13427890738
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

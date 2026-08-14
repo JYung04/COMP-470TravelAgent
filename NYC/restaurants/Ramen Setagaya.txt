@@ -1,0 +1,25 @@
+Name: Ramen Setagaya
+City: NYC
+Category: restaurants
+Cuisine: noodle
+Address: 934 3rd Avenue, Brooklyn NY 11232
+Description: Not listed
+Website: https://japanvillage.com/foodhall/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 11:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6559857
+Longitude: -74.0065431
+OpenStreetMap URL: https://www.openstreetmap.org/node/9156973279
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9156973279
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

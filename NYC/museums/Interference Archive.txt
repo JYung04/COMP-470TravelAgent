@@ -1,0 +1,25 @@
+Name: Interference Archive
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 314 7th Street, Brooklyn NY 11215
+Description: A public archive of Anarchist and socialist protest materials, art, and literature.
+Website: https://interferencearchive.org
+Phone: Not listed
+Email: info@interferencearchive.org
+Opening Hours: Th 13:00-21:00; Fr-Su 12:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.6704879
+Longitude: -73.9857817
+OpenStreetMap URL: https://www.openstreetmap.org/node/5939543363
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5939543363
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

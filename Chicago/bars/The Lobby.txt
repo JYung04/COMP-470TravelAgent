@@ -1,0 +1,25 @@
+Name: The Lobby
+City: Chicago
+Category: bars
+Cuisine: American
+Address: 108 East Superior Street, Chicago IL 60611
+Description: Not listed
+Website: https://www.peninsula.com/en/chicago/hotel-fine-dining/the-lobby-afternoon-tea
+Phone: +1-312-573-6695
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8960253
+Longitude: -87.625116
+OpenStreetMap URL: https://www.openstreetmap.org/node/6315656599
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6315656599
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

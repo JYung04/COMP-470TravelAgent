@@ -1,0 +1,25 @@
+Name: Chengdu Bistro
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 723 South Dearborn Street, Chicago IL 60605
+Description: Not listed
+Website: https://www.chengdubistro.com
+Phone: +1-872-315-2926
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8726032
+Longitude: -87.6289557
+OpenStreetMap URL: https://www.openstreetmap.org/node/13038099781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13038099781
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: TWA Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 1 Idlewild Drive, Springfield Gardens NY
+Description: TWA Hotel is a hotel at John F. Kennedy International Airport in Queens, New York City. It uses the head house of the TWA Flight Center, designed by the architect Eero Saarinen and completed in 1962, and two flanking buildings added for the hotel in 2019, designed by Lubrano Ciavarra Architects. It contains a total of 512 rooms, as well as conference space, several restaurants, and an aviation history museum.
+Website: https://www.twahotel.com/hotel
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6457688
+Longitude: -73.777674
+OpenStreetMap URL: https://www.openstreetmap.org/node/6227799210
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6227799210
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

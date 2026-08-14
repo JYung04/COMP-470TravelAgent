@@ -1,0 +1,24 @@
+Name: Diem Eatery
+City: NYC
+Category: cafes
+Cuisine: vietnamese, sandwich
+Address: 79 Atlantic Avenue, 11201
+Description: Not listed
+Website: https://diemeatery.com
+Phone: +1-917-909-1037
+Email: Not listed
+Opening Hours: Tu-Fr 10:00-20:00; Sa 09:00-21:00; Su 09:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6912914
+Longitude: -73.997559
+OpenStreetMap URL: https://www.openstreetmap.org/node/2494067738
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2494067738
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

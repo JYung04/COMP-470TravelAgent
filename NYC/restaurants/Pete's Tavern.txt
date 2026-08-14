@@ -1,0 +1,24 @@
+Name: Pete's Tavern
+City: NYC
+Category: restaurants
+Cuisine: Italian Restaurant
+Address: 129 E 18th St (at Irving Pl), New York, NY 10003
+Description: Pete's Tavern, located at 129 East 18th Street on the corner of Irving Place in the Gramercy Park neighborhood of Manhattan, New York City, is a pub food restaurant and the oldest continuously operating restaurant and bar in New York City.
+Website: http://www.petestavern.com
+Phone: (212) 473-7676
+Email: manager@petestavern.com
+Opening Hours: "Temporarily closed"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7365064
+Longitude: -73.9867109
+OpenStreetMap URL: https://www.openstreetmap.org/node/6967870385
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6967870385
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

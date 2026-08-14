@@ -1,0 +1,25 @@
+Name: Bangkok Cuisine
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 107-18 70th Road, 11375
+Description: Not listed
+Website: http://facebook.com/bangkokcuisinenyc/
+Phone: +1 718-261-4005
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:30-16:00, 17:00-22:30; Fr, Sa 11:30-16:00, 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.720986
+Longitude: -73.8454574
+OpenStreetMap URL: https://www.openstreetmap.org/node/2706036434
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2706036434
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Miss Nellie's
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 321 West 44th Street, New York NY
+Description: Not listed
+Website: https://missnelliesnyc.com/
+Phone: +1-646-360-3012
+Email: Not listed
+Opening Hours: Mo-Tu 16:00-02:00; We-Fr 12:00-02:00; Sa-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7591136
+Longitude: -73.9899354
+OpenStreetMap URL: https://www.openstreetmap.org/node/3822494062
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3822494062
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

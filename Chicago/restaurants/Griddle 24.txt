@@ -1,0 +1,24 @@
+Name: Griddle 24
+City: Chicago
+Category: restaurants
+Cuisine: american, breakfast
+Address: 334 West Chicago Avenue, Chicago IL 60654
+Description: Not listed
+Website: https://griddle24.com/
+Phone: +1-312-943-2424
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 41.8967718
+Longitude: -87.6369735
+OpenStreetMap URL: https://www.openstreetmap.org/node/6223590073
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6223590073
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

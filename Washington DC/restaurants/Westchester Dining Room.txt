@@ -1,0 +1,25 @@
+Name: Westchester Dining Room
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 4000 Cathedral Avenue Northwest, Washington DC 20016-5200
+Description: Not listed
+Website: Not listed
+Phone: +1 202-333-1883
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9284005
+Longitude: -77.0798506
+OpenStreetMap URL: https://www.openstreetmap.org/node/737526145
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737526145
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

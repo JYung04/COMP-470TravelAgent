@@ -1,0 +1,25 @@
+Name: Shukette
+City: NYC
+Category: restaurants
+Cuisine: Middle Eastern, Mediterranean
+Address: 230 9th Ave, New York, NY 10001, United States
+Description: Not listed
+Website: http://www.shukettenyc.com/
+Phone: +1 212-242-1803
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7471473
+Longitude: -74.0005212
+OpenStreetMap URL: https://www.openstreetmap.org/node/2703242507
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2703242507
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

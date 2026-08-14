@@ -1,0 +1,24 @@
+Name: Café Maud
+City: NYC
+Category: cafes
+Cuisine: american
+Address: 1640 2nd Avenue, 10028
+Description: Not listed
+Website: https://www.cafemaud.com/ues
+Phone: +1-929-630-3420
+Email: Not listed
+Opening Hours: Mo-We 08:00-02:00, Th-Sa 08:00-04:00, Su 08:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7772229
+Longitude: -73.951999
+OpenStreetMap URL: https://www.openstreetmap.org/node/9683499914
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9683499914
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

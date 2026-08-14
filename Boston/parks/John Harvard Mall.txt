@@ -1,0 +1,25 @@
+Name: John Harvard Mall
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 7D Main Street
+Description: Officially classified as malls, squares & plazas. Located in Charlestown. Covers approximately 0.8 acres. Also known as Harvard Mall.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3726178
+Longitude: -71.0625674
+OpenStreetMap URL: https://www.openstreetmap.org/way/95048585
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/95048585
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

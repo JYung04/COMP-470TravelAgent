@@ -1,0 +1,25 @@
+Name: Caffè Oliva
+City: Chicago
+Category: restaurants
+Cuisine: international
+Address: 550 East Grand Avenue, Chicago IL 60611
+Description: Caffè Oliva Tucked away on the calm shores of Ohio Street Beach, the beachfront Caffè Oliva offers a casual menu and sweeping lake views in a charming atmosphere. This spot is nestled just north of Navy Pier in the Streeterville neighborhood. Food options include fresh salads, fish tacos, coconut shrimp, and more. The patio welcomes dogs and even offers a small menu just for your furry companion. Explore more : Check out outdoor dining options throughout the city, from popular patios to rooftop
+Website: https://www.caffeoliva.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.893123
+Longitude: -87.6128059
+OpenStreetMap URL: https://www.openstreetmap.org/node/2339944269
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2339944269
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; views

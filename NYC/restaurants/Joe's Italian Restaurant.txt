@@ -1,0 +1,25 @@
+Name: Joe's Italian Restaurant
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 6611 Forest Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: https://joesrestaurantny.com/
+Phone: +1-718-497-1300
+Email: Not listed
+Opening Hours: Mo-Sa 12:00-22:30; Su 13:00-22:00
+Wheelchair Accessibility: limited
+Latitude: 40.7074864
+Longitude: -73.9032378
+OpenStreetMap URL: https://www.openstreetmap.org/node/5418888909
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5418888909
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

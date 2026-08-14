@@ -1,0 +1,24 @@
+Name: Coyote Bohemio
+City: NYC
+Category: restaurants
+Cuisine: coffee, mexican
+Address: 55-19 Myrtle Avenue
+Description: Not listed
+Website: http://www.coyotebohemio.com/
+Phone: +1-718-386-8616
+Email: Not listed
+Opening Hours: Mo-Su 12:30-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.700076
+Longitude: -73.907828
+OpenStreetMap URL: https://www.openstreetmap.org/node/5540568923
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5540568923
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Cinderella Castle
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Cinderella Castle is a fairy tale castle at the center of two Disney theme parks: the Magic Kingdom at Walt Disney World, and Tokyo Disneyland at the Tokyo Disney Resort. Based on Cinderella's fairy tale castle from Disney's 1950 animated feature film, both serve as the symbol and flagship attraction for their respective theme parks. Along with Sleeping Beauty Castle, the Castle is a main symbol of the Walt Disney Company.
+Website: https://disneyworld.disney.go.com/parks/magic-kingdom/attractions/cinderella-castle/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.419502
+Longitude: -81.5811792
+OpenStreetMap URL: https://www.openstreetmap.org/way/121516748
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/121516748
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

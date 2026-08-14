@@ -1,0 +1,24 @@
+Name: Cappuccino Cafe
+City: NYC
+Category: restaurants
+Cuisine: american, italian
+Address: Not listed
+Description: Not listed
+Website: https://www.cappcafebayridge.com
+Phone: +1-718-238-8700
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-21:30, Sa 11:00-21:30, Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6294569
+Longitude: -74.0284475
+OpenStreetMap URL: https://www.openstreetmap.org/node/12384563315
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12384563315
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

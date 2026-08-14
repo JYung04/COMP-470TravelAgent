@@ -1,0 +1,25 @@
+Name: Sonder Greektown
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 314 South Halsted Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.sonder.com/destinations/chicago/CHI-S-HALS314/c31439
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.877401
+Longitude: -87.6475113
+OpenStreetMap URL: https://www.openstreetmap.org/node/11949220390
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11949220390
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

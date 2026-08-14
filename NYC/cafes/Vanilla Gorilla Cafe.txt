@@ -1,0 +1,24 @@
+Name: Vanilla Gorilla Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, sandwich, pastrino
+Address: Not listed
+Description: Not listed
+Website: https://www.vanillagorillacafe.com/
+Phone: Not listed
+Email: hithere@vanillagorillacafe.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7538327
+Longitude: -73.9925095
+OpenStreetMap URL: https://www.openstreetmap.org/node/11968161061
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11968161061
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

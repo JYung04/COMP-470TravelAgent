@@ -1,0 +1,25 @@
+Name: The Art Institute of Chicago
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 111 South Michigan Avenue, Chicago IL 60603
+Description: Not listed
+Website: https://www.artic.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo 11:00-17:00; Tu-We off; Th 11:00-20:00; Fr-Su 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8795594
+Longitude: -87.6225683
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1870546
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1870546
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: the art institute of chicago
+Best For: museums and culture; art

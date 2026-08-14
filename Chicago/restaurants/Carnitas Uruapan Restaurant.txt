@@ -1,0 +1,25 @@
+Name: Carnitas Uruapan Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1725 West 18th Street, Chicago IL 60608
+Description: Not listed
+Website: https://www.carnitasuruapanchi.com/
+Phone: +1-312-226-2654
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8575892
+Longitude: -87.6697952
+OpenStreetMap URL: https://www.openstreetmap.org/node/6280524453
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6280524453
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

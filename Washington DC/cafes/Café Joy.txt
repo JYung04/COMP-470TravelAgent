@@ -1,0 +1,24 @@
+Name: Café Joy
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop, sandwich, pastry
+Address: 906 P Street Northwest, 20001
+Description: A neighborhood cafe in Shaw serving coffee, fresh-baked pastries, and sandwiches with Mediterranean influences.
+Website: Not listed
+Phone: +1-202-525-2922
+Email: Not listed
+Opening Hours: Mo-Th 07:00-16:00; Fr 07:00-17:00; Sa 08:00-17:00; Su 08:00-16:00
+Wheelchair Accessibility: no
+Latitude: 38.9094985
+Longitude: -77.0243096
+OpenStreetMap URL: https://www.openstreetmap.org/node/13205222524
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13205222524
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

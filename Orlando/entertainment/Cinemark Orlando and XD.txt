@@ -1,0 +1,25 @@
+Name: Cinemark Orlando and XD
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://cinemark.com/florida/cinemark-orlando-and-xd
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.470082
+Longitude: -81.4462381
+OpenStreetMap URL: https://www.openstreetmap.org/way/737299265
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/737299265
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

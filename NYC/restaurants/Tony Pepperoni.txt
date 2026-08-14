@@ -1,0 +1,25 @@
+Name: Tony Pepperoni
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 7502 18th Avenue, 11214
+Description: Not listed
+Website: Not listed
+Phone: +1-718-484-8073
+Email: Not listed
+Opening Hours: Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6133502
+Longitude: -73.9962431
+OpenStreetMap URL: https://www.openstreetmap.org/node/5581609456
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5581609456
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

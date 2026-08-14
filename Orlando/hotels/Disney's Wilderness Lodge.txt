@@ -1,0 +1,25 @@
+Name: Disney's Wilderness Lodge
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 901 Timberline Drive, 32830-8426
+Description: Inspired by turn-of-the-20th-century National Park lodges, Disney’s Wilderness Lodge offers rustic elegance set among pine forests, whispering creeks and hot springs. Explore the great outdoors via idyllic trails and nature inspired pools, roast marshmallows near a geothermal “geyser,” and dig into hearty fare with a side of sass at Whispering Canyon Cafe . More great dining options include explorer-worthy lakefront bites at Geyser Point Bar and Grill and three-course meals with character at Sto
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4094952
+Longitude: -81.5724039
+OpenStreetMap URL: https://www.openstreetmap.org/way/298685366
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/298685366
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

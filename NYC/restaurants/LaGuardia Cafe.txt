@@ -1,0 +1,24 @@
+Name: LaGuardia Cafe
+City: NYC
+Category: restaurants
+Cuisine: dominican, spanish, latin_american, american
+Address: 97-02 23rd Avenue, East Elmhurst NY 11369
+Description: Not listed
+Website: https://dominicanrestaurantqueens.com/
+Phone: +1-718-458-0001
+Email: Not listed
+Opening Hours: Mo-Su 07:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7683073
+Longitude: -73.8732043
+OpenStreetMap URL: https://www.openstreetmap.org/node/13472554659
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13472554659
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

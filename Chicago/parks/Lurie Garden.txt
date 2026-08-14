@@ -1,0 +1,25 @@
+Name: Lurie Garden
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Lurie Garden is an award-winning masterpiece of botanical landscaping. Throughout the year, and for every season, native perennials and bulbs give the garden great diversity, creating a haven for wildlife, birds, and insects. Located in the southeast corner of Millennium Park, Lurie Garden is a peaceful oasis in the middle of the bustling downtown.
+Website: https://www.luriegarden.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.881434
+Longitude: -87.621738
+OpenStreetMap URL: https://www.openstreetmap.org/way/126945427
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/126945427
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

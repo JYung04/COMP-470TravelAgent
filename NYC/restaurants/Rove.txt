@@ -1,0 +1,25 @@
+Name: Rove
+City: NYC
+Category: restaurants
+Cuisine: American
+Address: 72-27 Austin Street
+Description: Not listed
+Website: https://www.rove7227.com/
+Phone: +1 347-233-3183
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7191221
+Longitude: -73.8418458
+OpenStreetMap URL: https://www.openstreetmap.org/node/10593298154
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10593298154
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

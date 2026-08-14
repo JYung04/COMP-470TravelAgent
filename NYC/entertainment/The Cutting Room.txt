@@ -1,0 +1,24 @@
+Name: The Cutting Room
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://thecuttingroomnyc.com/
+Phone: +1-212-691-1900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7459419
+Longitude: -73.9828765
+OpenStreetMap URL: https://www.openstreetmap.org/node/6479458268
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6479458268
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

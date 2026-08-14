@@ -1,0 +1,24 @@
+Name: Gold Star Beer Counter
+City: NYC
+Category: bars
+Cuisine: sandwich, snack
+Address: 176 Underhill Avenue, Brooklyn NY 11238
+Description: Not listed
+Website: http://goldstarbeercounter.com
+Phone: +1 347-955-5031
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6752052
+Longitude: -73.9668209
+OpenStreetMap URL: https://www.openstreetmap.org/node/2701655547
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2701655547
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

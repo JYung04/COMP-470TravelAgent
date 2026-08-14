@@ -1,0 +1,25 @@
+Name: Red Rooster Harlem
+City: NYC
+Category: restaurants
+Cuisine: southern
+Address: 310 Lenox Avenue, New York 10027
+Description: Park and Tilford Building is a historic commercial building located at 310 Lenox Avenue in Harlem, Manhattan, New York City.
+Website: https://www.redroosterharlem.com/
+Phone: +1 212 792-9001
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8079659
+Longitude: -73.9449106
+OpenStreetMap URL: https://www.openstreetmap.org/way/271798850
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/271798850
+Price: Not listed
+Rating: 4.4
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

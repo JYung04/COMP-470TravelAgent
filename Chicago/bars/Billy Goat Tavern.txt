@@ -1,0 +1,25 @@
+Name: Billy Goat Tavern
+City: Chicago
+Category: bars
+Cuisine: burger
+Address: 700 East Grand Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://www.billygoattavern.com/locations/navy-pier-2/
+Phone: +1-312-670-8789
+Email: Not listed
+Opening Hours: Su-Tu,Th 07:00-22:00; We 07:00-00:00; Fr 07:00-02:00; Sa 07:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8913893
+Longitude: -87.6044701
+OpenStreetMap URL: https://www.openstreetmap.org/node/3586182893
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3586182893
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

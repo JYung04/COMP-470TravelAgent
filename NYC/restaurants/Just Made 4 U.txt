@@ -1,0 +1,25 @@
+Name: Just Made 4 U
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 80-21 37th Avenue, 11372
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7497307
+Longitude: -73.8855944
+OpenStreetMap URL: https://www.openstreetmap.org/node/3678168721
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3678168721
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

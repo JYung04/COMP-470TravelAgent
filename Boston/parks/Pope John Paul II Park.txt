@@ -1,0 +1,25 @@
+Name: Pope John Paul II Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Hallet Street
+Description: Pope John Paul II Park Reservation, officially the Saint Pope John Paul II Park, and also known as Pope Park, is a 66-acre (27 ha) Massachusetts state park bordering the Neponset River in the Dorchester section of Boston. The park was reclaimed from the former site of a landfill and the Neponset Drive-In as part of the Lower Neponset River Master Plan and the development of the Neponset River Reservation. It is managed by the Department of Conservation and Recreation, which has restored a salt marsh area and planted native trees and shrubs. The area now attracts an increased variety of birds to the habitat, including snowy egrets and great blue herons.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2810043
+Longitude: -71.0439866
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20232819
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/20232819
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

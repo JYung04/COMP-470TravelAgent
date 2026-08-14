@@ -1,0 +1,25 @@
+Name: Tasty Choice
+City: NYC
+Category: restaurants
+Cuisine: middle_eastern
+Address: 704 Morris Park Ave, Bronx, NY 10462, United States
+Description: Not listed
+Website: https://restaurantjump.com/tasty-choice-10462/
+Phone: +1 845-395-3396
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8451466
+Longitude: -73.8656922
+OpenStreetMap URL: https://www.openstreetmap.org/node/10908603308
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10908603308
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

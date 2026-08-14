@@ -1,0 +1,25 @@
+Name: El Nuevo Mexicano
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 2914 North Clark Street, Chicago IL 60657
+Description: Not listed
+Website: https://www.elnuevomexicano.net/
+Phone: +1-773-528 2131
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00; Fr-Sa 11:30-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9353036
+Longitude: -87.6471628
+OpenStreetMap URL: https://www.openstreetmap.org/node/3518312182
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3518312182
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

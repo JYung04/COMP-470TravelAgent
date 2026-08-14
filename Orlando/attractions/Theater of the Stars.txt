@@ -1,0 +1,25 @@
+Name: Theater of the Stars
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Beauty and the Beast: Live on Stage is a Broadway-style musical at the Theater of the Stars, on Sunset Boulevard, at Disney's Hollywood Studios, Walt Disney World. It is based on Disney's 1991 animated feature film Beauty and the Beast and opened on November 22, 1991, the same day the film was released. Two versions of the show have been presented since opening day.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3592419
+Longitude: -81.5591864
+OpenStreetMap URL: https://www.openstreetmap.org/way/294883724
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/294883724
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; music

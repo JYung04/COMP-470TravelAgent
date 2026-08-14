@@ -1,0 +1,24 @@
+Name: Central Gyros
+City: Chicago
+Category: restaurants
+Cuisine: kebab, greek
+Address: 3127 North Central Avenue, Chicago IL 60634
+Description: Not listed
+Website: http://centralgyros.com/
+Phone: +1-773-545-1276
+Email: Not listed
+Opening Hours: We-Mo 11:30-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9376197
+Longitude: -87.7661781
+OpenStreetMap URL: https://www.openstreetmap.org/node/5237312709
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5237312709
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

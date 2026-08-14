@@ -1,0 +1,24 @@
+Name: Irie Jerk Bar and Grill
+City: Chicago
+Category: restaurants
+Cuisine: caribbean, jamaican
+Address: 3404 North Clark Street, Chicago IL 60657
+Description: Jamaican fusion
+Website: http://iriejerkbargrill.comm/
+Phone: +1-872-802-4999
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9437201
+Longitude: -87.6539169
+OpenStreetMap URL: https://www.openstreetmap.org/node/5859460641
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5859460641
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

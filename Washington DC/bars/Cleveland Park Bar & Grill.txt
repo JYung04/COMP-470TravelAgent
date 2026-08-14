@@ -1,0 +1,25 @@
+Name: Cleveland Park Bar & Grill
+City: Washington DC
+Category: bars
+Cuisine: American, Exclusive to Eats
+Address: 3407 Connecticut Avenue Northwest
+Description: Not listed
+Website: https://cpbargrill.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.934719
+Longitude: -77.0576855
+OpenStreetMap URL: https://www.openstreetmap.org/node/12211844988
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12211844988
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

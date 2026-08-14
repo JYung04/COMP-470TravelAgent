@@ -1,0 +1,24 @@
+Name: Un Amor
+City: Chicago
+Category: restaurants
+Cuisine: latin_american
+Address: 1450 West Chicago Avenue, Chicago IL 60642
+Description: Not listed
+Website: https://www.unamorchicago.com
+Phone: +1-773-636-2145
+Email: Not listed
+Opening Hours: Tu-We Off
+Wheelchair Accessibility: Not listed
+Latitude: 41.8962819
+Longitude: -87.6644423
+OpenStreetMap URL: https://www.openstreetmap.org/node/12520661802
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12520661802
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

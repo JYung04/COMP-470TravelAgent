@@ -1,0 +1,25 @@
+Name: Plaza Lafayette
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Plaza Lafayette is a 0.09-acre (0.036 ha) pocket park and surrounding streets in the Hudson Heights neighborhood of Washington Heights, Manhattan, New York City. Named after the Marquis de Lafayette, the French hero of the American Revolution, the park is roughly trapezoidal in shape, and is bounded by Riverside Drive – originally called Boulevard Lafayette in this area – on the west, the westbound lane of West 181st Street – also called "Plaza Lafayette" here – on the north, the eastbound lane of West 181st Street/Plaza Lafayette on the south, and Haven Avenue on the east. The land was acquired by the city on February 23, 1918.
+Website: https://www.nycgovparks.org/parks/plaza-lafayette/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8515508
+Longitude: -73.9415912
+OpenStreetMap URL: https://www.openstreetmap.org/way/1490739996
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1490739996
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

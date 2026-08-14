@@ -1,0 +1,25 @@
+Name: Atlas Brew Works
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1201 Half Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://atlasbrewworks.com/pages/half-street
+Phone: +1 202 525-2001
+Email: Not listed
+Opening Hours: Th-Sa 11:00-24:00; Su-We 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8752835
+Longitude: -77.0076353
+OpenStreetMap URL: https://www.openstreetmap.org/node/11495428277
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11495428277
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

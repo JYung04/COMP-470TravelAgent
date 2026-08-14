@@ -1,0 +1,25 @@
+Name: Summer
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: Not listed
+Description: Rooftop Films Summer Series (May–August) For more than a decade, this festival has hosted screenings on rooftops and other unusual venues over the course of the summer, providing a wide-ranging look at the state of indie cinema in the US and around the world. Brooklyn Film Festival (June) Across 10 days in June, this festival presents nearly 150 films in Brooklyn with the aim of celebrating the borough’s cinematic history while looking at new work from local and international filmmakers. The Low
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7354645
+Longitude: -73.8809719
+OpenStreetMap URL: https://www.openstreetmap.org/node/9354020178
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9354020178
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

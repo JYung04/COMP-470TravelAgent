@@ -1,0 +1,25 @@
+Name: Klan Destino
+City: NYC
+Category: restaurants
+Cuisine: argentinian
+Address: Not listed
+Description: Not listed
+Website: https://www.klandestinony.com/
+Phone: +1-917-832-6050
+Email: Not listed
+Opening Hours: Mo-Su 13:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7130183
+Longitude: -73.8775409
+OpenStreetMap URL: https://www.openstreetmap.org/node/13732442305
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13732442305
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

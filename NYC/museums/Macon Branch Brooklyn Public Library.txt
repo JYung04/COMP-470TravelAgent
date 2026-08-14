@@ -1,0 +1,25 @@
+Name: Macon Branch Brooklyn Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 361 Lewis Avenue, NY 11233
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo,We,Fr 10:00-18:00; Tu 13:00-20:00; Th 10:00-20:00; Sa 10:00-18:00; Su 13:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.6830155
+Longitude: -73.9347846
+OpenStreetMap URL: https://www.openstreetmap.org/way/247916112
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/247916112
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Aita
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: Not listed
+Description: Not listed
+Website: https://www.aitarestaurant.com
+Phone: +1-718-576-3584
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:00; Fr 12:00-15:00,17:00-22:00; Sa-Su 11:00-15:00,17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6864949
+Longitude: -73.966651
+OpenStreetMap URL: https://www.openstreetmap.org/node/8898731557
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8898731557
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

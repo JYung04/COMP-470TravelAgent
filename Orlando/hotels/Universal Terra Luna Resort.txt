@@ -1,0 +1,25 @@
+Name: Universal Terra Luna Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 5500 Epic Boulevard, Orlando FL 32819
+Description: 5500 Epic Boulevard | Universal Orlando Resort Also new at Universal Orlando is Universal Terra Luna Resort , a bold getaway inspired by the thrill of exploring the unknown. The green-and-gold-hued resort features three restaurants and bars, a zero-entry pool with hot tub, and tranquil double rooms with spaceship-styled windows. > Back to Top
+Website: https://www.universalorlando.com/web/en/us/places-to-stay/universal-terra-luna-resort
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4337452
+Longitude: -81.4525278
+OpenStreetMap URL: https://www.openstreetmap.org/way/1368855013
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1368855013
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: The Sevens
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 77 Charles Street, Boston MA 02114
+Description: Not listed
+Website: Not listed
+Phone: +1-617-523-9074
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3583275
+Longitude: -71.0703958
+OpenStreetMap URL: https://www.openstreetmap.org/node/7779510077
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7779510077
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

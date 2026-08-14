@@ -1,0 +1,25 @@
+Name: Pazzo's
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 311 South Wacker Drive, Chicago IL 60606
+Description: Not listed
+Website: https://pazzoschicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.877514
+Longitude: -87.6354221
+OpenStreetMap URL: https://www.openstreetmap.org/node/1699221031
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1699221031
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

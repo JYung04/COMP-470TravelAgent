@@ -1,0 +1,25 @@
+Name: Econo Lodge Inn & Suites
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8700 South Orange Blossom Trail, Orlando FL 32809
+Description: Not listed
+Website: http://www.econolodge.com/hotel-orlando-florida-FL036?source=gglocalai
+Phone: +1 407-996-4600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4383283
+Longitude: -81.4051465
+OpenStreetMap URL: https://www.openstreetmap.org/relation/6170073
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/6170073
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Lian Jiang
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 88 Division Street, New York NY 10002
+Description: Not listed
+Website: https://lianjiangnytogo.com/
+Phone: +1-646-715-7113
+Email: Not listed
+Opening Hours: Mo-Su 07:30-20:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.7143686
+Longitude: -73.9938106
+OpenStreetMap URL: https://www.openstreetmap.org/node/2567558503
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2567558503
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Bocado Cafe
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 1293 Lexington Avenue, 10128
+Description: Not listed
+Website: http://www.bacadocafenyc.com
+Phone: +1 212-289-9004
+Email: info@bocadocafenyc.com
+Opening Hours: Su-Th 08:30-23:00; Fr-Sa 08:00-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7802154
+Longitude: -73.9548959
+OpenStreetMap URL: https://www.openstreetmap.org/node/2724236509
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2724236509
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

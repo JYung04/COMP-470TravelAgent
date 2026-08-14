@@ -1,0 +1,25 @@
+Name: Jamya Williams
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: “This memorial sign was posted by the DC Chapter of Families for Safe Streets (DC-FSS). To learn more about DC-FSS, please visit https://dcfamiliesforsafestreets.org/.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9027709
+Longitude: -77.0318267
+OpenStreetMap URL: https://www.openstreetmap.org/node/11141661205
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11141661205
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

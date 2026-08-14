@@ -1,0 +1,25 @@
+Name: belle fouchette restaurant
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 104 South Orange Blossom Trail, Orlando FL 32818
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5408056
+Longitude: -81.3976849
+OpenStreetMap URL: https://www.openstreetmap.org/way/313780404
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/313780404
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

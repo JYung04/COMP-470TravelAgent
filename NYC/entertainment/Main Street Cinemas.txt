@@ -1,0 +1,25 @@
+Name: Main Street Cinemas
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 72-66 Main Street, Flushing 11367
+Description: movie theater in Flushing, Queens, New York City, United States
+Website: Not listed
+Phone: +1-718-263-4825
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7249737
+Longitude: -73.8211967
+OpenStreetMap URL: https://www.openstreetmap.org/node/2870984533
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2870984533
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

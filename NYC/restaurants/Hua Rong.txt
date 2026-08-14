@@ -1,0 +1,25 @@
+Name: Hua Rong
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 131-19 Jamaica Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo,We-Th 11:00-23:00; Tu off; Fr-Sa 11:00-24:00; Su 11:30-23:30
+Wheelchair Accessibility: no
+Latitude: 40.702257
+Longitude: -73.8204562
+OpenStreetMap URL: https://www.openstreetmap.org/node/10595139025
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10595139025
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

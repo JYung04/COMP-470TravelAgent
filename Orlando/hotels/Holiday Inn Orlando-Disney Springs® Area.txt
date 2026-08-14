@@ -1,0 +1,25 @@
+Name: Holiday Inn Orlando-Disney Springs® Area
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1805 Hotel Plaza Boulevard, Lake Buena Vista FL 32830
+Description: Not listed
+Website: Not listed
+Phone: +1-407-828-8888
+Email: guestservices@hiorlando.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3751356
+Longitude: -81.5082061
+OpenStreetMap URL: https://www.openstreetmap.org/way/292976896
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/292976896
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

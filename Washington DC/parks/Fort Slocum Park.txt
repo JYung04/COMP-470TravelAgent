@@ -1,0 +1,25 @@
+Name: Fort Slocum Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Fort Slocum was one of seven temporary earthwork forts of the Civil War Defenses of Washington, D.C., built in the Northeast quadrant of the city after the beginning of the war by the Union Army to protect the city from the Confederate Army. From west to east, the forts were as follows: Fort Slocum, Fort Totten, Fort Slemmer, Fort Bunker Hill, Fort Saratoga, Fort Thayer and Fort Lincoln.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9600219
+Longitude: -77.0139008
+OpenStreetMap URL: https://www.openstreetmap.org/way/41965097
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/41965097
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

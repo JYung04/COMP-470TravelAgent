@@ -1,0 +1,25 @@
+Name: "it's a small world"
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Lake Buena Vista FL
+Description: It's a Small World is an Old Mill boat ride located in the Fantasyland area at various Disney theme parks around the world. Versions of the ride are installed at Disneyland in Anaheim, California; Magic Kingdom in Bay Lake, Florida; Tokyo Disneyland; Disneyland Park (Paris) and Hong Kong Disneyland. The inaugural version of the ride premiered at the 1964 New York World's Fair before permanently moving to Disneyland in 1966.
+Website: https://disneyworld.disney.go.com/attractions/magic-kingdom/its-a-small-world/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4207959
+Longitude: -81.5820403
+OpenStreetMap URL: https://www.openstreetmap.org/way/699034483
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/699034483
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

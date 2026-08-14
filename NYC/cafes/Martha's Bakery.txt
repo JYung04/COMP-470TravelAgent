@@ -1,0 +1,25 @@
+Name: Martha's Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 70-32 Austin Street, 11375
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7204686
+Longitude: -73.8459577
+OpenStreetMap URL: https://www.openstreetmap.org/node/9007871739
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9007871739
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

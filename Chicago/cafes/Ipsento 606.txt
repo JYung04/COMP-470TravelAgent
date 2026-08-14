@@ -1,0 +1,24 @@
+Name: Ipsento 606
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop, pastry, sandwich
+Address: 1813 North Milwaukee Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.ipsento.com/
+Phone: +1-872-206-8697
+Email: Not listed
+Opening Hours: 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9144268
+Longitude: -87.6832788
+OpenStreetMap URL: https://www.openstreetmap.org/node/5025496847
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5025496847
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

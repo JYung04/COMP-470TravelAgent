@@ -1,0 +1,25 @@
+Name: 33 Hotel, New York City, Seaport
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 33 Peck Slip, New York NY 10038
+Description: Not listed
+Website: https://www.33hotel.com/
+Phone: +1 212 766 6600
+Email: info@33hotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7080083
+Longitude: -74.0014177
+OpenStreetMap URL: https://www.openstreetmap.org/node/2825125240
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2825125240
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

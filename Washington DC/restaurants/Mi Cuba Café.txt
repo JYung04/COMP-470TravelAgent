@@ -1,0 +1,25 @@
+Name: Mi Cuba Café
+City: Washington DC
+Category: restaurants
+Cuisine: cuban
+Address: 1424 Park Road Northwest, Washington DC 20010-2802
+Description: Not listed
+Website: https://micubacafe.com
+Phone: +1 202-813-3489
+Email: Not listed
+Opening Hours: Mo,We-Th 12:00-21:00; Tu off; Fr-Sa 12:00-22:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9304511
+Longitude: -77.0337225
+OpenStreetMap URL: https://www.openstreetmap.org/node/4787522064
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4787522064
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

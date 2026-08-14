@@ -1,0 +1,25 @@
+Name: USS Growler
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: USS Growler (SSG-577) was an early attempt by the U.S. Navy to field a cruise missile submarine that would provide a nuclear deterrent using its second series of cruise missiles. Built to deliver the Regulus I cruise missile, Growler is the second and final submarine of the Grayback class, fourth boat of the United States Navy to be named after the growler. Since Regulus I and Regulus II programs had problems, Growler and Grayback were the only two submarines built in this class as instead, the U.S. Navy veered its nuclear deterrence efforts into submarine launched ballistic missiles (SLBMs)—the Polaris missile program.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7650528
+Longitude: -73.9998394
+OpenStreetMap URL: https://www.openstreetmap.org/way/53142768
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/53142768
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

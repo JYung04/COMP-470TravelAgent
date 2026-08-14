@@ -1,0 +1,25 @@
+Name: Mezeh Mediterranean Grill
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 900 Broadway, New York NY 10003
+Description: Not listed
+Website: https://order.mezeh.com/
+Phone: +1-646-595-0078
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7389158
+Longitude: -73.9896744
+OpenStreetMap URL: https://www.openstreetmap.org/node/5985141785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5985141785
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Bunker Vietnamese
+City: NYC
+Category: restaurants
+Cuisine: sandwich, vietnamese
+Address: 99 Scott Avenue
+Description: Not listed
+Website: https://www.bunkernyc.com/
+Phone: +1-718-386-4282
+Email: eat@bunkernyc.com
+Opening Hours: Tu, We, Su 12:00-22:00; Th-Sa 12:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7104957
+Longitude: -73.9232382
+OpenStreetMap URL: https://www.openstreetmap.org/node/5679677533
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5679677533
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

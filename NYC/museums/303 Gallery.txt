@@ -1,0 +1,25 @@
+Name: 303 Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 555 West 21st Street, New York NY 10011
+Description: Not listed
+Website: https://www.303gallery.com
+Phone: +1-212-255-1121
+Email: info@303gallery.com
+Opening Hours: Tu-Sa 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7475429
+Longitude: -74.0075391
+OpenStreetMap URL: https://www.openstreetmap.org/node/8062794938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8062794938
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

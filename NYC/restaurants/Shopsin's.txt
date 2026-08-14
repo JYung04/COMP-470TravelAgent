@@ -1,0 +1,25 @@
+Name: Shopsin's
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 88 Essex Street, New York NY 10002
+Description: Not listed
+Website: https://shopsins.com/
+Phone: +1 917-907-4506
+Email: Not listed
+Opening Hours: We-Fr 09:00-15:00; Sa-Su 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7180763
+Longitude: -73.988245
+OpenStreetMap URL: https://www.openstreetmap.org/node/9374707290
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9374707290
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: B-52 Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: B-52 Memorial Park is located within the Orlando International Airport just off the Beachline Expressway near runway 18L. It is a small, relatively hidden park under the control of the Greater Orlando Aviation Authority (GOAA) and features a retired B-52D Stratofortress, Air Force Serial Number 56-0687, from the Strategic Air Command. The aircraft was at one time assigned to the 306th Bomb Wing of the now defunct McCoy Air Force Base. The bomber was built in 1956 and retired 28 years later in 1984. Final flight was from its last unit of assignment, the 7th Bomb Wing at Carswell AFB in Fort Worth, Texas, to the former McCoy AFB, now Orlando International Airport, on February 20, 1984.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: Not listed
+Latitude: 28.449868
+Longitude: -81.312647
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1145038
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1145038
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

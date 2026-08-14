@@ -1,0 +1,25 @@
+Name: The Renee and Chaim Gross Foundation
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 526 Laguardia Place, New York NY 10012
+Description: The Renee and Chaim Gross Foundation is a non-profit organization incorporated in 1989 dedicated to the study of modern American sculptor Chaim Gross (1902–91), his contemporaries, and the history of 20th-century American art. It is located in the sculptor's four-story historic home on LaGuardia Place in Manhattan's Greenwich Village neighborhood and is open to the public. In addition to the artist's sculpture and drawings, it also exhibits important works of American, European, Pre-Columbian and African art that the artist collected. In 2015, the Foundation won a Village Award from the Greenwich Village Society for Historic Preservation for its contributions as a resource to the downtown community.
+Website: https://www.rcgrossfoundation.org/
+Phone: +1-212-529-4906
+Email: Not listed
+Opening Hours: Th,Fr 13:00-17:00
+Wheelchair Accessibility: limited
+Latitude: 40.7284684
+Longitude: -73.99882
+OpenStreetMap URL: https://www.openstreetmap.org/node/5509996164
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5509996164
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: museums and culture; art

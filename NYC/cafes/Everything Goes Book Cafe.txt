@@ -1,0 +1,25 @@
+Name: Everything Goes Book Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 208 Bay Street, Staten Island NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.636934
+Longitude: -74.076656
+OpenStreetMap URL: https://www.openstreetmap.org/node/418520887
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/418520887
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

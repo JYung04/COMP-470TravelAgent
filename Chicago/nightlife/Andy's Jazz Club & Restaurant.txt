@@ -1,0 +1,25 @@
+Name: Andy's Jazz Club & Restaurant
+City: Chicago
+Category: nightlife
+Cuisine: Not listed
+Address: 11 East Hubbard Street, Chicago IL 60611
+Description: Not listed
+Website: https://andysjazzclub.com/
+Phone: +1-312-642-6805
+Email: Not listed
+Opening Hours: Mo-Su 16:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8899353
+Longitude: -87.627363
+OpenStreetMap URL: https://www.openstreetmap.org/node/4731205522
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4731205522
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

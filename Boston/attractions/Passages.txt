@@ -1,0 +1,25 @@
+Name: Passages
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Kip Tiernan Memorial
+Website: https://drive.google.com/file/d/0B1T6IHC1ieCfaGRHWFIzbGNWQUU/view
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3506373
+Longitude: -71.0777746
+OpenStreetMap URL: https://www.openstreetmap.org/way/831017006
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/831017006
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

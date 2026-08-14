@@ -1,0 +1,25 @@
+Name: Suzy's Roti Parlor
+City: NYC
+Category: restaurants
+Cuisine: caribbean
+Address: 907 Church Avenue, Brooklyn NY 11218
+Description: Not listed
+Website: https://suzysroti.square.site/
+Phone: +1 718-282-8190
+Email: Not listed
+Opening Hours: Mo,Su off; Tu-Sa 11:30-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6466591
+Longitude: -73.970489
+OpenStreetMap URL: https://www.openstreetmap.org/node/10093672659
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10093672659
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

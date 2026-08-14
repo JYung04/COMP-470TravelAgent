@@ -1,0 +1,25 @@
+Name: Statue of Liberty Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: New York NY 10004
+Description: The Statue of Liberty Museum is located on Liberty Island in New York City. The museum opened on May 16, 2019, and is focused on the creation, meaning, and history of the Statue of Liberty.
+Website: https://www.statueofliberty.org/statue-of-liberty/statue-of-liberty-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6908211
+Longitude: -74.0463272
+OpenStreetMap URL: https://www.openstreetmap.org/way/888758560
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/888758560
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: museums and culture

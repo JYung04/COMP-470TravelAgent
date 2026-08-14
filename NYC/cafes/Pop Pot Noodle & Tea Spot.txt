@@ -1,0 +1,25 @@
+Name: Pop Pot Noodle & Tea Spot
+City: NYC
+Category: cafes
+Cuisine: bubble_tea
+Address: 75-08 Jamaica Avenue, Woodhaven NY 11421
+Description: Not listed
+Website: https://pop-pot-noodle-tea-spot-inc.square.site/
+Phone: +1-718-296-2172
+Email: Not listed
+Opening Hours: Mo-Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6913614
+Longitude: -73.866156
+OpenStreetMap URL: https://www.openstreetmap.org/node/9678976667
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9678976667
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

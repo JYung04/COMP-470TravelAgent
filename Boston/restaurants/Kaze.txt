@@ -1,0 +1,25 @@
+Name: Kaze
+City: Boston
+Category: restaurants
+Cuisine: japanese
+Address: 41,45 Essex Street, Boston MA 02111
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu 17:00-02:00, We-Mo 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3523586
+Longitude: -71.0615487
+OpenStreetMap URL: https://www.openstreetmap.org/way/29943278
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29943278
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

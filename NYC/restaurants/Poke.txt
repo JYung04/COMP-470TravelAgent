@@ -1,0 +1,25 @@
+Name: Poke
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 343 East 85th Street, 10128
+Description: Not listed
+Website: https://pokerestaurant.nyc
+Phone: +1 212-249-0569
+Email: Not listed
+Opening Hours: Mo-Th 17:00-21:30; Fr, Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7765789
+Longitude: -73.9505353
+OpenStreetMap URL: https://www.openstreetmap.org/node/10893513469
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10893513469
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

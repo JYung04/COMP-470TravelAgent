@@ -1,0 +1,24 @@
+Name: El San Juan Restaurant
+City: NYC
+Category: restaurants
+Cuisine: seafood, soul_food
+Address: 1429 5th Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1-646-373-3690
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8010858
+Longitude: -73.9459088
+OpenStreetMap URL: https://www.openstreetmap.org/node/6296848317
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6296848317
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

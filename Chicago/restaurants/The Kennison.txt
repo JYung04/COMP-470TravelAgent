@@ -1,0 +1,25 @@
+Name: The Kennison
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 1800 North Lincoln Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://www.thekennison.com/
+Phone: +1-312-981-7070
+Email: Not listed
+Opening Hours: Su-Th 17:00-22:00; Fr-Sa 17:00-23:00; Sa-Su 09:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9153668
+Longitude: -87.6345049
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460880257
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460880257
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

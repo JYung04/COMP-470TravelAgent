@@ -1,0 +1,25 @@
+Name: About Last Knife
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 168 North Michigan Avenue, Chicago IL 60601
+Description: Not listed
+Website: https://alkchicago.com/
+Phone: +1-312-392-2440
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8851217
+Longitude: -87.6247625
+OpenStreetMap URL: https://www.openstreetmap.org/node/6256587729
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6256587729
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

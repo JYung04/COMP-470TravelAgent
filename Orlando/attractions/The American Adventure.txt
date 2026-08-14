@@ -1,0 +1,25 @@
+Name: The American Adventure
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The American Adventure is the host pavilion of the World Showcase area of EPCOT at the Walt Disney World Resort near Orlando, Florida. It is also the name of the pavilion's main attraction, an Audio-Animatronic stage show of American history. It is located between the Italy and Japan pavilions.
+Website: https://disneyworld.disney.go.com/attractions/epcot/american-adventure/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3672303
+Longitude: -81.5492634
+OpenStreetMap URL: https://www.openstreetmap.org/way/295592223
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295592223
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

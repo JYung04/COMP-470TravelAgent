@@ -1,0 +1,25 @@
+Name: Lace
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 2214 Rhode Island Avenue Northeast, 20018
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9306245
+Longitude: -76.9735391
+OpenStreetMap URL: https://www.openstreetmap.org/way/296262533
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/296262533
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

@@ -1,0 +1,25 @@
+Name: Myung Dong 1st Ave
+City: Boston
+Category: restaurants
+Cuisine: korean
+Address: 90 Harvard Avenue, Allston MA 02134
+Description: Not listed
+Website: Not listed
+Phone: +1 617 206 3229
+Email: Not listed
+Opening Hours: Mo-Su 17:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3533596
+Longitude: -71.1320051
+OpenStreetMap URL: https://www.openstreetmap.org/node/4727567595
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4727567595
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

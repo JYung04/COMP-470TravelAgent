@@ -1,0 +1,25 @@
+Name: Bova's Bakery
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 134 Salem Street, Boston MA 02113
+Description: Frequent turnover isn’t usually a good thing in the hospitality industry. But it has helped Bova’s Bakery—the tipsy college student’s go-to spot for a cream-filled lobster tail or cheese-and-meatball-stuffed arancini at 3 a.m. —stay in business for nearly a century. Three extended families, all descendants of founder George Bova, each run the always-open bakery for six months before handing it over for the next “turn” to manage. 134 Salem St., North End, Boston, 617-523-5601, bovabakeryboston.net . Gnocchi Sorrentina at Bricco. / Courtesy photo
+Website: https://bovabakeryboston.net/
+Phone: +1-617-523-5601
+Email: info@bovabakeryboston.net
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 42.3651955
+Longitude: -71.0555868
+OpenStreetMap URL: https://www.openstreetmap.org/node/8984847320
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8984847320
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

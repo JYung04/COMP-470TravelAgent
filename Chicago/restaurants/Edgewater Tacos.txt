@@ -1,0 +1,25 @@
+Name: Edgewater Tacos
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 5624 North Broadway, Chicago IL 60660
+Description: Mexican restaurant, take-out
+Website: https://m.facebook.com/EdgewaterTacos
+Phone: +1-773-944-0847
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-21:00; Su 11:00-18:00
+Wheelchair Accessibility: limited
+Latitude: 41.9844894
+Longitude: -87.6603851
+OpenStreetMap URL: https://www.openstreetmap.org/node/5455662542
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5455662542
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Le Baobab Gouygui
+City: NYC
+Category: restaurants
+Cuisine: senegalese, african
+Address: 120 West 116th Street, 10026
+Description: Not listed
+Website: Not listed
+Phone: +1 212-864-4700
+Email: Not listed
+Opening Hours: 13:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8023545
+Longitude: -73.9509307
+OpenStreetMap URL: https://www.openstreetmap.org/node/9553068941
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9553068941
+Price: Not listed
+Rating: 4.1
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

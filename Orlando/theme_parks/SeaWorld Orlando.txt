@@ -1,0 +1,25 @@
+Name: SeaWorld Orlando
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 7007 Sea World Drive, Orlando FL 32821
+Description: DoubleTree by Hilton Orlando at SeaWorld accepts medium-sized pets with a maximum weight of 70 pounds, with a nonrefundable deposit of $50. The property is adjacent to and officially partnered with SeaWorld® Orlando , with guests also receiving early access to SeaWorld, free use of the park’s Quick Queue program, and a complimentary, behind-the-scenes Rescue Tour. Save on discount tickets: SeaWorld Orlando
+Website: https://seaworld.com/orlando/orlando-parks/
+Phone: +1 407 545 5550;+1 888 800 5447
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4107551
+Longitude: -81.4618854
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20709521
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/20709521
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: seaworld orlando
+Best For: sightseeing; art

@@ -1,0 +1,25 @@
+Name: The Capital Grille
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 120 Broadway, New York NY 10271
+Description: Not listed
+Website: https://www.thecapitalgrille.com/home
+Phone: +1-212-374-1811
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-10:00, Sa 05:00-10:00, Su closed
+Wheelchair Accessibility: limited
+Latitude: 40.7078716
+Longitude: -74.0102438
+OpenStreetMap URL: https://www.openstreetmap.org/node/5135848733
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5135848733
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

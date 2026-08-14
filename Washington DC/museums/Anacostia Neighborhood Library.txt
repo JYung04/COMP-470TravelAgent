@@ -1,0 +1,25 @@
+Name: Anacostia Neighborhood Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1800 Good Hope Road Southeast, Washington DC 20020
+Description: Not listed
+Website: https://www.dclibrary.org/anacostia
+Phone: +1 202-715-7707
+Email: Not listed
+Opening Hours: Su 13:00-17:00; Mo-Th 09:30-21:00; Fr,Sa 09:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8660175
+Longitude: -76.978544
+OpenStreetMap URL: https://www.openstreetmap.org/way/294873334
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/294873334
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

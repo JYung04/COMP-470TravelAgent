@@ -1,0 +1,25 @@
+Name: Heist
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 1802 Jefferson Place Northwest Washington DC
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9071035
+Longitude: -77.0425074
+OpenStreetMap URL: https://www.openstreetmap.org/node/11218574869
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11218574869
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

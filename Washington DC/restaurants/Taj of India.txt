@@ -1,0 +1,25 @@
+Name: Taj of India
+City: Washington DC
+Category: restaurants
+Cuisine: indian
+Address: 2809 M Street Northwest, Washington DC
+Description: Not listed
+Website: https://www.tajofindia.com/
+Phone: +1- 202-965-4266
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9054
+Longitude: -77.0573604
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272420
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272420
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

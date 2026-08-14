@@ -1,0 +1,25 @@
+Name: Churro Parlor
+City: Chicago
+Category: restaurants
+Cuisine: churro
+Address: 1604 West Roscoe Street, Chicago IL 60657
+Description: Not listed
+Website: https://www.churroparlor.com/
+Phone: +1-773-360-8956
+Email: Not listed
+Opening Hours: Tu-Th 16:00-22:00,Fr-Sa 12:00-22:00,Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9434406
+Longitude: -87.6690876
+OpenStreetMap URL: https://www.openstreetmap.org/node/9238640499
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9238640499
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

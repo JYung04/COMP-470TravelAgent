@@ -1,0 +1,25 @@
+Name: 14th and Girard Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 14th and Girard Sts., NW
+Description: Officially classified as park. Amenities include basketball court.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9255289
+Longitude: -77.0319794
+OpenStreetMap URL: https://www.openstreetmap.org/way/48207368
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48207368
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

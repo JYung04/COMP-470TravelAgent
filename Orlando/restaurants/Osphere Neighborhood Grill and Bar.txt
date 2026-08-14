@@ -1,0 +1,24 @@
+Name: Osphere Neighborhood Grill and Bar
+City: Orlando
+Category: restaurants
+Cuisine: american, sushi
+Address: 407 East Central Boulevard, Orlando FL 32801
+Description: Not listed
+Website: https://ospheregrillbar.com/
+Phone: +1-407-203-4527
+Email: Not listed
+Opening Hours: 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 28.5424166
+Longitude: -81.3725204
+OpenStreetMap URL: https://www.openstreetmap.org/node/9566722057
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9566722057
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Reichenbach Hall
+City: NYC
+Category: restaurants
+Cuisine: german
+Address: 5 West 37th Street
+Description: Not listed
+Website: http://www.reichenbachhall.com
+Phone: +1-212-302-7744
+Email: Not listed
+Opening Hours: Th-Sa 11:30-02:00; We 11:30-01:00; Mo, Tu, Su 11:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7508098
+Longitude: -73.9840031
+OpenStreetMap URL: https://www.openstreetmap.org/node/6321410065
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6321410065
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

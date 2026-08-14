@@ -1,0 +1,24 @@
+Name: Oh Mama Grill
+City: Washington DC
+Category: restaurants
+Cuisine: mediterranean, kebab, falafel, shawarma
+Address: 1829 Columbia Road, Washington DC 20009
+Description: Not listed
+Website: https://www.ohmamagrill.com/
+Phone: +1-202-885-9728
+Email: riki@ohmamagrill.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9217237
+Longitude: -77.043728
+OpenStreetMap URL: https://www.openstreetmap.org/node/10579918890
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10579918890
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

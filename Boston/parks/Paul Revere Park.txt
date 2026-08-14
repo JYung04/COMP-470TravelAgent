@@ -1,0 +1,25 @@
+Name: Paul Revere Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Paul Revere Park is a five-acre (2.0 ha) park located on the Charles River in Charlestown, Massachusetts. The park was the first park to open along the "Lost Half Mile" of the Charles River as mitigation for the taking of planned parkland for the construction of the Big Dig. The park runs along the Charles River between the Freedom Trail on North Washington Street and the Leonard P. Zakim Bunker Hill Memorial Bridge. The park features a large oval-shaped lawn, an informal performance area, and a playground.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3701329
+Longitude: -71.0624818
+OpenStreetMap URL: https://www.openstreetmap.org/way/172440085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/172440085
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

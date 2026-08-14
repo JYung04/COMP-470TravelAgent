@@ -1,0 +1,25 @@
+Name: Kati Roll Wala
+City: Orlando
+Category: restaurants
+Cuisine: indian
+Address: 6982 Lake Nona Boulevard, Orlando FL 32827
+Description: Not listed
+Website: https://katirollwala.com/#
+Phone: +1-916-337-9342
+Email: lakenona@katirollwala.com
+Opening Hours: Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3716236
+Longitude: -81.2776692
+OpenStreetMap URL: https://www.openstreetmap.org/node/12303148215
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12303148215
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

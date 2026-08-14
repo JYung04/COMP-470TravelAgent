@@ -1,0 +1,24 @@
+Name: Sushi Tomi
+City: Orlando
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 8463 South John Young Parkway, Orlando FL 32819
+Description: Not listed
+Website: https://sushitomiorlando.com
+Phone: +1-407-352-8635
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-14:00, 17:30-21:00; Sa 17:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4429297
+Longitude: -81.4262044
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798226091
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10798226091
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Barrio
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 65 West Kinzie Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.barriochicago.com/
+Phone: +1-312-940-9900
+Email: Not listed
+Opening Hours: Mo-Th 17:00-21:30; Fr 17:00-23:30; Sa 11:00-23:30; Su 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8890874
+Longitude: -87.6304313
+OpenStreetMap URL: https://www.openstreetmap.org/node/5457442616
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5457442616
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

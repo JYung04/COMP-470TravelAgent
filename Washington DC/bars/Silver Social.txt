@@ -1,0 +1,25 @@
+Name: Silver Social
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1250 Half Street Southeast
+Description: Not listed
+Website: https://www.silversocialdc.com/
+Phone: +1-202-250-2000
+Email: Not listed
+Opening Hours: Mo-Th 16:00-00:00; Fr 16:00-02:00; Sa 09:00-02:00; Su 09:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8748861
+Longitude: -77.0072134
+OpenStreetMap URL: https://www.openstreetmap.org/node/10231074738
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10231074738
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

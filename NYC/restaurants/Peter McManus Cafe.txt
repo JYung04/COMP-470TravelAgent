@@ -1,0 +1,25 @@
+Name: Peter McManus Cafe
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 152 7th Avenue, 10011
+Description: The Peter McManus Café is among the oldest family-owned and operated bars in New York City. It opened in 1936 and is located at 152 Seventh Avenue on the corner of West 19th Street in the Chelsea neighborhood of Manhattan. The bar has been Zagat-rated and written about in numerous articles, and appeared in the book The Hundred Best Bars in NYC with a high rating. The bar has also received several awards. The current proprietor is James Justin McManus.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-04:00; Su 12:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7418314
+Longitude: -73.9975703
+OpenStreetMap URL: https://www.openstreetmap.org/node/7230710385
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7230710385
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

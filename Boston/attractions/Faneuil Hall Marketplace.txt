@@ -1,0 +1,24 @@
+Name: Faneuil Hall Marketplace
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 1 Faneuil Hall Square, Boston MA 02109
+Description: Eat, drink, and be captivated at 14 restaurants and pubs including Cheers, McCormick & Schmick's and Ned Devine's Irish Pub. Dine beneath beautiful glass canopies or at one of our many outdoor cafes. In addition, you'll find over 36 international food vendors inside of the Quincy Market Colonnade, the largest food hall in New England.
+Website: https://faneuilhallmarketplace.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3600766
+Longitude: -71.0547394
+OpenStreetMap URL: https://www.openstreetmap.org/way/94483066
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/94483066
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

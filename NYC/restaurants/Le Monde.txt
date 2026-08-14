@@ -1,0 +1,24 @@
+Name: Le Monde
+City: NYC
+Category: restaurants
+Cuisine: french, loire_valley
+Address: 2885 Broadway, New York NY 10025
+Description: Not listed
+Website: https://lemondenyc.com/
+Phone: +1 212-531-3939
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8057782
+Longitude: -73.9658657
+OpenStreetMap URL: https://www.openstreetmap.org/node/570912397
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/570912397
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

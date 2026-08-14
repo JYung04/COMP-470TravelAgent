@@ -1,0 +1,25 @@
+Name: The Berghoff Café
+City: Chicago
+Category: restaurants
+Cuisine: sandwich
+Address: O'Hare Commercial Arrivals, Chicago IL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-20:00
+Wheelchair Accessibility: limited
+Latitude: 41.9804812
+Longitude: -87.909984
+OpenStreetMap URL: https://www.openstreetmap.org/node/2644477409
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2644477409
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

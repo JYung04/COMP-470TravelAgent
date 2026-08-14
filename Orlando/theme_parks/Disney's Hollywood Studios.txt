@@ -1,0 +1,25 @@
+Name: Disney's Hollywood Studios
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 351 South Studio Drive, Lake Buena Vista FL 32830
+Description: Disney's Hollywood Studios is a theme park at the Walt Disney World Resort in Bay Lake, Florida, near Orlando. It is owned and operated by the Walt Disney Company through its Experiences division. Based on a concept by Marty Sklar, Randy Bright, and Michael Eisner, the park opened on May 1, 1989, as the Disney–MGM Studios Theme Park, and was the third of four theme parks built at Walt Disney World. Spanning 135 acres (55 ha), the park is themed to an idealized version of Hollywood, California, and is dedicated to the imagined worlds from film, television, music, and theatre, drawing inspiration from the Golden Age of Hollywood.
+Website: https://disneyworld.disney.go.com/destinations/hollywood-studios/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.357297
+Longitude: -81.5600902
+OpenStreetMap URL: https://www.openstreetmap.org/way/806728401
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/806728401
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: disney s hollywood studios
+Best For: sightseeing; art; music

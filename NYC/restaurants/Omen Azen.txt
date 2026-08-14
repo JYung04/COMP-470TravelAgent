@@ -1,0 +1,25 @@
+Name: Omen Azen
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 113 Thompson Street, New York NY 10012
+Description: Not listed
+Website: https://www.omen-azen.com/
+Phone: +1-212-925-8923
+Email: info@omen-azen.com
+Opening Hours: Mo-Sa 17:00-22:00; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7259881
+Longitude: -74.0018204
+OpenStreetMap URL: https://www.openstreetmap.org/node/10202468517
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10202468517
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Amorina
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: Not listed
+Description: Not listed
+Website: http://www.amorinapizza.com
+Phone: +1-718-230-3030
+Email: Not listed
+Opening Hours: We-Th 17:00-21:00, Fr 16:00-22:00, Sa 12:00-22:00, Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6775351
+Longitude: -73.969119
+OpenStreetMap URL: https://www.openstreetmap.org/node/5714335362
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5714335362
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

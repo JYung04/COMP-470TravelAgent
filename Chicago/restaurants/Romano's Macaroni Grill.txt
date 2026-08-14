@@ -1,0 +1,25 @@
+Name: Romano's Macaroni Grill
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: Not listed
+Description: Not listed
+Website: http://www.macaronigrill.com/locations/5012
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 05:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9757797
+Longitude: -87.900628
+OpenStreetMap URL: https://www.openstreetmap.org/node/2322673346
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2322673346
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

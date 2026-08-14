@@ -1,0 +1,25 @@
+Name: The Hamilton
+City: Washington DC
+Category: restaurants
+Cuisine: American, Seafood, Steak, Wings
+Address: 600 14th Street Northwest, Washington DC 20005
+Description: Not listed
+Website: https://thehamiltondc.com/
+Phone: +1 202-787-1000
+Email: Not listed
+Opening Hours: 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8975571
+Longitude: -77.0322785
+OpenStreetMap URL: https://www.openstreetmap.org/node/5882368161
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5882368161
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

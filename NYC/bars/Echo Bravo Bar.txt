@@ -1,0 +1,25 @@
+Name: Echo Bravo Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 445 Troutman Street
+Description: Not listed
+Website: https://www.echobravobar.com/
+Phone: +1-347-542-4117
+Email: Not listed
+Opening Hours: Fr, Sa 12:00-28:00; Mo, Su 12:00-24:00; Tu-Th 12:00-26:00
+Wheelchair Accessibility: yes
+Latitude: 40.7079507
+Longitude: -73.9216704
+OpenStreetMap URL: https://www.openstreetmap.org/node/5625524072
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5625524072
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

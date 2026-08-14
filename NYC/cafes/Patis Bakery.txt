@@ -1,0 +1,25 @@
+Name: Patis Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 1311 Lexington Avenue
+Description: Not listed
+Website: https://www.patis.com/locations/#uppereastside
+Phone: +1 917-675-7525
+Email: Not listed
+Opening Hours: Mo-Th, Su 09:00-18:00; Fr 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7810765
+Longitude: -73.9542544
+OpenStreetMap URL: https://www.openstreetmap.org/node/9630205587
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9630205587
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

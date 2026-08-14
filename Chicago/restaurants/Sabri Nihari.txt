@@ -1,0 +1,24 @@
+Name: Sabri Nihari
+City: Chicago
+Category: restaurants
+Cuisine: indian, pakistani
+Address: 2502 West Devon Avenue, Chicago IL 60659
+Description: Indo-Pakistani joint, Michelin Bib Gourmand recommendation
+Website: https://www.sabrinihari.com/
+Phone: +1 773 465 3272
+Email: Not listed
+Opening Hours: Mo-Th 14:00-23:30; Fr, Sa 12:00-23:30; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9979879
+Longitude: -87.6925552
+OpenStreetMap URL: https://www.openstreetmap.org/node/5165670022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5165670022
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

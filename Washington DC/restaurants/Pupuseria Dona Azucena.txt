@@ -1,0 +1,25 @@
+Name: Pupuseria Dona Azucena
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 71 North Glebe Road Arlington VA 22203-3703
+Description: Not listed
+Website: http://www.pupuseriadonaazucena.com
+Phone: +1 703-248-0332
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-23:00; Sa 08:00-23:00; Su 08:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 38.871927
+Longitude: -77.1017244
+OpenStreetMap URL: https://www.openstreetmap.org/node/6305572366
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6305572366
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

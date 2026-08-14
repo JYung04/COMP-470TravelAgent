@@ -1,0 +1,25 @@
+Name: Frankie's
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 279 71st Street, 11209
+Description: Not listed
+Website: https://www.frankiesofbayridge.com
+Phone: +1-718-238-7100
+Email: Not listed
+Opening Hours: Tu-Sa 17:00-22:00; Su 17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6343866
+Longitude: -74.0270474
+OpenStreetMap URL: https://www.openstreetmap.org/node/9779884979
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9779884979
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

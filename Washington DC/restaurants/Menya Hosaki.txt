@@ -1,0 +1,25 @@
+Name: Menya Hosaki
+City: Washington DC
+Category: restaurants
+Cuisine: ramen
+Address: 845 Upshur Street Northwest, Washington DC 20011-5836
+Description: Not listed
+Website: https://www.menyahosakidc.com/
+Phone: +1 202-330-3977
+Email: Not listed
+Opening Hours: Mo,Sa-Su off; Tu 11:00-14:00; We-Th 17:00-21:00; Fr 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9420399
+Longitude: -77.0246849
+OpenStreetMap URL: https://www.openstreetmap.org/node/8313618687
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8313618687
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Harvard Stadium
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Harvard Stadium is a U-shaped college football stadium in the Allston neighborhood of Boston, Massachusetts. Owned and operated by Harvard University, it is home to the Harvard Crimson football program and can seat just over 25,000 spectators.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3666927
+Longitude: -71.1267252
+OpenStreetMap URL: https://www.openstreetmap.org/way/228770377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/228770377
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

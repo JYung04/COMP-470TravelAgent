@@ -1,0 +1,25 @@
+Name: Abe Wolfson Triangle
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/greenstreet-abe-wolfson/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7282312
+Longitude: -73.8150029
+OpenStreetMap URL: https://www.openstreetmap.org/way/298219083
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/298219083
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: 68 Jay Street Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 68 Jay Street, Brooklyn NY 11201
+Description: Not listed
+Website: https://www.68jaystreetbar.net/
+Phone: +1-718-260-8207
+Email: Not listed
+Opening Hours: Sa 15:00-02:00, Su 16:00-24:00; Mo-Fr 14:30-02:00
+Wheelchair Accessibility: no
+Latitude: 40.7030075
+Longitude: -73.9868156
+OpenStreetMap URL: https://www.openstreetmap.org/node/5585385019
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5585385019
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

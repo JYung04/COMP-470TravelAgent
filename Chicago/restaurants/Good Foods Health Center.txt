@@ -1,0 +1,24 @@
+Name: Good Foods Health Center
+City: Chicago
+Category: restaurants
+Cuisine: sandwich, burger, smoothie
+Address: 1966 East 73rd Street, Chicago IL 60649
+Description: Not listed
+Website: Not listed
+Phone: +1-773-420-3832
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7626616
+Longitude: -87.5767553
+OpenStreetMap URL: https://www.openstreetmap.org/node/5635711630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5635711630
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

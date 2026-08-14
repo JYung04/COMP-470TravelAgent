@@ -1,0 +1,25 @@
+Name: Coogan‘s
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 171 Milk Street, Boston MA 02109
+Description: Not listed
+Website: https://www.coogansboston.com/
+Phone: +1-617-741-3380
+Email: Not listed
+Opening Hours: Tu 16:00-22:00; We 12:00-22:00; Th 12:00-25:00; Fr-Sa 12:00-26:00
+Wheelchair Accessibility: yes
+Latitude: 42.3583073
+Longitude: -71.053295
+OpenStreetMap URL: https://www.openstreetmap.org/node/5813200953
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5813200953
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

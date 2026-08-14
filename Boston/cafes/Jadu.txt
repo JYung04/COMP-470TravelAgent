@@ -1,0 +1,25 @@
+Name: Jadu
+City: Boston
+Category: cafes
+Cuisine: coffee_shop
+Address: 767 Centre Street, Jamaica Plain MA 02130
+Description: Not listed
+Website: https://www.jaduboston.com/
+Phone: +1-617-477-3289
+Email: Not listed
+Opening Hours: Th-Tu 08:00-15:00, 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3101744
+Longitude: -71.1152764
+OpenStreetMap URL: https://www.openstreetmap.org/node/4058896662
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4058896662
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

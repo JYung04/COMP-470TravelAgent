@@ -1,0 +1,24 @@
+Name: Au Za'atar
+City: NYC
+Category: restaurants
+Cuisine: middle_eastern, lebanese
+Address: 188 Avenue A, New York NY 10009
+Description: Not listed
+Website: https://auzaatar.com
+Phone: +1 212-254-5660
+Email: info@auzaatar.com
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7289381
+Longitude: -73.9812454
+OpenStreetMap URL: https://www.openstreetmap.org/node/5603357400
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5603357400
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

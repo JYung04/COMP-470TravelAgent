@@ -1,0 +1,25 @@
+Name: Alafaya Branch - Orange County Library System
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://ocls.org/locations-hours/alafaya-branch/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 10:00-21:00; Fr,Sa 10:00-17:00; Su 13:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5655788
+Longitude: -81.2023658
+OpenStreetMap URL: https://www.openstreetmap.org/way/833078359
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/833078359
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

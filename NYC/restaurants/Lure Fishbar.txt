@@ -1,0 +1,25 @@
+Name: Lure Fishbar
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 142 Mercer Street, New York NY
+Description: Not listed
+Website: https://www.lurefishbar.com
+Phone: +1-212-431-7676
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7246694
+Longitude: -73.9983531
+OpenStreetMap URL: https://www.openstreetmap.org/node/5193508103
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5193508103
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: El Mitote
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 208 Columbus Ave, New York NY 10023
+Description: Not listed
+Website: https://www.elmitoteny.com/
+Phone: +1-212-874-2929
+Email: hello@beyondrestgroup.com
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.775834
+Longitude: -73.9801978
+OpenStreetMap URL: https://www.openstreetmap.org/node/3447383383
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3447383383
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

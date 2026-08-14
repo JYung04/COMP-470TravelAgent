@@ -1,0 +1,25 @@
+Name: Mai Thai
+City: Washington DC
+Category: restaurants
+Cuisine: thai
+Address: 3251 Prospect Street Northwest
+Description: Not listed
+Website: https://changchangdc.com/
+Phone: +1 202-452-6870
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9061585
+Longitude: -77.0643601
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

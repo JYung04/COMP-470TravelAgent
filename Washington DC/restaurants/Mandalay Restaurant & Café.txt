@@ -1,0 +1,25 @@
+Name: Mandalay Restaurant & Café
+City: Washington DC
+Category: restaurants
+Cuisine: Burmese, American, Asian, Southeast Asian
+Address: 930 Bonifant Street
+Description: Not listed
+Website: http://www.mandalayrestaurantcafe.com/
+Phone: +1 301-250-4078
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9937978
+Longitude: -77.0251728
+OpenStreetMap URL: https://www.openstreetmap.org/node/1417161166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1417161166
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

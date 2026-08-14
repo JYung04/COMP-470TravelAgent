@@ -1,0 +1,25 @@
+Name: Sophra Grill
+City: NYC
+Category: restaurants
+Cuisine: turkish
+Address: Not listed
+Description: Not listed
+Website: https://www.sophragrill.com
+Phone: +1-646-609-2392
+Email: Not listed
+Opening Hours: Mo-Su 11:00-16:00
+Wheelchair Accessibility: yes
+Latitude: 40.7466487
+Longitude: -73.9771934
+OpenStreetMap URL: https://www.openstreetmap.org/node/7112624485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7112624485
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

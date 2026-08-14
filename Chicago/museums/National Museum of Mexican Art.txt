@@ -1,0 +1,25 @@
+Name: National Museum of Mexican Art
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 1852 West 19th Street, Chicago IL 60608
+Description: Not listed
+Website: https://www.nationalmuseumofmexicanart.org/
+Phone: +1-312-738-1503
+Email: Not listed
+Opening Hours: Tu-Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8561735
+Longitude: -87.6729928
+OpenStreetMap URL: https://www.openstreetmap.org/way/202372249
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/202372249
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

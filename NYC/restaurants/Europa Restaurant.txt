@@ -1,0 +1,24 @@
+Name: Europa Restaurant
+City: NYC
+Category: restaurants
+Cuisine: pizza, italian
+Address: 6423 20th Avenue, Brooklyn NY 11204
+Description: Not listed
+Website: Not listed
+Phone: +1-718-232-4845
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6165631
+Longitude: -73.9855896
+OpenStreetMap URL: https://www.openstreetmap.org/node/5227303229
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5227303229
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Bia's Cafe Marianao
+City: Chicago
+Category: restaurants
+Cuisine: puerto_rican
+Address: 6401 West Addison Street, Chicago IL
+Description: Not listed
+Website: https://www.biascafechicago.com/
+Phone: +1 773-657-3128
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9455492
+Longitude: -87.7866044
+OpenStreetMap URL: https://www.openstreetmap.org/way/163168377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163168377
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

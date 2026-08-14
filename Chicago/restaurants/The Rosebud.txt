@@ -1,0 +1,25 @@
+Name: The Rosebud
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 1500 West Taylor Street, Chicago IL 60607
+Description: Not listed
+Website: https://rosebudrestaurants.com/
+Phone: +1-312-942-1117
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:30; Fr 11:00-23:30; Sa 10:00-23:30; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8694789
+Longitude: -87.6642957
+OpenStreetMap URL: https://www.openstreetmap.org/node/6300959267
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6300959267
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

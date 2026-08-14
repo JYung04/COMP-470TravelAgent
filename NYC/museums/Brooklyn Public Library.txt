@@ -1,0 +1,25 @@
+Name: Brooklyn Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10 Grand Army Plaza, 11238
+Description: The Central Library, originally the Ingersoll Memorial Library, is the main branch of the Brooklyn Public Library in Brooklyn, New York City. Located on Grand Army Plaza, at the corner of Flatbush Avenue and Eastern Parkway, it contains over 1.7 million materials in its collection and has a million annual visitors. The current structure was designed by the partnership of Alfred Morton Githens and Francis Keally in the Art Deco style, replacing a never-completed Beaux-Arts structure designed by Raymond Almirall. The building is a New York City designated landmark and is listed on the National Register of Historic Places.
+Website: https://www.bklynlibrary.org/locations/central
+Phone: +1-718-230-2100
+Email: Not listed
+Opening Hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 13:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.6721323
+Longitude: -73.9680884
+OpenStreetMap URL: https://www.openstreetmap.org/way/250229992
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250229992
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

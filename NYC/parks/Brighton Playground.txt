@@ -1,0 +1,25 @@
+Name: Brighton Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Brightwater Court, Brooklyn NY 11235
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/brighton-playground
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5751957
+Longitude: -73.9654157
+OpenStreetMap URL: https://www.openstreetmap.org/way/331161421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/331161421
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

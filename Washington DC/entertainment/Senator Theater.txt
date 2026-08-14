@@ -1,0 +1,25 @@
+Name: Senator Theater
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: DC
+Description: former movie theater in Washington, D. C., United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8945
+Longitude: -76.9499
+OpenStreetMap URL: https://www.openstreetmap.org/node/367142917
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367142917
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

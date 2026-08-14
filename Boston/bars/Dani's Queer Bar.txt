@@ -1,0 +1,25 @@
+Name: Dani's Queer Bar
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 909 Boylston Street, Boston MA 02115
+Description: Not listed
+Website: https://www.danisqueerbar.com
+Phone: +1 617-326-0009
+Email: contact@danisqueerbar.com
+Opening Hours: Mo-We 16:00-24:00; Th-Fr 16:00-02:00; Sa-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3483854
+Longitude: -71.0843034
+OpenStreetMap URL: https://www.openstreetmap.org/node/12258743392
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12258743392
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

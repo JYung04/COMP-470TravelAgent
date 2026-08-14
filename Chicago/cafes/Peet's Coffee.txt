@@ -1,0 +1,25 @@
+Name: Peet's Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1000 West North Avenue, Chicago IL 60642
+Description: Not listed
+Website: https://www.peets.com/
+Phone: +1 312 475 9782
+Email: Not listed
+Opening Hours: Mo-Fr 05:30-19:30; Sa, Su 06:00-19:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9110998
+Longitude: -87.6537471
+OpenStreetMap URL: https://www.openstreetmap.org/node/6341811104
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6341811104
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

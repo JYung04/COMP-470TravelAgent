@@ -1,0 +1,25 @@
+Name: The Dublin Spring Water Boy
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Sculpted in 1931. Originally located at the southwest corner of Mill Street and Oliver Street to commemorate the Dublin Spring used by the Irish-American community during the 1800’s. Moved here in 1991.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.913468
+Longitude: -74.1745665
+OpenStreetMap URL: https://www.openstreetmap.org/node/4636315430
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4636315430
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

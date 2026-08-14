@@ -1,0 +1,24 @@
+Name: Another Broken Egg
+City: Orlando
+Category: restaurants
+Cuisine: breakfast, lunch
+Address: 410 Orlando Avenue, Winter Park FL 32789
+Description: Not listed
+Website: https://www.anotherbrokenegg.com/locations/winter-park-fl/
+Phone: +1 407-790-7868
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-14:00; Sa 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.6010081
+Longitude: -81.3642952
+OpenStreetMap URL: https://www.openstreetmap.org/node/6680736583
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6680736583
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Carlo’s Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 10018
+Description: Not listed
+Website: https://www.carlosbakery.com/
+Phone: +1 646-590-3783
+Email: Not listed
+Opening Hours: Mo-Su 07:30-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7570813
+Longitude: -73.9902127
+OpenStreetMap URL: https://www.openstreetmap.org/node/5357529822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5357529822
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

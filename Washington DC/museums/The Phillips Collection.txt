@@ -1,0 +1,25 @@
+Name: The Phillips Collection
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 21st Street Northwest
+Description: The Phillips Collection is an art museum located in the Dupont Circle neighborhood of Washington, D.C. The museum was founded by art collectors Duncan Phillips and Marjorie Acker Phillips in 1921 as the Phillips Memorial Gallery. Phillips was the grandson of James H. Laughlin, a banker and co-founder of the Jones and Laughlin Steel Company.
+Website: https://www.phillipscollection.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 10:00-17:00; Su 12:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9117548
+Longitude: -77.0468732
+OpenStreetMap URL: https://www.openstreetmap.org/node/806294436
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/806294436
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

@@ -1,0 +1,25 @@
+Name: Edie Jo's
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 630 Flatbush Avenue, 11225
+Description: Not listed
+Website: Not listed
+Phone: +1-914-229-3300
+Email: Not listed
+Opening Hours: Tu-Th 11:00-24:00; Fr 11:00-01:00; Sa 10:00-01:00; Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6578917
+Longitude: -73.9605713
+OpenStreetMap URL: https://www.openstreetmap.org/node/9280939947
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9280939947
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Fogo de Chão
+City: NYC
+Category: restaurants
+Cuisine: brazilian, steak_house
+Address: 40 West 53rd Street, 10019
+Description: Not listed
+Website: https://fogodechao.com/location/new-york/
+Phone: +1 212 969 9980
+Email: Not listed
+Opening Hours: Mo-Th 23:30-22:30, Fr 11:30-23:00, Sa 11:30-23:00, Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7611533
+Longitude: -73.9779162
+OpenStreetMap URL: https://www.openstreetmap.org/node/2717543271
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2717543271
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

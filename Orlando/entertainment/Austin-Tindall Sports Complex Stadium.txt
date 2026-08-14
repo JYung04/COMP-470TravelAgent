@@ -1,0 +1,25 @@
+Name: Austin-Tindall Sports Complex Stadium
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 4100 Boggy Creek Rd, Kissimmee FL 34744
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3300384
+Longitude: -81.2760126
+OpenStreetMap URL: https://www.openstreetmap.org/way/1126431302
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1126431302
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

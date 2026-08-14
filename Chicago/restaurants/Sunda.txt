@@ -1,0 +1,24 @@
+Name: Sunda
+City: Chicago
+Category: restaurants
+Cuisine: sushi, asian
+Address: 110 West Illinois Street, Chicago IL 60654
+Description: Not listed
+Website: https://sundachicago.com/
+Phone: +1-312-644-0500
+Email: Not listed
+Opening Hours: Mo-We 11:30-23:00; Fr 11:30-00:00; Sa-Su 10:30-15:00; Sa 16:00-00:00; Su 16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8909642
+Longitude: -87.6316624
+OpenStreetMap URL: https://www.openstreetmap.org/node/5028857721
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5028857721
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

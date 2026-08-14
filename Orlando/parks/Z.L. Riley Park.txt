@@ -1,0 +1,25 @@
+Name: Z.L. Riley Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 745 South Parramore Avenue, Orlando, FL 32805
+Description: Z.L. Riley Park is a gem in the heart of Parramore. Children can enjoy the colorful playground while their families relax in the open green spaces or prepare picnics with the grills. Z.L. Riley Park can accommodate special events with its unique large pavilion which can be used as a stage, wide sidewalk, and spaces and utility hookups for vendor areas.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Z.L.-Riley-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5335235
+Longitude: -81.3885454
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1190787
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1190787
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; families; art

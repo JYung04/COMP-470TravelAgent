@@ -1,0 +1,25 @@
+Name: Knockdown center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 52-19 Flushing Avenue, Maspeth NY 11378
+Description: Not listed
+Website: https://knockdown.center/
+Phone: +1-718-489-6285
+Email: Not listed
+Opening Hours: Mo-Fr 17:00-21:00; Sa-Su 14:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7152788
+Longitude: -73.9136706
+OpenStreetMap URL: https://www.openstreetmap.org/node/4482025489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4482025489
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

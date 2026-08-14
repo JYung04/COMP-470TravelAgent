@@ -1,0 +1,25 @@
+Name: Anteprima
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 5316 North Clark Street, Chicago IL 60640
+Description: Not listed
+Website: https://anteprimachicago.net
+Phone: +1-773-506-9990
+Email: Not listed
+Opening Hours: We-Th 17:00-20:30; Fr-Sa 17:00-21:00; Su 17:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9785777
+Longitude: -87.6684866
+OpenStreetMap URL: https://www.openstreetmap.org/node/9219709808
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9219709808
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

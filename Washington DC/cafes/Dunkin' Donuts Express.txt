@@ -1,0 +1,24 @@
+Name: Dunkin' Donuts Express
+City: Washington DC
+Category: cafes
+Cuisine: donut, coffee_shop
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 04:00-15:00
+Wheelchair Accessibility: limited
+Latitude: 38.8559308
+Longitude: -77.0432944
+OpenStreetMap URL: https://www.openstreetmap.org/node/5556437473
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5556437473
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

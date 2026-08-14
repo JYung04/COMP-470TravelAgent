@@ -1,0 +1,25 @@
+Name: JW Marriott Orlando Grande Lakes
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 4040 Central Florida Parkway, Orlando 32837
+Description: Not listed
+Website: Not listed
+Phone: +1 407 206 2300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4016734
+Longitude: -81.4287481
+OpenStreetMap URL: https://www.openstreetmap.org/way/95408243
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/95408243
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

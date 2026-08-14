@@ -1,0 +1,25 @@
+Name: Step Down Café
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2023 South Racine Avenue, Chicago IL 60608
+Description: Not listed
+Website: http://stepdowncafepilsen.com/
+Phone: +1-312-877-5410
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8544381
+Longitude: -87.65616
+OpenStreetMap URL: https://www.openstreetmap.org/node/5699829867
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5699829867
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

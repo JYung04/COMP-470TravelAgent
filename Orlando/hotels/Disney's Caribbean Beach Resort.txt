@@ -1,0 +1,25 @@
+Name: Disney's Caribbean Beach Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 900 Cayman Way, Lake Buena Vista FL 32830-8411
+Description: Disney’s Caribbean Beach Resort captures the essence of Barbados, Jamaica, Martinique, Trinidad and Aruba with lively markets, pristine beaches and a Spanish Citadel feature pool with two slides, water cannons and a shipwreck play area for kids. Savor the flavors of the Caribbean with mouthwatering dining options like Sebastian’s Bistro , Centertown Market and the tropical Banana Cabana Bar. A dedicated Disney Skyliner station provides a fun, convenient way to hit the parks.
+Website: https://disneyworld.disney.go.com/resorts/caribbean-beach-resort/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3602351
+Longitude: -81.5428819
+OpenStreetMap URL: https://www.openstreetmap.org/way/806364922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/806364922
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; families; art

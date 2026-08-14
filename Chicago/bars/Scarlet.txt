@@ -1,0 +1,25 @@
+Name: Scarlet
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3320 North Halsted Street, Chicago IL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9424334
+Longitude: -87.6494743
+OpenStreetMap URL: https://www.openstreetmap.org/node/949101940
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/949101940
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Laughing Monk
+City: Boston
+Category: restaurants
+Cuisine: thai
+Address: 737 Huntington Avenue, Boston MA 02115
+Description: Not listed
+Website: https://laughingmonkcafe.com/
+Phone: +1 617 505 3230
+Email: Not listed
+Opening Hours: Mo-Th 11:00-15:00 & 17:00-21:30 Fr 11:30-15:00 & 17:00-22:00 Sa 12:30-22:00 Su 12:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3339891
+Longitude: -71.1055246
+OpenStreetMap URL: https://www.openstreetmap.org/node/8981460768
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8981460768
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

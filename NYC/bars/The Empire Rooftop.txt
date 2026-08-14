@@ -1,0 +1,25 @@
+Name: The Empire Rooftop
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 44 West 63rd Street, New York NY 10023
+Description: Not listed
+Website: https://www.theempirerooftop.com/
+Phone: +1-212-265-2600
+Email: Not listed
+Opening Hours: Mo-Tu 14:00-00:00; We-Th 14:00-01:00; Fr 12:00-01:00; Sa 11:00-01:00; Su 11:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7713394
+Longitude: -73.9827159
+OpenStreetMap URL: https://www.openstreetmap.org/node/7047644285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7047644285
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

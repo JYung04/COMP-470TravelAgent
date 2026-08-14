@@ -1,0 +1,25 @@
+Name: Hillstone
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 888 3rd Avenue, 10022
+Description: Not listed
+Website: https://hillstonerestaurant.com/locations/nyc-midtown/
+Phone: +1 212-888-3828
+Email: Not listed
+Opening Hours: Tu-Fr 11:30-23:00; Sa 12:00-23:00; Su 12:00-22:00; Mo 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7580445
+Longitude: -73.9699967
+OpenStreetMap URL: https://www.openstreetmap.org/node/4346190189
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4346190189
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

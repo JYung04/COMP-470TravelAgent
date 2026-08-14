@@ -1,0 +1,24 @@
+Name: Sisters
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 900 Fulton Street, Brooklyn
+Description: Not listed
+Website: https://www.sistersbklyn.com
+Phone: +1-347-763-2537
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6829726
+Longitude: -73.9650709
+OpenStreetMap URL: https://www.openstreetmap.org/node/4092436133
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4092436133
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

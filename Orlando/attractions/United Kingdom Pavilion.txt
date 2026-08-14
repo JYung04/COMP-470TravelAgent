@@ -1,0 +1,25 @@
+Name: United Kingdom Pavilion
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3704982
+Longitude: -81.5518672
+OpenStreetMap URL: https://www.openstreetmap.org/node/2991742080
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2991742080
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

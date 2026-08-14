@@ -1,0 +1,25 @@
+Name: Nomad Tea Parlour
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 244 5th Avenue, New York NY 10001
+Description: Not listed
+Website: https://www.nomadteaparlour.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7445855
+Longitude: -73.9875896
+OpenStreetMap URL: https://www.openstreetmap.org/node/3960166159
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3960166159
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

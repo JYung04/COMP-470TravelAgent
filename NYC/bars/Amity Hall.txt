@@ -1,0 +1,24 @@
+Name: Amity Hall
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://downtown.amityhallnyc.com
+Phone: +1-212-677-2290
+Email: Not listed
+Opening Hours: Mo 12:00-24:00, Tu 12:00-01:00, We-Th 12:00-02:00, Fr 12:00-03:00, Sa 11:00-03:00, Su 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7297099
+Longitude: -73.9988571
+OpenStreetMap URL: https://www.openstreetmap.org/node/13517110253
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13517110253
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

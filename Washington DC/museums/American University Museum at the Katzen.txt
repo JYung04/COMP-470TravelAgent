@@ -1,0 +1,25 @@
+Name: American University Museum at the Katzen
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: http://www1.american.edu/cas/katzen/museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9387795
+Longitude: -77.0863656
+OpenStreetMap URL: https://www.openstreetmap.org/node/457296753
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/457296753
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: TGI Fridays
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: 7798 West Irlo Bronson Memorial Highway, Kissimmee FL 34747
+Description: Not listed
+Website: https://locations.tgifridays.com/fl/kissimmee/7798-w-irlo-bronson-memorial-hwy.html
+Phone: +1 407-397-4300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3417174
+Longitude: -81.6000065
+OpenStreetMap URL: https://www.openstreetmap.org/way/311065880
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/311065880
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

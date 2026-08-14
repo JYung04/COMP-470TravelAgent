@@ -1,0 +1,25 @@
+Name: Heritage Foundation History Center
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: FL
+Description: Not listed
+Website: https://www.wghf.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.56584
+Longitude: -81.586297
+OpenStreetMap URL: https://www.openstreetmap.org/node/367827616
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367827616
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

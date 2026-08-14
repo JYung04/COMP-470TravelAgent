@@ -1,0 +1,25 @@
+Name: Shine Bright In Life! Healing Arts Center
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 841 West Sheridan Road, Chicago IL 60613
+Description: Not listed
+Website: https://www.shinebrightinlife.com/
+Phone: +1 773-537-5317
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9525821
+Longitude: -87.6513027
+OpenStreetMap URL: https://www.openstreetmap.org/node/11234336986
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11234336986
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

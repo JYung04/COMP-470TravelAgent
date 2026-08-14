@@ -1,0 +1,25 @@
+Name: Chevy Chase Branch Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 5625 Connecticut Avenue Northwest, Washington DC 20015
+Description: Not listed
+Website: https://www.dclibrary.org/chevychase
+Phone: +1 202-282-0021
+Email: Not listed
+Opening Hours: Su 13:00-17:00; Mo,Tu,We,Th 09:30-21:00; Fr,Sa 09:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9655692
+Longitude: -77.0754567
+OpenStreetMap URL: https://www.openstreetmap.org/node/559166783
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/559166783
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

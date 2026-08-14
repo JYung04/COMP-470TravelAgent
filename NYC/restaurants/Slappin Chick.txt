@@ -1,0 +1,25 @@
+Name: Slappin Chick
+City: NYC
+Category: restaurants
+Cuisine: chicken
+Address: 25-21 Steinway Street, NY 11103
+Description: Not listed
+Website: https://slappinchick.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7673231
+Longitude: -73.9119969
+OpenStreetMap URL: https://www.openstreetmap.org/node/9923265668
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9923265668
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

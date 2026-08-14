@@ -1,0 +1,25 @@
+Name: Bath Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Brooklyn NY 11214
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/bath-playground/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5949159
+Longitude: -73.9931844
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18529218
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/18529218
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

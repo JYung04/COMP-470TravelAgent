@@ -1,0 +1,25 @@
+Name: aliveOne
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2683 North Halsted Street, Chicago IL 60614
+Description: Not listed
+Website: https://www.aliveone.com/
+Phone: +1-773-348-9800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9314578
+Longitude: -87.6487892
+OpenStreetMap URL: https://www.openstreetmap.org/node/6261035288
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6261035288
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

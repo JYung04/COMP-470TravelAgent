@@ -1,0 +1,25 @@
+Name: La Casa Del Mofongo
+City: NYC
+Category: restaurants
+Cuisine: dominican
+Address: 1447 Saint Nicholas Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 212-740-1200
+Email: Not listed
+Opening Hours: Mo-Su 06:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.850444
+Longitude: -73.9331798
+OpenStreetMap URL: https://www.openstreetmap.org/node/5413492269
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5413492269
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

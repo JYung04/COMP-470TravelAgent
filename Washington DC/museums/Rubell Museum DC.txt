@@ -1,0 +1,25 @@
+Name: Rubell Museum DC
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 65 I Street Southwest, Washington 20024
+Description: A contemporary art museum in Washington, D.C., focusing on exhibitions of contemporary art.
+Website: https://rubellmuseum.org/dc
+Phone: +1 202-964-8254
+Email: infodc@rubellmuseum.org
+Opening Hours: We-Th 11:00-17:00; Fr-Sa 11:00-18:00; Su 11:00-17:00; Jan 01 off; Jun 19 off; Jul 04 off; Nov last Th off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 38.8795277
+Longitude: -77.0110619
+OpenStreetMap URL: https://www.openstreetmap.org/way/48037428
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48037428
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

@@ -1,0 +1,25 @@
+Name: Legal Harborside
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 270 Northern Avenue
+Description: Legal Sea Food’s 20,000 square foot flagship property on the Boston Waterfront, comprising of three floors under one (retractable) roof. You’ll find a nod to our heritage on the first floor hull, with a casual menu of seafood favorites with a twist and an oyster bar. The second floor hosts private events and parties with water views. Those that visit the third floor promenade deck will enjoy a four-season rooftop lounge with a retractable glass roof and walls for cocktails and bites. Outdoor dining is available! See amenities below for more information. This Business is Group Friendly! Visit our website or call in for more information. Dine Out Boston is August 1 – 15, 2026 See amenity tab for more information.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3486219
+Longitude: -71.0377807
+OpenStreetMap URL: https://www.openstreetmap.org/node/3008155171
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3008155171
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art; views

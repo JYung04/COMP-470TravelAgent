@@ -1,0 +1,24 @@
+Name: Karasu
+City: NYC
+Category: restaurants
+Cuisine: Japanese Restaurant
+Address: 166 Dekalb Ave, Brooklyn, NY 11217
+Description: Not listed
+Website: http://karasubk.com
+Phone: (718) 488-7800
+Email: info@karasubk.com
+Opening Hours: Su-Th 17:30-23:00; Fr-Sa 17:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6894172
+Longitude: -73.9732745
+OpenStreetMap URL: https://www.openstreetmap.org/node/5987904386
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5987904386
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

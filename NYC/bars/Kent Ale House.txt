@@ -1,0 +1,24 @@
+Name: Kent Ale House
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.kentalehouse.com
+Phone: +1-347-227-8624
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7223581
+Longitude: -73.9592747
+OpenStreetMap URL: https://www.openstreetmap.org/node/2842878652
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2842878652
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

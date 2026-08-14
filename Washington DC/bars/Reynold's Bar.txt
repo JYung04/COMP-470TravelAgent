@@ -1,0 +1,25 @@
+Name: Reynold's Bar
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1320 18th Street Northwest, Washington DC 20036
+Description: A sultry, dimly lit drinking den offering artfully crafted cocktails and decadent Americana bites.
+Website: https://reynoldsbardc.com
+Phone: +1 202-495-1300
+Email: info@reynoldsbardc.com
+Opening Hours: Mo,We-Fr 16:00-02:00; Tu off; Sa-Su 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.908365
+Longitude: -77.0419286
+OpenStreetMap URL: https://www.openstreetmap.org/node/3839491369
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3839491369
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

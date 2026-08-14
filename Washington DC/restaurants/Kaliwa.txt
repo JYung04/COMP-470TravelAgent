@@ -1,0 +1,24 @@
+Name: Kaliwa
+City: Washington DC
+Category: restaurants
+Cuisine: thai, filipino, korean
+Address: 751 Wharf Street Southwest, Washington DC 20024-3433
+Description: Not listed
+Website: https://www.kaliwadc.com/home/
+Phone: +1 202-516-4739
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8787332
+Longitude: -77.0243796
+OpenStreetMap URL: https://www.openstreetmap.org/node/11039766259
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11039766259
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

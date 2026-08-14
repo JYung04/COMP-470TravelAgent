@@ -1,0 +1,24 @@
+Name: Grand Salon at Baccarat Hotel
+City: NYC
+Category: restaurants
+Cuisine: fine_dining, breakfast, tea, seafood
+Address: 28 West 53rd Street, New York NY 10019
+Description: Not listed
+Website: https://www.baccarathotels.com/dining/grand-salon
+Phone: +1 212-790-8867
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7608743
+Longitude: -73.9774286
+OpenStreetMap URL: https://www.openstreetmap.org/node/13294811814
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13294811814
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Gramercy Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 127 East 23rd Street, New York NY 10010
+Description: The Gramercy Theatre is a music venue in New York City. It is located in the Gramercy neighborhood of Manhattan, on 127 East 23rd Street. Built in 1937 as the Gramercy Park Theatre, it is owned and operated by Live Nation as one of their two concert halls in New York City, the other being the nearby Irving Plaza.
+Website: http://venue.thegramercytheatre.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7399075
+Longitude: -73.9849292
+OpenStreetMap URL: https://www.openstreetmap.org/way/264755316
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/264755316
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; music

@@ -1,0 +1,25 @@
+Name: Orlando Palms
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8601 South Orange Blossom Trail, Orlando FL 32809
+Description: Not listed
+Website: https://hamptoninn-flmall-orlando.h-rez.com/index.htm
+Phone: +1 407-859-4100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4401728
+Longitude: -81.4028032
+OpenStreetMap URL: https://www.openstreetmap.org/way/313780265
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/313780265
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

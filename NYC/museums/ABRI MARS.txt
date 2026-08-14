@@ -1,0 +1,25 @@
+Name: ABRI MARS
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 53a Stanton Street, New York NY 10002
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Sa 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7202681
+Longitude: -73.9851754
+OpenStreetMap URL: https://www.openstreetmap.org/node/12549884714
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12549884714
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

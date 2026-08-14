@@ -1,0 +1,25 @@
+Name: Lake Eola Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 512 East Washington Street, Orlando, FL 32801
+Description: Lake Eola Park is a public park located in Downtown Orlando, Florida. Lake Eola is the main feature of the park. Also located in the park is the Walt Disney Amphitheater, which hosts many community events and various performances year round. On the east side of the park is a Chinese pagoda, and a playground. The park is surrounded by four streets: East Robinson Street, Rosalind Avenue, East Central Boulevard, and North Eola Drive.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Eola-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.5439666
+Longitude: -81.3728957
+OpenStreetMap URL: https://www.openstreetmap.org/relation/16755658
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/16755658
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

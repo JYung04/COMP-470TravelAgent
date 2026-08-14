@@ -1,0 +1,25 @@
+Name: Tiny Tavern
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 600 East Grand Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://www.tinytavern.com/
+Phone: +1-312-374-3923
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8912397
+Longitude: -87.6055872
+OpenStreetMap URL: https://www.openstreetmap.org/node/6304579210
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6304579210
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

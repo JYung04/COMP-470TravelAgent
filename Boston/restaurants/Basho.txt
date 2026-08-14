@@ -1,0 +1,25 @@
+Name: Basho
+City: Boston
+Category: restaurants
+Cuisine: sushi
+Address: 1338 Boylston Street, Boston MA 02215
+Description: Not listed
+Website: https://bashosushi.com/
+Phone: +1-617-262-1338
+Email: info@bashosushi.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3441
+Longitude: -71.0986476
+OpenStreetMap URL: https://www.openstreetmap.org/node/7711828641
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7711828641
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

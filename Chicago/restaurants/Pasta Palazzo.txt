@@ -1,0 +1,25 @@
+Name: Pasta Palazzo
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 1966 North Halsted Street, Chicago IL 60614
+Description: Not listed
+Website: https://pastapalazzo.com/
+Phone: +1-773-248-1400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9179319
+Longitude: -87.6486675
+OpenStreetMap URL: https://www.openstreetmap.org/node/2623896642
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2623896642
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

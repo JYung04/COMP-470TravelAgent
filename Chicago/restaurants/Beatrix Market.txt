@@ -1,0 +1,25 @@
+Name: Beatrix Market
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 155 North Wacker Drive Chicago IL 60606
+Description: Not listed
+Website: http://beatrixrestaurants.com/beatrix-market/loop/
+Phone: +1-312-629-0025
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8781283
+Longitude: -87.6268247
+OpenStreetMap URL: https://www.openstreetmap.org/node/9217234413
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9217234413
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

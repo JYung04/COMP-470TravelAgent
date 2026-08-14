@@ -1,0 +1,25 @@
+Name: Neue Galerie New York
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1048 5th Avenue, New York NY 10028
+Description: Not listed
+Website: https://www.neuegalerie.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 11:00-18:00; Tu off; Fr[1] 11:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7812191
+Longitude: -73.9602374
+OpenStreetMap URL: https://www.openstreetmap.org/way/266934254
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266934254
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

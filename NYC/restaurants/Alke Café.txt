@@ -1,0 +1,25 @@
+Name: Alke Café
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 1838 Adam Clayton Powell Jr. Boulevard
+Description: Not listed
+Website: https://www.alkecafe.co/
+Phone: +1 646-360-3920
+Email: contact@AlkeCafe.co
+Opening Hours: Mo,Th 15:00-24:30; Tu 15:00-22:00; We 15:00-23:00; Fr-Sa 15:00-01:30; Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8003369
+Longitude: -73.9549778
+OpenStreetMap URL: https://www.openstreetmap.org/node/12402813221
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12402813221
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

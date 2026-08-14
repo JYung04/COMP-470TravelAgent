@@ -1,0 +1,25 @@
+Name: The Draper
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 4 West 37th Street, New York 10018
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/nycdrup-the-draper-new-york/
+Phone: +1 212-645-0080
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7504368
+Longitude: -73.9839807
+OpenStreetMap URL: https://www.openstreetmap.org/way/265301922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265301922
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

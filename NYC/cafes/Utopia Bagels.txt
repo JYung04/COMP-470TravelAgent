@@ -1,0 +1,24 @@
+Name: Utopia Bagels
+City: NYC
+Category: cafes
+Cuisine: bagel, breakfast, sandwich
+Address: 120 East 34th Street, 10016
+Description: Not listed
+Website: https://www.utopiabagelsny.com/location/utopia-bagels-midtown/
+Phone: +1-646-914-6981
+Email: Not listed
+Opening Hours: Mo-Su 06:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7463142
+Longitude: -73.9799924
+OpenStreetMap URL: https://www.openstreetmap.org/node/6347916313
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6347916313
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

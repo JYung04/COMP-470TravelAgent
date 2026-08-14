@@ -1,0 +1,25 @@
+Name: Balzekas Museum of Lithuanian Culture
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 6500 South Pulaski Road, Chicago IL 60629
+Description: Not listed
+Website: https://balzekasmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-16:00; Su 12:00-16:00; Dec 24-25 off; Jan 01 off; easter Su off
+Wheelchair Accessibility: Not listed
+Latitude: 41.7746301
+Longitude: -87.7229824
+OpenStreetMap URL: https://www.openstreetmap.org/way/163573566
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163573566
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

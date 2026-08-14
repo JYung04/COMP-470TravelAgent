@@ -1,0 +1,25 @@
+Name: 82 Stanton
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 84 Stanton Street, New York NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7216511
+Longitude: -73.988822
+OpenStreetMap URL: https://www.openstreetmap.org/node/2244654779
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2244654779
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Marshalls
+City: Chicago
+Category: shopping
+Cuisine: Not listed
+Address: 600 North Michigan Avenue, Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: +1 312-280-7506
+Email: Not listed
+Opening Hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8931973
+Longitude: -87.6250516
+OpenStreetMap URL: https://www.openstreetmap.org/node/4306473690
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4306473690
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

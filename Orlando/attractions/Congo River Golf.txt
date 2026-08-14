@@ -1,0 +1,25 @@
+Name: Congo River Golf
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 5901 International Drive, Orlando FL
+Description: Play award-winning miniature golf at Congo River Golf in Kissimmee close to Walt Disney World ® Resort. As you play, explore the Congo and experience tranquil waterfalls, mysterious caves, tropical rainforests, challenging golf holes and more on an unforgettable African adventure. Discover: Orlando Mini Golf
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4627341
+Longitude: -81.4609064
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1906285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1906285
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

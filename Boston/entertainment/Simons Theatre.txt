@@ -1,0 +1,25 @@
+Name: Simons Theatre
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 95 East India Right of Way, Boston MA 02110
+Description: Not listed
+Website: https://www.neaq.org/exhibits/simons-theatre/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-18:00; Sa,Su 09:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 42.3588066
+Longitude: -71.0501588
+OpenStreetMap URL: https://www.openstreetmap.org/way/29833421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29833421
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

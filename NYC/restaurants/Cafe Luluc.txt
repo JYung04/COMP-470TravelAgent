@@ -1,0 +1,24 @@
+Name: Cafe Luluc
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 214 Smith Street
+Description: Not listed
+Website: https://www.cafeluluc.net/
+Phone: +1-718-625-3815
+Email: Not listed
+Opening Hours: Mo-Fr 08:30-15:30, 16:30-23:30; Sa 08:30-16:30, 17:00-23:30; Su 08:30-16:30, 17:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.6844742
+Longitude: -73.9921417
+OpenStreetMap URL: https://www.openstreetmap.org/node/2774078096
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2774078096
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

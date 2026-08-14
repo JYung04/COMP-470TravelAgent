@@ -1,0 +1,25 @@
+Name: Morton's The Steakhouse
+City: Washington DC
+Category: restaurants
+Cuisine: steak_house
+Address: 1050 Connecticut Avenue Northwest Washington DC 20036
+Description: Not listed
+Website: https://www.mortons.com/location/mortons-the-steakhouse-bethesda-md/
+Phone: +1 301-657-2650
+Email: Not listed
+Opening Hours: Tu-Sa 16:00-22:00; Su-Mo 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9841098
+Longitude: -77.0944986
+OpenStreetMap URL: https://www.openstreetmap.org/node/1325788725
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1325788725
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

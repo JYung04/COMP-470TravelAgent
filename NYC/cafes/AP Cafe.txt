@@ -1,0 +1,25 @@
+Name: AP Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 420 Troutman Street
+Description: Not listed
+Website: https://apcafenyc.com/
+Phone: +1-347-404-6147
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-18:00; Sa, Su 08:30-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7068582
+Longitude: -73.9223165
+OpenStreetMap URL: https://www.openstreetmap.org/node/5625462945
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5625462945
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

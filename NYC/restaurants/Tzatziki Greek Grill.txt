@@ -1,0 +1,25 @@
+Name: Tzatziki Greek Grill
+City: NYC
+Category: restaurants
+Cuisine: Greek, Gyro
+Address: 1 Huguenot St, New Rochelle, NY 10801, United States
+Description: Not listed
+Website: https://www.tzatzikigreekgrillorder.com
+Phone: +1 914-738-2737
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9144116
+Longitude: -73.7732246
+OpenStreetMap URL: https://www.openstreetmap.org/node/8603725551
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8603725551
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

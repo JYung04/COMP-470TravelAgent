@@ -1,0 +1,25 @@
+Name: Trad Room
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: Not listed
+Description: Not listed
+Website: https://www.tradroombrooklyn.com/
+Phone: +1-347-240-5760
+Email: Not listed
+Opening Hours: Mo-Th 17:00-23:00; Fr-Sa 16:00-02:00; Su 16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6838943
+Longitude: -73.9294152
+OpenStreetMap URL: https://www.openstreetmap.org/node/9693909436
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9693909436
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

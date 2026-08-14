@@ -1,0 +1,25 @@
+Name: Reif's Tavern
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 302 East 92nd Street, 10128
+Description: Not listed
+Website: https://www.reifsbar.com
+Phone: +1 212-426-0519
+Email: tarynreif13@gmail.com
+Opening Hours: Mo-Fr 14:00-04:00; Sa, Su 12:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7814029
+Longitude: -73.9485796
+OpenStreetMap URL: https://www.openstreetmap.org/node/5548115057
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5548115057
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

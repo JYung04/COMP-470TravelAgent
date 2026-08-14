@@ -1,0 +1,25 @@
+Name: The VIG Chicago
+City: Chicago
+Category: restaurants
+Cuisine: American
+Address: 1527 North Wells Street, Chicago IL 60610
+Description: Not listed
+Website: https://www.thevigchicago.com/
+Phone: +1-312-982-2186
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9099123
+Longitude: -87.6344869
+OpenStreetMap URL: https://www.openstreetmap.org/node/6304176252
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6304176252
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

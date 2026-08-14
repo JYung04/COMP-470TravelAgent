@@ -1,0 +1,25 @@
+Name: La Boulangerie
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 3129 West Logan Boulevard, Chicago IL 60647
+Description: Not listed
+Website: http://www.laboulangeriechicago.com/
+Phone: +1-773-666-5880
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9277512
+Longitude: -87.706066
+OpenStreetMap URL: https://www.openstreetmap.org/node/6319886955
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6319886955
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

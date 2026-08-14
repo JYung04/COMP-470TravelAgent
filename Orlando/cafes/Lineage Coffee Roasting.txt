@@ -1,0 +1,25 @@
+Name: Lineage Coffee Roasting
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: East Colonial Drive, Orlando 32803
+Description: Not listed
+Website: https://www.lineageroasting.com/
+Phone: +1-407-205-8096
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 28.5533682
+Longitude: -81.3660576
+OpenStreetMap URL: https://www.openstreetmap.org/node/11405258271
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11405258271
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

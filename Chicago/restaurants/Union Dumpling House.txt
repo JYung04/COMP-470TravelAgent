@@ -1,0 +1,25 @@
+Name: Union Dumpling House
+City: Chicago
+Category: restaurants
+Cuisine: dumplings
+Address: 4539 North Lincoln Avenue, Chicago IL 60625
+Description: Not listed
+Website: https://www.uniondumpling.com/
+Phone: +1 773-754-0852
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:00; Sa-Su 09:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9642845
+Longitude: -87.6855602
+OpenStreetMap URL: https://www.openstreetmap.org/node/13659605361
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13659605361
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

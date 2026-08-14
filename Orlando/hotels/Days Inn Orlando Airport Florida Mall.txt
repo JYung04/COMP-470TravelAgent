@@ -1,0 +1,25 @@
+Name: Days Inn Orlando / Airport / Florida Mall
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 9301 South Orange Blossom Trail, Orlando FL 32837
+Description: Not listed
+Website: daysinn.com
+Phone: +1 407-855-0308
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4272335
+Longitude: -81.4034482
+OpenStreetMap URL: https://www.openstreetmap.org/way/321031979
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/321031979
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

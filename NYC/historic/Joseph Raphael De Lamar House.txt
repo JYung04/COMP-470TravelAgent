@@ -1,0 +1,25 @@
+Name: Joseph Raphael De Lamar House
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: 233 Madison Avenue, New York NY 10016
+Description: The Joseph Raphael De Lamar House is a mansion at 233 Madison Avenue, at the northeast corner of the intersection with 37th Street, in the Murray Hill neighborhood of Manhattan in New York City, New York. Built from 1902 to 1905, the five-story house was designed by C. P. H. Gilbert in the Beaux-Arts style for Joseph Raphael De Lamar. The house has served as the Consulate General of Poland in New York City since 1973. The mansion is a New York City designated landmark and on the National Register of Historic Places, and it is a contributing property to the Murray Hill Historic District.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7496867
+Longitude: -73.9812158
+OpenStreetMap URL: https://www.openstreetmap.org/way/265875544
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265875544
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history; art

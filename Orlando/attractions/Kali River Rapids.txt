@@ -1,0 +1,25 @@
+Name: Kali River Rapids
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Kali River Rapids is a river rapids attraction at the Disney's Animal Kingdom theme park of the Walt Disney World resort, in the Asia section of the park. It is themed as a rafting expedition along the Chakranadi River, courtesy of Kali Rapids Expeditions. In keeping with Disney's Animal Kingdom's message of conservation and environmental protection, the attraction is themed around illegal logging and habitat destruction.
+Website: https://disneyworld.disney.go.com/attractions/animal-kingdom/kali-river-rapids/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3593868
+Longitude: -81.5882046
+OpenStreetMap URL: https://www.openstreetmap.org/way/296032245
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/296032245
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

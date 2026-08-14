@@ -1,0 +1,25 @@
+Name: Norwood Park Historical Society
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 5624 North Newark Avenue, Chicago IL 60631
+Description: Not listed
+Website: https://www.norwoodparkhistoricalsociety.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9835968
+Longitude: -87.7959941
+OpenStreetMap URL: https://www.openstreetmap.org/node/3785693441
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3785693441
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

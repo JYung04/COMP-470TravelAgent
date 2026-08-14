@@ -1,0 +1,25 @@
+Name: Cabra
+City: Chicago
+Category: restaurants
+Cuisine: peruvian
+Address: 200 North Green Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.cabrachicago.com
+Phone: +1-312-761-1717
+Email: Not listed
+Opening Hours: Su-Th 16:00-23:00; Fr-Sa 16:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 41.8859191
+Longitude: -87.6488691
+OpenStreetMap URL: https://www.openstreetmap.org/node/6407178684
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6407178684
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

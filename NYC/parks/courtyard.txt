@@ -1,0 +1,25 @@
+Name: courtyard
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 866 Third Avenue New York NY 10022
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/nycme-courtyard-new-york-manhattan-midtown-east/
+Phone: +1 212-644-1300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7076077
+Longitude: -73.8296844
+OpenStreetMap URL: https://www.openstreetmap.org/way/461448945
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/461448945
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: State and Lake Chicago Tavern
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 201 North State Street, Chicago IL 60601
+Description: Not listed
+Website: https://stateandlakechicago.com/
+Phone: +1-312-239-9400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8862145
+Longitude: -87.6277289
+OpenStreetMap URL: https://www.openstreetmap.org/node/2819355827
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2819355827
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

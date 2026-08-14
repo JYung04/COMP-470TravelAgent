@@ -1,0 +1,25 @@
+Name: Royal Crown II Paneantico
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-718-234-3208
+Email: Not listed
+Opening Hours: Mo-Su 06:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6256083
+Longitude: -73.99852
+OpenStreetMap URL: https://www.openstreetmap.org/node/4314217230
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4314217230
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

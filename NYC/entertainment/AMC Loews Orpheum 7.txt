@@ -1,0 +1,25 @@
+Name: AMC Loews Orpheum 7
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 1538 3rd Avenue, New York NY 10028
+Description: movie theater on the Upper East Side of Manhattan, New York City, United States
+Website: https://www.amctheatres.com/movie-theatres/new-york-city/amc-loews-orpheum-7
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7794376
+Longitude: -73.954081
+OpenStreetMap URL: https://www.openstreetmap.org/node/5116117400
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5116117400
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

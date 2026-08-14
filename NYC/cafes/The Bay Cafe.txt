@@ -1,0 +1,25 @@
+Name: The Bay Cafe
+City: NYC
+Category: cafes
+Cuisine: mediterranean
+Address: 2 Neptune Avenue, Brooklyn NY 11235
+Description: Not listed
+Website: https://baycafebk.com/
+Phone: +1 347-554-8811
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr off; Sa 21:30-24:00; Su 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.5828543
+Longitude: -73.954431
+OpenStreetMap URL: https://www.openstreetmap.org/node/10136292572
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10136292572
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Gantry Plaza State Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 4-09 47th Road, Long Island City NY 11101
+Description: Formerly part of the city’s industrial waterfront, Gantry State Park in Long Island City is now a manicured 12-acre park and promenade running alongside the East River. Part of the unique appeal of the park, which has breathtaking views of the Midtown skyline, are the restored gantries that it is named for—once used to load and unload railcar floats and barges. Amenities include gardens and playground facilities, basketball and handball courts, a fishing pier and the iconic Pepsi-Cola sign.
+Website: https://parks.ny.gov/parks/gantryplaza
+Phone: +1 718-786-6385
+Email: Not listed
+Opening Hours: sunrise-sunset
+Wheelchair Accessibility: yes
+Latitude: 40.7463662
+Longitude: -73.957748
+OpenStreetMap URL: https://www.openstreetmap.org/way/25428484
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/25428484
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art; views

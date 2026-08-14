@@ -1,0 +1,25 @@
+Name: Bar 180
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 4241 Broadway
+Description: Not listed
+Website: https://www.bar180.com/
+Phone: +1-646-928-3283
+Email: Not listed
+Opening Hours: Mo-Th,Su 16:00-00:00; Fr-Sa 16:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 40.8498121
+Longitude: -73.9363744
+OpenStreetMap URL: https://www.openstreetmap.org/node/5413506167
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5413506167
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

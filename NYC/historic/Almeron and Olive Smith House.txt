@@ -1,0 +1,25 @@
+Name: Almeron and Olive Smith House
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: 50 South Drive, Manhasset NY 11030
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8065872
+Longitude: -73.7028733
+OpenStreetMap URL: https://www.openstreetmap.org/way/770002735
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/770002735
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

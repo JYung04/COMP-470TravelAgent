@@ -1,0 +1,25 @@
+Name: Garden Café
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 4961 Broadway
+Description: Not listed
+Website: https://gardencafeny.com/
+Phone: +1-212-544-9480
+Email: info@gardencafeny.com
+Opening Hours: Mo-Fr 11:00-23:00; Sa, Su 12:00-23:00
+Wheelchair Accessibility: limited
+Latitude: 40.8681188
+Longitude: -73.9204207
+OpenStreetMap URL: https://www.openstreetmap.org/node/566316071
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/566316071
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

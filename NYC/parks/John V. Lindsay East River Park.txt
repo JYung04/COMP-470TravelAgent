@@ -1,0 +1,25 @@
+Name: John V. Lindsay East River Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: FDR Drive, New York NY 10009
+Description: East River Park, also called John V. Lindsay East River Park, was a 57.5-acre (20 ha) public park located on the Lower East Side of Manhattan. What remains of it is still administered by the New York City Department of Parks and Recreation. Bisected by the Williamsburg Bridge, it stretched along the East River from Montgomery Street up to 12th Street on the east side of the FDR Drive. Its now-demolished amphitheater, built in 1941 just south of Grand Street, had been reconstructed and was often used for public performances. The park included football, baseball, and soccer fields and a running track: Now only the tennis, basketball, and handball courts and some bike paths, including some parts of the East.
+Website: https://www.nycgovparks.org/parks/east-river-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.71863
+Longitude: -73.975541
+OpenStreetMap URL: https://www.openstreetmap.org/way/108235842
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/108235842
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

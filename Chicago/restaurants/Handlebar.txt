@@ -1,0 +1,24 @@
+Name: Handlebar
+City: Chicago
+Category: restaurants
+Cuisine: american, burger, fish, salad
+Address: 2311 West North Avenue, Chicago IL 60647
+Description: The mantra at Handlebar is “food, booze, and good times” — and it delivers on all three. The menu at this bustling Wicker Park spot reads like a typical tavern menu (think nachos, buffalo chicken wrap, grilled cheese, and sloppy joes), but everything is made-from-scratch vegan or vegetarian. The food is made with farm-fresh, locally sourced ingredients, there’s a full-service bar and beer garden, and the regular crowd of locals keep the good times going.
+Website: https://www.handlebarchicago.com/
+Phone: +1-773-384-9546
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-24:00; Sa-Su 09:00-24:00
+Wheelchair Accessibility: limited
+Latitude: 41.910214
+Longitude: -87.6853111
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575120598
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575120598
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

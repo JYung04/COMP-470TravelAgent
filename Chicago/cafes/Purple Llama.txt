@@ -1,0 +1,25 @@
+Name: Purple Llama
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2140 West Division Street, Chicago IL 60622
+Description: Not listed
+Website: http://www.purplellamachicago.com/
+Phone: +1-773-687-9900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9033866
+Longitude: -87.6813208
+OpenStreetMap URL: https://www.openstreetmap.org/way/209854327
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209854327
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

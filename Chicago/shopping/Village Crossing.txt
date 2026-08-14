@@ -1,0 +1,25 @@
+Name: Village Crossing
+City: Chicago
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://stonerealestate.com/project/village-crossing-shopping-center-niles-skokie-il/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0100765
+Longitude: -87.7656995
+OpenStreetMap URL: https://www.openstreetmap.org/way/24724685
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/24724685
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

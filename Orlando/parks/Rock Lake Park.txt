@@ -1,0 +1,25 @@
+Name: Rock Lake Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 440 N Tampa Avenue, Orlando, FL 32804
+Description: Rock Lake Park is located on 440 North Tampa Avenue. The park has a playground and other amenities for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Rock-Lake-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5488678
+Longitude: -81.4084026
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1181172
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1181172
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

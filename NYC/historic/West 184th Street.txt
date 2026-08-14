@@ -1,0 +1,25 @@
+Name: West 184th Street
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Louis M. Beltre was born on April 11, 1975 in New York City to Altagracia and Manuel Beltre. He was raised on 184th Street in Washington Heights, from where he attended John F. Kennedy High School in The Bronx. After high school, Louis continued his educa
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8508001
+Longitude: -73.9317334
+OpenStreetMap URL: https://www.openstreetmap.org/way/1442856572
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1442856572
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

@@ -1,0 +1,25 @@
+Name: Waku Waku
+City: Boston
+Category: restaurants
+Cuisine: ramen
+Address: 02111
+Description: Not listed
+Website: https://www.wakuwakuramen.com/
+Phone: +1-617-423-3848
+Email: Not listed
+Opening Hours: Mo-Th 11:30-00:00; Fr-Su 11:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3512289
+Longitude: -71.0604295
+OpenStreetMap URL: https://www.openstreetmap.org/node/8714678839
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8714678839
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

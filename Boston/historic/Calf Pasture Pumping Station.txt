@@ -1,0 +1,25 @@
+Name: Calf Pasture Pumping Station
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 435 Mount Vernon Street, Dorchester MA 02125
+Description: An official Boston landmark in Dorchester. Status: Approved Landmark. Designated area: Exterior.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3159951
+Longitude: -71.0374963
+OpenStreetMap URL: https://www.openstreetmap.org/way/29847656
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29847656
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

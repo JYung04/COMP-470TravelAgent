@@ -1,0 +1,25 @@
+Name: Cleo's Gentlemans Club
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: 1310 Orange Blossom Trail, Orlando FL 32805
+Description: Not listed
+Website: http://cleosgentlemansclub.com
+Phone: +1-407-839-8559
+Email: Not listed
+Opening Hours: Mo-Sa 02:00 - 20:00, Su 02:00 - 21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5257719
+Longitude: -81.3975443
+OpenStreetMap URL: https://www.openstreetmap.org/node/4386656937
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4386656937
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

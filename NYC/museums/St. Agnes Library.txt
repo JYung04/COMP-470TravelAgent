@@ -1,0 +1,25 @@
+Name: St. Agnes Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 444 Amsterdam Avenue, New York 10024
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/st-agnes
+Phone: +1-212-621-0619
+Email: Not listed
+Opening Hours: Mo, Fr, Sa 10:00-00:00; Tu-Th 10:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7848535
+Longitude: -73.9774598
+OpenStreetMap URL: https://www.openstreetmap.org/way/270899541
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/270899541
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

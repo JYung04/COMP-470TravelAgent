@@ -1,0 +1,25 @@
+Name: Rose & Crown Pub and Dining Room
+City: Orlando
+Category: restaurants
+Cuisine: british
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-pub-and-dining-room/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 16:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 28.3703906
+Longitude: -81.5516281
+OpenStreetMap URL: https://www.openstreetmap.org/way/44486037
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/44486037
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

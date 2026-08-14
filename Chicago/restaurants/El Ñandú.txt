@@ -1,0 +1,25 @@
+Name: El Ñandú
+City: Chicago
+Category: restaurants
+Cuisine: argentinian
+Address: 2729 West Fullerton Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://elnandurestaurant.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: We 17:00-22:00; Th 17:00-24:00; Fr 17:00-23:00; Sa 12:00-23:15; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.924661
+Longitude: -87.6962247
+OpenStreetMap URL: https://www.openstreetmap.org/node/3572607693
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3572607693
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

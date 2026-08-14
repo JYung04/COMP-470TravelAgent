@@ -1,0 +1,25 @@
+Name: The Horny Ram
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 951 2nd Avenue
+Description: Not listed
+Website: https://www.thehornyramnyc.com/
+Phone: +1-917-261-4136
+Email: Not listed
+Opening Hours: Mo-Su 11:30-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7552533
+Longitude: -73.9685194
+OpenStreetMap URL: https://www.openstreetmap.org/node/6378468600
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6378468600
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

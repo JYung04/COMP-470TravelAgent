@@ -1,0 +1,25 @@
+Name: Ichiban Buffet
+City: Orlando
+Category: restaurants
+Cuisine: Buffet, Chinese, Japanese
+Address: 5529 International Dr, Orlando, FL 32819, United States
+Description: Not listed
+Website: http://www.ichibanbuffet.com/
+Phone: +1 407-930-8889
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4634076
+Longitude: -81.4547296
+OpenStreetMap URL: https://www.openstreetmap.org/node/6946669785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6946669785
+Price: Not listed
+Rating: 3.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

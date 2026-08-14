@@ -1,0 +1,25 @@
+Name: Tina Kim Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 525 West 21st Street, New York NY 10011
+Description: Tina Kim Gallery is a New York City-based contemporary art gallery and exhibition space. The gallery was established in 2001 by Tina Kim and is located in the Chelsea.
+Website: https://www.tinakimgallery.com
+Phone: +1-212-716-1100
+Email: info@tinakimgallery.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7470553
+Longitude: -74.0063448
+OpenStreetMap URL: https://www.openstreetmap.org/node/10873196735
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10873196735
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

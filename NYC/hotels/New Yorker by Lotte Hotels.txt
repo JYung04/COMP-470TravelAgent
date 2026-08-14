@@ -1,0 +1,25 @@
+Name: New Yorker by Lotte Hotels
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 481 8th Avenue, New York NY 10001
+Description: Not listed
+Website: https://www.newyorkerhotel.com/
+Phone: +1 212-971-0101
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7527452
+Longitude: -73.9936688
+OpenStreetMap URL: https://www.openstreetmap.org/way/265258287
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265258287
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

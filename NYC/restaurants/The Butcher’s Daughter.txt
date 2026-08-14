@@ -1,0 +1,25 @@
+Name: The Butcher’s Daughter
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 581 Hudson Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7363404
+Longitude: -74.0060825
+OpenStreetMap URL: https://www.openstreetmap.org/node/5635121621
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5635121621
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

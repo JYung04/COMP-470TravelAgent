@@ -1,0 +1,25 @@
+Name: Courtyard New York Downtown Financial District
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 215 Pearl Street, New York NY 10038
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/nycmp-courtyard-new-york-downtown-manhattan-financial-district/overview/
+Phone: +1 646-928-9000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.707222
+Longitude: -74.0063284
+OpenStreetMap URL: https://www.openstreetmap.org/way/369868758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/369868758
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

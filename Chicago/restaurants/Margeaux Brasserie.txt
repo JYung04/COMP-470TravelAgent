@@ -1,0 +1,25 @@
+Name: Margeaux Brasserie
+City: Chicago
+Category: restaurants
+Cuisine: french
+Address: 11 East Walton Street, Chicago IL 60611
+Description: Not listed
+Website: https://www.michaelmina.net/restaurants/chicago/margeaux-brasserie/
+Phone: +1-708-529-1246
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8997256
+Longitude: -87.6276208
+OpenStreetMap URL: https://www.openstreetmap.org/node/6321487749
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6321487749
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

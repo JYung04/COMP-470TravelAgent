@@ -1,0 +1,25 @@
+Name: Top of the Rock
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 30 Rockefeller Plaza, New York NY
+Description: The Rockefeller Center Observation Deck , atop the historic 30 Rock building, offers spectacular views of Midtown landmarks, including the Empire State Building and Central Park. Opened in 1933, the attraction was inspired by the grand ocean liners of the early 20th century, and its fixtures are appropriately luxurious. Begin your visit beneath the dazzling Swarovski chandelier before continuing to the newly redesigned Welcome Gallery, where you can discover interactive exhibits and a detailed 1
+Website: https://www.topoftherocknyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7590344
+Longitude: -73.9793952
+OpenStreetMap URL: https://www.openstreetmap.org/node/5844051585
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5844051585
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: top of the rock
+Best For: outdoors; views

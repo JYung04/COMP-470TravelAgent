@@ -1,0 +1,25 @@
+Name: Wythe Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 80 Wythe Avenue, Brooklyn 11249
+Description: Not listed
+Website: https://www.wythehotel.com/
+Phone: +1-718-460-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7219036
+Longitude: -73.9580608
+OpenStreetMap URL: https://www.openstreetmap.org/node/2402042613
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2402042613
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

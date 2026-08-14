@@ -1,0 +1,25 @@
+Name: Malone's Chop House
+City: NYC
+Category: restaurants
+Cuisine: steak_house
+Address: Not listed
+Description: Not listed
+Website: https://malonesch.com
+Phone: +1-347-497-5555
+Email: Not listed
+Opening Hours: Tu-Th 24:00-22:00, Fr-Sa 12:00-23:00, Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6166658
+Longitude: -74.0336638
+OpenStreetMap URL: https://www.openstreetmap.org/node/12235064098
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12235064098
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

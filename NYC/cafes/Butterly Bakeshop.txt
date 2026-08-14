@@ -1,0 +1,25 @@
+Name: Butterly Bakeshop
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 341 East 78th Street, 10075
+Description: Not listed
+Website: Not listed
+Phone: +1 646-306-2806
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7721589
+Longitude: -73.9541312
+OpenStreetMap URL: https://www.openstreetmap.org/node/6691104531
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6691104531
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

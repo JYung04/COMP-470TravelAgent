@@ -1,0 +1,25 @@
+Name: Dirty Water Dough Co.
+City: Boston
+Category: restaurants
+Cuisine: pizza
+Address: 222 Newbury Street, Boston MA 02116
+Description: Not listed
+Website: https://www.dirtywaterdough.com/
+Phone: +1-617-262-0090
+Email: manager@dirtywaterdough.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3497522
+Longitude: -71.0810802
+OpenStreetMap URL: https://www.openstreetmap.org/node/7501883776
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7501883776
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

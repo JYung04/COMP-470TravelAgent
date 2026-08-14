@@ -1,0 +1,24 @@
+Name: Grand Canyon Restaurant
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 143 Montague St, Brooklyn, NY 11201, United States
+Description: Not listed
+Website: https://grandcr.com
+Phone: +1-347-899-6670
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6947302
+Longitude: -73.9936048
+OpenStreetMap URL: https://www.openstreetmap.org/node/9330502772
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9330502772
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

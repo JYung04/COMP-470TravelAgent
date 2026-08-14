@@ -1,0 +1,25 @@
+Name: SELFIE WORLD ORLANDO
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 8001 S ORANGE BLOSSOM TRL, Orlando FL 32809
+Description: Not listed
+Website: https://www.simon.com/mall/the-florida-mall/stores/selfie-wrld-orlando
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4469087
+Longitude: -81.3946172
+OpenStreetMap URL: https://www.openstreetmap.org/node/8719286058
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8719286058
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

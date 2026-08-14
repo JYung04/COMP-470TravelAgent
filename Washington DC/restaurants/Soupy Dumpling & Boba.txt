@@ -1,0 +1,24 @@
+Name: Soupy Dumpling & Boba
+City: Washington DC
+Category: restaurants
+Cuisine: chinese, bubble_tea
+Address: 1320 14th Street Northwest, Washington DC 20005
+Description: Not listed
+Website: https://www.soupydumplingboba.com/
+Phone: +1 202-290-1706
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9079424
+Longitude: -77.032227
+OpenStreetMap URL: https://www.openstreetmap.org/node/4055821166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4055821166
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

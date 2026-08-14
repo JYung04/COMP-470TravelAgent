@@ -1,0 +1,25 @@
+Name: Rappahannock Oyster Bar - Wharf
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 1150 Maine Avenue Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.rroysters.com/rappahannock-oyster-bar-fish-market-washington-dc.html
+Phone: +1 202-484-0572
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8811722
+Longitude: -77.0275942
+OpenStreetMap URL: https://www.openstreetmap.org/node/8691887340
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8691887340
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

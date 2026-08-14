@@ -1,0 +1,24 @@
+Name: South of the Clouds
+City: NYC
+Category: restaurants
+Cuisine: chinese, noodle
+Address: 16 West 8th Street, New York NY 10011
+Description: Not listed
+Website: https://sotc-nyc.com/
+Phone: +1-212-888-9653
+Email: Not listed
+Opening Hours: Mo-Su 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7326017
+Longitude: -73.9974121
+OpenStreetMap URL: https://www.openstreetmap.org/node/7503867831
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7503867831
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

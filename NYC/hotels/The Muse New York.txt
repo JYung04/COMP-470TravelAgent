@@ -1,0 +1,25 @@
+Name: The Muse New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 130 West 46th Street, New York NY 10036
+Description: Not listed
+Website: https://www.themusehotel.com/
+Phone: +1 212-485-2400
+Email: talktous@themusehotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7577808
+Longitude: -73.9837782
+OpenStreetMap URL: https://www.openstreetmap.org/way/266170765
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266170765
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

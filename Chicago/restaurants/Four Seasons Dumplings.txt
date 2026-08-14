@@ -1,0 +1,25 @@
+Name: Four Seasons Dumplings
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 3205 South Halsted Street, Chicago IL 60608
+Description: Not listed
+Website: https://www.4seasonsdumpling.com
+Phone: +1-312-265-0568
+Email: Not listed
+Opening Hours: Mo-Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.836006
+Longitude: -87.6460015
+OpenStreetMap URL: https://www.openstreetmap.org/node/11983484049
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11983484049
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

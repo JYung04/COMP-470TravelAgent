@@ -1,0 +1,25 @@
+Name: Chicago Board of Trade Building Museum
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 141 West Jackson Boulevard, Chicago IL 60604
+Description: A designated Chicago landmark. Built: 1930. Architect: Holabird & Root. Landmark designation date: 1977-05-04T00:00:00.000.
+Website: https://www.cbotbuilding.com/chicago-board-of-trade-building-museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8779887
+Longitude: -87.6320684
+OpenStreetMap URL: https://www.openstreetmap.org/node/12990167037
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12990167037
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

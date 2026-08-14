@@ -1,0 +1,25 @@
+Name: Jazz Showcase
+City: Chicago
+Category: nightlife
+Cuisine: Not listed
+Address: 806 South Plymouth Court, Chicago IL 60605
+Description: Not listed
+Website: https://www.jazzshowcase.com/
+Phone: +1-312-360-0234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.8717526
+Longitude: -87.6287938
+OpenStreetMap URL: https://www.openstreetmap.org/node/4731347921
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4731347921
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

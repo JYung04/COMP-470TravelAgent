@@ -1,0 +1,25 @@
+Name: Disney's All-Star Sports Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1701 Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Go the distance with sports-themed rooms and amenities at Disney’s All-Star Sports Resort , which honors competitive sports like baseball, basketball, football, surfing and tennis. It’s fitting, since ESPN Wide World of Sports is just around the corner! Chow down in the End Zone food court, then cool off in a giant surfboard-shaped pool or baseball-inspired Grand Slam Pool featuring Goofy on the pitcher’s mound. Discover: Orlando Sports
+Website: https://disneyworld.disney.go.com/resorts/all-star-sports-resort/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3437192
+Longitude: -81.5753455
+OpenStreetMap URL: https://www.openstreetmap.org/way/549241822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/549241822
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

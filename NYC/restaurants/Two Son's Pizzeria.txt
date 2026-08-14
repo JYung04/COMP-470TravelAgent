@@ -1,0 +1,25 @@
+Name: Two Son's Pizzeria
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 582 Broadway
+Description: Not listed
+Website: https://www.twosonspizzeria.com/?utm_source=gbp
+Phone: +1 201-402-7732
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6667559
+Longitude: -74.1155298
+OpenStreetMap URL: https://www.openstreetmap.org/node/11296082769
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11296082769
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

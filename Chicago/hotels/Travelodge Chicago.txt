@@ -1,0 +1,25 @@
+Name: Travelodge Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 65 East Harrison Street, Chicago IL 60605
+Description: Not listed
+Website: https://www.wyndhamhotels.com/travelodge/chicago-illinois/travelodge-hotel-downtown-chicago/overview
+Phone: +1 312-574-3335
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8742437
+Longitude: -87.6255038
+OpenStreetMap URL: https://www.openstreetmap.org/way/25885878
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/25885878
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

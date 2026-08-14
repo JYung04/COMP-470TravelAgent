@@ -1,0 +1,25 @@
+Name: Motel 6
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 6711 Georgia Avenue Northwest
+Description: Not listed
+Website: https://www.motel6.com/
+Phone: +1 202-722-1600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9720656
+Longitude: -77.0267911
+OpenStreetMap URL: https://www.openstreetmap.org/node/757651977
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/757651977
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

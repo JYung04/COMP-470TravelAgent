@@ -1,0 +1,24 @@
+Name: ABC Commissary
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: Commissary Lane, Disney's Hollywood Studios (Walt Disney World), Bay Lake, FL 32830
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/
+Phone: (407) 939-3463
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3561366
+Longitude: -81.5598601
+OpenStreetMap URL: https://www.openstreetmap.org/way/294899619
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/294899619
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

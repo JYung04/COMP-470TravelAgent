@@ -1,0 +1,24 @@
+Name: Crown Chicken & Grill
+City: NYC
+Category: restaurants
+Cuisine: fried_food, fried_chicken
+Address: 127 Wyckoff Avenue, Brooklyn NY
+Description: Not listed
+Website: https://www.crownfriedchicken.com/restaurants/new-york
+Phone: +1-718-341-8400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7042127
+Longitude: -73.9188024
+OpenStreetMap URL: https://www.openstreetmap.org/node/5627868448
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5627868448
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

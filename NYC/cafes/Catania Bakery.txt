@@ -1,0 +1,25 @@
+Name: Catania Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 64-10 Fresh Pond Road
+Description: Not listed
+Website: Not listed
+Phone: +1-718-417-5700
+Email: Not listed
+Opening Hours: Mo-Sa 06:00-20:00; Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7099744
+Longitude: -73.8993373
+OpenStreetMap URL: https://www.openstreetmap.org/node/5491489166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5491489166
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

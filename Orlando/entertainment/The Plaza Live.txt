@@ -1,0 +1,25 @@
+Name: The Plaza Live
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 425 North Bumby Avenue, Orlando FL 32803
+Description: Oct. 10 – 11, 2026 Created for children 3 – 7 years old, the Symphony Storytime Series features live music from the Orlando Philharmonic Orchestra paired with narration and beautiful, hand-drawn illustrations. Spooky Serenades sets a spectacular Halloween vibe with the haunting sounds of the orchestra’s string quartet.
+Website: https://www.plazaliveorlando.com/
+Phone: +1 407 228 1220
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5487508
+Longitude: -81.3513185
+OpenStreetMap URL: https://www.openstreetmap.org/way/424490016
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/424490016
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; families; art

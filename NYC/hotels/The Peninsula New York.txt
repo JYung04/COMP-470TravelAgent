@@ -1,0 +1,25 @@
+Name: The Peninsula New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 5th Avenue, New York
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7616252
+Longitude: -73.9754184
+OpenStreetMap URL: https://www.openstreetmap.org/way/265149283
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265149283
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

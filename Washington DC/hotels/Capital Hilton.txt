@@ -1,0 +1,25 @@
+Name: Capital Hilton
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1001 16th Street Northwest
+Description: Not listed
+Website: https://www.hilton.com/
+Phone: +1 202-543-6000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9031717
+Longitude: -77.0359751
+OpenStreetMap URL: https://www.openstreetmap.org/way/48077348
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48077348
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

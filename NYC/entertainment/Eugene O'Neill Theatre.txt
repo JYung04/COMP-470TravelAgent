@@ -1,0 +1,25 @@
+Name: Eugene O'Neill Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 230 West 49th Street, New York NY 10019
+Description: The Eugene O'Neill Theatre, previously the Forrest Theatre and the Coronet Theatre, is a Broadway theater at 230 West 49th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. The theater was designed by Herbert J. Krapp and was constructed for the Shubert brothers. It opened in 1925 as part of a hotel and theater complex named after 19th-century tragedian Edwin Forrest. The modern theater, named in honor of American playwright Eugene O'Neill, has 1,108 seats across two levels and is operated by ATG Entertainment. The auditorium interior is a New York City designated landmark.
+Website: https://us.atgtickets.com/venues/eugene-oneill-theatre/whats-on/
+Phone: (212) 840-8181
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7610859
+Longitude: -73.985754
+OpenStreetMap URL: https://www.openstreetmap.org/way/266151909
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266151909
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art

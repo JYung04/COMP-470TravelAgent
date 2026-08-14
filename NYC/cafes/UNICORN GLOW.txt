@@ -1,0 +1,24 @@
+Name: UNICORN GLOW
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, quick_bite
+Address: 141-47 Northern Boulevard, Flushing NY 11358
+Description: Not listed
+Website: https://cafe.unicornglow.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7647479
+Longitude: -73.8241127
+OpenStreetMap URL: https://www.openstreetmap.org/node/8001556848
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8001556848
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

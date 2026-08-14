@@ -1,0 +1,25 @@
+Name: Jack Shainman Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 513 West 20th Street, New York NY 10011
+Description: Jack Shainman Gallery is a contemporary art gallery in New York City. The gallery was founded by Jack Shainman and his then-partner Claude Simard (1956—2014) in 1984 in Washington, D.C. The gallery has a focus on artists from Africa, East Asia, and North America.
+Website: https://jackshainman.com
+Phone: +1-212-645-1701
+Email: info@jackshainman.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7462478
+Longitude: -74.0062412
+OpenStreetMap URL: https://www.openstreetmap.org/node/10873196745
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10873196745
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

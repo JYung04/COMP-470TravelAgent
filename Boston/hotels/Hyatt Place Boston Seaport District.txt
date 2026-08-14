@@ -1,0 +1,25 @@
+Name: Hyatt Place Boston Seaport District
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 315 Northern Avenue, Boston MA 02210
+Description: With a prime location along the harbor—less than a 10-minute drive from Logan International Airport—Hyatt Place Boston / Seaport District offers 297 rooms, including 18 suites, all outfitted with amenities designed to make you comfortable. Discover Cozy Corners with sofa-sleepers, kitchenettes, and Boston Harbor views in select rooms and suites. Boston FIFA World Cup 26 Express Bus Stop Shuttle seats are not guaranteed. Check with hotel for purchase options or buy directly from the official shuttle site.
+Website: https://www.hyatt.com/hyatt-place/en-us/boszs-hyatt-place-boston-seaport-district
+Phone: +1 857-328-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3473738
+Longitude: -71.0368471
+OpenStreetMap URL: https://www.openstreetmap.org/way/761543185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/761543185
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; views

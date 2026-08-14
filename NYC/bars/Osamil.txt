@@ -1,0 +1,24 @@
+Name: Osamil
+City: NYC
+Category: bars
+Cuisine: korean
+Address: 5 West 31st Street, 10001
+Description: Not listed
+Website: https://www.osamil.com
+Phone: +1 212-300-4713
+Email: info@osamil.com
+Opening Hours: Mo-Th 16:00-02:00; Fr 16:00-03:00; Sa 11:00-02:00; Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.74687
+Longitude: -73.9864707
+OpenStreetMap URL: https://www.openstreetmap.org/node/6231480917
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6231480917
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

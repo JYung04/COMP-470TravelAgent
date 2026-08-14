@@ -1,0 +1,25 @@
+Name: Rockefeller Center
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 45 Rockefeller Plaza, New York NY 10111
+Description: A designated New York City individual landmark. Status: DESIGNATED. Designation date: 4/23/1985.
+Website: https://www.rockefellercenter.com/
+Phone: +1 212-332-6868
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7592398
+Longitude: -73.9800939
+OpenStreetMap URL: https://www.openstreetmap.org/relation/18351439
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/18351439
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: rockefeller center
+Best For: sightseeing

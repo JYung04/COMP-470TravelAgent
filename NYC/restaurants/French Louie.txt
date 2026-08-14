@@ -1,0 +1,25 @@
+Name: French Louie
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 320 Atlantic Ave, Brooklyn, NY 11201, United States
+Description: Not listed
+Website: https://frenchlouienyc.com
+Phone: +1-718-935-1200
+Email: Not listed
+Opening Hours: Mo 17:00-22:00; Tu-Th 11:30-15:00,17:00-22:00; Fr 11:30-15:00,17:00-22:30; Sa 11:00-15:00,17:00-22:30; Su 11:00-15:00,17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6880591
+Longitude: -73.9881726
+OpenStreetMap URL: https://www.openstreetmap.org/node/4881982923
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4881982923
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

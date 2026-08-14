@@ -1,0 +1,25 @@
+Name: Carmine Street Beers
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 52 A Carmine Street, 10014
+Description: Not listed
+Website: Not listed
+Phone: +12126332337
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-22:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7298428
+Longitude: -74.0036369
+OpenStreetMap URL: https://www.openstreetmap.org/node/2562454139
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2562454139
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

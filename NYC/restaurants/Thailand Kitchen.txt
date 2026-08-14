@@ -1,0 +1,25 @@
+Name: Thailand Kitchen
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 86-0 Jamaica Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6926843
+Longitude: -73.8579455
+OpenStreetMap URL: https://www.openstreetmap.org/node/5397494633
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5397494633
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

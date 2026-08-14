@@ -1,0 +1,25 @@
+Name: The Occidental
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 1475 Pennsylvania Avenue Northwest, Washington DC 20004-1046
+Description: Not listed
+Website: http://www.occidentaldc.com
+Phone: +1 202-783-1475
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8968259
+Longitude: -77.0328124
+OpenStreetMap URL: https://www.openstreetmap.org/node/739150350
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739150350
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

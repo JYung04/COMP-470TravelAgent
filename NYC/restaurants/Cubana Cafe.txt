@@ -1,0 +1,25 @@
+Name: Cubana Cafe
+City: NYC
+Category: restaurants
+Cuisine: cuban
+Address: Not listed
+Description: Not listed
+Website: https://www.cubanacafebrooklyn.com
+Phone: +1-929-337-6476
+Email: Not listed
+Opening Hours: Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 10:00-24:00; Su 10:00-23:00
+Wheelchair Accessibility: limited
+Latitude: 40.6826091
+Longitude: -73.99339
+OpenStreetMap URL: https://www.openstreetmap.org/node/5544159820
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5544159820
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

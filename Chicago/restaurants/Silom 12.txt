@@ -1,0 +1,25 @@
+Name: Silom 12
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 1846 North Milwaukee Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.silom12chicago.com/
+Phone: +1-773-489-1212
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9149624
+Longitude: -87.6847822
+OpenStreetMap URL: https://www.openstreetmap.org/node/3570188608
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3570188608
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

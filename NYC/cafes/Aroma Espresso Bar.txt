@@ -1,0 +1,25 @@
+Name: Aroma Espresso Bar
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 205 East 42nd Street, 10017
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7506675
+Longitude: -73.973776
+OpenStreetMap URL: https://www.openstreetmap.org/node/2714805259
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2714805259
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

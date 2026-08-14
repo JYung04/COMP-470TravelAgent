@@ -1,0 +1,25 @@
+Name: Pasteur Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 5825 South Kostner Avenue, Chicago IL 60629
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/pasteur-louis-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7876617
+Longitude: -87.7316053
+OpenStreetMap URL: https://www.openstreetmap.org/way/43151562
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/43151562
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,24 @@
+Name: The Pony Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 1444 1st Avenue, 10021
+Description: Not listed
+Website: https://theponybar.com
+Phone: +1 212-288-0090
+Email: theponybar@gmail.com
+Opening Hours: Mo-Th 15:00-24:00; Fr, Sa 12:00-03:00; Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.76977
+Longitude: -73.954316
+OpenStreetMap URL: https://www.openstreetmap.org/node/2629371900
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2629371900
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

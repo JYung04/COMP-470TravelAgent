@@ -1,0 +1,25 @@
+Name: Dancers Royale Orlando
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: 5221 East Colonial Drive, Orlando FL 32807
+Description: Not listed
+Website: https://dancers-royale.com/
+Phone: +1-407-281-0120
+Email: Not listed
+Opening Hours: Mo-Su 15:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.554215
+Longitude: -81.319962
+OpenStreetMap URL: https://www.openstreetmap.org/way/921446901
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/921446901
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

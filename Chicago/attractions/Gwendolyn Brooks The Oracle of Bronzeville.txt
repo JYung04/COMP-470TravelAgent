@@ -1,0 +1,25 @@
+Name: Gwendolyn Brooks: The Oracle of Bronzeville
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/gwendolyn-brooks-oracle-bronzeville-monument
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8117034
+Longitude: -87.5999015
+OpenStreetMap URL: https://www.openstreetmap.org/node/6342172485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6342172485
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

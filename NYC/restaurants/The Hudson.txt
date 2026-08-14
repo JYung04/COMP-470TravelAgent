@@ -1,0 +1,25 @@
+Name: The Hudson
+City: NYC
+Category: restaurants
+Cuisine: American, Banquet hall, Barbecue
+Address: 348 Dyckman Street
+Description: Not listed
+Website: http://www.thehudson.nyc/
+Phone: +1 646-663-5886
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8688176
+Longitude: -73.9319524
+OpenStreetMap URL: https://www.openstreetmap.org/node/4747234521
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4747234521
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

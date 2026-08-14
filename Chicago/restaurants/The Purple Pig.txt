@@ -1,0 +1,25 @@
+Name: The Purple Pig
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 444 North Michigan Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://thepurplepigchicago.com/
+Phone: +1-312-464-1744
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8907486
+Longitude: -87.624603
+OpenStreetMap URL: https://www.openstreetmap.org/node/3343162071
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3343162071
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

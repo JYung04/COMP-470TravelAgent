@@ -1,0 +1,25 @@
+Name: Dr. P. Phillips Community Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 8249 Buena Vista Woods Boulevard, Orlando FL
+Description: Not listed
+Website: http://apps.ocfl.net/dept/CEsrvcs/Parks/ParkDetails.asp?ParkID=66
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4115217
+Longitude: -81.4906953
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1121082
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1121082
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

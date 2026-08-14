@@ -1,0 +1,25 @@
+Name: Kokomo
+City: NYC
+Category: restaurants
+Cuisine: caribbean
+Address: 65 Kent Avenue, Brooklyn NY 11249
+Description: 65 Kent Ave., Williamsburg, Brooklyn Art deco meets island maximalism at this chic, festive Caribbean restaurant. Husband-and-wife owners Kevol and Ria Graham brought their years of experience in the restaurant and nightlife industries as well as their Caribbean roots—Jamaican for Kevol, Trinidadian and Grenadian for Ria—to create Kokomo. Paired with a few impeccably made island-inspired cocktails, the sounds of dancehall, soca, zouk and Afrobeats play at a decibel just high enough to encourage
+Website: https://www.kokomonyc.com/
+Phone: +1-347-799-1312
+Email: Not listed
+Opening Hours: Mo 16:00-22:30; We-Th 12:00-16:00,17:00-22:30; Fr-Sa 11:00-16:00,17:00-23:00; Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7219904
+Longitude: -73.9597438
+OpenStreetMap URL: https://www.openstreetmap.org/node/8139045391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8139045391
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

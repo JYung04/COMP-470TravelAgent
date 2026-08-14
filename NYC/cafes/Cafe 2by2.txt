@@ -1,0 +1,24 @@
+Name: Cafe 2by2
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, pastry
+Address: Not listed
+Description: Not listed
+Website: https://www.cafe2by2.com
+Phone: +1-646-565-1355
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7309058
+Longitude: -73.9899035
+OpenStreetMap URL: https://www.openstreetmap.org/node/12890222604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12890222604
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

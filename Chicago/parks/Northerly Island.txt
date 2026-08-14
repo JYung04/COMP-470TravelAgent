@@ -1,0 +1,25 @@
+Name: Northerly Island
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1521 South Lynn White Drive, Chicago IL 60605
+Description: Beat your cabin fever on this snow-dusted island, where you can meet wolves and birds of prey, explore on snowshoes, make winter crafts, and sip hot cocoa.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8601973
+Longitude: -87.6091975
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2914325
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2914325
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

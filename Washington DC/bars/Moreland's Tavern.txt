@@ -1,0 +1,25 @@
+Name: Moreland's Tavern
+City: Washington DC
+Category: bars
+Cuisine: american
+Address: 5501 14th Street Northwest, 20011
+Description: Not listed
+Website: https://morelandstavern.com/
+Phone: +1-202-248-0491
+Email: Not listed
+Opening Hours: Mo off; Tu-Th 16:00-22:00; Fr 16:00-23:00; Sa 12:00-23:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9566594
+Longitude: -77.0331871
+OpenStreetMap URL: https://www.openstreetmap.org/node/4421278389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4421278389
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

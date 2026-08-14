@@ -1,0 +1,24 @@
+Name: A Town Wings
+City: Chicago
+Category: restaurants
+Cuisine: american, wings, ice_cream
+Address: 9119 South Commercial Avenue, Chicago IL 60617
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7294305
+Longitude: -87.5510515
+OpenStreetMap URL: https://www.openstreetmap.org/node/12417454984
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12417454984
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

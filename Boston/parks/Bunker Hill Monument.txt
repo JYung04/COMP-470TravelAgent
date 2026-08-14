@@ -1,0 +1,25 @@
+Name: Bunker Hill Monument
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 100 Monument Sq
+Description: The Bunker Hill Monument is a war memorial on Breed's Hill in the Charlestown section of Boston, Massachusetts, United States. It commemorates the Battle of Bunker Hill, a major American Revolutionary War battle that took place there on June 17, 1775. The monument primarily consists of a 221-foot-tall (67 m) granite obelisk at the center of Monument Square Park, within the Monument Square Historic District. The obelisk was designed by Solomon Willard and erected between 1825 and 1843. It is flanked by William Wetmore Story's statue of William Prescott to the south and an entrance building to the north. Designated as a National Historic Landmark, the Bunker Hill Monument is part of the Freedom Trail and Boston National Historical Park.
+Website: https://www.nps.gov/bost/learn/historyculture/bhm.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3763523
+Longitude: -71.0607673
+OpenStreetMap URL: https://www.openstreetmap.org/way/212124093
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/212124093
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: bunker hill monument
+Best For: outdoors; art

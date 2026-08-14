@@ -1,0 +1,24 @@
+Name: Haidilao
+City: NYC
+Category: restaurants
+Cuisine: chinese, hotpot
+Address: 138-23 39th Avenue, Flushing NY 11354
+Description: Not listed
+Website: Not listed
+Phone: +1-917-231-8888
+Email: Not listed
+Opening Hours: Su-We 11:30-23:30; Th 11:30-22:00; Fr,Sa 11:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7612797
+Longitude: -73.8280454
+OpenStreetMap URL: https://www.openstreetmap.org/node/7272960459
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7272960459
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

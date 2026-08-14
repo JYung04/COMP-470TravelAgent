@@ -1,0 +1,25 @@
+Name: Puerto Rican Arts Alliance
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 3004 North Elbridge Avenue, Chicago IL 60618
+Description: The Puerto Rican Arts Alliance is a 501c(3) non-profit organization dedicated to preserving Puerto Rican culture in Chicago by maintaining the traditions of Puerto Rico by promoting various arts, and providing educational opportunities in arts programming. The Puerto Rican Arts Alliance has two locations: the first is in Humboldt Park at 1440 N. Sacramento, on the second floor of the Humboldt Park Fieldhouse in the west wing, while the second is in a former firehouse in Avondale at 3000 N. Elbridge. In 2018 The PRAA celebrated its 20 year anniversary.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9355986
+Longitude: -87.7171342
+OpenStreetMap URL: https://www.openstreetmap.org/way/163894591
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163894591
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

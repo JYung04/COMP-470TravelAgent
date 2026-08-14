@@ -1,0 +1,25 @@
+Name: Mint House Washington, D.C. – Downtown
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1010 Vermont Avenue Northwest, Washington DC 20005
+Description: Not listed
+Website: https://minthouse.com/washingtondc/downtown/
+Phone: +1-855-972-9090
+Email: dc@minthouse.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9030333
+Longitude: -77.0337928
+OpenStreetMap URL: https://www.openstreetmap.org/node/12851870943
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12851870943
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

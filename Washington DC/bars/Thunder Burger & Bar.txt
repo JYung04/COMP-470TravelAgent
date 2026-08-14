@@ -1,0 +1,25 @@
+Name: Thunder Burger & Bar
+City: Washington DC
+Category: bars
+Cuisine: burger
+Address: 3056 M Street Northwest, Washington DC 20007-3727
+Description: Not listed
+Website: https://www.thunderburger.com/
+Phone: +1 202-333-2888
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9050444
+Longitude: -77.060687
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272437
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272437
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

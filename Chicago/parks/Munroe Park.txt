@@ -1,0 +1,25 @@
+Name: Munroe Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2617 West 105th Street, Chicago IL 60655
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/munroe-roy-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.701763
+Longitude: -87.686653
+OpenStreetMap URL: https://www.openstreetmap.org/way/175838554
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/175838554
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

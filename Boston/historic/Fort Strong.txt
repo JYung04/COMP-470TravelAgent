@@ -1,0 +1,25 @@
+Name: Fort Strong
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Fort Strong is a former U.S. Army Coast Artillery fort that occupied the northern third of Long Island in the Boston Harbor. The island had a training camp during the American Civil War, and a gun battery was built there in the 1870s. The fort was built in 1893-1906 during the Endicott period of expansion in U.S. coast defense, and was part of the Coast Defenses of Boston. Formerly, it was also known as Long Island Military Reservation. Before World War I, a large station for handling submarine mines was added to the fort's defenses. Prior to World War I the fort was probably manned by over 1,000 soldiers. During World War II, two batteries of 3-inch guns defended channel.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3298322
+Longitude: -70.9559361
+OpenStreetMap URL: https://www.openstreetmap.org/node/1148222790
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1148222790
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history; art

@@ -1,0 +1,25 @@
+Name: Grand Lux Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 600 North Michigan Avenue, Chicago IL 60611
+Description: Not listed
+Website: https://www.grandluxcafe.com/
+Phone: +1-312-276-2500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8931982
+Longitude: -87.6245306
+OpenStreetMap URL: https://www.openstreetmap.org/node/5159473692
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5159473692
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

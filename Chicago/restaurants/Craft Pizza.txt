@@ -1,0 +1,25 @@
+Name: Craft Pizza
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1252 North Damen Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://www.craftpizzachicago.com/
+Phone: +17734427238
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9048848
+Longitude: -87.6774662
+OpenStreetMap URL: https://www.openstreetmap.org/node/3652970968
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3652970968
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

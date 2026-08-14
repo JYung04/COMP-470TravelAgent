@@ -1,0 +1,25 @@
+Name: Fulgurances, Laundromat
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 132 Franklin Street, Brooklyn NY 11222
+Description: Not listed
+Website: https://fulgurances.com/en/the-restaurants/fulgurances-laundromat/
+Phone: +1-347-223-4106
+Email: laundromat@fulgurances.com
+Opening Hours: Tu-Sa 17:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7294221
+Longitude: -73.9573788
+OpenStreetMap URL: https://www.openstreetmap.org/node/11390738791
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11390738791
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Dudley Cafe
+City: Boston
+Category: cafes
+Cuisine: coffee_shop, sandwich
+Address: 15 Warren Street, Boston MA 02119
+Description: We make it easy for hosting any small or big events, business functions or office luncheon with a special blend of foods that is sure to impress and please. Dudley Café is a community hub. We work with local youth programs, schools, community organizations, and businesses.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.329941
+Longitude: -71.0834291
+OpenStreetMap URL: https://www.openstreetmap.org/node/4996456161
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4996456161
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

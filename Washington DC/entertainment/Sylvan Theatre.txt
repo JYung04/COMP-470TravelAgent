@@ -1,0 +1,25 @@
+Name: Sylvan Theatre
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: DC
+Description: The National Sylvan Theater — often simply the Sylvan Theater — is a public sylvan theater on the grounds of the Washington Monument, National Mall, in Washington, D.C., USA. It is located within the northwest corner of the 15th Street and Independence Avenue intersection, about 450 feet southeast of the Washington Monument. A wooden stage is set in a graded depression surrounded by a grove of trees. It appears as a natural amphitheater integral to the historic greensward of the monument grounds. A gathering of 10,000 event attendees may stretch from the theater stage back to the monument's base. The Sylvan Theater was the first federally funded theater in the United States.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8883256
+Longitude: -77.0344964
+OpenStreetMap URL: https://www.openstreetmap.org/way/66418825
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66418825
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

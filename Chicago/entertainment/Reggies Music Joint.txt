@@ -1,0 +1,25 @@
+Name: Reggies Music Joint
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 2105 South State Street, Chicago IL 60616
+Description: Not listed
+Website: https://www.reggieslive.com/
+Phone: +1-312-949-0120
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8539277
+Longitude: -87.6267613
+OpenStreetMap URL: https://www.openstreetmap.org/way/210537764
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210537764
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; music

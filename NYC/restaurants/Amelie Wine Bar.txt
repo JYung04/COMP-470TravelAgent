@@ -1,0 +1,25 @@
+Name: Amelie Wine Bar
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 566 Amsterdam Avenue, New York NY 10024
+Description: Not listed
+Website: https://www.amelieupperwest.com/
+Phone: +1-646-422-7167
+Email: Not listed
+Opening Hours: Mo-Th 16:00-21:30 "dinner"; Fr,Sa 12:00-15:00 "lunch/brunch", 16:00-22:00 "dinner"; Su 12:00-15:00 "lunch/bruch", 16:00-21:30 "dinner"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7887162
+Longitude: -73.9744949
+OpenStreetMap URL: https://www.openstreetmap.org/node/5984450685
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5984450685
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Tibby's New Orleans Kitchen
+City: Orlando
+Category: restaurants
+Cuisine: Cajun, Southern (US)
+Address: 2203 Aloma Avenue, Winter Park FL 32792
+Description: Not listed
+Website: https://tibbys.com/locations/winter-park/
+Phone: +1-407-672-5753
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.6021268
+Longitude: -81.3230643
+OpenStreetMap URL: https://www.openstreetmap.org/node/8668486207
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8668486207
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

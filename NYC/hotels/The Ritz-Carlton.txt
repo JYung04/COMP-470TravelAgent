@@ -1,0 +1,25 @@
+Name: The Ritz-Carlton
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 25 West 28th Street, New York NY 10001
+Description: Not listed
+Website: https://www.ritzcarlton.com/en/hotels/new-york/nomad
+Phone: +1-212-404-8400
+Email: nomadsales@ritzcarlton.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7456736
+Longitude: -73.9890745
+OpenStreetMap URL: https://www.openstreetmap.org/way/788269399
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/788269399
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Dwight A. Moseley Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 18th and Perry Sts., NE
+Description: Officially classified as field. Amenities include baseball or softball diamond, playground, tot lot, community garden.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9360871
+Longitude: -76.9777562
+OpenStreetMap URL: https://www.openstreetmap.org/way/48207509
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48207509
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

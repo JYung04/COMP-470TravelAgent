@@ -1,0 +1,25 @@
+Name: San Lorenzo
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 1316 9th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.sanlorenzodc.com/
+Phone: +1 202-588-8954
+Email: info@sanlorenzodc.com
+Opening Hours: Mo-Sa 11:00-14:30, Mo-Th 17:30-21:30, Fr-Sa 17:00-22:30, Su 17:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 38.9078499
+Longitude: -77.024138
+OpenStreetMap URL: https://www.openstreetmap.org/node/11147312605
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11147312605
+Price: $$$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

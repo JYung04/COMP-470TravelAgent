@@ -1,0 +1,25 @@
+Name: Dixon Place
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 161A Chrystie Street, 10002
+Description: non-profit theater for visual and performing arts.
+Website: https://dixonplace.org
+Phone: +1-212-219-0736
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7205838
+Longitude: -73.992773
+OpenStreetMap URL: https://www.openstreetmap.org/node/6223203434
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6223203434
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

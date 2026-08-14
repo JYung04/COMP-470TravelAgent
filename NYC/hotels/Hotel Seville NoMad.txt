@@ -1,0 +1,25 @@
+Name: Hotel Seville NoMad
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 22 East 29th Street, New York NY 10016
+Description: Not listed
+Website: https://www.hyatt.com/unbound-collection/en-US/nycud-hotel-seville-nomad
+Phone: +1 212-532-4100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.744645
+Longitude: -73.9855974
+OpenStreetMap URL: https://www.openstreetmap.org/node/3966939350
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3966939350
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

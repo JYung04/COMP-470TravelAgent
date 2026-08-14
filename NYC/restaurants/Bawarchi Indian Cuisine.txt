@@ -1,0 +1,25 @@
+Name: Bawarchi Indian Cuisine
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 1546 Madison Avenue, 10029
+Description: Not listed
+Website: http://bawarchis.com
+Phone: +1 212-289-7700
+Email: azizinus@yahoo.com
+Opening Hours: 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7927565
+Longitude: -73.9503189
+OpenStreetMap URL: https://www.openstreetmap.org/node/1749011123
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1749011123
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

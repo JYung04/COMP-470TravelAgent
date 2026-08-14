@@ -1,0 +1,25 @@
+Name: Courtyard Cafe
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 701 8th Street Northwest, Washington DC 20001-3516
+Description: Not listed
+Website: https://npg.si.edu/visit/courtyard-cafe
+Phone: +1 202-329-2423
+Email: Not listed
+Opening Hours: 11:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8980715
+Longitude: -77.0226469
+OpenStreetMap URL: https://www.openstreetmap.org/node/486527130
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/486527130
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

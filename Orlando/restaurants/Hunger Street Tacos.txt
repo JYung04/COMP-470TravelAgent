@@ -1,0 +1,25 @@
+Name: Hunger Street Tacos
+City: Orlando
+Category: restaurants
+Cuisine: mexican
+Address: 2103 W Fairbanks Ave, Winter Park, FL 32789, United States
+Description: Inspired by traditional Mexican street food like suadero, esquites and squash blossom quesadillas, Hunger Street Tacos serves fresh, affordable tacos and quesadillas with rich flavor. All of their tacos are priced under $5, with options ranging from classic carnitas to brisket and chorizo breakfast tacos with refried beans, avocado salsa, lime and eggs. They have several veggie-friendly fillings as well, like sauteed mushrooms, black beans, squash blossom salsa and fire roasted poblano peppers.
+Website: https://hungerstreettacos.com/
+Phone: +1 321-444-6270
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5934037
+Longitude: -81.3776864
+OpenStreetMap URL: https://www.openstreetmap.org/node/5163814781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5163814781
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Sus Hi Eatstation - Colonial
+City: Orlando
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 1830 Altaloma Avenue, Orlando FL 32803
+Description: Not listed
+Website: https://sushieatstation.com
+Phone: +1-407-652-6200
+Email: Not listed
+Opening Hours: Mo-We 11:00-21:00; Th-Sa 11:00-22:00; Su 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5529855
+Longitude: -81.3577484
+OpenStreetMap URL: https://www.openstreetmap.org/node/11455448444
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11455448444
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

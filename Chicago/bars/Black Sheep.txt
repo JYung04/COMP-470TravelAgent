@@ -1,0 +1,25 @@
+Name: Black Sheep
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2335 West Peterson Avenue, Chicago IL 60659
+Description: Not listed
+Website: Not listed
+Phone: +1-773-561-6674
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9902613
+Longitude: -87.693574
+OpenStreetMap URL: https://www.openstreetmap.org/way/209570116
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209570116
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

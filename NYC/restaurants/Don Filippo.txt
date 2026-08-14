@@ -1,0 +1,24 @@
+Name: Don Filippo
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: 1133 Lexington Avenue, 10075
+Description: Not listed
+Website: https://www.donfilipporestaurant.com/
+Phone: +1 212-744-3610
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-23:00; Su 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7745987
+Longitude: -73.9589824
+OpenStreetMap URL: https://www.openstreetmap.org/node/6374756586
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6374756586
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

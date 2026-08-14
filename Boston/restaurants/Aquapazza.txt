@@ -1,0 +1,24 @@
+Name: Aquapazza
+City: Boston
+Category: restaurants
+Cuisine: seafood, italian
+Address: 135 Richmond Street, 02109
+Description: Not listed
+Website: https://aquapazza-boston.com/
+Phone: +1 857 350 3105
+Email: Not listed
+Opening Hours: Tu-Th 16:00-22:30; Fr-Sa 16:00-23:00; Su 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.363255
+Longitude: -71.0540986
+OpenStreetMap URL: https://www.openstreetmap.org/node/5615401126
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5615401126
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

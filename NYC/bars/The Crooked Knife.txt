@@ -1,0 +1,24 @@
+Name: The Crooked Knife
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 540 2nd Avenue, 10016
+Description: Not listed
+Website: https://thecrookedknife.com/2avenue/
+Phone: +1-212-696-4104
+Email: Not listed
+Opening Hours: Mo-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7420892
+Longitude: -73.9775979
+OpenStreetMap URL: https://www.openstreetmap.org/node/3957124181
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3957124181
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

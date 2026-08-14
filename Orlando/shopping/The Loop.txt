@@ -1,0 +1,25 @@
+Name: The Loop
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 3208 N John Young Pkwy, Kissimmee, FL, United States, Kissimmee 34741
+Description: Not listed
+Website: https://www.experiencetheloop.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 10:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 28.3448364
+Longitude: -81.4222402
+OpenStreetMap URL: https://www.openstreetmap.org/way/261374545
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/261374545
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,25 @@
+Name: Union Market
+City: Washington DC
+Category: shopping
+Cuisine: Not listed
+Address: 1309 5th Street Northeast, 20002
+Description: Not listed
+Website: https://unionmarketdc.com/
+Phone: +1-301-347-3998
+Email: Not listed
+Opening Hours: Fr 11:00-20:00; Sa-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9085985
+Longitude: -76.9973664
+OpenStreetMap URL: https://www.openstreetmap.org/way/187087932
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/187087932
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,25 @@
+Name: Summerlake Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 15570 Porter Road, Winter Garden FL 34787
+Description: Not listed
+Website: https://www.ocfl.net/CultureParks/Parks.aspx?m=dtlvw&d=134
+Phone: +14072541940
+Email: Not listed
+Opening Hours: Mo-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4519889
+Longitude: -81.6203922
+OpenStreetMap URL: https://www.openstreetmap.org/way/1457127880
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1457127880
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

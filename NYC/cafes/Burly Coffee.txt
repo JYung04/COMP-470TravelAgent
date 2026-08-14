@@ -1,0 +1,25 @@
+Name: Burly Coffee
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 356 Throop Avenue, 11221
+Description: Small coffee shop selling used books and baked goods.
+Website: http://www.burlycoffee.com
+Phone: +1-718-388-0013
+Email: info@burlycoffee.com
+Opening Hours: Mo-Fr 07:00-16:00; Sa-Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6920497
+Longitude: -73.9429155
+OpenStreetMap URL: https://www.openstreetmap.org/node/5213287048
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5213287048
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

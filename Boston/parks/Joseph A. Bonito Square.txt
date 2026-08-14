@@ -1,0 +1,25 @@
+Name: Joseph A. Bonito Square
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Orient & Waldemar Avenues
+Description: Officially classified as malls, squares & plazas. Located in East Boston. Covers approximately 0.1 acres. Also known as Joseph A. Bonito Square; Walley Park.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.389593
+Longitude: -70.9990631
+OpenStreetMap URL: https://www.openstreetmap.org/way/763967207
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/763967207
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Luhring Augustine Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 531 West 24th Street, New York NY 10011
+Description: Not listed
+Website: https://luhringaugustine.com
+Phone: +1-212-206-9100
+Email: info@luhringaugustine.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7491116
+Longitude: -74.0050793
+OpenStreetMap URL: https://www.openstreetmap.org/node/10859974157
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10859974157
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

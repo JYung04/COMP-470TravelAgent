@@ -1,0 +1,24 @@
+Name: Party On
+City: NYC
+Category: restaurants
+Cuisine: pizza, beer
+Address: 254 Irving Avenue
+Description: Formerly Pizza Party, 80’s and 90’s themed dive bar with delightful bites!
+Website: Not listed
+Phone: +1-718-484-1034
+Email: pizzapartybushwick@gmail.com
+Opening Hours: Mo-Su 12:00-04:00
+Wheelchair Accessibility: limited
+Latitude: 40.6999113
+Longitude: -73.9162149
+OpenStreetMap URL: https://www.openstreetmap.org/node/4491464941
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4491464941
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

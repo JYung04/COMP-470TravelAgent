@@ -1,0 +1,25 @@
+Name: Henry Square
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Btwn Adams St and Gallivan Blvd
+Description: Officially classified as malls, squares & plazas. Located in Dorchester. Covers approximately 0.1 acres. Also known as Andrew Henry Square, Adams Square.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2827919
+Longitude: -71.0560739
+OpenStreetMap URL: https://www.openstreetmap.org/way/820650228
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/820650228
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

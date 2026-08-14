@@ -1,0 +1,25 @@
+Name: Vaca's Creamery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2324 West Giddings Street
+Description: Not listed
+Website: https://vacascreamery.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-We 15:00-21:30; Th-Su 12:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 41.9677528
+Longitude: -87.6875406
+OpenStreetMap URL: https://www.openstreetmap.org/node/11051903683
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11051903683
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

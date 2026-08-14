@@ -1,0 +1,25 @@
+Name: Berger Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 6205 North Sheridan Road, Chicago IL 60660
+Description: Berger Park, officially Park #1255 of the Chicago Park District, is a small recreational area bordering Lake Michigan in the Edgewater neighborhood of North Side, Chicago, Illinois. The park features the historic Downey House and Samuel H. Gunder houses.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/berger-albert-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9952886
+Longitude: -87.6549192
+OpenStreetMap URL: https://www.openstreetmap.org/way/173689271
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/173689271
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

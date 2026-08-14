@@ -1,0 +1,25 @@
+Name: The High Line
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY
+Description: The High Line is a 1.45-mile-long elevated linear park, greenway, and rail trail created on a former New York Central Railroad spur on the west side of Manhattan in New York City.
+Website: https://www.thehighline.org/
+Phone: +1 212-500-6035
+Email: info@thehighline.org
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7479527
+Longitude: -74.0039539
+OpenStreetMap URL: https://www.openstreetmap.org/relation/7141751
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/7141751
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: the high line
+Best For: outdoors

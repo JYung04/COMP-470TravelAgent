@@ -1,0 +1,24 @@
+Name: Las Tablas
+City: Chicago
+Category: restaurants
+Cuisine: steak_house, colombian
+Address: 4920 West Irving Park Road, Chicago IL 60641
+Description: Not listed
+Website: https://www.lastablaschicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9535803
+Longitude: -87.7508294
+OpenStreetMap URL: https://www.openstreetmap.org/node/2274089913
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2274089913
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

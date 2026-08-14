@@ -1,0 +1,25 @@
+Name: Soul Veg City
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 203 East 75th Street, Chicago IL 60619
+Description: Soul Veg City in Greater Grand Crossing Soul Veg City in Greater Grand Crossing At Soul Veg City , food is the best kind of medicine. The family-owned spot has been serving up 100% animal-free dishes in the city’s Chatham neighborhood for more than 40 years. The menu features comfort food staples, without any meat or dairy — you’ll find sandwiches, pasta, soups, salads, desserts, and more. Make sure to try a fresh juice and check what’s in the popular hot bar.
+Website: https://www.soulvegcity.com
+Phone: +1-773-224-0104
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-18:00; Sa-Su 10:00-18:00, Fr-Sa 20:00-25:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7581588
+Longitude: -87.6195949
+OpenStreetMap URL: https://www.openstreetmap.org/way/210862931
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210862931
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

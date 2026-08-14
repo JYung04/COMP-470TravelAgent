@@ -1,0 +1,25 @@
+Name: Embassy Suites by Hilton Washington DC Chevy Chase Pavilion
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 4300 Military Road Northwest, Washington DC 20015
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/wasches-embassy-suites-washington-dc-chevy-chase-pavilion/
+Phone: +1 202-362-9300
+Email: wasch_gm@hilton.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9607639
+Longitude: -77.0848476
+OpenStreetMap URL: https://www.openstreetmap.org/node/809009324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/809009324
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

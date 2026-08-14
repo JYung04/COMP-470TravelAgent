@@ -1,0 +1,25 @@
+Name: Credit Union 1 Arena
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 525 South Racine Avenue, Chicago IL 60607
+Description: Not listed
+Website: https://www.creditunion1arena.com/
+Phone: +1 312 413 5700
+Email: creditunion1arena@gmail.com
+Opening Hours: Mo-Fr 10:00-17:00; Sa-Su 10:00-21:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 41.8748349
+Longitude: -87.6561616
+OpenStreetMap URL: https://www.openstreetmap.org/way/205221992
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/205221992
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

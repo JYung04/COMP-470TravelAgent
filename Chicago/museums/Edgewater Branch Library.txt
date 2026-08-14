@@ -1,0 +1,25 @@
+Name: Edgewater Branch Library
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 6000 North Broadway, Chicago IL 60660
+Description: Not listed
+Website: https://www.chipublib.org/locations/28/
+Phone: +1-312-742-1945
+Email: edgewater@chipublib.org
+Opening Hours: Mo,We 10:00-18:00; Tu,Th 12:00-20:00; Fr-Sa 09:00-17:00; Su 13:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 41.9911503
+Longitude: -87.6606996
+OpenStreetMap URL: https://www.openstreetmap.org/way/320170467
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/320170467
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

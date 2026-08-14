@@ -1,0 +1,24 @@
+Name: The Adirondack
+City: NYC
+Category: bars
+Cuisine: sandwich, snack
+Address: Not listed
+Description: Not listed
+Website: http://www.theadirondackbar.com
+Phone: +1-718-871-0100
+Email: Not listed
+Opening Hours: Mo-Th 15:00-02:00; Fr 15:00-04:00; Sa 12:00-04:00; Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6526396
+Longitude: -73.9758564
+OpenStreetMap URL: https://www.openstreetmap.org/node/2562001527
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2562001527
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

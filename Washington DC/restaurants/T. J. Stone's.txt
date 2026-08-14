@@ -1,0 +1,25 @@
+Name: T. J. Stone's
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 608 Montgomery Street, Alexandria 22314
+Description: Causual dining and Bar (The Tap Room). American cuisine.
+Website: https://tjstones.com/
+Phone: +1-703-548-1004
+Email: Not listed
+Opening Hours: Mo-We, Su 11:00-00:00; Th-Sa 11:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8139623
+Longitude: -77.0443686
+OpenStreetMap URL: https://www.openstreetmap.org/node/2776113356
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2776113356
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

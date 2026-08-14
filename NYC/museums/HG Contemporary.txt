@@ -1,0 +1,25 @@
+Name: HG Contemporary
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 527 West 23rd Street, New York NY 10011
+Description: Not listed
+Website: http://www.hgcontemporary.com
+Phone: +1 212 366-4490
+Email: info@hgcontemporary.com
+Opening Hours: Mo-Sa 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.748353
+Longitude: -74.0052494
+OpenStreetMap URL: https://www.openstreetmap.org/node/6285350420
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6285350420
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

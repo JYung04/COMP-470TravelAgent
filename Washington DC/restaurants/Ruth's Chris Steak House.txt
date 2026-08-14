@@ -1,0 +1,24 @@
+Name: Ruth's Chris Steak House
+City: Washington DC
+Category: restaurants
+Cuisine: american, steak_house
+Address: 2001 K Street Northwest, Washington DC 20036
+Description: Not listed
+Website: https://www.ruthschris.com/restaurant-locations/washington-dc-3/
+Phone: +1 202-918-5583
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9035857
+Longitude: -77.04639
+OpenStreetMap URL: https://www.openstreetmap.org/node/7259754048
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7259754048
+Price: $
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

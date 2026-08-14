@@ -1,0 +1,25 @@
+Name: Chinito Latino Hibachi Fusion
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 122 Dyckman Street, NY 10040
+Description: Not listed
+Website: https://chinitolatino.com
+Phone: +1-646-590-3628
+Email: Not listed
+Opening Hours: Mo-Su 13:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.862187
+Longitude: -73.9254495
+OpenStreetMap URL: https://www.openstreetmap.org/way/275114025
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/275114025
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

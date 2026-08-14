@@ -1,0 +1,24 @@
+Name: Oliveira's Steakhouse
+City: Boston
+Category: restaurants
+Cuisine: steak_house, brazilian
+Address: 297 Chelsea Street, East Boston MA 02128
+Description: Enjoy the taste of Brazil with our incredible Dine Out Boston lunch & dinner special March 10th-23rd, 2024 (excluding Saturdays). Experience our full menu of all-you-can-eat Brazilian BBQ with endless premium meats of over 20+ options including picanha, lamb, and chicken paired with a bottomless hot buffet and salad bar. One soda and one dessert included in our reduced price per guest. Looking forward to seeing you then! Dine Out Boston is August 1 – 15, 2026 See amenity tab for more information.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: +1 617-581-7277
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3769822
+Longitude: -71.0302281
+OpenStreetMap URL: https://www.openstreetmap.org/way/29618462
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29618462
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

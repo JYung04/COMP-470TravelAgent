@@ -1,0 +1,24 @@
+Name: Franks Wine Bar
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: Not listed
+Description: Not listed
+Website: https://frankswinebar.com
+Phone: +1-718-254-0327
+Email: Not listed
+Opening Hours: Mo-Th 17:00-23:00; Fr 17:00-24:00; Sa 12:00-24:00; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6771797
+Longitude: -73.9982258
+OpenStreetMap URL: https://www.openstreetmap.org/node/4196018188
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4196018188
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

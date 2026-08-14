@@ -1,0 +1,25 @@
+Name: Yaso Noodle Bar
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 289 Mercer Street, New York NY 10003
+Description: Not listed
+Website: https://www.yasotangbao.com/
+Phone: +1-917-522-1600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7302173
+Longitude: -73.9940092
+OpenStreetMap URL: https://www.openstreetmap.org/node/7324240299
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7324240299
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Taqueria Al Lado
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 1792 Columbia Road Northwest, Washington DC 20009-2805
+Description: Not listed
+Website: http://www.taqueriaallado.com
+Phone: +1 202-481-0048
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9227212
+Longitude: -77.0422691
+OpenStreetMap URL: https://www.openstreetmap.org/node/9597687543
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9597687543
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Croft Alley
+City: NYC
+Category: cafes
+Cuisine: breakfast, salad
+Address: 210 6th Avenue, 10014
+Description: Not listed
+Website: https://www.croftalley.com/new-york
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7270606
+Longitude: -74.0031671
+OpenStreetMap URL: https://www.openstreetmap.org/node/8789178531
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8789178531
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

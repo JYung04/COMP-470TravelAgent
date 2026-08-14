@@ -1,0 +1,25 @@
+Name: The William Vale
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 111 North 12th Street, Brooklyn NY 11249
+Description: Not listed
+Website: https://www.thewilliamvale.com/
+Phone: +1-718-631-8400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7224118
+Longitude: -73.9569215
+OpenStreetMap URL: https://www.openstreetmap.org/node/4795942922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4795942922
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

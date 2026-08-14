@@ -1,0 +1,25 @@
+Name: Maggiano's
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 4 Columbus Ave
+Description: Not listed
+Website: https://maggianos.com/locations/Massachusetts/Boston/4-columbus-ave.
+Phone: +1 617-542-3456
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr, Sa 11:00-23:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3509739
+Longitude: -71.0686497
+OpenStreetMap URL: https://www.openstreetmap.org/node/10836123152
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10836123152
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

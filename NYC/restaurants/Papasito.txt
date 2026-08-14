@@ -1,0 +1,25 @@
+Name: Papasito
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 223 Dyckman Street
+Description: Not listed
+Website: https://papasitony.com/
+Phone: +1-212-544-0001
+Email: Not listed
+Opening Hours: Mo-We 16:00-24:00; Th 14:00-01:00; Fr,Sa 14:00-04:00; Su 11:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 40.8659316
+Longitude: -73.9274671
+OpenStreetMap URL: https://www.openstreetmap.org/node/5711722291
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5711722291
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

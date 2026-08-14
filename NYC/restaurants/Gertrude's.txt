@@ -1,0 +1,24 @@
+Name: Gertrude's
+City: NYC
+Category: restaurants
+Cuisine: american, jewish, seafood
+Address: 605 Carlton Avenue, Brooklyn NY 11238
+Description: Not listed
+Website: https://www.gertrudes.nyc
+Phone: +1-718-269-0043
+Email: Not listed
+Opening Hours: Mo,We-Fr 17:00-22:00; Sa-Su 09:30-15:00,17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6790513
+Longitude: -73.9716118
+OpenStreetMap URL: https://www.openstreetmap.org/node/2573115170
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2573115170
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

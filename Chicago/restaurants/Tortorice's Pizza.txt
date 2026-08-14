@@ -1,0 +1,25 @@
+Name: Tortorice's Pizza
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 1746 West Grand Avenue
+Description: Not listed
+Website: https://www.tortoricespizza.com/chicago-grand-avenue
+Phone: +1 312-243-4444
+Email: Not listed
+Opening Hours: 10:30-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8910216
+Longitude: -87.6714159
+OpenStreetMap URL: https://www.openstreetmap.org/node/2535218224
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2535218224
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

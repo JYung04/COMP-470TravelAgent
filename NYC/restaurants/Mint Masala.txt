@@ -1,0 +1,25 @@
+Name: Mint Masala
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 95 MacDougal Street
+Description: Not listed
+Website: https://mintmasalaindiancuisine.com
+Phone: +1-212-777-2888
+Email: masalanyc@gmail.com
+Opening Hours: Fr, Sa 11:30-00:00; Mo-Th, Su 11:30-23:00
+Wheelchair Accessibility: no
+Latitude: 40.7294683
+Longitude: -74.001062
+OpenStreetMap URL: https://www.openstreetmap.org/node/5099589357
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5099589357
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

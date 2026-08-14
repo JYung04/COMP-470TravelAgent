@@ -1,0 +1,25 @@
+Name: Pitchers Cafe
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 2317 18th Street Northwest, Washington DC 20009-1814
+Description: Not listed
+Website: https://www.pitchersbardc.com/
+Phone: +1 202-733-2568
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.9201422
+Longitude: -77.0415943
+OpenStreetMap URL: https://www.openstreetmap.org/node/7004870920
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7004870920
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

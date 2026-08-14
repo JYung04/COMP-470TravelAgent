@@ -1,0 +1,24 @@
+Name: Bavette's Bar & Boeuf
+City: Chicago
+Category: restaurants
+Cuisine: fine_dining, steak_house
+Address: 218 West Kinzie Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.bavettessteakhouse.com/chicago/home
+Phone: +1-312-624-8154
+Email: Not listed
+Opening Hours: Mo-Th 16:00-22:30; Fr-Sa 15:00-23:00; Su 15:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.889285
+Longitude: -87.6348919
+OpenStreetMap URL: https://www.openstreetmap.org/node/5028929321
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5028929321
+Price: Not listed
+Rating: 4.8
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

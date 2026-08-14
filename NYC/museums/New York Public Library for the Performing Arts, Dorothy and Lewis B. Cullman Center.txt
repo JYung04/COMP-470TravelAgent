@@ -1,0 +1,25 @@
+Name: New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 40 Lincoln Center Plaza, New York NY 10023
+Description: Not listed
+Website: https://www.nypl.org/locations/lpa
+Phone: +1-917-275-6975
+Email: performingarts@nypl.org
+Opening Hours: Mo,Th 10:00-20:00; Tu-We,Fr-Sa 10:00-18:00; Su,PH off; May Mo[-1] -2 days off
+Wheelchair Accessibility: yes
+Latitude: 40.7732287
+Longitude: -73.9847509
+OpenStreetMap URL: https://www.openstreetmap.org/node/2710204016
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2710204016
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

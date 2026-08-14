@@ -1,0 +1,25 @@
+Name: CAVA
+City: Orlando
+Category: restaurants
+Cuisine: mediterranean
+Address: 236 E Michigan Street, Orlando 32806
+Description: Not listed
+Website: https://cava.com/locations/sodo-fl
+Phone: +1-689-698-4113
+Email: Not listed
+Opening Hours: Mo-Su 10:45-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5125224
+Longitude: -81.3751304
+OpenStreetMap URL: https://www.openstreetmap.org/node/11390121669
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11390121669
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

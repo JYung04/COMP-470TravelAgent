@@ -1,0 +1,25 @@
+Name: Russian Tea Room
+City: NYC
+Category: restaurants
+Cuisine: russian
+Address: 150 West 57th Street, New York 10019
+Description: The Russian Tea Room is an Art Deco Russo-Continental restaurant, located at 150 West 57th Street, between Carnegie Hall Tower and Metropolitan Tower, in the New York City borough of Manhattan.
+Website: https://russiantearoomnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7650339
+Longitude: -73.9793005
+OpenStreetMap URL: https://www.openstreetmap.org/node/1497326724
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1497326724
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

@@ -1,0 +1,25 @@
+Name: Kesté Pizza e Vino
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 77 Fulton Street
+Description: Not listed
+Website: https://kestepizzeria.com/en/keste-fulton/
+Phone: +1-212-243-1500
+Email: info@kestepizzeria.com
+Opening Hours: Mo-Th 11:30-15:30, 04:30-22:00; Fr, Sa 11:30-23:00; Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7091806
+Longitude: -74.004849
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978745715
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978745715
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Washington Printmakers Gallery
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1675 Wisconsin Avenue Northwest, Washington DC
+Description: Not listed
+Website: https://www.washingtonprintmakers.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9123136
+Longitude: -77.0657623
+OpenStreetMap URL: https://www.openstreetmap.org/node/13112623468
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13112623468
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

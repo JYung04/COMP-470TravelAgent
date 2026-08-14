@@ -1,0 +1,25 @@
+Name: John F. Kennedy Presidential Library and Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: Dorchester MA 02125
+Description: Step back into the recreated world of the early 1960s and experience first hand the life and legacy of President John F. Kennedy. Period settings from the White House and 25 multimedia exhibits create a stirring account of President Kennedy's thousand days in office. Housed in a striking building designed by I.M. Pei, the national memorial to President Kennedy sits on a 10-acre waterfront site on Columbia Point offering panoramic views of Boston's skyline and Harbor Islands. The JFK Museum Store offers unique gifts for visitors including collectors items, posters, President Kennedy's favorite rocking chair, videos, T-shirts, children's items, books and more. A Museum catalog is also available. This Museum is Group Friendly!
+Website: https://www.jfklibrary.org/
+Phone: +1-617-514-1600; +1-866-535-1960
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3161811
+Longitude: -71.0340099
+OpenStreetMap URL: https://www.openstreetmap.org/way/217512570
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/217512570
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; families; views

@@ -1,0 +1,25 @@
+Name: Winter Village
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://bryantpark.org/activities/bank-of-america-winter-village-at-bryant-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Nov-Dec unknown; Jan-Oct off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7540698
+Longitude: -73.9842452
+OpenStreetMap URL: https://www.openstreetmap.org/node/3869459457
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3869459457
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

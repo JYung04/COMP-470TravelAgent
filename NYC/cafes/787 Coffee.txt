@@ -1,0 +1,25 @@
+Name: 787 Coffee
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 66 Pearl Street, 10004
+Description: Not listed
+Website: https://www.787coffee.com/
+Phone: +1 646-449-9200
+Email: Not listed
+Opening Hours: Mo-Su 07:00-20:00
+Wheelchair Accessibility: no
+Latitude: 40.7035248
+Longitude: -74.0108884
+OpenStreetMap URL: https://www.openstreetmap.org/node/2183010462
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2183010462
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

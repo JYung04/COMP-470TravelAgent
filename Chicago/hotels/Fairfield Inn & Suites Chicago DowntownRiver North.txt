@@ -1,0 +1,25 @@
+Name: Fairfield Inn & Suites Chicago Downtown/River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 510 North Dearborn Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.marriott.com/chift
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8911139
+Longitude: -87.6299853
+OpenStreetMap URL: https://www.openstreetmap.org/way/153291616
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/153291616
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

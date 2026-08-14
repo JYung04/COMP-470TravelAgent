@@ -1,0 +1,25 @@
+Name: Union Street Pub
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 829 Franklin Avenue, 11225
+Description: Not listed
+Website: https://www.unionstreetpubbk.com
+Phone: +1-347-715-6312
+Email: Not listed
+Opening Hours: Mo 18:00-04:00; Tu-Th 16:00-04:00; Fr 14:30-04:00; Sa 15:00-04:00; Su 15:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6698648
+Longitude: -73.9581019
+OpenStreetMap URL: https://www.openstreetmap.org/node/7161294640
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7161294640
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: La Nueva Placitas
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 149-23 Jamaica Avenue, Jamaica NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.70215
+Longitude: -73.8048049
+OpenStreetMap URL: https://www.openstreetmap.org/node/7857569292
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7857569292
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

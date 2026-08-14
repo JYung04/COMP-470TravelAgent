@@ -1,0 +1,25 @@
+Name: AMC Loews 84th Street 6
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 2310 Broadway, New York NY 10024
+Description: movie theater on the Upper West Side of Manhattan, New York City, United States
+Website: https://www.amctheatres.com/movie-theatres/new-york-city/amc-84th-street-6
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7867861
+Longitude: -73.9774328
+OpenStreetMap URL: https://www.openstreetmap.org/node/2758640929
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2758640929
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

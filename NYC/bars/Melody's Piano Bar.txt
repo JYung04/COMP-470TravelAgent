@@ -1,0 +1,25 @@
+Name: Melody's Piano Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 1020 Lexington Avenue, 10021
+Description: Not listed
+Website: https://www.melodyspianobar.com/
+Phone: +1 646-559-2808
+Email: melodyspianobar@gmail.com
+Opening Hours: Mo-Th 17:00-02:00; Fr, Sa 17:00-04:00
+Wheelchair Accessibility: no
+Latitude: 40.7710341
+Longitude: -73.9619458
+OpenStreetMap URL: https://www.openstreetmap.org/node/7099017456
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7099017456
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,24 @@
+Name: First Sip Cafe
+City: Chicago
+Category: cafes
+Cuisine: vietnamese, coffee_shop
+Address: 1057 West Argyle Street, Chicago IL 60640
+Description: Not listed
+Website: https://www.firstsip.cafe/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9731619
+Longitude: -87.6572017
+OpenStreetMap URL: https://www.openstreetmap.org/node/6290101163
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6290101163
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

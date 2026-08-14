@@ -1,0 +1,25 @@
+Name: Scalinatella Ristorante
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 201 East 61st Street, 10065
+Description: Not listed
+Website: Not listed
+Phone: +1 212-207-8280
+Email: Not listed
+Opening Hours: Mo-Sa 12:00-14:30, 17:00-23:00; Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7627899
+Longitude: -73.9653786
+OpenStreetMap URL: https://www.openstreetmap.org/node/8638490154
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8638490154
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

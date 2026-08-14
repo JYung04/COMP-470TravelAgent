@@ -1,0 +1,25 @@
+Name: Music Hall of Williamsburg
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 66 North 6th Street, Brooklyn NY 11249
+Description: Music Hall of Williamsburg is a music venue located at 66 North 6th Street in the Williamsburg neighborhood of Brooklyn in New York City. The venue is operated by The Bowery Presents, a group stemming from Bowery Ballroom that was bought by AEG in 2017. The Music Hall of Williamsburg has a capacity of 650 people and has shows on most nights of the week.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7191523
+Longitude: -73.9617836
+OpenStreetMap URL: https://www.openstreetmap.org/way/279779989
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/279779989
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; music

@@ -1,0 +1,25 @@
+Name: Fairfield Inn & Suites Orlando Ocoee
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 10971 West Colonial Drive, Ocoee FL 34761
+Description: Not listed
+Website: https://www.marriott.com/mcoof
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5531582
+Longitude: -81.5413443
+OpenStreetMap URL: https://www.openstreetmap.org/way/917255808
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/917255808
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

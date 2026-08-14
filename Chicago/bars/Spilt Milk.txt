@@ -1,0 +1,25 @@
+Name: Spilt Milk
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2758 West Fullerton Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.yelp.com/biz/spilt-milk-chicago-5?osq=Bars
+Phone: +1-773-413-8440
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9249893
+Longitude: -87.6972462
+OpenStreetMap URL: https://www.openstreetmap.org/node/4743569594
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4743569594
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

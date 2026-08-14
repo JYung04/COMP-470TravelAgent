@@ -1,0 +1,25 @@
+Name: Raku Soho
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 48 MacDougal Street, New York NY 10012
+Description: Not listed
+Website: https://rakunyc.com/
+Phone: +1 212-228-1324
+Email: soho@rakunyc.com
+Opening Hours: Su-Th 00:00-22:00; Fr,Sa 00:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7273101
+Longitude: -74.0025925
+OpenStreetMap URL: https://www.openstreetmap.org/node/2722711716
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2722711716
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

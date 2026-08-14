@@ -1,0 +1,25 @@
+Name: Indian Garden
+City: Chicago
+Category: restaurants
+Cuisine: indian
+Address: 247 East Ontario Street, Chicago IL 60611
+Description: Not listed
+Website: https://www.indiangardenchicago.com/
+Phone: +1 312-280-4910
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8932431
+Longitude: -87.6208409
+OpenStreetMap URL: https://www.openstreetmap.org/node/3551688266
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3551688266
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

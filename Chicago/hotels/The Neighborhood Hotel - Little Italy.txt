@@ -1,0 +1,25 @@
+Name: The Neighborhood Hotel - Little Italy
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1431 West Taylor Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.theneighborhoodhotel.com/location/little-italy-chicago/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.869083
+Longitude: -87.6628102
+OpenStreetMap URL: https://www.openstreetmap.org/way/209809926
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209809926
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

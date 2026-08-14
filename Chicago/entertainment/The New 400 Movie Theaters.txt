@@ -1,0 +1,25 @@
+Name: The New 400 Movie Theaters
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 6746 North Sheridan Road, Chicago IL 60626
+Description: Not listed
+Website: https://www.thenew400.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.0047872
+Longitude: -87.6614198
+OpenStreetMap URL: https://www.openstreetmap.org/node/4939803966
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4939803966
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

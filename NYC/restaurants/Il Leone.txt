@@ -1,0 +1,25 @@
+Name: Il Leone
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 158 7th Avenue, 11215
+Description: Not listed
+Website: https://illeone.me/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6722231
+Longitude: -73.977337
+OpenStreetMap URL: https://www.openstreetmap.org/node/11144787708
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11144787708
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

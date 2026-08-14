@@ -1,0 +1,25 @@
+Name: Coffee Chat
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 4459 West Lawrence Avenue, Chicago IL 60630
+Description: Not listed
+Website: Not listed
+Phone: +1 773 814 0548
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9680015
+Longitude: -87.7402172
+OpenStreetMap URL: https://www.openstreetmap.org/node/10094467262
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10094467262
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Bikes Beans & Bordeaux
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 3022 Corrine Drive, Orlando FL 32803
+Description: Not listed
+Website: https://b3cafe.square.site
+Phone: +1-407-427-1440
+Email: Not listed
+Opening Hours: 8:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5676127
+Longitude: -81.3451847
+OpenStreetMap URL: https://www.openstreetmap.org/node/9316250836
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9316250836
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

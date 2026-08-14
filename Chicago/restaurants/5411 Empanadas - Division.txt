@@ -1,0 +1,24 @@
+Name: 5411 Empanadas - Division
+City: Chicago
+Category: restaurants
+Cuisine: argentinian, empanada
+Address: 1659 West Division Street, Chicago IL 60622
+Description: Not listed
+Website: https://www.5411empanadas.com/
+Phone: +1-773-227-3064
+Email: Not listed
+Opening Hours: Mo-Th 07:00-21:00; Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9031079
+Longitude: -87.6709525
+OpenStreetMap URL: https://www.openstreetmap.org/node/6410352419
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6410352419
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

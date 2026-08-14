@@ -1,0 +1,25 @@
+Name: Baskin-Robbins
+City: Chicago
+Category: cafes
+Cuisine: ice_cream
+Address: 7171 West Irving Park Road, Chicago IL 60634
+Description: Not listed
+Website: https://locations.baskinrobbins.com/il/chicago/7171-w-irving-park-rd-300938-br
+Phone: +1 773-286-1668
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 41.952335
+Longitude: -87.8062906
+OpenStreetMap URL: https://www.openstreetmap.org/node/7265006796
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7265006796
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Baggio's Pizza and Restaurant
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 210 Main Street
+Description: Not listed
+Website: https://www.baggiospizza.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8511728
+Longitude: -73.9708161
+OpenStreetMap URL: https://www.openstreetmap.org/node/2269596294
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2269596294
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Insomnia Cookies
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 61 Bromfield Street, Boston MA 02108
+Description: Not listed
+Website: https://insomniacookies.com/locations/store/1223
+Phone: +1-617-431-2494
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-24:00; Sa-Su 12:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 42.3570627
+Longitude: -71.0607808
+OpenStreetMap URL: https://www.openstreetmap.org/node/7888717567
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7888717567
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

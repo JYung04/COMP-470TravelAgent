@@ -1,0 +1,25 @@
+Name: Mandela Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 265 West 126th Street, New York NY 10027
+Description: Not listed
+Website: https://livinglotsnyc.org/lot/58229/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8107974
+Longitude: -73.9499718
+OpenStreetMap URL: https://www.openstreetmap.org/way/362827398
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/362827398
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

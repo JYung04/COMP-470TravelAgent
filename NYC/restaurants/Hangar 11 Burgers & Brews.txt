@@ -1,0 +1,25 @@
+Name: Hangar 11 Burgers & Brews
+City: NYC
+Category: restaurants
+Cuisine: burger
+Address: 11415
+Description: Not listed
+Website: https://hangar11nyc.com/
+Phone: +17184418100
+Email: Not listed
+Opening Hours: Mo-Su 12:00-23:00
+Wheelchair Accessibility: limited
+Latitude: 40.7061937
+Longitude: -73.8313228
+OpenStreetMap URL: https://www.openstreetmap.org/node/4915161021
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4915161021
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

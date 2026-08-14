@@ -1,0 +1,25 @@
+Name: Berikoni Georgian Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 125 Brighton Beach Avenue, Brooklyn NY 11235
+Description: Not listed
+Website: Not listed
+Phone: +1-718-708-5040
+Email: Not listed
+Opening Hours: Mo-Su 09:30-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.5765289
+Longitude: -73.9674473
+OpenStreetMap URL: https://www.openstreetmap.org/node/9789252613
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9789252613
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

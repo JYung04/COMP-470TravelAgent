@@ -1,0 +1,25 @@
+Name: Xanadu Roller Arts
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 262 Starr Street, Brooklyn NY 11237
+Description: Not listed
+Website: https://www.xanadu.nyc/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7064268
+Longitude: -73.9214566
+OpenStreetMap URL: https://www.openstreetmap.org/way/250440700
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250440700
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife; art

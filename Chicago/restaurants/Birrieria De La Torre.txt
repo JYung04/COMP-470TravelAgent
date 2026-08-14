@@ -1,0 +1,25 @@
+Name: Birrieria De La Torre
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 6724 South Pulaski Road, Chicago IL 60629
+Description: Not listed
+Website: http://birrieriadelatorre.net
+Phone: +1 773 7676075
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.77057
+Longitude: -87.7228231
+OpenStreetMap URL: https://www.openstreetmap.org/node/4449187734
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4449187734
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

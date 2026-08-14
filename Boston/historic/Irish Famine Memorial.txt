@@ -1,0 +1,25 @@
+Name: Irish Famine Memorial
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Boston Irish Famine Memorial is a memorial park located on a plaza between Washington Street and School Street in Boston, Massachusetts. The park contains two groups of statues to contrast an Irish family suffering during the Great Famine of 1845–1852 with a prosperous family that had immigrated to America. Funded by a trust led by Boston businessman Thomas Flatley, the park was opened in 1998. It has received contrasting reviews and has since been called "the most mocked and reviled public sculpture in Boston".
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3573401
+Longitude: -71.0586575
+OpenStreetMap URL: https://www.openstreetmap.org/way/29818870
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29818870
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history; views

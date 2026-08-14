@@ -1,0 +1,25 @@
+Name: Queens Library at Long Island City
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 37-44 21st Street, NY 11101
+Description: Not listed
+Website: https://www.queenslibrary.org/about-us/locations/long-island-city
+Phone: +1-718-752-3700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7578141
+Longitude: -73.9393033
+OpenStreetMap URL: https://www.openstreetmap.org/way/280642211
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/280642211
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

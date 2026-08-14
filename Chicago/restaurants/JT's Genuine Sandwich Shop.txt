@@ -1,0 +1,25 @@
+Name: JT's Genuine Sandwich Shop
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 3970 Elston Ave, Chicago 60618
+Description: Not listed
+Website: https://jtsgenuine.com/
+Phone: +17737547729
+Email: jtsgenuine@gmail.com
+Opening Hours: Tue-Sat, 11am-7pm
+Wheelchair Accessibility: Not listed
+Latitude: 41.9532612
+Longitude: -87.718754
+OpenStreetMap URL: https://www.openstreetmap.org/node/13536202101
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13536202101
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

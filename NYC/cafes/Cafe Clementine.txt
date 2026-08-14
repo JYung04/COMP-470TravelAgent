@@ -1,0 +1,25 @@
+Name: Cafe Clementine
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 227 West Broadway
+Description: Not listed
+Website: https://cafeclementine.com/
+Phone: +1-212-965-0909
+Email: cafeclementinenyc@gmail.com
+Opening Hours: Mo-Fr 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7192673
+Longitude: -74.0060718
+OpenStreetMap URL: https://www.openstreetmap.org/node/5163989224
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5163989224
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

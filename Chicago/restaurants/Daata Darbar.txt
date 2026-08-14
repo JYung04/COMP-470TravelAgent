@@ -1,0 +1,25 @@
+Name: Daata Darbar
+City: Chicago
+Category: restaurants
+Cuisine: indian
+Address: 2308 West Devon Avenue, Chicago IL 60659
+Description: Not listed
+Website: Not listed
+Phone: +1 773 262 7330
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 41.997875
+Longitude: -87.687933
+OpenStreetMap URL: https://www.openstreetmap.org/node/3815628257
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3815628257
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

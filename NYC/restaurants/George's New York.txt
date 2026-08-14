@@ -1,0 +1,25 @@
+Name: George's New York
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 85 Greenwich Street
+Description: Not listed
+Website: https://www.georges-ny.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7078644
+Longitude: -74.0134822
+OpenStreetMap URL: https://www.openstreetmap.org/node/4972315823
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4972315823
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

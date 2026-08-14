@@ -1,0 +1,25 @@
+Name: Schuyler Otis Bland Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 300 Steamboat Road, Kings Point NY 11024
+Description: Named for Rep. Schuyler Otis Bland, of Virginia from 1918 until his death in 1950. Chairman of the House Merchant Marine and Fisheries Committee chairman for 16 years, remembered as "father of the Merchant Marine Act of 1936."
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8131052
+Longitude: -73.7620156
+OpenStreetMap URL: https://www.openstreetmap.org/way/600918874
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/600918874
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

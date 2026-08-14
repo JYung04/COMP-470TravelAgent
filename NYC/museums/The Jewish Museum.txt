@@ -1,0 +1,25 @@
+Name: The Jewish Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1109 5th Avenue, New York NY 10128
+Description: Not listed
+Website: https://thejewishmuseum.org
+Phone: +1-212-423-3200
+Email: info@thejm.org
+Opening Hours: Th-Mo 11:00-16:00; Tu-We off; Oct 03-04, Oct 12, Nov 28 off; Oct 11 11:00-15:00; Apr 12 11:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 40.7854051
+Longitude: -73.957186
+OpenStreetMap URL: https://www.openstreetmap.org/way/266940107
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266940107
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

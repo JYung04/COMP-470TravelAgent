@@ -1,0 +1,25 @@
+Name: Tacos & Tequilla
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 1742 2nd Avenue, 10128
+Description: Not listed
+Website: https://tacos-tequila-mexican-restaurant.business.site
+Phone: +1 917-340-6234
+Email: Not listed
+Opening Hours: 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7807448
+Longitude: -73.9494056
+OpenStreetMap URL: https://www.openstreetmap.org/node/5729305630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5729305630
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Halfsmoke
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 651 Florida Avenue Northwest, Washington DC 20001
+Description: Not listed
+Website: https://halfsmoke.com/
+Phone: +1 202-986-2079
+Email: Not listed
+Opening Hours: We-Th 11:00-24:00, Fr 11:00-22:00, Sa-Tu 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9163408
+Longitude: -77.0217127
+OpenStreetMap URL: https://www.openstreetmap.org/node/4852964121
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4852964121
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

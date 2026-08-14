@@ -1,0 +1,25 @@
+Name: Cinemart Theatres
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 106-05 Metropolitan Avenue, Forest Hills NY 11375
+Description: movie theater in Forest Hills, Queens, New York City, United States
+Website: https://www.cinemartcinemas.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7100759
+Longitude: -73.8467864
+OpenStreetMap URL: https://www.openstreetmap.org/way/248809771
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248809771
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

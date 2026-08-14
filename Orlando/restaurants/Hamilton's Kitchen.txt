@@ -1,0 +1,25 @@
+Name: Hamilton's Kitchen
+City: Orlando
+Category: restaurants
+Cuisine: Floridian, American, Fresh market
+Address: 300 E New England Ave, Winter Park, FL 32789, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 407-998-8089
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5956741
+Longitude: -81.3483451
+OpenStreetMap URL: https://www.openstreetmap.org/node/12752601815
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12752601815
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

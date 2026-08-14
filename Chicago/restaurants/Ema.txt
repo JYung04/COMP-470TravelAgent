@@ -1,0 +1,25 @@
+Name: Ema
+City: Chicago
+Category: restaurants
+Cuisine: mediterranean
+Address: 74 West Illinois Street, Chicago IL 60654
+Description: Not listed
+Website: http://emachicago.com/
+Phone: +1-312-527-5586
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-21:00
+Wheelchair Accessibility: yes
+Latitude: 41.8910012
+Longitude: -87.6308546
+OpenStreetMap URL: https://www.openstreetmap.org/node/5457225505
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5457225505
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

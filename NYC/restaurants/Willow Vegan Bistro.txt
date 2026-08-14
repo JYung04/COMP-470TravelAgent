@@ -1,0 +1,24 @@
+Name: Willow Vegan Bistro
+City: NYC
+Category: restaurants
+Cuisine: bistro, american
+Address: 199 8th Avenue, New York NY 10011
+Description: Not listed
+Website: https://willownewyork.com/
+Phone: +1-212-929-2889
+Email: Not listed
+Opening Hours: Mo-Th 11:30-21:30; Fr-Sa 11:30-22:30; Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7436499
+Longitude: -73.9999237
+OpenStreetMap URL: https://www.openstreetmap.org/node/9845565310
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9845565310
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

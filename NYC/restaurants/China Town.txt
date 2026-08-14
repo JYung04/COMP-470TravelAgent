@@ -1,0 +1,25 @@
+Name: China Town
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 184 Franklin St, Belleville, NJ 07109, United States
+Description: Not listed
+Website: Not listed
+Phone: +1 973-759-8818
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7829884
+Longitude: -74.1825884
+OpenStreetMap URL: https://www.openstreetmap.org/node/7428240280
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7428240280
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

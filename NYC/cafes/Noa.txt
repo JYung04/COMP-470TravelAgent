@@ -1,0 +1,24 @@
+Name: Noa
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfast, sandwich
+Address: Not listed
+Description: Not listed
+Website: https://noaacafe.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7461129
+Longitude: -73.983285
+OpenStreetMap URL: https://www.openstreetmap.org/node/13680208011
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13680208011
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

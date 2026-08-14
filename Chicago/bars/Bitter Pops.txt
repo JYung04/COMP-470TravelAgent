@@ -1,0 +1,25 @@
+Name: Bitter Pops
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3357 North Lincoln Avenue, Chicago IL 60657
+Description: Not listed
+Website: https://www.bitterpops.com/
+Phone: +1-773-857-7677
+Email: Not listed
+Opening Hours: Mo-Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9431184
+Longitude: -87.6708557
+OpenStreetMap URL: https://www.openstreetmap.org/node/6267320530
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6267320530
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

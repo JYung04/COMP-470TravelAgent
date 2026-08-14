@@ -1,0 +1,25 @@
+Name: Frank
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 88 2nd Avenue, 10003
+Description: Not listed
+Website: https://www.frankrestaurant.com
+Phone: +1-212-420-0202
+Email: Not listed
+Opening Hours: Mo-Th 10:30-01:00, Fr-Sa 10:30-02:00, Su 10:30-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7268894
+Longitude: -73.988693
+OpenStreetMap URL: https://www.openstreetmap.org/node/12093994495
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12093994495
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

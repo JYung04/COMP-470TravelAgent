@@ -1,0 +1,25 @@
+Name: Irish Channel
+City: Washington DC
+Category: bars
+Cuisine: irish
+Address: 500 H Street Northwest, Washington DC 20001-2620
+Description: Not listed
+Website: https://www.irishchanneldc.com/
+Phone: +1 202-216-0046
+Email: Not listed
+Opening Hours: Su-Mo 11:00-23:00; Tu-Th 11:00-01:30; Fr-Sa 11:00-02:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8995212
+Longitude: -77.019106
+OpenStreetMap URL: https://www.openstreetmap.org/node/2419113017
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2419113017
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

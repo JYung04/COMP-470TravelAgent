@@ -1,0 +1,25 @@
+Name: Roast Kitchen
+City: NYC
+Category: restaurants
+Cuisine: international
+Address: 820 8th Avenue, New York NY 10018
+Description: Counter for hot and cold healthy fresh salads and grains with various meat add-ons available.
+Website: http://www.roast-kitchen.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-22:00; Sa-Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7536984
+Longitude: -73.9921149
+OpenStreetMap URL: https://www.openstreetmap.org/node/4842467840
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4842467840
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

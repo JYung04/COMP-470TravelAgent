@@ -1,0 +1,25 @@
+Name: El Nico
+City: NYC
+Category: bars
+Cuisine: mexican
+Address: 288 North 8th Street, Brooklyn NY 11211
+Description: Not listed
+Website: https://penny-hotel.com/elnico
+Phone: +1-929-594-2028
+Email: Not listed
+Opening Hours: Mo-Th 14:00-22:00; Fr 14:00-01:00; Sa 09:00-01:00; Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7155266
+Longitude: -73.9529936
+OpenStreetMap URL: https://www.openstreetmap.org/node/12998413401
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12998413401
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

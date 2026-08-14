@@ -1,0 +1,25 @@
+Name: Artopolis
+City: Chicago
+Category: cafes
+Cuisine: greek
+Address: 306 South Halsted Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.artopolischicago.com/
+Phone: +1-312-559-9000
+Email: Not listed
+Opening Hours: Mo-Th 08:30-00:00; Fr-Sa 08:30-01:00; Su 09:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8776226
+Longitude: -87.6474142
+OpenStreetMap URL: https://www.openstreetmap.org/node/5427932523
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5427932523
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

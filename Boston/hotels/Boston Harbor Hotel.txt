@@ -1,0 +1,25 @@
+Name: Boston Harbor Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 70 Rowes Wharf, Boston MA 02110
+Description: The Boston Harbor Hotel is a luxury hotel overlooking Boston Harbor and the Rose Kennedy Greenway. It is a member of Preferred Hotels & Resorts Worldwide.
+Website: https://www.bostonharborhotel.com/
+Phone: +1 617 439 7000
+Email: reservations@bhh.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3566602
+Longitude: -71.0503163
+OpenStreetMap URL: https://www.openstreetmap.org/node/1325873780
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1325873780
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

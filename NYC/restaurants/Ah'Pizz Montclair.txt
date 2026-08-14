@@ -1,0 +1,25 @@
+Name: Ah'Pizz Montclair
+City: NYC
+Category: restaurants
+Cuisine: Pizza, Italian, Neapolitan, Pizza delivery
+Address: 7 N Willow St, Montclair, NJ 07042, United States
+Description: Not listed
+Website: http://ahpizz.com/
+Phone: +1 973-783-9200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8126864
+Longitude: -74.2146819
+OpenStreetMap URL: https://www.openstreetmap.org/node/4837099845
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4837099845
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

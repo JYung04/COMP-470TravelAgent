@@ -1,0 +1,24 @@
+Name: Phinista
+City: Boston
+Category: restaurants
+Cuisine: crepe, vietnamese
+Address: 96 Peterborough Street, Boston MA 02215
+Description: Not listed
+Website: https://www.phinista.com/
+Phone: +1-617-262-7700
+Email: Not listed
+Opening Hours: Mo-Su 09:30-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3430483
+Longitude: -71.0992983
+OpenStreetMap URL: https://www.openstreetmap.org/node/2458375057
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2458375057
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

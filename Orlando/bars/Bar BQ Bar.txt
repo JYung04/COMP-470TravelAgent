@@ -1,0 +1,25 @@
+Name: Bar BQ Bar
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 64 North Orange Avenue, Orlando FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5432681
+Longitude: -81.3792476
+OpenStreetMap URL: https://www.openstreetmap.org/node/940694847
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/940694847
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

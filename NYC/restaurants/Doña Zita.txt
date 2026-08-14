@@ -1,0 +1,25 @@
+Name: Doña Zita
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 1221 Bowery Street, NY 11224
+Description: Not listed
+Website: https://donazitamex.com/
+Phone: +1 929-254-9072
+Email: Not listed
+Opening Hours: Tu-Su 12:00-22:00;Mo off
+Wheelchair Accessibility: Not listed
+Latitude: 40.5748963
+Longitude: -73.9804635
+OpenStreetMap URL: https://www.openstreetmap.org/node/4080312832
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4080312832
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

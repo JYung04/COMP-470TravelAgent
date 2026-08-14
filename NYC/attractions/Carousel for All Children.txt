@@ -1,0 +1,25 @@
+Name: Carousel for All Children
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 2 Eton Place, 10314
+Description: Not listed
+Website: Not listed
+Phone: +1-718-477-0605
+Email: celebrate@sigreenbelt.org
+Opening Hours: Th-Su 11:00-17:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.6035775
+Longitude: -74.1583714
+OpenStreetMap URL: https://www.openstreetmap.org/way/247449026
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/247449026
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing; families

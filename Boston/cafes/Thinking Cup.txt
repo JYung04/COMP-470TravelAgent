@@ -1,0 +1,25 @@
+Name: Thinking Cup
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 165 Tremont Street
+Description: Opened its doors in December 2010, Thinking Cup is ideally located just steps from the Boston Common. We are committed to providing the premier coffee experience in Boston by serving only the finest coffees, teas, and freshly baked pastries.
+Website: http://thinkingcup.com/
+Phone: +1-617-482-5555
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 42.354108
+Longitude: -71.0636785
+OpenStreetMap URL: https://www.openstreetmap.org/node/11177408080
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11177408080
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

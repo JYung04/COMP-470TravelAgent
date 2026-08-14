@@ -1,0 +1,25 @@
+Name: Askili Orchard
+City: NYC
+Category: restaurants
+Cuisine: georgian
+Address: 401 6th Avenue, New York NY 10014
+Description: Not listed
+Website: https://askiliorchard.com/
+Phone: +1-646-344-1241
+Email: info@askiliorchard.com
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7334356
+Longitude: -73.9999276
+OpenStreetMap URL: https://www.openstreetmap.org/node/7509089435
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7509089435
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

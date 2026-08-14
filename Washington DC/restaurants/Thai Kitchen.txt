@@ -1,0 +1,25 @@
+Name: Thai Kitchen
+City: Washington DC
+Category: restaurants
+Cuisine: thai
+Address: 7015 Wisconsin Ave, Chevy Chase, MD 20815, United States
+Description: Not listed
+Website: http://www.thethaikitchenmd.com/
+Phone: +1 301-986-8424
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9796902
+Longitude: -77.0916873
+OpenStreetMap URL: https://www.openstreetmap.org/node/12345317741
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12345317741
+Price: Not listed
+Rating: 3.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: M Social Hotel New York Downtown
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 55 Church Street, New York NY 10007
+Description: The M Social Hotel New York Downtown, formerly the Millennium Downtown New York, is a hotel in Lower Manhattan, New York City, located at the southeast corner of Fulton Street and Church Street. The hotel is adjacent to 195 Broadway, with which it shares the block, and is located across Church Street from the World Trade Center. The building is 55 stories tall, with a total of 569 guest rooms and 98 suites.
+Website: https://www.msocial.com/en/new-york/m-social-hotel-new-york-downtown/?utm_source=local-directories&utm_medium=organic&utm_campaign=travelclick-localconnect
+Phone: +1-212-693-2001
+Email: info@msocialnewyorkdowntown.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7111301
+Longitude: -74.0102166
+OpenStreetMap URL: https://www.openstreetmap.org/way/278039445
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278039445
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

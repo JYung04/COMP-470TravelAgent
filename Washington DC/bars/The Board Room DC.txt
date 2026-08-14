@@ -1,0 +1,25 @@
+Name: The Board Room DC
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1737 Connecticut Avenue Northwest, Washington DC 20009-1341
+Description: board games
+Website: https://www.boardroomdc.com/
+Phone: +1 202-518-7666
+Email: Not listed
+Opening Hours: Mo-Th, Su 16:00-02:00; Fr, Sa 16:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9136193
+Longitude: -77.0454577
+OpenStreetMap URL: https://www.openstreetmap.org/node/4070703036
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4070703036
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,24 @@
+Name: Taqueria Sofia
+City: NYC
+Category: restaurants
+Cuisine: mexican, burrito, quesadilla, tacos
+Address: 187 Suydam Street, Brooklyn NY 11221
+Description: Not listed
+Website: https://sofiamexicanrestaurantny.com/
+Phone: +1 347-407-8893
+Email: socaspon@gmail.com
+Opening Hours: 11:00-22:00; Mo off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7002919
+Longitude: -73.9256805
+OpenStreetMap URL: https://www.openstreetmap.org/node/4424297323
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4424297323
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

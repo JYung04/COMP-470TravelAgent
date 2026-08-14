@@ -1,0 +1,25 @@
+Name: Chicago Sports Museum
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 835 North Michigan Avenue, Chicago IL 60611
+Description: Step inside the world of Chicago sports. Fans of all ages can explore interactive exhibits and virtual-reality experiences, including: Test your vertical leap against Michael Jordan Challenge your quarterback skills with veteran Bears players Try on the largest Super Bowl ring ever made See the city’s largest collection of 2016 Cubs World Series memorabilia Experience the Chicago Sports Museum
+Website: https://www.chicagosportsmuseum.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8980264
+Longitude: -87.6220778
+OpenStreetMap URL: https://www.openstreetmap.org/node/10873137225
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10873137225
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

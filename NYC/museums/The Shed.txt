@@ -1,0 +1,25 @@
+Name: The Shed
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 545 West 30th Street, New York NY 10001
+Description: Another centerpiece of Hudson Yards is this new arts center . Its boxlike exterior has a quilted effect on the outer shell, which is mobile. It was designed on wheels so that the building can expand and contract to accommodate the performances inside. What happens inside, at The Shed’s theaters and galleries, will be high-profile as well. The Shed officially opens on April 5, with inaugural events including Soundtrack of America celebrating African American musicians and a limited run of Anne Ca
+Website: https://theshed.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo off
+Wheelchair Accessibility: yes
+Latitude: 40.7532777
+Longitude: -74.0027134
+OpenStreetMap URL: https://www.openstreetmap.org/way/681503639
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/681503639
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art; music

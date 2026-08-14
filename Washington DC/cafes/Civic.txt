@@ -1,0 +1,25 @@
+Name: Civic
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 501 8th Street Southeast, Washington DC
+Description: Not listed
+Website: https://www.salonforthecity.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8825755
+Longitude: -76.9952161
+OpenStreetMap URL: https://www.openstreetmap.org/node/3395924726
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3395924726
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

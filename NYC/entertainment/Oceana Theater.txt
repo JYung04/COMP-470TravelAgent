@@ -1,0 +1,25 @@
+Name: Oceana Theater
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 1029 Brighton Beach Avenue, 11235
+Description: Not listed
+Website: https://oceanatheater.com/
+Phone: +1 646-200-1555
+Email: info@oceanatheater.com
+Opening Hours: We, Sa 14:00-17:00
+Wheelchair Accessibility: no
+Latitude: 40.578484
+Longitude: -73.958406
+OpenStreetMap URL: https://www.openstreetmap.org/node/4870096922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4870096922
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

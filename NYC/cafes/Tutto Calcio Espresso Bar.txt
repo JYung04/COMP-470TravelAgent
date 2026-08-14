@@ -1,0 +1,25 @@
+Name: Tutto Calcio Espresso Bar
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 24 John Street, New York NY 10038
+Description: Not listed
+Website: https://www.instagram.com/tuttocalcioespressobar
+Phone: +1-212-389-0254
+Email: Not listed
+Opening Hours: Mo-Su 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7096711
+Longitude: -74.0087599
+OpenStreetMap URL: https://www.openstreetmap.org/node/11119847161
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11119847161
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

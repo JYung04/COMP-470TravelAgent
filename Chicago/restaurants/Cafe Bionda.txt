@@ -1,0 +1,25 @@
+Name: Cafe Bionda
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 1924 South State Street, Chicago IL 60616
+Description: Not listed
+Website: https://cafebiondasouthloop.com/
+Phone: +1 312-846-1901
+Email: Not listed
+Opening Hours: Su-Th 16:00-23:00; Fr-Sa 16:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8557795
+Longitude: -87.6274007
+OpenStreetMap URL: https://www.openstreetmap.org/node/11759257309
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11759257309
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

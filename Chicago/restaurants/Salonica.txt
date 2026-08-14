@@ -1,0 +1,25 @@
+Name: Salonica
+City: Chicago
+Category: restaurants
+Cuisine: greek
+Address: 1440 East 57th Street, Chicago IL 60637
+Description: Not listed
+Website: Not listed
+Phone: +1 773-752-3899
+Email: Not listed
+Opening Hours: mo-th 07:00-15:00; fr-sun 07:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7916126
+Longitude: -87.5901224
+OpenStreetMap URL: https://www.openstreetmap.org/node/4114593395
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4114593395
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

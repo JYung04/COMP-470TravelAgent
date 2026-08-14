@@ -1,0 +1,25 @@
+Name: Beatnik
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1604 West Chicago Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://www.beatnikchicago.com/
+Phone: +1-312-929-4945
+Email: Not listed
+Opening Hours: Tu-Fr 17:00-02:00; Sa 11:00-03:00; Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8963394
+Longitude: -87.6677065
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460871124
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460871124
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

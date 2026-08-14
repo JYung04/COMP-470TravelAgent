@@ -1,0 +1,25 @@
+Name: Abiel Smith School
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 46 Joy Street, Boston MA 02114
+Description: Not listed
+Website: https://www.nps.gov/boaf/learn/historyculture/abiel-smith-school.htm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.359989
+Longitude: -71.0652098
+OpenStreetMap URL: https://www.openstreetmap.org/way/405880922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/405880922
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

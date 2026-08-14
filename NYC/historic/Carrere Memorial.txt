@@ -1,0 +1,25 @@
+Name: Carrere Memorial
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Carrère and Hastings, the firm of John Merven Carrère and Thomas Hastings, was an American architecture firm specializing in Beaux-Arts architecture. Located in New York City, the firm practiced from 1885 until 1929, although Hastings practiced alone after Carrère died in an automobile accident in 1911.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7979084
+Longitude: -73.974426
+OpenStreetMap URL: https://www.openstreetmap.org/node/357620584
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/357620584
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history; architecture; art

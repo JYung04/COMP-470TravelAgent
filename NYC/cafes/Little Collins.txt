@@ -1,0 +1,25 @@
+Name: Little Collins
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 708 3rd Avenue, New York NY 10017
+Description: Not listed
+Website: https://www.littlecollinsnyc.com/
+Phone: +1-212-308-1969
+Email: Not listed
+Opening Hours: Tu-Fr 07:00-16:00; Sa,Su 07:30-16:00; Mo 07:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.7523935
+Longitude: -73.9735028
+OpenStreetMap URL: https://www.openstreetmap.org/node/8789533322
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8789533322
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

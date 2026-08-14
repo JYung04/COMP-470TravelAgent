@@ -1,0 +1,25 @@
+Name: Kotti Berliner Döner Kebab
+City: NYC
+Category: restaurants
+Cuisine: kebab
+Address: 88 Essex Street, New York NY 10002
+Description: Not listed
+Website: https://www.kottidoner.com/
+Phone: +1 917-261-5255
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7180014
+Longitude: -73.9882157
+OpenStreetMap URL: https://www.openstreetmap.org/node/9374707282
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9374707282
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

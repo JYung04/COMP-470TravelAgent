@@ -1,0 +1,25 @@
+Name: Gordon Ramsay's Hells Kitchen
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 652 Wharf Street Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.gordonramsayrestaurants.com/en/us/hells-kitchen
+Phone: +1 202-558-4450
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8767962
+Longitude: -77.0223449
+OpenStreetMap URL: https://www.openstreetmap.org/node/9901942837
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9901942837
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

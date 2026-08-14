@@ -1,0 +1,24 @@
+Name: La Fonda
+City: NYC
+Category: restaurants
+Cuisine: caribbean, puerto_rican
+Address: 169 East 106th Street, 10029
+Description: Not listed
+Website: https://lafondanyc.com
+Phone: +1-212-410-7292
+Email: lafondanyc@gmail.com
+Opening Hours: Tu-Th 12:00-22:00; Fr,Sa 11:00-23:00; Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7919013
+Longitude: -73.9450329
+OpenStreetMap URL: https://www.openstreetmap.org/node/9542866767
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9542866767
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Maz Mescal
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 316 East 86th Street, 10028
+Description: Not listed
+Website: https://www.mazmezcal.com
+Phone: +1 212-472-1599
+Email: Not listed
+Opening Hours: Tu-Th 16:00-22:00; Fr 16:00-22:30; Sa 13:00-22:30; Su 13:00-21:00; Mo 17:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7774087
+Longitude: -73.9510298
+OpenStreetMap URL: https://www.openstreetmap.org/node/6209861993
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6209861993
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

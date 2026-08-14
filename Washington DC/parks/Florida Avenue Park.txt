@@ -1,0 +1,25 @@
+Name: Florida Avenue Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: First Street and Florida Avenue, NW
+Description: Officially classified as park. Amenities include basketball court, playground.
+Website: https://dpr.dc.gov/page/florida-avenue-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9122227
+Longitude: -77.0129349
+OpenStreetMap URL: https://www.openstreetmap.org/way/48207352
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48207352
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

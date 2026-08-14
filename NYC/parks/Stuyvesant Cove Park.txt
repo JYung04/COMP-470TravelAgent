@@ -1,0 +1,25 @@
+Name: Stuyvesant Cove Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: New York NY 10010
+Description: Stuyvesant Cove Park is a 1.9-acre (7,700 m2) public park on the East Side of the New York City borough of Manhattan that runs from 18th Street to 23rd Street between the FDR Drive and the East River. Part of the East River Greenway, it is located to the south of the Waterside Plaza apartment complex, to the east of Stuyvesant Town–Peter Cooper Village, and to the north of the East River Park, and connects to the Captain Patrick J. Brown Walk on the south end. Stuyvesant Cove is served by the NYC Ferry Soundview route.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7331415
+Longitude: -73.9739857
+OpenStreetMap URL: https://www.openstreetmap.org/way/31009822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/31009822
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; views

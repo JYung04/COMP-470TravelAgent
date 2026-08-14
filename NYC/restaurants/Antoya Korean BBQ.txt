@@ -1,0 +1,25 @@
+Name: Antoya Korean BBQ
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 37 West 32nd Street, 10001
+Description: Not listed
+Website: https://antoyabbq.com
+Phone: +1 215-695-3131
+Email: info@antoyabbq.com
+Opening Hours: Su-Th 11:30-22:45; Fr, Sa 11:30-02:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.7480141
+Longitude: -73.9872738
+OpenStreetMap URL: https://www.openstreetmap.org/node/9644541105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9644541105
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

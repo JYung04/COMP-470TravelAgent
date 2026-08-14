@@ -1,0 +1,25 @@
+Name: Roti Mediterranean Grill
+City: Washington DC
+Category: restaurants
+Cuisine: mediterranean
+Address: 2221 I Street Northwest, Washington DC 20037-2237
+Description: Not listed
+Website: https://www.roti.com/
+Phone: +1 202-499-2095
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 38.9009628
+Longitude: -77.0496223
+OpenStreetMap URL: https://www.openstreetmap.org/node/2999912041
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2999912041
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

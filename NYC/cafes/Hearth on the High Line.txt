@@ -1,0 +1,25 @@
+Name: Hearth on the High Line
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: High Line, New York NY 10011
+Description: Not listed
+Website: https://www.restauranthearth.com/location-hours/
+Phone: +1-646-602-1300
+Email: info@restauranthearth.com
+Opening Hours: Th-Mo 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7429989
+Longitude: -74.007331
+OpenStreetMap URL: https://www.openstreetmap.org/node/6833456286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6833456286
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

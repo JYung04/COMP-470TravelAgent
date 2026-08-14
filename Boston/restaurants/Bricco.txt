@@ -1,0 +1,24 @@
+Name: Bricco
+City: Boston
+Category: restaurants
+Cuisine: Italian Restaurant
+Address: 241 Hanover St (btwn Cross & Richmond), Boston, MA 02113
+Description: BRICCO's "boutique" Italian cuisine is unique, personal, and created for a select and sophisticated diner. The food is complemented by a wine bar with an exceptional selection of Italian wines. BRICCO's modern interpretations of regional Italian dishes have garnered superlative reviews. Experience a slice of Italy when you walk through the door of BRICCO - a warm welcome, incomparable cuisine, and a lively late night scene.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: (617) 248-6800
+Email: briccosuites@dventures.net
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3631769
+Longitude: -71.0548764
+OpenStreetMap URL: https://www.openstreetmap.org/node/2430572064
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2430572064
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; views

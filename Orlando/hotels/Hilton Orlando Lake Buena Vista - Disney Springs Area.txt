@@ -1,0 +1,25 @@
+Name: Hilton Orlando Lake Buena Vista - Disney Springs Area
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1751 Hotel Plaza Boulevard, Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/orldwhh-hilton-orlando-lake-buena-vista/
+Phone: +1-407-827-4000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3723437
+Longitude: -81.510983
+OpenStreetMap URL: https://www.openstreetmap.org/way/44672156
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/44672156
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

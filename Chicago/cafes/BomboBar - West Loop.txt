@@ -1,0 +1,24 @@
+Name: BomboBar - West Loop
+City: Chicago
+Category: cafes
+Cuisine: donut, coffee_shop, coffee
+Address: 832 West Randolph Street, Chicago IL 60607
+Description: Not listed
+Website: http://www.bombobar.com/
+Phone: +1-312-967-7000
+Email: Not listed
+Opening Hours: Mo-Su 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8847419
+Longitude: -87.6487499
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460607041
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460607041
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

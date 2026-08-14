@@ -1,0 +1,25 @@
+Name: Antojitos Poblanos
+City: NYC
+Category: restaurants
+Cuisine: Mexican
+Address: 246 Grand St, Paterson, NJ 07501, United States
+Description: Not listed
+Website: https://m.facebook.com/AntojitosPoblanos/?tsid=0.4219613620971254&source=result
+Phone: +1 973-278-4983
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9104224
+Longitude: -74.1776838
+OpenStreetMap URL: https://www.openstreetmap.org/way/379238340
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/379238340
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

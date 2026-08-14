@@ -1,0 +1,25 @@
+Name: Upland
+City: NYC
+Category: restaurants
+Cuisine: Californian, American, Italian, Takeout
+Address: 345 Park Avenue South
+Description: Not listed
+Website: https://uplandnyc.com/?utm_source=Google+My+Business&utm_medium=Website+Button
+Phone: +1 212-686-1006
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7418061
+Longitude: -73.9846404
+OpenStreetMap URL: https://www.openstreetmap.org/node/6168816885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6168816885
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

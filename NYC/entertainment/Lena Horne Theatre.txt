@@ -1,0 +1,25 @@
+Name: Lena Horne Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 256 West 47th Street, New York NY 10036
+Description: Not listed
+Website: http://www.brooksatkinsontheater.com/
+Phone: (212) 719-4099
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7599493
+Longitude: -73.9869854
+OpenStreetMap URL: https://www.openstreetmap.org/way/266149301
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266149301
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

@@ -1,0 +1,25 @@
+Name: La Colombe Coffee Roasters
+City: Boston
+Category: cafes
+Cuisine: coffee_shop
+Address: 745 Atlantic Avenue, Boston MA 02111
+Description: Not listed
+Website: https://www.lacolombe.com/pages/cafes#boston
+Phone: +1-857-317-5340
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3504764
+Longitude: -71.057103
+OpenStreetMap URL: https://www.openstreetmap.org/node/7995658761
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7995658761
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

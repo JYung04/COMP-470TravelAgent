@@ -1,0 +1,25 @@
+Name: Clery's
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 113 Dartmouth Street, Boston MA 02116
+Description: Not listed
+Website: https://www.clerysboston.com/
+Phone: +1-617-262-9874
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3461504
+Longitude: -71.0751841
+OpenStreetMap URL: https://www.openstreetmap.org/node/4624393599
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4624393599
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

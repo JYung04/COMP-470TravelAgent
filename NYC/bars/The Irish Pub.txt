@@ -1,0 +1,25 @@
+Name: The Irish Pub
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 837 7th Avenue, New York NY 10019
+Description: Not listed
+Website: http://www.theirishpubnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7633512
+Longitude: -73.9813706
+OpenStreetMap URL: https://www.openstreetmap.org/node/2610440254
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2610440254
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

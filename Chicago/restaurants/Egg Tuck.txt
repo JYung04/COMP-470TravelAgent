@@ -1,0 +1,24 @@
+Name: Egg Tuck
+City: Chicago
+Category: restaurants
+Cuisine: korean, breakfast
+Address: 2144 North Clark Street
+Description: Not listed
+Website: https://www.eggtuck.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9258552
+Longitude: -87.6404595
+OpenStreetMap URL: https://www.openstreetmap.org/node/9932730803
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9932730803
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: 150th Ohio National Guard Monument
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: American Civil War memorial at Battleground National Cemetery in Washington, D.C.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9709139
+Longitude: -77.0269421
+OpenStreetMap URL: https://www.openstreetmap.org/node/358960361
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358960361
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

@@ -1,0 +1,25 @@
+Name: City View Inn
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 33-17 Greenpoint Avenue, Long Island City NY 11101
+Description: Not listed
+Website: http://www.cityviewinn.net/
+Phone: +1 718-392-8400
+Email: info@cityviewinn.net
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7361669
+Longitude: -73.9342128
+OpenStreetMap URL: https://www.openstreetmap.org/way/265159321
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265159321
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; views

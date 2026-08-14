@@ -1,0 +1,25 @@
+Name: Runaway Cow
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 608 West 31st Street, Chicago IL 60616
+Description: Not listed
+Website: https://www.runawaycowvegan.com
+Phone: Not listed
+Email: runawaycowvegan@gmail.com
+Opening Hours: Su-Th 12:00-22:00; Fr-Sa 12:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 41.8382498
+Longitude: -87.6419375
+OpenStreetMap URL: https://www.openstreetmap.org/node/12908161188
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12908161188
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

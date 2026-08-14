@@ -1,0 +1,25 @@
+Name: Universal Islands of Adventure
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 6000 Universal Blvd, Orlando FL 32819
+Description: Universal Islands of Adventure, commonly known as Islands of Adventure, is a theme park in Orlando, Florida, United States. Owned by NBCUniversal and operated by Universal Destinations & Experiences, the park officially opened as Universal Studios Islands of Adventure on May 28, 1999. Its opening marked Universal's largest investment and expansion in the Orlando area since the debut of Universal Studios Florida in 1990. The expansion included the development of Universal CityWalk, together establishing what became Universal Orlando Resort. The park was renamed Universal's Islands of Adventure in 2001, a name that remained in use through 2023. It was the second of four parks to open at the resort and was later followed by Universal Volcano Bay in 2017 and.
+Website: https://www.universalorlando.com/Theme-Parks/Islands-of-Adventure.aspx
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4718744
+Longitude: -81.4709461
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1124085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1124085
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

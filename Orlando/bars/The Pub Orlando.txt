@@ -1,0 +1,25 @@
+Name: The Pub Orlando
+City: Orlando
+Category: bars
+Cuisine: British
+Address: 9101 International Dr Suite 1003, Orlando` FL 32819
+Description: Not listed
+Website: https://experiencethepub.com/orlando/
+Phone: +1 407-352-2305
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4310115
+Longitude: -81.4700041
+OpenStreetMap URL: https://www.openstreetmap.org/way/912641860
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/912641860
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

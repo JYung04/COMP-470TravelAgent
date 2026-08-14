@@ -1,0 +1,25 @@
+Name: Lincoln Hall
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2424 North Lincoln Avenue, Chicago IL 60614
+Description: Originally opened as a movie theatre, this 1912 building has had several lives over the years, including an auto garage and mechanic shop. It was also the spot where FBI agents took aim at John Dillinger, one of America’s most famous gangsters. Today, it houses Lincoln Hall and brings a reliable schedule of rock and pop acts to the Lincoln Park neighborhood .
+Website: https://www.lh-st.com/
+Phone: +1-773-525-2501
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9259154
+Longitude: -87.6498129
+OpenStreetMap URL: https://www.openstreetmap.org/way/210321368
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210321368
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Tony & Joe's Seafood Place
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 3000 K Street Northwest
+Description: Not listed
+Website: https://www.tonyandjoes.com/
+Phone: +1-202-944-4545
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9013006
+Longitude: -77.0597059
+OpenStreetMap URL: https://www.openstreetmap.org/node/694539805
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/694539805
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

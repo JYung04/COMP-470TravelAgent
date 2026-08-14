@@ -1,0 +1,25 @@
+Name: Pei Wei
+City: Orlando
+Category: restaurants
+Cuisine: asian
+Address: 6250 West Irlo Bronson Memorial Highway, Celebration FL 34747
+Description: Not listed
+Website: https://www.peiwei.com/locations/florida/258-celebration/
+Phone: +1-407-566-8488
+Email: Not listed
+Opening Hours: 11:00-21:00; Fr,Sa 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.3309296
+Longitude: -81.533519
+OpenStreetMap URL: https://www.openstreetmap.org/way/554759477
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/554759477
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

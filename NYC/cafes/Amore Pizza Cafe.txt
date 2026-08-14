@@ -1,0 +1,24 @@
+Name: Amore Pizza Cafe
+City: NYC
+Category: cafes
+Cuisine: pizza, pasta, salad, pastry
+Address: 370 West 58th Street, New York NY 10019
+Description: Not listed
+Website: http://amorepizzacafe.com/
+Phone: +1-212-581-4200
+Email: Not listed
+Opening Hours: Su-Th 10:00-02:00; Fr-Sa 10:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7684196
+Longitude: -73.9851251
+OpenStreetMap URL: https://www.openstreetmap.org/node/4957074132
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4957074132
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

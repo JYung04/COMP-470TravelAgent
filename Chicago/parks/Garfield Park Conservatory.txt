@@ -1,0 +1,25 @@
+Name: Garfield Park Conservatory
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 300 North Central Park Avenue, Chicago IL 60624
+Description: Not listed
+Website: https://garfieldconservatory.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Tu 10:00-17:00; We 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8868424
+Longitude: -87.7179129
+OpenStreetMap URL: https://www.openstreetmap.org/way/163779324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163779324
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

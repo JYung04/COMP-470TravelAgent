@@ -1,0 +1,25 @@
+Name: Site of the Sauganash Hotel/Wigwam
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: SE corner of Lake St & Wacker Dr
+Description: A designated Chicago landmark. Built: 1831,1860. Landmark designation date: 2002-11-06T00:00:00.000.
+Website: https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1417
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8856021
+Longitude: -87.6368786
+OpenStreetMap URL: https://www.openstreetmap.org/node/9906890910
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9906890910
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

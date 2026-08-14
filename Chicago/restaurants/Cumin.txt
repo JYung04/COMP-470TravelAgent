@@ -1,0 +1,24 @@
+Name: Cumin
+City: Chicago
+Category: restaurants
+Cuisine: nepalese, indian
+Address: 1414 North Milwaukee Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://www.cumin-chicago.com/
+Phone: +1-773-342-1414
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9074948
+Longitude: -87.6733858
+OpenStreetMap URL: https://www.openstreetmap.org/way/209863988
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209863988
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

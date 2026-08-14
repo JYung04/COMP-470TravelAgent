@@ -1,0 +1,25 @@
+Name: Rosa's Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 425 7th Avenue, New York NY 10001
+Description: Not listed
+Website: Not listed
+Phone: +16469983044
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7504377
+Longitude: -73.9907795
+OpenStreetMap URL: https://www.openstreetmap.org/node/9235536634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9235536634
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

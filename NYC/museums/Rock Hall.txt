@@ -1,0 +1,25 @@
+Name: Rock Hall
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 199 Broadway, Lawrence NY 11559
+Description: Rock Hall is a historic house museum and park owned and operated by the Town of Hempstead, located within Lawrence, a village in Nassau County, on Long Island, in New York, United States.
+Website: https://www.friendsofrockhall.org/
+Phone: +1 516-239-1157
+Email: FriendsofRockHall@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6089555
+Longitude: -73.7339552
+OpenStreetMap URL: https://www.openstreetmap.org/way/548563813
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/548563813
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

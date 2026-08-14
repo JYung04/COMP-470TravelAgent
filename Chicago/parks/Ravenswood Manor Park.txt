@@ -1,0 +1,25 @@
+Name: Ravenswood Manor Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4626 N MANOR AVE, Chicago, IL 60625
+Description: Officially classified as neighborhood park. Covers approximately 0.8 acres. Facilities include community center, playground.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9656483
+Longitude: -87.700596
+OpenStreetMap URL: https://www.openstreetmap.org/way/116828320
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/116828320
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

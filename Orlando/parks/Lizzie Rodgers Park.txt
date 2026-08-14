@@ -1,0 +1,25 @@
+Name: Lizzie Rodgers Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 2130 Long Street, Orlando, FL 32805
+Description: Lizzie Rodgers Park has picnic tables, a playground and other amenities that can be used for a relaxing day by the lake.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lizzie-Rodgers-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5352042
+Longitude: -81.4090968
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1181626
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1181626
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

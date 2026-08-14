@@ -1,0 +1,25 @@
+Name: Allouche Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 10012
+Description: Not listed
+Website: https://allouchegallery.com
+Phone: +1 212-966-6675
+Email: info@allouchegallery.com
+Opening Hours: Mo-Su 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7227411
+Longitude: -74.0003875
+OpenStreetMap URL: https://www.openstreetmap.org/node/10784508205
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10784508205
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

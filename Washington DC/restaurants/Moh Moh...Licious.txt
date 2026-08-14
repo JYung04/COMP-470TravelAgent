@@ -1,0 +1,25 @@
+Name: Moh Moh...Licious
+City: Washington DC
+Category: restaurants
+Cuisine: nepalese
+Address: 7414 Geranium Street Northwest, Washington 20012
+Description: Not listed
+Website: https://www.mohmohlicious.com/
+Phone: +1-202-817-3031
+Email: Not listed
+Opening Hours: Mo off; Tu-Su 11:00-20:00
+Wheelchair Accessibility: no
+Latitude: 38.9800401
+Longitude: -77.0267066
+OpenStreetMap URL: https://www.openstreetmap.org/node/2989905725
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2989905725
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

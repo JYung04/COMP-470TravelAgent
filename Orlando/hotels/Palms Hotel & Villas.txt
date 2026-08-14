@@ -1,0 +1,25 @@
+Name: Palms Hotel & Villas
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 3100 Parkway Boulevard, Kissimmee FL 34747
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3409516
+Longitude: -81.536151
+OpenStreetMap URL: https://www.openstreetmap.org/node/2765428011
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2765428011
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

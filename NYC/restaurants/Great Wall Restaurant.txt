@@ -1,0 +1,25 @@
+Name: Great Wall Restaurant
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 1179 Pugsley Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8308376
+Longitude: -73.8572449
+OpenStreetMap URL: https://www.openstreetmap.org/node/5552547728
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5552547728
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

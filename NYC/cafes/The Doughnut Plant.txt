@@ -1,0 +1,25 @@
+Name: The Doughnut Plant
+City: NYC
+Category: cafes
+Cuisine: donut
+Address: 379 Grand Street, New York NY 10002
+Description: Not listed
+Website: https://www.doughnutplant.com/
+Phone: +1 212-505-3700
+Email: Not listed
+Opening Hours: Mo-Th, Su 06:30-20:00; Fr-Sa 06:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7163413
+Longitude: -73.9885359
+OpenStreetMap URL: https://www.openstreetmap.org/node/2826581781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2826581781
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

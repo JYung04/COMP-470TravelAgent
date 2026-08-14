@@ -1,0 +1,24 @@
+Name: Cozy Spot
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfast, sandwich, turkish
+Address: 6823 3rd Avenue, 11220
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6358071
+Longitude: -74.0258393
+OpenStreetMap URL: https://www.openstreetmap.org/node/2552775452
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2552775452
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

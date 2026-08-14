@@ -1,0 +1,25 @@
+Name: Spuyten Duyvil Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 650 West 235th Street, Bronx 10463
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/spuyten-duyvil
+Phone: +1-718-796-1202
+Email: Not listed
+Opening Hours: Mo-Th 10:00-18:00; Fr,Sa 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.8862742
+Longitude: -73.9146617
+OpenStreetMap URL: https://www.openstreetmap.org/way/277110971
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/277110971
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

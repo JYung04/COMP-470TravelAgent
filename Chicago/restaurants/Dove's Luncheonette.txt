@@ -1,0 +1,24 @@
+Name: Dove's Luncheonette
+City: Chicago
+Category: restaurants
+Cuisine: mexican, tex-mex
+Address: 1545 North Damen Avenue, Chicago IL 60622
+Description: In the buzzing center of Wicker Park, Dove’s Luncheonette is a one-of-a-kind neighborhood diner serving up flavor-packed dishes inspired by Southern and Mexican cuisine. Decked out in vinyl records and mid-century decor, this retro brunch spot provides a nostalgic setting where you can chow down on patty melts and smoked brisket tacos while sipping fruity cocktails and mezcal.
+Website: http://doveschicago.com/
+Phone: +1-773-645-4060
+Email: Not listed
+Opening Hours: Mo-We 09:00-15:00; Th-Fr 09:00-21:00; Sa 08:00-21:00; Su 08:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 41.909438
+Longitude: -87.6772965
+OpenStreetMap URL: https://www.openstreetmap.org/node/3570110793
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3570110793
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

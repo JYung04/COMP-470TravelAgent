@@ -1,0 +1,24 @@
+Name: Relax Grill
+City: Orlando
+Category: restaurants
+Cuisine: american, burger, sandwich, salad
+Address: 211 Eola Pkwy, Orlando FL 32801
+Description: Not listed
+Website: https://relaxgrill.com/
+Phone: +1-407-425-8440
+Email: Not listed
+Opening Hours: Mo-We 16:00-21:30; Th 11:30-22:00; Fr-Sa 11:30-22:30, Su 11:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.5449036
+Longitude: -81.3750338
+OpenStreetMap URL: https://www.openstreetmap.org/node/12109603879
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12109603879
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

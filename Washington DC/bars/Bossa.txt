@@ -1,0 +1,24 @@
+Name: Bossa
+City: Washington DC
+Category: bars
+Cuisine: brazilian, tapas
+Address: 2463 18th Street Northwest, Washington DC 20009-2003
+Description: Not listed
+Website: http://www.bossadc.com/
+Phone: +1 202-667-0088
+Email: Not listed
+Opening Hours: Tu-Th 17:30-02:00; Fr-Sa 17:30-03:00; Su 17:30-02:00
+Wheelchair Accessibility: yes
+Latitude: 38.9220767
+Longitude: -77.0421963
+OpenStreetMap URL: https://www.openstreetmap.org/node/737066504
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737066504
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

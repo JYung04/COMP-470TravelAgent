@@ -1,0 +1,25 @@
+Name: Randolph Beer DUMBO
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 82 Prospect Street
+Description: Not listed
+Website: https://www.randolphbeer.com/
+Phone: +1-646-383-3623
+Email: Not listed
+Opening Hours: Mo-Th 11:00-24:00; Fr-Sa 11:00-25:00; Su 11:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7005204
+Longitude: -73.9875274
+OpenStreetMap URL: https://www.openstreetmap.org/node/5585278021
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5585278021
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

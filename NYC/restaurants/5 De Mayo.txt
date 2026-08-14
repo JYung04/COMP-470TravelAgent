@@ -1,0 +1,25 @@
+Name: 5 De Mayo
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 108-09 53rd Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 718-271-5383
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7428869
+Longitude: -73.8540023
+OpenStreetMap URL: https://www.openstreetmap.org/node/12205222659
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12205222659
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

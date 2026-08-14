@@ -1,0 +1,24 @@
+Name: Cure Bar and Bistro
+City: Washington DC
+Category: restaurants
+Cuisine: french, japanese, sushi
+Address: 1000 H Street Northwest, Washington DC 20001-4520
+Description: Not listed
+Website: https://www.hyatt.com/en-US/hotel/washington-dc/grand-hyatt-washington/wasgh/dining
+Phone: +1-202-672-3138
+Email: Not listed
+Opening Hours: Mo-Su 11:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8996197
+Longitude: -77.0262704
+OpenStreetMap URL: https://www.openstreetmap.org/node/585825416
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/585825416
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

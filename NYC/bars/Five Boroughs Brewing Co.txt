@@ -1,0 +1,25 @@
+Name: Five Boroughs Brewing Co.
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 215 47th Street, 11220
+Description: Not listed
+Website: https://www.fiveboroughs.com
+Phone: +1-718-355-8575
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.650623
+Longitude: -74.0144658
+OpenStreetMap URL: https://www.openstreetmap.org/way/1067735281
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1067735281
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

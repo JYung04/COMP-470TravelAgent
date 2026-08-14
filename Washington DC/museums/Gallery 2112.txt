@@ -1,0 +1,25 @@
+Name: Gallery 2112
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 2114 R Street Northwest
+Description: Not listed
+Website: https://gallery2112.com/
+Phone: +1 202-213-9768
+Email: Not listed
+Opening Hours: off
+Wheelchair Accessibility: Not listed
+Latitude: 38.9124597
+Longitude: -77.0473848
+OpenStreetMap URL: https://www.openstreetmap.org/node/8864542817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8864542817
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Cara Cara Club
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2545 North Kedzie Boulevard, Chicago IL 60647
+Description: Not listed
+Website: https://caracarachicago.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9277489
+Longitude: -87.7068068
+OpenStreetMap URL: https://www.openstreetmap.org/node/7993347161
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7993347161
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

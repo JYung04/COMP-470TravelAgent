@@ -1,0 +1,24 @@
+Name: High Five Ramen
+City: Chicago
+Category: restaurants
+Cuisine: japanese, ramen
+Address: 112 North Green Street, Chicago IL 60607
+Description: Not listed
+Website: https://highfiveramen.com/
+Phone: +1-312-754-0431
+Email: Not listed
+Opening Hours: Su-Mo 17:00-23:00; Tu-We 17:00-00:00; Th-Sa 17:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8836965
+Longitude: -87.6489162
+OpenStreetMap URL: https://www.openstreetmap.org/node/3407985511
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3407985511
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

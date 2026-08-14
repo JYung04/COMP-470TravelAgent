@@ -1,0 +1,25 @@
+Name: Greek Islands
+City: Chicago
+Category: restaurants
+Cuisine: greek
+Address: 200 South Halsted Street, Chicago IL 60661
+Description: Greek Islands is a restaurant in Chicago, Illinois founded in 1971 by Konstantinos Koutsogeorgas. It is located at 200 S. Halsted Street in the Greektown neighborhood to the immediate west of downtown Chicago.
+Website: https://greekislands.net/
+Phone: +1-312-782-9855
+Email: Not listed
+Opening Hours: Tu-Th,Su 11:00-21:00; Fr-Sa 11:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 41.8789853
+Longitude: -87.6475092
+OpenStreetMap URL: https://www.openstreetmap.org/node/2203666226
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2203666226
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

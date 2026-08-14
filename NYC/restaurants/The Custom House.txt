@@ -1,0 +1,25 @@
+Name: The Custom House
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: Not listed
+Description: Not listed
+Website: https://thecustomhousenyc.com
+Phone: +1-718-643-6000
+Email: Not listed
+Opening Hours: Mo-We 11:00-23:00; Th-Fr 11:00-01:00; Sa 10:00-01:00; Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6947697
+Longitude: -73.9937491
+OpenStreetMap URL: https://www.openstreetmap.org/node/9330502767
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9330502767
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

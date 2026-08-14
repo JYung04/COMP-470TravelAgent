@@ -1,0 +1,24 @@
+Name: Sarge's Delicatessan & Diner
+City: NYC
+Category: restaurants
+Cuisine: jewish
+Address: 548 3rd Avenue, 10016
+Description: Sarge's Delicatessen & Diner is a Jewish deli and kosher style restaurant in Manhattan. It was opened in 1964, on Third Avenue in Murray Hill, by Abe Katz, a retired New York City Police Department sergeant. Eater NY named it one of the 19 Vital Jewish Delis in NYC.
+Website: https://sargesdeli.com
+Phone: +1-212-679-0442
+Email: Not listed
+Opening Hours: Mo-We 10:00-23:00; Th, Fr 09:00-23:00; Sa, Su 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7473351
+Longitude: -73.9771952
+OpenStreetMap URL: https://www.openstreetmap.org/node/5254374730
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5254374730
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

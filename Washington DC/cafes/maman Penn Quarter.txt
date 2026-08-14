@@ -1,0 +1,25 @@
+Name: maman Penn Quarter
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 750 9th Street Northwest, 20036
+Description: French-inspired cafe known for pastries, coffee, and rustic charm. Offers catering and event hosting.
+Website: https://mamannyc.com
+Phone: +1 202-516-4666
+Email: bonjour@mamannyc.com
+Opening Hours: Mo-Fr 07:30-18:00; Sa-Su 08:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 38.8995664
+Longitude: -77.0241556
+OpenStreetMap URL: https://www.openstreetmap.org/node/13231726323
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13231726323
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

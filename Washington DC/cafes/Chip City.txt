@@ -1,0 +1,25 @@
+Name: Chip City
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 2700 Clarendon Boulevard
+Description: Not listed
+Website: https://chipcitycookies.com/locations/clarendon
+Phone: +1-703-214-4676
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8875277
+Longitude: -77.0912331
+OpenStreetMap URL: https://www.openstreetmap.org/node/11795625368
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11795625368
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

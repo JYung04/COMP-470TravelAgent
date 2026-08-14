@@ -1,0 +1,25 @@
+Name: Swan Boats
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: 4 Charles Street, Boston MA 02116
+Description: The Swan Boats, a family-owned and operated business for four generations, have been a unique Boston experience since 1877. Located in the Public Garden, the nation's first botanical garden, these historic pedal boats offer visitors and locals a peaceful ride along the lagoon in a beautiful oasis right in the heart of Boston.
+Website: https://swanboats.com/
+Phone: +1-617-522-1966
+Email: info@swanboats.com
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 42.3540368
+Longitude: -71.0696551
+OpenStreetMap URL: https://www.openstreetmap.org/node/4074813888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4074813888
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; art; gardens

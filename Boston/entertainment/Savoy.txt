@@ -1,0 +1,25 @@
+Name: Savoy
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 32-44 West Street, Boston PE21 8QH
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9758798
+Longitude: -0.0261103
+OpenStreetMap URL: https://www.openstreetmap.org/way/102295778
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/102295778
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

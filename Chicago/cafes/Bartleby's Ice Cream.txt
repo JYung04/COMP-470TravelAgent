@@ -1,0 +1,25 @@
+Name: Bartleby's Ice Cream
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1943 West Byron Street, Chicago IL 60613
+Description: Not listed
+Website: https://www.bartlebysicecream.com/
+Phone: +1 773-770-9019
+Email: herman@bartlebysicecream.com
+Opening Hours: Th 15:00-20:00; Fr 15:00-21:00; Sa 13:00-21:00; Su 13:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9522482
+Longitude: -87.6780077
+OpenStreetMap URL: https://www.openstreetmap.org/node/12593646102
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12593646102
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

@@ -1,0 +1,25 @@
+Name: The Sampler Bushwick
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 234 Starr Street, Brooklyn NY 11237
+Description: Not listed
+Website: https://thesamplerbk.com/
+Phone: +1-718-552-2330
+Email: Not listed
+Opening Hours: Mo-We, Su 12:00-24:00; Th-Sa 12:00-26:00
+Wheelchair Accessibility: yes
+Latitude: 40.7055984
+Longitude: -73.9224758
+OpenStreetMap URL: https://www.openstreetmap.org/node/5624790243
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5624790243
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

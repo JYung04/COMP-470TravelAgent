@@ -1,0 +1,24 @@
+Name: The Bravest
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 700 2nd Avenue, New York NY 10016
+Description: Not listed
+Website: https://www.thebravestnyc.com/
+Phone: +1-212-683-3766
+Email: Not listed
+Opening Hours: Mo, Tu 15:00-22:00; We-Fr 12:00-22:00; Sa, Su 13:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7471122
+Longitude: -73.9739294
+OpenStreetMap URL: https://www.openstreetmap.org/node/7152460743
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7152460743
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

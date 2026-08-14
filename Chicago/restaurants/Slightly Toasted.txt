@@ -1,0 +1,24 @@
+Name: Slightly Toasted
+City: Chicago
+Category: restaurants
+Cuisine: sandwich, american
+Address: 22 North Clinton Street, Chicago IL 60661
+Description: Not listed
+Website: https://slightlytoasted.com/
+Phone: +1-312-967-2830
+Email: Not listed
+Opening Hours: Mo 14:00-21:00; Tu-Fr 11:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 41.8824024
+Longitude: -87.6414689
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460717972
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460717972
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

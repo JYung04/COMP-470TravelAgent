@@ -1,0 +1,25 @@
+Name: Comella's Restaurants West Roxbury
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 1844 Centre Street, West Roxbury MA 02132
+Description: Not listed
+Website: https://www.comellasrestaurants.com/
+Phone: +16173278600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.286333
+Longitude: -71.1541507
+OpenStreetMap URL: https://www.openstreetmap.org/node/11880142754
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11880142754
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Egleston Square Peace Garden
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 3131 Washington Street
+Description: Officially classified as community gardens. Located in Jamaica Plain. Covers approximately 0.1 acres.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3145667
+Longitude: -71.0998044
+OpenStreetMap URL: https://www.openstreetmap.org/way/429556815
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/429556815
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

@@ -1,0 +1,25 @@
+Name: Karma Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 188 East 2nd Street, 10009
+Description: Not listed
+Website: https://karmakarma.org
+Phone: +1 212-390-8290
+Email: Not listed
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7224202
+Longitude: -73.9841422
+OpenStreetMap URL: https://www.openstreetmap.org/node/6478419609
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6478419609
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

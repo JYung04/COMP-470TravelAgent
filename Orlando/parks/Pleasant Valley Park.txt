@@ -1,0 +1,25 @@
+Name: Pleasant Valley Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 4756 Pleasant Valley Ct, Orlando, FL 32811
+Description: Pleasant Valley Park has a playground and basketball court for visitors to enjoy.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Pleasant-Valley-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5308888
+Longitude: -81.4422179
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1180313
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1180313
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

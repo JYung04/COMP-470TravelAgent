@@ -1,0 +1,25 @@
+Name: Moody's Pub
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 5910 North Broadway, Chicago IL 60660
+Description: Not listed
+Website: https://moodyspub.com/
+Phone: +1-773-329-5694
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 41.9894323
+Longitude: -87.6605743
+OpenStreetMap URL: https://www.openstreetmap.org/node/3896764993
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3896764993
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

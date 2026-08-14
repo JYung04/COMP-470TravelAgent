@@ -1,0 +1,24 @@
+Name: Saravá Bistro
+City: NYC
+Category: restaurants
+Cuisine: brazilian, american
+Address: Not listed
+Description: Not listed
+Website: https://www.saravabistro.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu 16:00-22:00; We-Fr 12:00-22:00; Sa 11:00-22:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6358753
+Longitude: -74.0258051
+OpenStreetMap URL: https://www.openstreetmap.org/node/9779751312
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9779751312
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

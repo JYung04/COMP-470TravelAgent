@@ -1,0 +1,25 @@
+Name: La Estrella
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3309 West Armitage Avenue, Chicago IL 60647
+Description: Not listed
+Website: Not listed
+Phone: +1-773-772-1861
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9172389
+Longitude: -87.7106961
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575000276
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575000276
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

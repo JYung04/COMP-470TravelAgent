@@ -1,0 +1,25 @@
+Name: City Square Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: City Sq
+Description: Officially classified as malls, squares & plazas. Located in Charlestown. Covers approximately 1.2 acres.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3716915
+Longitude: -71.0618804
+OpenStreetMap URL: https://www.openstreetmap.org/way/29836178
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29836178
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Foxtail Coffee Company
+City: Orlando
+Category: cafes
+Cuisine: coffee_shop
+Address: 7004 Tavistock Lakes Boulevard, Orlando FL 32827
+Description: Not listed
+Website: https://www.foxtailcoffee.com/locations/foxtail-coffee-lake-nona
+Phone: +1-407-313-2841
+Email: Not listed
+Opening Hours: Mo-Su 06:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.37212
+Longitude: -81.2772527
+OpenStreetMap URL: https://www.openstreetmap.org/node/12257447373
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12257447373
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

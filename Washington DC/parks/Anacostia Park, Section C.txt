@@ -1,0 +1,25 @@
+Name: Anacostia Park, Section C
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: section of Anacostia Park in Washington, D.C., United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8674281
+Longitude: -76.9963096
+OpenStreetMap URL: https://www.openstreetmap.org/way/41965329
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/41965329
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

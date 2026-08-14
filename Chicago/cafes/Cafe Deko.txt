@@ -1,0 +1,25 @@
+Name: Cafe Deko
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 715 South Dearborn Street
+Description: Not listed
+Website: https://cafedeko.com/
+Phone: +1-773-661-6425
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00
+Wheelchair Accessibility: no
+Latitude: 41.8730913
+Longitude: -87.6289627
+OpenStreetMap URL: https://www.openstreetmap.org/node/13272299832
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13272299832
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

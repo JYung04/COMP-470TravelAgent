@@ -1,0 +1,25 @@
+Name: Queens Public Library at Corona
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 38-23 104th Street, Corona NY 11368
+Description: Not listed
+Website: https://www.queenslibrary.org/about-us/locations/corona
+Phone: +1-718-426-2844
+Email: Not listed
+Opening Hours: Mo,We,Fr 10:00-18:00; Tu 13:00-18:00; Th 12:00-20:00; Sa 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.7508904
+Longitude: -73.8619802
+OpenStreetMap URL: https://www.openstreetmap.org/way/284702356
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284702356
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

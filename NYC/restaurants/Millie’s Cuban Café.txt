@@ -1,0 +1,25 @@
+Name: Millie’s Cuban Café
+City: NYC
+Category: restaurants
+Cuisine: cuban
+Address: 151 Wilson Avenue
+Description: Not listed
+Website: https://milliescubancafe.com/
+Phone: +1-347-425-8253
+Email: milliescubancafe@gmail.com
+Opening Hours: Mo-Fr 08:00-21:00; Sa, Su 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.700436
+Longitude: -73.9249689
+OpenStreetMap URL: https://www.openstreetmap.org/node/6127400954
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6127400954
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

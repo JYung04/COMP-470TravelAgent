@@ -1,0 +1,25 @@
+Name: Archipelago
+City: Washington DC
+Category: restaurants
+Cuisine: caribbean
+Address: 1201 U Street Northwest, Washington DC 20009
+Description: Not listed
+Website: http://archipelagobardc.com
+Phone: +1 202-627-0794
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9171926
+Longitude: -77.0283133
+OpenStreetMap URL: https://www.openstreetmap.org/node/750467825
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/750467825
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

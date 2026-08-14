@@ -1,0 +1,25 @@
+Name: The Muni
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1400 14th Street Northwest, Washington DC 20005
+Description: Golf-themed bar & lounge with putting greens, golf simulators, & darts.
+Website: https://www.themuni.com/
+Phone: +1-202-204-0350
+Email: Not listed
+Opening Hours: Mo-Th 17:00-01:45; Fr 17:00-02:45; Sa 12:00-02:45; Su 12:00-01:45
+Wheelchair Accessibility: Not listed
+Latitude: 38.9090608
+Longitude: -77.0321817
+OpenStreetMap URL: https://www.openstreetmap.org/node/12509710296
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12509710296
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

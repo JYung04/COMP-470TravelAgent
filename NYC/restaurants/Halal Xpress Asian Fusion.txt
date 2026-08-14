@@ -1,0 +1,24 @@
+Name: Halal Xpress Asian Fusion
+City: NYC
+Category: restaurants
+Cuisine: fusion, asian
+Address: 7524 18th Avenue, Brooklyn NY 11214
+Description: Not listed
+Website: https://halal-xpress-asian-fusion.business.site/website/halal-xpress-asian-fusion/#gallery
+Phone: +1-718-416-9090
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6129593
+Longitude: -73.996628
+OpenStreetMap URL: https://www.openstreetmap.org/node/6262522981
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6262522981
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

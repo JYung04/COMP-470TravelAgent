@@ -1,0 +1,25 @@
+Name: Kale My Name
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 3300 West Montrose Avenue, Chicago IL 60625
+Description: In Irving Park, Kale My Name is a casual smoothie bar and restaurant with a globally inspired and plant-based menu. Diners will find vegetarian renditions of American classics (like homemade veggie burgers, buffalo tofu wraps, and cauliflower wings), plus international influences like traditional Balkan spreads, empanadas, and jackfruit tacos. In the summer, their patio is a popular place to be.
+Website: https://www.kalemyname.com/
+Phone: +1-872-208-7125
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9613423
+Longitude: -87.710878
+OpenStreetMap URL: https://www.openstreetmap.org/way/163944704
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163944704
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

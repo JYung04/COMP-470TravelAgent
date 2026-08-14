@@ -1,0 +1,25 @@
+Name: C'mon Everybody
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 325 Franklin Avenue, Brooklyn NY 11216
+Description: C’mon Everybody is a friendly neighborhood bar, lounge, gallery, and live arts space in Bed-Stuy, Brooklyn.
+Website: https://www.cmoneverybody.com/
+Phone: Not listed
+Email: cmoneverybodybk@gmail.com
+Opening Hours: Su-Th 18:00-26:00; Fr, Sa 18:00-28:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6882793
+Longitude: -73.9569264
+OpenStreetMap URL: https://www.openstreetmap.org/node/6380904180
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6380904180
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

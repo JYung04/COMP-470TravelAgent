@@ -1,0 +1,25 @@
+Name: Trash Island
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 616 Halsey Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th,Su 08:00-17:00; Fr-Sa 08:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.6840079
+Longitude: -73.9296241
+OpenStreetMap URL: https://www.openstreetmap.org/node/10047602537
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10047602537
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Blackwood BBQ
+City: Chicago
+Category: restaurants
+Cuisine: barbecue
+Address: 211 West Adams Street, Chicago IL 60606
+Description: Not listed
+Website: https://www.blackwoodbbq.com/211-w-adams-st-location
+Phone: +1-312-621-9663
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8792601
+Longitude: -87.6347857
+OpenStreetMap URL: https://www.openstreetmap.org/node/10974086037
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10974086037
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

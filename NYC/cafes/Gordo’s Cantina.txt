@@ -1,0 +1,24 @@
+Name: Gordo’s Cantina
+City: NYC
+Category: cafes
+Cuisine: bagel, sandwich, burger, coffee
+Address: 140 Saint Nicholas Avenue
+Description: Not listed
+Website: https://www.barceys.com/
+Phone: +1-718-484-8183
+Email: Not listed
+Opening Hours: Mo-Su 08:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7049338
+Longitude: -73.9175904
+OpenStreetMap URL: https://www.openstreetmap.org/node/5554842593
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5554842593
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

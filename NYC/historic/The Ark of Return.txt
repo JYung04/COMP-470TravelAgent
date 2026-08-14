@@ -1,0 +1,25 @@
+Name: The Ark of Return
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Permanent Memorial to Honour teh Victims of Slavery and the Transatlantic Slave Trade
+Website: https://www.un.org/en/events/africandescentdecade/assets/pdf/Memorial_Programme_Final_Proof.pdf
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7504683
+Longitude: -73.9668935
+OpenStreetMap URL: https://www.openstreetmap.org/node/3894881938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3894881938
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

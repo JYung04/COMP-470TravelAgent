@@ -1,0 +1,25 @@
+Name: DAR Museum
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1776 D Street Northwest, Washington DC 20006
+Description: Guided tours of the period rooms are available and start on the hour. This is the only way to see the period rooms.
+Website: https://www.dar.org/museum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 08:30-16:00; Sa 09:00-17:00; PH off
+Wheelchair Accessibility: yes
+Latitude: 38.8939474
+Longitude: -77.0399678
+OpenStreetMap URL: https://www.openstreetmap.org/node/4806102794
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4806102794
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

@@ -1,0 +1,25 @@
+Name: Glessner House Museum
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 1600 South Indiana Avenue, Chicago IL 60616
+Description: The John J. Glessner House, operated as the Glessner House, is an architecturally important 19th-century residence located at 1800 S. Prairie Avenue, Chicago, Illinois. Built during the Gilded Age, it was designed in 1885–1886 by architect Henry Hobson Richardson and completed in late 1887. The property was designated a Chicago Landmark on October 14, 1970. The site was listed in the National Register of Historic Places on April 17, 1970, and as a National Historic Landmark on January 7, 1976, and is maintained as a house museum.
+Website: https://www.glessnerhouse.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8577219
+Longitude: -87.6212227
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2031807
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2031807
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

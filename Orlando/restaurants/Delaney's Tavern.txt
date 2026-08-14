@@ -1,0 +1,25 @@
+Name: Delaney's Tavern
+City: Orlando
+Category: restaurants
+Cuisine: american
+Address: 1315 South Orange Avenue, Orlando FL 32806
+Description: Not listed
+Website: https://eatdt.com
+Phone: +1-407-849-0801
+Email: Not listed
+Opening Hours: Su-Th 07:30-21:30; Fr-Sa 07:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.5258737
+Longitude: -81.3762856
+OpenStreetMap URL: https://www.openstreetmap.org/node/12007596322
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12007596322
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

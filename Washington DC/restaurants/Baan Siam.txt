@@ -1,0 +1,25 @@
+Name: Baan Siam
+City: Washington DC
+Category: restaurants
+Cuisine: thai
+Address: 425 I Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.baansiamdc.com/
+Phone: +1 202-588-5889
+Email: info@baansiamdc.com
+Opening Hours: Mo off; Tu-Sa 11:30-14:45, 17:00-20:45; Su 11:30-20:45
+Wheelchair Accessibility: Not listed
+Latitude: 38.9015018
+Longitude: -77.0164144
+OpenStreetMap URL: https://www.openstreetmap.org/node/4059018494
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4059018494
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

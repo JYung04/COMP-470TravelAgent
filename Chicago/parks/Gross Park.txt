@@ -1,0 +1,25 @@
+Name: Gross Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2708 West Lawrence Avenue, Chicago IL 60625
+Description: Gross Park is a public park in Lakeview, Chicago located at the 1700 West block of Henderson St between Paulina St and Ravenswood Ave. Its maintenance is shared between the Chicago Park District and Gross Park Neighbors Foundation, a 501(c)(3) nonprofit organization. Each summer the park hosts a Shakespeare in the Park event.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/gross-theodore-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9691051
+Longitude: -87.6966734
+OpenStreetMap URL: https://www.openstreetmap.org/way/117150850
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/117150850
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

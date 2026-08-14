@@ -1,0 +1,25 @@
+Name: Cuba Libre Restaurant & Rum Bar
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 9101 International Drive, 32819
+Description: Not listed
+Website: https://cubalibrerestaurant.com
+Phone: +1-407-2261-600
+Email: Not listed
+Opening Hours: Su-Th 17:00-22:00; Fr-Sa 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.431434
+Longitude: -81.4697515
+OpenStreetMap URL: https://www.openstreetmap.org/node/4361827989
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4361827989
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

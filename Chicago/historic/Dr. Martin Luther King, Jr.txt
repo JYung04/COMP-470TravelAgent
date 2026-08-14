@@ -1,0 +1,25 @@
+Name: Dr. Martin Luther King, Jr.
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/dr-martin-luther-king-jr-bust
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7559599
+Longitude: -87.6548283
+OpenStreetMap URL: https://www.openstreetmap.org/node/4640841467
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4640841467
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history; art

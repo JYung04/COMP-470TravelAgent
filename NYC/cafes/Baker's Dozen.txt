@@ -1,0 +1,25 @@
+Name: Baker's Dozen
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 11385
+Description: Not listed
+Website: https://www.bakersdozenridgewood.com/
+Phone: +1-718-366-3330
+Email: Not listed
+Opening Hours: Mo-Su 06:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7087462
+Longitude: -73.8984756
+OpenStreetMap URL: https://www.openstreetmap.org/node/12576860701
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12576860701
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

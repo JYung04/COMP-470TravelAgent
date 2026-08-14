@@ -1,0 +1,25 @@
+Name: Grayson
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 30 West 39th Street, New York NY 10018
+Description: Not listed
+Website: https://www.hyatt.com/unbound-collection/en-US/nycub-grayson-hotel
+Phone: +1-212-229-4729
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7520193
+Longitude: -73.9839126
+OpenStreetMap URL: https://www.openstreetmap.org/way/265301882
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265301882
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

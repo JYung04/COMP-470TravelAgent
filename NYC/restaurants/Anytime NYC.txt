@@ -1,0 +1,25 @@
+Name: Anytime NYC
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 32 West 32nd Street, New York NY 10001
+Description: Not listed
+Website: https://www.anytimenyc.com/
+Phone: +1 646-669-7733
+Email: info@anytimenyc.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.747815
+Longitude: -73.9867152
+OpenStreetMap URL: https://www.openstreetmap.org/node/9508244826
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9508244826
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

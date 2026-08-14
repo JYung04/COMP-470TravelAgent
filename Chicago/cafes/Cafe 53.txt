@@ -1,0 +1,25 @@
+Name: Cafe 53
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1369 East 53rd Street, Chicago IL 60615
+Description: Not listed
+Website: https://www.cafe-53.com/
+Phone: +1-773-493-1000
+Email: Not listed
+Opening Hours: 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7993521
+Longitude: -87.592366
+OpenStreetMap URL: https://www.openstreetmap.org/node/6269530690
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6269530690
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

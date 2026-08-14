@@ -1,0 +1,25 @@
+Name: The Palace
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 206 Nassau Avenue
+Description: Not listed
+Website: https://www.greenpointpalace.com
+Phone: +1 718-383-3476
+Email: thegreenpointpalace@gmail.com
+Opening Hours: Mo-Th 15:00-02:00; Fr-Sa 15:00-03:00; Su 14:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7254611
+Longitude: -73.944628
+OpenStreetMap URL: https://www.openstreetmap.org/node/10307594984
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10307594984
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

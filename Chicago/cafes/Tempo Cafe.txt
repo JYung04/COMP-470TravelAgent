@@ -1,0 +1,25 @@
+Name: Tempo Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 6 East Chestnut Street, Chicago IL 60611
+Description: Not listed
+Website: https://tempochicago.com/
+Phone: +1-312-943-4373
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8984675
+Longitude: -87.6280907
+OpenStreetMap URL: https://www.openstreetmap.org/node/3076179433
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3076179433
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

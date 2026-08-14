@@ -1,0 +1,25 @@
+Name: FroyoWorld
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 157 Harvard Avenue, Allston MA 02134
+Description: Not listed
+Website: https://www.allstonfroyo.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3516021
+Longitude: -71.1318425
+OpenStreetMap URL: https://www.openstreetmap.org/node/9349929850
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9349929850
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

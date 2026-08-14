@@ -1,0 +1,25 @@
+Name: DMK Burger Bar
+City: Chicago
+Category: restaurants
+Cuisine: burger
+Address: 2954 North Sheffield Avenue, Chicago IL 60657
+Description: With seven patty options (grass-fed beef or bison, naturally-raised turkey or Colorado lamb, crispy Portobello, housemade veggie, or even fresh salmon) at DMK Burger Bar , there’s something to try every day of the week. Build those out with a bevy of toppings and buns (like waffles or portobello mushrooms) and you’ve got a year’s worth of eating options.
+Website: https://dmkburgerbar.com/
+Phone: +1-773-360-8686
+Email: Not listed
+Opening Hours: Mo-Th 11:30-23:00; Fr-Su 11:30-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9360501
+Longitude: -87.6541256
+OpenStreetMap URL: https://www.openstreetmap.org/node/5161413724
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5161413724
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

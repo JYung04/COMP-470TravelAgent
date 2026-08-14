@@ -1,0 +1,25 @@
+Name: Heidelberg Restaurant
+City: NYC
+Category: restaurants
+Cuisine: german
+Address: 1648 2nd Avenue, 10028
+Description: Not listed
+Website: http://www.heidelberg-nyc.com/
+Phone: +1 212-628-2332
+Email: Not listed
+Opening Hours: Mo-Su 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7774664
+Longitude: -73.9518193
+OpenStreetMap URL: https://www.openstreetmap.org/node/3450800431
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3450800431
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

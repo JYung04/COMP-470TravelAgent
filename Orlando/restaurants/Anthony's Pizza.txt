@@ -1,0 +1,24 @@
+Name: Anthony's Pizza
+City: Orlando
+Category: restaurants
+Cuisine: italian, pizza
+Address: 100 North Summerlin Ave, Orlando FL 32801
+Description: Not listed
+Website: https://www.anthonyspizza.com/
+Phone: +1-407-648-0009
+Email: Not listed
+Opening Hours: Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.543809
+Longitude: -81.3686594
+OpenStreetMap URL: https://www.openstreetmap.org/node/12109603877
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12109603877
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

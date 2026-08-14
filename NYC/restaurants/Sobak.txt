@@ -1,0 +1,25 @@
+Name: Sobak
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 51B Canal Street, New York NY 10002
+Description: Not listed
+Website: Not listed
+Phone: +1 917-265-8188
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-16:00; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 40.7149394
+Longitude: -73.9916253
+OpenStreetMap URL: https://www.openstreetmap.org/node/2567561127
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2567561127
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

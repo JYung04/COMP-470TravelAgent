@@ -1,0 +1,25 @@
+Name: Old State House
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 208 Washington Street, Boston MA 02109
+Description: An official Boston landmark in Downtown. Status: Approved Landmark. Designated area: Exterior & interior entries, rotunda, council chamber & Keayne, Whitmore & Representatives Hall (Parcel 3890).
+Website: https://revolutionaryspaces.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00; Jan 01 off; Nov Th[4] off; Dec 25 off
+Wheelchair Accessibility: Not listed
+Latitude: 42.3587304
+Longitude: -71.0574681
+OpenStreetMap URL: https://www.openstreetmap.org/way/29608515
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29608515
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

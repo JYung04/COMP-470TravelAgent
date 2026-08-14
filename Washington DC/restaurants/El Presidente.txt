@@ -1,0 +1,25 @@
+Name: El Presidente
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 1255 Union Street Northeast
+Description: Not listed
+Website: https://www.elpresidentedc.com/
+Phone: +1-202-318-4820
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr 11:30-23:00; Sa 10:30-23:00; Su 10:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.908421
+Longitude: -77.0008146
+OpenStreetMap URL: https://www.openstreetmap.org/node/11778682276
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11778682276
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

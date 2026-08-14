@@ -1,0 +1,25 @@
+Name: National Jazz Museum in Harlem
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 58 West 129th Street, New York NY 10027
+Description: Not listed
+Website: https://jazzmuseuminharlem.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8099499
+Longitude: -73.9430899
+OpenStreetMap URL: https://www.openstreetmap.org/node/8270992264
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8270992264
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

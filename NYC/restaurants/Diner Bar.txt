@@ -1,0 +1,25 @@
+Name: Diner Bar
+City: NYC
+Category: restaurants
+Cuisine: American
+Address: 97-45 Queens Boulevard, 11374
+Description: Not listed
+Website: https://thedinerbar.com/
+Phone: +1 718-897-6000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7294075
+Longitude: -73.8594506
+OpenStreetMap URL: https://www.openstreetmap.org/node/2547540325
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2547540325
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

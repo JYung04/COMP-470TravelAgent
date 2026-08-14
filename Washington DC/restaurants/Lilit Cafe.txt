@@ -1,0 +1,25 @@
+Name: Lilit Cafe
+City: Washington DC
+Category: restaurants
+Cuisine: sandwich
+Address: 7921 Old Georgetown Rd
+Description: Not listed
+Website: https://lilitcafe.com/
+Phone: +1 301-654-5454
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9888061
+Longitude: -77.1007019
+OpenStreetMap URL: https://www.openstreetmap.org/node/2144925476
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2144925476
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

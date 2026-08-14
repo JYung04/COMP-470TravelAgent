@@ -1,0 +1,24 @@
+Name: Panes Bread Cafe
+City: Chicago
+Category: cafes
+Cuisine: sandwich, dessert, pasta
+Address: 3002 North Sheffield Avenue, Chicago IL 60657
+Description: Not listed
+Website: Not listed
+Phone: +1-773-665-0972
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00
+Wheelchair Accessibility: no
+Latitude: 41.9364819
+Longitude: -87.6541398
+OpenStreetMap URL: https://www.openstreetmap.org/node/5161413730
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5161413730
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

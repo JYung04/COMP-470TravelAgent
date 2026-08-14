@@ -1,0 +1,24 @@
+Name: Spice & Grill
+City: NYC
+Category: restaurants
+Cuisine: indian, nepalese
+Address: 441 Myrtle Avenue, 11205
+Description: Not listed
+Website: Not listed
+Phone: +1-718-875-2525
+Email: spicegrillny@gmail.com
+Opening Hours: Mo-Su 11:00-15:30,17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6933333
+Longitude: -73.9680114
+OpenStreetMap URL: https://www.openstreetmap.org/node/2568219107
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2568219107
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Sushi Gama Restaurant & Lounge
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 1403 2nd Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-23:00; Sa, Su 12:30-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7696619
+Longitude: -73.9579847
+OpenStreetMap URL: https://www.openstreetmap.org/node/9015352692
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9015352692
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

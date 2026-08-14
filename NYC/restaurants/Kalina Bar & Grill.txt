@@ -1,0 +1,25 @@
+Name: Kalina Bar & Grill
+City: NYC
+Category: restaurants
+Cuisine: caribbean
+Address: 1476 Broadway
+Description: Not listed
+Website: https://www.kalinabrooklyn.com/
+Phone: +1-718-919-1111
+Email: Not listed
+Opening Hours: Mo-Su 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6872723
+Longitude: -73.9185073
+OpenStreetMap URL: https://www.openstreetmap.org/node/5629116021
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5629116021
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

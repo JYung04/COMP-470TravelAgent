@@ -1,0 +1,25 @@
+Name: Piazza Italia
+City: Orlando
+Category: restaurants
+Cuisine: pizza
+Address: 9685 Lake Nona Village Place, Orlando FL 32827
+Description: Not listed
+Website: https://www.piazzaitalianona.com/
+Phone: +1-407-413-5200
+Email: info@piazzaitalianona.com
+Opening Hours: Mo off; Tu-Th 11:00-21:30; Fr-Sa 11:00-22:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.424972
+Longitude: -81.2527853
+OpenStreetMap URL: https://www.openstreetmap.org/node/13520494363
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13520494363
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Cafe Lily
+City: NYC
+Category: restaurants
+Cuisine: korean, uzbek
+Address: 42 Avenue O, Brooklyn NY 11204
+Description: Not listed
+Website: http://www.cafelilybrooklyn.com/
+Phone: +1-718-872-5500
+Email: Not listed
+Opening Hours: 12:00-22:00; We off
+Wheelchair Accessibility: Not listed
+Latitude: 40.6101349
+Longitude: -73.9835843
+OpenStreetMap URL: https://www.openstreetmap.org/node/11262391216
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11262391216
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

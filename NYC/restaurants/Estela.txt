@@ -1,0 +1,25 @@
+Name: Estela
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: Not listed
+Description: Not listed
+Website: https://estelanyc.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 17:00-20:30; Fr-Su 11:30-14:30,17:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7246217
+Longitude: -73.9947736
+OpenStreetMap URL: https://www.openstreetmap.org/node/6371442486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6371442486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Orlando Family Stage
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 1001 E Princeton Street, Orlando FL 32803
+Description: A perfect first theater environment for your children, Orlando Family Stage (formerly Orlando Repertory Theatre) offers a variety of recurring events alongside mainstage productions. Recurring programs include Story Stroll (ideal for ages 2 – 3) and Baby & Me (ideal for ages 0 – 24 months), which both include creative play filled with music, expressive movement and sensory activities. Throughout the year, the Family Stage hosts several plays and musicals featuring your kids’ favorite characters.
+Website: https://orlandofamilystage.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5710204
+Longitude: -81.3654406
+OpenStreetMap URL: https://www.openstreetmap.org/way/308386067
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/308386067
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; families; music

@@ -1,0 +1,25 @@
+Name: Jacques Marchais Museum of Tibetan Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 338 Lighthouse Avenue, 10306
+Description: The Jacques Marchais Museum of Tibetan Art is a museum located on the residential Lighthouse Hill in Egbertville, Staten Island, New York City. It is home to one of the United States' most extensive collections of Himalayan artifacts. The museum was created by Jacques Marchais, (1887–1948) an American woman, to serve as a bridge between the West and the rich ancient and cultural traditions of Tibet and the Himalayan region. Marchais designed her educational center to be an all-encompassing experience: it was built to resemble a rustic Himalayan monastery with extensive terraced gardens and grounds and a fish and lotus pond. The museum was praised for its authenticity by the Dalai Lama, who visited in 1991. In 2009, the site.
+Website: https://www.tibetanmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5763101
+Longitude: -74.1381567
+OpenStreetMap URL: https://www.openstreetmap.org/way/246244299
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/246244299
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art; gardens

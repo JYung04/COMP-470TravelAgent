@@ -1,0 +1,25 @@
+Name: Hotel Washington
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 515 15th Street Northwest, Washington DC 20004
+Description: The Hotel Washington is a historic hotel located at 515 15th Street NW in downtown Washington, D.C.
+Website: https://www.thehotelwashington.com/
+Phone: +1-202-661-2400
+Email: reservations@thehotelwashington.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8969352
+Longitude: -77.0332251
+OpenStreetMap URL: https://www.openstreetmap.org/way/48041529
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48041529
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

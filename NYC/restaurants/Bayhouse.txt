@@ -1,0 +1,24 @@
+Name: Bayhouse
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 155-57 Bayview Avenue, 11422
+Description: Not listed
+Website: https://bayhousebar.com
+Phone: +1-718-527-7575
+Email: Not listed
+Opening Hours: Mo-Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.637274
+Longitude: -73.7449912
+OpenStreetMap URL: https://www.openstreetmap.org/way/282947747
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/282947747
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

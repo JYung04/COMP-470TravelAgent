@@ -1,0 +1,25 @@
+Name: Slowe-Burrill House
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: 1256 Kearny Street Northeast, DC 20017
+Description: The Slowe-Burrill House is a Queen Anne-style house in the Brookland neighborhood of Washington, D.C. Built in 1890, the home was occupied from 1922 to 1937 by Lucy Slowe and Mary Burrill, notable African American educators who are thought by historians to have been a couple. The house was listed on the National Register of Historic Places in 2020 and designated a National Historic Landmark in 2024 for its significance to African American and LGBT history.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9309091
+Longitude: -76.9890882
+OpenStreetMap URL: https://www.openstreetmap.org/way/296252978
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/296252978
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

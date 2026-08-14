@@ -1,0 +1,25 @@
+Name: Camelot
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 1823 M Street Northwest, Washington DC 20036
+Description: Not listed
+Website: https://camelotshowbar.com/
+Phone: +1 202-887-5966
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.905836
+Longitude: -77.0427133
+OpenStreetMap URL: https://www.openstreetmap.org/node/783623520
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/783623520
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

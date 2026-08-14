@@ -1,0 +1,25 @@
+Name: Galway House
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: 710 Centre Street, Jamaica Plain MA 02130
+Description: Not listed
+Website: https://www.galwayhousejp.com/
+Phone: +1-617-524-9677
+Email: agjura@gmail.com
+Opening Hours: Mo-Th 11:30-23:00; Fr-Sa 11:30-02:00; Su 13:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3113988
+Longitude: -71.1142631
+OpenStreetMap URL: https://www.openstreetmap.org/node/4042927436
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4042927436
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

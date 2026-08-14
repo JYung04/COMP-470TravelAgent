@@ -1,0 +1,24 @@
+Name: OMG Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza, appetizer, salad, burger
+Address: 1307 Myrtle Avenue
+Description: Not listed
+Website: http://omgpizzabrooklyn.com/
+Phone: +1-718-455-4550
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 40.698167
+Longitude: -73.9255588
+OpenStreetMap URL: https://www.openstreetmap.org/node/5163882225
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5163882225
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

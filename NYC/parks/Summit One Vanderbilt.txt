@@ -1,0 +1,25 @@
+Name: Summit One Vanderbilt
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: NYC’s newest observatory is a stunning multilevel experience towering high above Grand Central Terminal. This immersive attraction combines expansive skyline views with mirrored floors, interactive art installations and glass skyboxes that make visitors feel as though they’re floating above Manhattan. It’s a full-sensory delight—all suspended 1,100 feet over Madison Avenue. Among the experiences is Transcendence , a soaring two-story space with mirrored floors and ceilings that creates the illus
+Website: https://summitov.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7528374
+Longitude: -73.9785218
+OpenStreetMap URL: https://www.openstreetmap.org/node/10202468617
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10202468617
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; views

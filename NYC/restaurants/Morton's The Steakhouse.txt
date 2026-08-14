@@ -1,0 +1,25 @@
+Name: Morton's The Steakhouse
+City: NYC
+Category: restaurants
+Cuisine: steak_house
+Address: 777 Northern Boulevard, Great Neck NY 11021
+Description: Not listed
+Website: https://www.mortons.com/location/mortons-the-steakhouse-new-york-ny-world-trade-center/
+Phone: +1-212-608-0171
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7840994
+Longitude: -73.7131206
+OpenStreetMap URL: https://www.openstreetmap.org/way/563706964
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/563706964
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Wharf Marina
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 650 Wharf Street Southwest, Washington DC 20024
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8759536
+Longitude: -77.0230155
+OpenStreetMap URL: https://www.openstreetmap.org/way/1190494281
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1190494281
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

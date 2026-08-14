@@ -1,0 +1,25 @@
+Name: Hirshhorn Museum
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: The Hirshhorn Museum and Sculpture Garden is an art museum beside the National Mall in Washington, D.C., United States. The museum was initially endowed during the 1960s with the permanent art collection of Joseph H. Hirshhorn. It was designed by architect Gordon Bunshaft and is part of the Smithsonian Institution. It was conceived as the United States' museum of contemporary and modern art and currently focuses its collection-building and exhibition-planning mainly on the post–World War II period, with particular emphasis on art made during the last 50 years.
+Website: https://hirshhorn.si.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8881772
+Longitude: -77.0229545
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3374667
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3374667
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: museums and culture; art; gardens

@@ -1,0 +1,25 @@
+Name: Hyatt Regency Washington on Capitol Hill
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 400 New Jersey Avenue Northwest, Washington DC 20001
+Description: Not listed
+Website: https://washingtondc.regency.hyatt.com/en/hotel/home.html
+Phone: +1 202-737-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8954289
+Longitude: -77.0116325
+OpenStreetMap URL: https://www.openstreetmap.org/way/74035719
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/74035719
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

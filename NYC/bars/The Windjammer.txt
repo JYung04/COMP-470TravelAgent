@@ -1,0 +1,25 @@
+Name: The Windjammer
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 552 Grandview Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-718-821-9779
+Email: Not listed
+Opening Hours: Su 12:00-26:00; Mo-We 14:00-26:00; Th, Fr 14:00-28:00; Sa 12:00-28:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7091645
+Longitude: -73.9069695
+OpenStreetMap URL: https://www.openstreetmap.org/node/5365011095
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5365011095
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

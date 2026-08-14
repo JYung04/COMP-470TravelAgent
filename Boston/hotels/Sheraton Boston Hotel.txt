@@ -1,0 +1,25 @@
+Name: Sheraton Boston Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 39 Dalton Street, Boston MA 02199
+Description: Nestled in the charming and historic Back Bay, the Sheraton Boston Hotel provides a modern backdrop for both work and play. Experience iconic Boston attractions like nearby Fenway Park or a stroll along Newbury Street or visit the over 200 shops and restaurants at the Prudential Center and Copley Place Mall, all connected to the hotel under the same roof. Take a dip in the heated indoor pool with a retractable roof and outdoor deck. Get active in our fitness center featuring a Strength Room and Cardio Room. Our rooms and suites feature amenities like the Sheraton Sleep Experience Beds and sweeping views of the Back Bay and Charles River. Looking to host an event or meeting? Our 70,000 square feet of flexible meeting space and expert Event Planners can help you create the event of your dreams. Boston FIFA.
+Website: https://www.marriott.com/hotels/travel/bosbo-sheraton-boston-hotel
+Phone: +1-617-236-2000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.346525
+Longitude: -71.0838516
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3640314
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3640314
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; views

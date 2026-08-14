@@ -1,0 +1,25 @@
+Name: Hotel Riu Plaza Manhattan Times Square
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 145 West 47th Street, New York NY 10036
+Description: Not listed
+Website: https://www.riu.com/en/hotel/united-states/new-york/hotel-riu-plaza-manhattan-times-square
+Phone: +1 212-706-3170
+Email: hotel.plazamanhattan@riu.com
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 40.7589411
+Longitude: -73.9833872
+OpenStreetMap URL: https://www.openstreetmap.org/way/266170769
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266170769
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

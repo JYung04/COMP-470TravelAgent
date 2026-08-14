@@ -1,0 +1,24 @@
+Name: Bozu
+City: NYC
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 296 Grand Street, 11211
+Description: Not listed
+Website: https://www.bozubrooklyn.com
+Phone: +1 718-384-7770
+Email: Not listed
+Opening Hours: Mo-Th,Su 17:00-21:30; Fr,Sa 17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7128849
+Longitude: -73.9574856
+OpenStreetMap URL: https://www.openstreetmap.org/node/11160862105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11160862105
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

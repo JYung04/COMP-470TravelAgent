@@ -1,0 +1,25 @@
+Name: ETA Restaurant + Bar
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 455 North Park Drive, Chicago IL 60611
+Description: Not listed
+Website: https://www.etarestaurantandbar.com/
+Phone: +1-312-840-6605
+Email: Not listed
+Opening Hours: Mo-Th 06:30-21:00; Fr 06:30-22:00; Sa 07:00-22:00; Su 07:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8898716
+Longitude: -87.6193007
+OpenStreetMap URL: https://www.openstreetmap.org/node/6356726511
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6356726511
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

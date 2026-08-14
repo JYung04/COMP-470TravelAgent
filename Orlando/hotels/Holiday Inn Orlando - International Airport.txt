@@ -1,0 +1,25 @@
+Name: Holiday Inn Orlando - International Airport
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 5750 TG Lee Boulevard, Orlando FL 32822
+Description: Not listed
+Website: Not listed
+Phone: +1-407-851-6400
+Email: frontoffice@hiorlandoairport.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4594399
+Longitude: -81.3088422
+OpenStreetMap URL: https://www.openstreetmap.org/way/183389364
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/183389364
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

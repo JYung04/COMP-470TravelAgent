@@ -1,0 +1,25 @@
+Name: Sixth Street and Avenue B Community Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 78 Avenue B, New York NY 10009
+Description: Not listed
+Website: http://www.6BGarden.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: "Closed until further notice"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7243209
+Longitude: -73.9820809
+OpenStreetMap URL: https://www.openstreetmap.org/way/237523062
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/237523062
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

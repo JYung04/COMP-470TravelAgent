@@ -1,0 +1,25 @@
+Name: Square Diner
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 33 Leonard Street
+Description: Not listed
+Website: https://squaredinernewyorkcity.com/
+Phone: +1-212-925-7188
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-21:00; Sa, Su 07:30-16:00
+Wheelchair Accessibility: no
+Latitude: 40.718446
+Longitude: -74.007236
+OpenStreetMap URL: https://www.openstreetmap.org/node/2897876741
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2897876741
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

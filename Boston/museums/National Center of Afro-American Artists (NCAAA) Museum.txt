@@ -1,0 +1,25 @@
+Name: National Center of Afro-American Artists (NCAAA) Museum
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 300 Walnut Avenue
+Description: Not listed
+Website: http://ncaaa.org/visit/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3163708
+Longitude: -71.0923691
+OpenStreetMap URL: https://www.openstreetmap.org/way/29738317
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29738317
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

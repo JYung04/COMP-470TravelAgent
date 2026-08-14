@@ -1,0 +1,25 @@
+Name: Walt Disney World
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: FL
+Description: Walt Disney World Resort is an entertainment and vacation resort complex located about 20 miles (32 km) southwest of Orlando, Florida, United States. Opened on October 1, 1971, the resort is operated by Disney Experiences, a division of the Walt Disney Company.
+Website: https://disneyworld.disney.go.com/
+Phone: +1 407-939-5277
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 28.3826131
+Longitude: -81.5603785
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1228099
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1228099
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

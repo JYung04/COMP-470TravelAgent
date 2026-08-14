@@ -1,0 +1,25 @@
+Name: Crayola Experience
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 8001 S Orange Blossom Trail, Orlando FL 32809
+Description: Located in The Florida Mall ®, Crayola Experience features dozens of hands-on activities combining art and technology to immerse your children in the world of color. Some activities include a photobooth that turns your picture into a coloring sheet, interactive shows to explain the science behind Crayola’s art products, drip art, and the opportunity to name your own Crayon and print it on a wrapper. Save on discount tickets: Crayola Experience The experience also includes plenty of areas for you
+Website: https://www.bestoforlando.com/attractions/crayola-experience/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4445895
+Longitude: -81.3917355
+OpenStreetMap URL: https://www.openstreetmap.org/way/921432933
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/921432933
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing; families; art

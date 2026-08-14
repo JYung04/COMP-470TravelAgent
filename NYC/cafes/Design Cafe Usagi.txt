@@ -1,0 +1,25 @@
+Name: Design Cafe Usagi
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 163 Plymouth Street, Brooklyn NY 11201
+Description: Not listed
+Website: https://usaginy.com/
+Phone: +1-718-801-8037
+Email: mailto:connect@usaginy.com
+Opening Hours: Mo-Fr 09:00-17:00; Sa-Su 10:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.7038562
+Longitude: -73.9869538
+OpenStreetMap URL: https://www.openstreetmap.org/node/5585532432
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5585532432
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

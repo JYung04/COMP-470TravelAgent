@@ -1,0 +1,24 @@
+Name: Kushi Kushi Yaki
+City: NYC
+Category: restaurants
+Cuisine: japanese, ramen
+Address: 2 West 32nd Street, 10001
+Description: Not listed
+Website: https://www.kushikushiyaki.com
+Phone: +1 212-279-3075
+Email: kushikushiyaki@gmail.com
+Opening Hours: Su-Th 12:00-21:30; Th-Sa 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7472788
+Longitude: -73.9860623
+OpenStreetMap URL: https://www.openstreetmap.org/node/9644596255
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9644596255
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

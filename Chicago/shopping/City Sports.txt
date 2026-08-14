@@ -1,0 +1,24 @@
+Name: City Sports
+City: Chicago
+Category: shopping
+Cuisine: Not listed
+Address: 823 East 63rd Street, Chicago IL 60637
+Description: Not listed
+Website: http://www.citysports.com
+Phone: (773) 752-1242
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7802999
+Longitude: -87.6050086
+OpenStreetMap URL: https://www.openstreetmap.org/node/6177654339
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6177654339
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

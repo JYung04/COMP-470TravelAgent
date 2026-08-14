@@ -1,0 +1,24 @@
+Name: Blue Ribbon Brassiere
+City: NYC
+Category: restaurants
+Cuisine: american, barbecue, fine_dining
+Address: Not listed
+Description: Not listed
+Website: https://www.blueribbonbrasserie.com/
+Phone: +1 212-274-0404
+Email: Not listed
+Opening Hours: Mo-Su 16:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.725453
+Longitude: -74.0030128
+OpenStreetMap URL: https://www.openstreetmap.org/node/4426826294
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4426826294
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

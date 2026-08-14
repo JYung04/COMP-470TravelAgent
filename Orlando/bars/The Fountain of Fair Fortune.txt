@@ -1,0 +1,25 @@
+Name: The Fountain of Fair Fortune
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4794922
+Longitude: -81.4699116
+OpenStreetMap URL: https://www.openstreetmap.org/node/4694549369
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4694549369
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: drinks

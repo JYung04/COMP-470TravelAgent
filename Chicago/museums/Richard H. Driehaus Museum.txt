@@ -1,0 +1,25 @@
+Name: Richard H. Driehaus Museum
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 50 East Erie Street, Chicago IL 60611
+Description: The Richard H. Driehaus Museum is a museum located at 50 East Erie Street on the Near North Side in Chicago, Illinois, near the Magnificent Mile. The museum is housed within the historic Samuel M. Nickerson House, the 1883 residence of a wealthy Chicago banker. Although the mansion has been restored, the Driehaus Museum does not re-create the Nickerson period but rather broadly interprets and displays the prevailing design, architecture, and decorating tastes of Gilded Age America and the Art Nouveau era in permanent and special exhibitions.
+Website: https://driehausmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8942846
+Longitude: -87.6265031
+OpenStreetMap URL: https://www.openstreetmap.org/node/4060205627
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4060205627
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; architecture; art

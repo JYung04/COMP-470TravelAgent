@@ -1,0 +1,25 @@
+Name: Nublu Classic
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 62 Avenue C, 10009
+Description: Not listed
+Website: http://www.nublu.net
+Phone: Not listed
+Email: nublu@nublu.net
+Opening Hours: "Temporarily closed"
+Wheelchair Accessibility: no
+Latitude: 40.7225383
+Longitude: -73.979784
+OpenStreetMap URL: https://www.openstreetmap.org/node/4815674439
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4815674439
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

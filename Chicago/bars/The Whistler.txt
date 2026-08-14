@@ -1,0 +1,25 @@
+Name: The Whistler
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2421 North Milwaukee Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://whistlerchicago.com/
+Phone: +1-773-227-3530
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9253484
+Longitude: -87.7010478
+OpenStreetMap URL: https://www.openstreetmap.org/node/2761642364
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2761642364
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Cook Brothers
+City: Chicago
+Category: shopping
+Cuisine: Not listed
+Address: 1740 North Kostner Avenue, Chicago IL 60639
+Description: Not listed
+Website: https://cookbrothers.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9125208
+Longitude: -87.7379031
+OpenStreetMap URL: https://www.openstreetmap.org/node/8823619015
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8823619015
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

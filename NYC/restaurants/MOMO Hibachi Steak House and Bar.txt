@@ -1,0 +1,25 @@
+Name: MOMO Hibachi Steak House and Bar
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 1901 Emmons Avenue, Brooklyn NY 11235
+Description: Not listed
+Website: https://www.hibachimomo.com/
+Phone: +1-718-769-8010
+Email: Not listed
+Opening Hours: Mo-Th 16:00-21:30; Fr 16:00-22:30; Sa 15:00-22:30; Su 13:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.5837436
+Longitude: -73.9493241
+OpenStreetMap URL: https://www.openstreetmap.org/node/9132534663
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9132534663
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

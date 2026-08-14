@@ -1,0 +1,24 @@
+Name: Calle Dao
+City: NYC
+Category: restaurants
+Cuisine: cuban, chinese
+Address: Not listed
+Description: Not listed
+Website: https://www.calledao.com/bryant-park/
+Phone: +1-212-221-9002
+Email: Not listed
+Opening Hours: Mo-We 11:00-23:00; Th-Sa 11:00-24:00; Su 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7522319
+Longitude: -73.9841646
+OpenStreetMap URL: https://www.openstreetmap.org/node/5142544476
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5142544476
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

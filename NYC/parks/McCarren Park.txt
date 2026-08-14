@@ -1,0 +1,25 @@
+Name: McCarren Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Brooklyn NY
+Description: McCarren Park is a public park in Brooklyn, New York City. It is located on the border of Williamsburg and Greenpoint and is bordered by Nassau Avenue, Bayard Street, Lorimer Street and North 12th Street. The park contains facilities for recreational softball, volleyball, soccer, handball, and other games. It is also used for sunbathing and dog-walking. It also includes the McCarren Play Center, which consists of a recreation center and a pool. McCarren Park is maintained by the New York City Department of Parks and Recreation.
+Website: https://www.nycgovparks.org/parks/mccarren-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7211155
+Longitude: -73.9522671
+OpenStreetMap URL: https://www.openstreetmap.org/relation/13902286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/13902286
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

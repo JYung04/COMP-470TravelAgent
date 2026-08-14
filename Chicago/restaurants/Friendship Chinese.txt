@@ -1,0 +1,25 @@
+Name: Friendship Chinese
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2830 N Milwaukee Ave, Chicago, IL 60647, United States
+Description: Not listed
+Website: https://friendshiprestaurant.com/?utm_source=google&utm_medium=gmb&utm_campaign=friendship
+Phone: +1 773-227-0970
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9325834
+Longitude: -87.7134313
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575010907
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575010907
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: B.A.A. Boston Marathon
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Boston Marathon is an annual marathon race hosted by eight cities and towns in greater Boston in eastern Massachusetts, United States. It is traditionally held on Patriots' Day, the third Monday of April. First held in 1897, the event was inspired by the success of the first marathon competition in the 1896 Summer Olympics. The Boston Marathon is the world's oldest annual marathon and ranks as one of the world's best-known road racing events. It is one of seven World Marathon Majors. Its course runs from Hopkinton in southern Middlesex County to Boylston Street, near Copley Square, in Boston. The World Marathon Majors is a series that includes the Sydney, Tokyo, Boston, London, Berlin, Chicago, and New York City.
+Website: https://web.archive.org/web/20160126213654/http://www.publicartboston.com/content/boston-marathon-memorial
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3500965
+Longitude: -71.0767904
+OpenStreetMap URL: https://www.openstreetmap.org/way/827546794
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/827546794
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

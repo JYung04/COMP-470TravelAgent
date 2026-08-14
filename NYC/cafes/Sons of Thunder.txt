@@ -1,0 +1,25 @@
+Name: Sons of Thunder
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 225 Pearl Street
+Description: Not listed
+Website: https://www.sonsofthunder.com/location/financial-district/
+Phone: +1-646-822-0208
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7073322
+Longitude: -74.0059333
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978792116
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978792116
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

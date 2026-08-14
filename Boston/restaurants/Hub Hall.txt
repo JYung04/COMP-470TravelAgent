@@ -1,0 +1,25 @@
+Name: Hub Hall
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 80 Causeway Street, Boston MA 02114
+Description: 1. Caffe Nero 2. Cusser's Roast Beef & Seafood 3. Naco Taco 4. Monica's Mercato 5. Boston Soup Co. 6. Sullivan's Castle Ireland 7. GreCo 8. Sauce Burgers 9. Lily P's 10. JuicyGreens 11. Bianco & Sons Sausage 12. Mike's Pastry 13. ReelHouse Oyster Bar
+Website: https://www.hubhallboston.com/
+Phone: +1-617-263-8900
+Email: Not listed
+Opening Hours: Mo-Th 06:00-23:00; Fr 06:00-00:00; Sa 07:00-00:00; Su 07:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3657437
+Longitude: -71.0620728
+OpenStreetMap URL: https://www.openstreetmap.org/node/7643966610
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7643966610
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

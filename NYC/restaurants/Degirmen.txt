@@ -1,0 +1,24 @@
+Name: Degirmen
+City: NYC
+Category: restaurants
+Cuisine: mediterranean, coffee_shop
+Address: 224A Brighton Beach Avenue, 11235
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 07:30-22:00; Fr-Su 08:30-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.5764447
+Longitude: -73.9660803
+OpenStreetMap URL: https://www.openstreetmap.org/node/3315132869
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3315132869
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

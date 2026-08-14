@@ -1,0 +1,24 @@
+Name: UCrew
+City: NYC
+Category: cafes
+Cuisine: bubble_tea, snack
+Address: 56-23 Myrtle Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: https://www.ucrewnyc.com/
+Phone: +1-347-223-4899
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7003347
+Longitude: -73.9052907
+OpenStreetMap URL: https://www.openstreetmap.org/node/2568784668
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2568784668
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

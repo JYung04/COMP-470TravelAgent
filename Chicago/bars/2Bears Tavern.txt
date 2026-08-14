@@ -1,0 +1,25 @@
+Name: 2Bears Tavern
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1140 West Wilson Avenue, Chicago IL 60640
+Description: Not listed
+Website: Not listed
+Phone: +1-773-923-2327
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9655042
+Longitude: -87.6592494
+OpenStreetMap URL: https://www.openstreetmap.org/node/6323134767
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6323134767
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

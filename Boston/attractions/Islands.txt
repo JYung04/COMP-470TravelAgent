@@ -1,0 +1,25 @@
+Name: Islands
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Representing the original 5 islands of East Boston, the bottom of each part represents the natural formations of each island while the top represents the manufactured formations after the water was filled.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3686228
+Longitude: -71.0419704
+OpenStreetMap URL: https://www.openstreetmap.org/node/6833546665
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6833546665
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing; art

@@ -1,0 +1,25 @@
+Name: Something Sweet
+City: NYC
+Category: cafes
+Cuisine: bubble_tea
+Address: 314 New Dorp Lane, 10306
+Description: Searching for a freshly-baked breakfast, a midafternoon treat, or a post-Broadway dessert? From fluffy matcha cream puffs and specialty doughnuts to rose-shaped gelato and trendy fro yo, these local bakeries and ice cream shops have goodies to satisfy any sweet tooth. Amorino Gelato and Cafe Takeout;Delivery;Indoor Seating @ 721 Eighth Avenue All Cuisines Reset Amenities All Cuisines Reset Amenities Takeout Delivery Indoor Seating Angelina Bakery Takeout;Indoor Seating;Outdoor Seating - Sidewalk
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5716024
+Longitude: -74.1121286
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550661504
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550661504
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

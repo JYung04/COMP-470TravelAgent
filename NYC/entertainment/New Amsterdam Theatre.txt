@@ -1,0 +1,25 @@
+Name: New Amsterdam Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 214 West 42nd Street, New York NY 10036
+Description: 214 W 42nd Street (between Seventh & Eighth Avenues) The New Amsterdam is among Broadway's oldest surviving legitimate theaters. Commissioned in 1902 by theater moguls Marc Klaw and Abraham Erlanger and designed by architects Henry B. Herts and Hugh Tallant, this landmark space boasts a beaux-arts entrance and a magnificent art nouveau interior of painted plaster, carved stone, fine wood, murals and tiles. The New Amsterdam opened with a performance of Shakespeare's A Midsummer Night's Dream , s
+Website: https://newamsterdamtheatre.com/
+Phone: (212) 282-2900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7559683
+Longitude: -73.9880353
+OpenStreetMap URL: https://www.openstreetmap.org/way/266143344
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266143344
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art

@@ -1,0 +1,25 @@
+Name: Scooter's Frozen Custard
+City: Chicago
+Category: cafes
+Cuisine: ice_cream
+Address: 3205 North Paulina Street, 60657
+Description: Not listed
+Website: https://www.scootersfrozencustard.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Fr 14:00-21:00; Sa-Su 13:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9398698
+Longitude: -87.6708957
+OpenStreetMap URL: https://www.openstreetmap.org/way/209885850
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209885850
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

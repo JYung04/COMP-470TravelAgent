@@ -1,0 +1,25 @@
+Name: West 170th Street
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Mary Jane Matos volunteered for the deaf and blind in high school and volunteered in the Jr. Red Cross at East 19th Street Hospital. She became an Auxiliary Police Officer in the 34th Precinct for five years. She also worked for the Board of Education and
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8429548
+Longitude: -73.9404595
+OpenStreetMap URL: https://www.openstreetmap.org/way/242514169
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/242514169
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

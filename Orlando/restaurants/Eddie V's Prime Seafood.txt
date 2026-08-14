@@ -1,0 +1,25 @@
+Name: Eddie V's Prime Seafood
+City: Orlando
+Category: restaurants
+Cuisine: Seafood, Cocktail, Jazz club
+Address: 7488 W Sand Lake Rd, Orlando, FL 32819, United States
+Description: Not listed
+Website: https://www.eddiev.com/locations/fl/orlando/orlando/8513?cmpid=br:ev_ag:ie_ch:dry_ca:EVGMB_sn:gmb_gt:orlando-fl-8513_pl:locurl_rd:1012
+Phone: +1 407-355-3011
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.449395
+Longitude: -81.4836334
+OpenStreetMap URL: https://www.openstreetmap.org/way/332336281
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/332336281
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

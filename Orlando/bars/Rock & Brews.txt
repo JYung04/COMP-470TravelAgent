@@ -1,0 +1,25 @@
+Name: Rock & Brews
+City: Orlando
+Category: bars
+Cuisine: American
+Address: 6897 S Semoran Blvd, Orlando, FL 32822, United States
+Description: Not listed
+Website: https://www.rockandbrews.com/
+Phone: +1 407-367-2840
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.463689
+Longitude: -81.3087096
+OpenStreetMap URL: https://www.openstreetmap.org/node/13930157901
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13930157901
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: MoMA PS1
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: MoMA PS1 is a contemporary art institution at 22-01 Jackson Avenue in the Long Island City neighborhood of Queens, in New York City, United States. In addition to its exhibitions, the institution organizes the Sunday Sessions performance series, the Warm Up summer music series, and the Young Architects Program with the Museum of Modern Art. MoMA PS1 has been affiliated with the Museum of Modern Art since January 2000 and, as of 2013, had about 200,000 visitors a year.
+Website: https://momaps1.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7455513
+Longitude: -73.9474943
+OpenStreetMap URL: https://www.openstreetmap.org/way/370574294
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/370574294
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art; music

@@ -1,0 +1,25 @@
+Name: Mayflower
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 5240 North Pulaski Road, Chicago IL 60630
+Description: Not listed
+Website: Not listed
+Phone: +17738662868
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9768167
+Longitude: -87.7288675
+OpenStreetMap URL: https://www.openstreetmap.org/node/10061549416
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10061549416
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

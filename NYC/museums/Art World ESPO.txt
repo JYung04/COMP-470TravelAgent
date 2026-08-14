@@ -1,0 +1,25 @@
+Name: Art World ESPO
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 72 4th Avenue, 11217
+Description: Gallery and shop for artist Stephen Powers
+Website: Not listed
+Phone: +1-929-295-0427
+Email: Not listed
+Opening Hours: 12:00-18:00 "most days"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6824711
+Longitude: -73.9798764
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550063510
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550063510
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

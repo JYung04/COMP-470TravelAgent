@@ -1,0 +1,25 @@
+Name: La Casina
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 327 7th Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://lacasinadc.com/
+Phone: +1-202-516-5100
+Email: Not listed
+Opening Hours: Tu-Sa 11:30-14:30,17:30-21:00; Su 11:30-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8853361
+Longitude: -76.9963719
+OpenStreetMap URL: https://www.openstreetmap.org/node/10594328317
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10594328317
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Red Hen
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 1822 1st Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://theredhendc.com/
+Phone: +1 202-525-3021
+Email: Not listed
+Opening Hours: Mo-Th 17:30-22:00; Fr-Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9149753
+Longitude: -77.0123423
+OpenStreetMap URL: https://www.openstreetmap.org/node/3692356785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3692356785
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

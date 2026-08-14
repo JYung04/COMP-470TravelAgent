@@ -1,0 +1,25 @@
+Name: Reindeer Room
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 808 East Washington Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.543554
+Longitude: -81.3671688
+OpenStreetMap URL: https://www.openstreetmap.org/node/13322197730
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13322197730
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

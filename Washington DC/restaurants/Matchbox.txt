@@ -1,0 +1,24 @@
+Name: Matchbox
+City: Washington DC
+Category: restaurants
+Cuisine: american, pizza
+Address: 7278 Woodmont Avenue
+Description: Not listed
+Website: https://www.matchboxrestaurants.com/bethesda
+Phone: +1-202-548-0369
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9819938
+Longitude: -77.0962831
+OpenStreetMap URL: https://www.openstreetmap.org/node/1322356821
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1322356821
+Price: Not listed
+Rating: 3.8
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

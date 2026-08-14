@@ -1,0 +1,24 @@
+Name: Hong Kong Eatery
+City: Boston
+Category: restaurants
+Cuisine: asian, chinese
+Address: 02111
+Description: Not listed
+Website: https://www.hongkongeatery.com/
+Phone: +1-617-423-0838
+Email: Not listed
+Opening Hours: Mo-Su 09:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3509925
+Longitude: -71.0615343
+OpenStreetMap URL: https://www.openstreetmap.org/node/10022952817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10022952817
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

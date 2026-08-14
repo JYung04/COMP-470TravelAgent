@@ -1,0 +1,25 @@
+Name: El Sabor Pobloano
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 7027 North Clark Street, Chicago IL 60626
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Mo 08:00-21:00; We-Th 08:00-21:00; Fr-Sa 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.0099178
+Longitude: -87.6739865
+OpenStreetMap URL: https://www.openstreetmap.org/node/6412790976
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6412790976
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

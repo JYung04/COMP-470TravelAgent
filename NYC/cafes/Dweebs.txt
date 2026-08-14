@@ -1,0 +1,25 @@
+Name: Dweebs
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 1434, 11237
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-19:00; Sa-Su 07:30-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7003851
+Longitude: -73.9226935
+OpenStreetMap URL: https://www.openstreetmap.org/node/6392106685
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6392106685
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Crockett's Tavern
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: FL
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 15:00-22:00; Sa,Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4118909
+Longitude: -81.5617737
+OpenStreetMap URL: https://www.openstreetmap.org/node/2968261565
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2968261565
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

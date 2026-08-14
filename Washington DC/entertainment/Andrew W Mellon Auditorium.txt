@@ -1,0 +1,24 @@
+Name: Andrew W Mellon Auditorium
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: DC
+Description: Not listed
+Website: https://www.eventsatmellon.com
+Phone: (202) 786-0294
+Email: jmack@eventemissary.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8926119
+Longitude: -77.0296989
+OpenStreetMap URL: https://www.openstreetmap.org/node/367143122
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367143122
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

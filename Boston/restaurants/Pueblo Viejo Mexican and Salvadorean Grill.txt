@@ -1,0 +1,24 @@
+Name: Pueblo Viejo Mexican and Salvadorean Grill
+City: Boston
+Category: restaurants
+Cuisine: salvadoran, mexican
+Address: 140 Marion Street, East Boston MA 02128
+Description: Not listed
+Website: Not listed
+Phone: +1 617 561 0011
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3760257
+Longitude: -71.0355221
+OpenStreetMap URL: https://www.openstreetmap.org/way/29661588
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29661588
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

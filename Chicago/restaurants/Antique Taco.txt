@@ -1,0 +1,25 @@
+Name: Antique Taco
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1360 North Milwaukee Avenue, Chicago IL 60622
+Description: Not listed
+Website: http://www.antiquetaco.com/wickerpark
+Phone: +1-773-687-8697
+Email: Not listed
+Opening Hours: Tu-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9064474
+Longitude: -87.6716054
+OpenStreetMap URL: https://www.openstreetmap.org/node/3080898770
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3080898770
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

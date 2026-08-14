@@ -1,0 +1,25 @@
+Name: Armando Martinez-Ramos
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.wusa9.com/article/news/local/dc/community-gathers-to-honor-cyclist-killed-in-crash-while-demanding-for-traffic-changes/65-b3c60407-0413-4ac4-b252-e58de50f72d7
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9350646
+Longitude: -76.9929706
+OpenStreetMap URL: https://www.openstreetmap.org/node/8952149520
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8952149520
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history; art

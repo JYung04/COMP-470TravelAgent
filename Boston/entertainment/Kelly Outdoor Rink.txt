@@ -1,0 +1,25 @@
+Name: Kelly Outdoor Rink
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 1 Marbury Terrace, Jamaica Plain MA 02130
+Description: Not listed
+Website: https://www.mass.gov/locations/dcr-kelly-outdoor-rink
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3181666
+Longitude: -71.1032979
+OpenStreetMap URL: https://www.openstreetmap.org/way/220594085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/220594085
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

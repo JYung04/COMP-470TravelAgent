@@ -1,0 +1,25 @@
+Name: Luke’s Bar & Grill
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 1394 3rd Avenue, New York NY
+Description: Not listed
+Website: https://lukesbarandgrill.com/
+Phone: +1 212-249-7070
+Email: lukesbargrill@gmail.com
+Opening Hours: Mo-Fr 11:30-24:00; Sa, Su 11:00-12:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7746187
+Longitude: -73.9572996
+OpenStreetMap URL: https://www.openstreetmap.org/node/6240316485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6240316485
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

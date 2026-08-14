@@ -1,0 +1,25 @@
+Name: Paley Center for Media
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 25 West 52nd Street, New York NY 10019
+Description: Not listed
+Website: https://www.paleycenter.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 12:00-18:00; Jan 01 off; Jul 04 off; Nov Th[4] off; Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.760591
+Longitude: -73.9775846
+OpenStreetMap URL: https://www.openstreetmap.org/way/162755458
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162755458
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

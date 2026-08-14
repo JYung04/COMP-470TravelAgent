@@ -1,0 +1,25 @@
+Name: Tesfa Ethiopian Cuisine
+City: Chicago
+Category: restaurants
+Cuisine: ethiopian
+Address: 5352 North Broadway, Chicago IL 60640
+Description: Not listed
+Website: https://www.tesfacuisine.com/
+Phone: +13126984481
+Email: tesfa.ec@gmail.com
+Opening Hours: Mo-Th 16:00-21:00; Fr 16:00-22:00; Sa 11:00-22:00; Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9797035
+Longitude: -87.6603305
+OpenStreetMap URL: https://www.openstreetmap.org/node/4837409787
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4837409787
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

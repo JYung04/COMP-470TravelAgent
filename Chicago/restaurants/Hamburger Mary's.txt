@@ -1,0 +1,25 @@
+Name: Hamburger Mary's
+City: Chicago
+Category: restaurants
+Cuisine: burger
+Address: 1055 West Bryn Mawr Avenue, Chicago IL 60660
+Description: Not listed
+Website: https://chicago.hamburgermarys.com/
+Phone: +1-773-754-0524
+Email: Chicago@HamburgerMarys.com
+Opening Hours: We 17:00-22:00; Th 17:00-23:00; Fr 17:00-24:00; Sa 12:00-24:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9835153
+Longitude: -87.6578048
+OpenStreetMap URL: https://www.openstreetmap.org/node/12202176534
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12202176534
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

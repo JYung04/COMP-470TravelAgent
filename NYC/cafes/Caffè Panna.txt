@@ -1,0 +1,25 @@
+Name: Caffè Panna
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 16 Norman Avenue, Brooklyn NY 11222
+Description: Not listed
+Website: https://www.caffepanna.com
+Phone: +1 718-362-6026
+Email: Not listed
+Opening Hours: We-Su 13:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7242739
+Longitude: -73.9548547
+OpenStreetMap URL: https://www.openstreetmap.org/node/12730434025
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12730434025
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

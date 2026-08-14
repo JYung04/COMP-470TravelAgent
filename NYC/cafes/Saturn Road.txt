@@ -1,0 +1,25 @@
+Name: Saturn Road
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 276 Court Street, Brooklyn NY 11231
+Description: Not listed
+Website: https://saturnroadnyc.com/
+Phone: +1-347-799-2500
+Email: Not listed
+Opening Hours: Mo-We 07:00-21:00; Th-Fr 07:00-22:00; Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6847188
+Longitude: -73.9949279
+OpenStreetMap URL: https://www.openstreetmap.org/node/6340488794
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6340488794
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Italian VIllage
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 71 West Monroe Street, Chicago IL 60603
+Description: Not listed
+Website: https://italianvillage-chicago.com/
+Phone: +1-312-332-7005
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8803575
+Longitude: -87.6301504
+OpenStreetMap URL: https://www.openstreetmap.org/way/147482998
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/147482998
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

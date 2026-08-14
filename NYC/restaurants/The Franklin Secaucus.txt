@@ -1,0 +1,25 @@
+Name: The Franklin Secaucus
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 780 5th Street, 07094
+Description: Not listed
+Website: https://thefranklinsc.com/
+Phone: +1 201-777-1188
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:00-22:00; Fr, Sa 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7929543
+Longitude: -74.0626701
+OpenStreetMap URL: https://www.openstreetmap.org/node/11343758661
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11343758661
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Finback Brooklyn
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 545 President Street, 11215
+Description: Not listed
+Website: https://finbackbrewery.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Tu 14:00-22:00, We-Th 12:00-22:00, Fr-Sa 12:00-24:00, Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6775159
+Longitude: -73.9847477
+OpenStreetMap URL: https://www.openstreetmap.org/way/241860727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241860727
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

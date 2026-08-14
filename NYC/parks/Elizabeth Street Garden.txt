@@ -1,0 +1,25 @@
+Name: Elizabeth Street Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: The Elizabeth Street Garden is a one-acre (0.40 ha) community sculpture garden in the Nolita neighborhood of Manhattan, New York City. Located on Elizabeth Street between Prince and Spring Streets, the garden is owned by the city government and managed by the eponymous Elizabeth Street Garden (ESG), a 501(c)(3) nonprofit organization, and open to the public for general use and community events.
+Website: https://elizabethstreetgarden.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7221895
+Longitude: -73.994783
+OpenStreetMap URL: https://www.openstreetmap.org/way/453461400
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/453461400
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

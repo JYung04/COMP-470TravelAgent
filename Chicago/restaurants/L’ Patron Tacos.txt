@@ -1,0 +1,25 @@
+Name: L’ Patron Tacos
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 3749 West Fullerton Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.lpatrontacos.com/
+Phone: +1-773-799-8066
+Email: Not listed
+Opening Hours: We-Mo 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9243634
+Longitude: -87.7213646
+OpenStreetMap URL: https://www.openstreetmap.org/node/6319849466
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6319849466
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

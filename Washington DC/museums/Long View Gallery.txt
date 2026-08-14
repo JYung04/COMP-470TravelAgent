@@ -1,0 +1,25 @@
+Name: Long View Gallery
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1234 9th Street Northwest, 20001
+Description: Not listed
+Website: https://longviewgallerydc.com
+Phone: Not listed
+Email: events@longviewgallerydc.com
+Opening Hours: Th-Su 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9066268
+Longitude: -77.0241703
+OpenStreetMap URL: https://www.openstreetmap.org/node/585825430
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/585825430
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; views

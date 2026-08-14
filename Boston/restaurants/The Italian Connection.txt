@@ -1,0 +1,25 @@
+Name: The Italian Connection
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 8-10 West Street, Boston PE21 8QH
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9760687
+Longitude: -0.0249241
+OpenStreetMap URL: https://www.openstreetmap.org/node/1030956758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1030956758
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Canal House of Georgetown
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1023 31st Street Northwest, Washington DC 20007
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/wasgx-canal-house-of-georgetown-a-tribute-portfolio-hotel/overview/
+Phone: +1 202 937 0011
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9032134
+Longitude: -77.0609513
+OpenStreetMap URL: https://www.openstreetmap.org/node/12731621376
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12731621376
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

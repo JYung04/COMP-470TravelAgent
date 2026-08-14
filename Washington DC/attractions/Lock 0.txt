@@ -1,0 +1,25 @@
+Name: Lock 0
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The Tidewater Lock is a dam in Washington, D.C., west of the mouth of Rock Creek at the Potomac River, on the east side of Georgetown. Built to connect the Potomac and the Chesapeake and Ohio Canal, opened in 1831, it was a busy maritime intersection during several decades of the canal's heyday. C&O documents refer to it as Lock 0 or Tide Lock A. Today, the lock marks Milestone 0 of the National Park Service's Chesapeake & Ohio Canal trail.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8998879
+Longitude: -77.0578065
+OpenStreetMap URL: https://www.openstreetmap.org/way/866834879
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/866834879
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

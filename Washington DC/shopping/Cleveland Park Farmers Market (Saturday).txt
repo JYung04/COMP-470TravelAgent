@@ -1,0 +1,25 @@
+Name: Cleveland Park Farmers Market (Saturday)
+City: Washington DC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://cpbiz.org/community/farmers-markets/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Sa 09:00-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9349441
+Longitude: -77.0583042
+OpenStreetMap URL: https://www.openstreetmap.org/way/810045604
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/810045604
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

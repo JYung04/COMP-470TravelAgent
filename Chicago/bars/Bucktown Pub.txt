@@ -1,0 +1,25 @@
+Name: Bucktown Pub
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1658 West Cortland Street, Chicago IL 60622
+Description: Not listed
+Website: https://www.bucktownpub.com/
+Phone: +1-773- 394-9898
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9162108
+Longitude: -87.6701232
+OpenStreetMap URL: https://www.openstreetmap.org/node/3581500506
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3581500506
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

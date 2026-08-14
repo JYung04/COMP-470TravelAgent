@@ -1,0 +1,25 @@
+Name: Ottoman Taverna
+City: Washington DC
+Category: restaurants
+Cuisine: turkish
+Address: 425 I Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.ottomantaverna.com/
+Phone: +1-202-847-0389
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9016723
+Longitude: -77.0163471
+OpenStreetMap URL: https://www.openstreetmap.org/node/5667786572
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5667786572
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

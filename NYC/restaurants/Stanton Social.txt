@@ -1,0 +1,25 @@
+Name: Stanton Social
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 99 Stanton Street, New York NY 10002-1405
+Description: Not listed
+Website: http://www.thestantonsocial.com
+Phone: +1 212-995-0199
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7212197
+Longitude: -73.9880769
+OpenStreetMap URL: https://www.openstreetmap.org/node/4773391724
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4773391724
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

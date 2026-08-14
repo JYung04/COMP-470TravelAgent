@@ -1,0 +1,24 @@
+Name: Summer House Santa Monica
+City: Chicago
+Category: restaurants
+Cuisine: american, californian
+Address: 1954 North Halsted Street, Chicago IL 60614
+Description: Not listed
+Website: http://summerhousesm.com
+Phone: +1-773-634-4100
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 08:00-23:00; Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9175688
+Longitude: -87.6486847
+OpenStreetMap URL: https://www.openstreetmap.org/node/6407456510
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6407456510
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: La Vienesa
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 39-44 Queens Boulevard, 11104
+Description: Not listed
+Website: Not listed
+Phone: +1 718-786-2924
+Email: Not listed
+Opening Hours: Mo-Sa 05:00-20:00; Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7435705
+Longitude: -73.9247147
+OpenStreetMap URL: https://www.openstreetmap.org/node/5721475606
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5721475606
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

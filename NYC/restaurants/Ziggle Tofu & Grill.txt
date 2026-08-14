@@ -1,0 +1,25 @@
+Name: Ziggle Tofu & Grill
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 37-04 Queens Boulevard, Long Island City NY 11101
+Description: Not listed
+Website: https://zigglekfood.com/
+Phone: +1-718-885-4429
+Email: info@koreanfoodziggle.com
+Opening Hours: Mo-Su 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7439252
+Longitude: -73.9277394
+OpenStreetMap URL: https://www.openstreetmap.org/node/11265041505
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11265041505
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

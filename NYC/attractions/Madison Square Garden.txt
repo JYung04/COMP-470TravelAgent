@@ -1,0 +1,25 @@
+Name: Madison Square Garden
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 4 Pennsylvania Plaza, New York NY 10001
+Description: Madison Square Garden, colloquially known as the Garden or by its initials MSG, is a multi-purpose indoor arena in Midtown Manhattan, New York City, U.S. The arena is located between Seventh and Eighth avenues, extending from 31st to 33rd streets, atop Pennsylvania Station. The current site hosts the fourth venue to bear the name "Madison Square Garden"; the first two, opened in 1879 and 1890, were situated in Madison Square, on East 26th Street and Madison Avenue, with the third Madison Square Garden (1925) farther uptown at Eighth Avenue and 50th Street.
+Website: http://www.thegarden.com/
+Phone: +1-212-465-6741
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7505185
+Longitude: -73.9935059
+OpenStreetMap URL: https://www.openstreetmap.org/way/138141251
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/138141251
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; art; gardens

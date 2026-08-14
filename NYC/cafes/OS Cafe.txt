@@ -1,0 +1,24 @@
+Name: OS Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfast, sandwich
+Address: 535 6th Avenue, 11215
+Description: Not listed
+Website: https://www.oscafebrooklyn.com
+Phone: +1-347-213-4365
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-18:00; Sa-Su 08:00-18:00
+Wheelchair Accessibility: no
+Latitude: 40.6647746
+Longitude: -73.9864585
+OpenStreetMap URL: https://www.openstreetmap.org/node/5914043148
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5914043148
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

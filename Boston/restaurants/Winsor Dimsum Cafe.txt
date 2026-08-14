@@ -1,0 +1,25 @@
+Name: Winsor Dimsum Cafe
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 10,10A Tyler Street, Boston MA 02111
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.350993
+Longitude: -71.060539
+OpenStreetMap URL: https://www.openstreetmap.org/node/11887254003
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11887254003
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

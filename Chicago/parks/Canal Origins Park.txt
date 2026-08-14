@@ -1,0 +1,25 @@
+Name: Canal Origins Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2701 South Ashland Avenue, Chicago IL 60608
+Description: Officially classified as linear park. Covers approximately 2.4 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/canal-origins-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8429971
+Longitude: -87.6651744
+OpenStreetMap URL: https://www.openstreetmap.org/way/183211054
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/183211054
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

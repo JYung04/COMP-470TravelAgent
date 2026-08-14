@@ -1,0 +1,25 @@
+Name: Court Street
+City: NYC
+Category: restaurants
+Cuisine: American, Wine
+Address: 61 6th St, Hoboken
+Description: Not listed
+Website: https://www.courtstreet.com/
+Phone: +1-201-795-4515
+Email: Not listed
+Opening Hours: Mo-Sa 16:30-23:00; Su 11:00-15:00,16:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7433179
+Longitude: -74.0285824
+OpenStreetMap URL: https://www.openstreetmap.org/node/305499273
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/305499273
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

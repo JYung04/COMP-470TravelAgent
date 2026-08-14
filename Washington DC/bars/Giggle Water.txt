@@ -1,0 +1,24 @@
+Name: Giggle Water
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1333 P St NW, Washington, D.C. 20005
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-We 16:00-22:00; Th 16:00-24:00; Fr-Su 15:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9097932
+Longitude: -77.0315419
+OpenStreetMap URL: https://www.openstreetmap.org/node/12360546490
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12360546490
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Central-Michel Richard
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 1001 Pennsylvania Avenue Northwest, Washington DC 20004
+Description: Not listed
+Website: https://www.centralmichelrichard.com/
+Phone: +1 202-626-0015
+Email: info@centralmichelrichard.com
+Opening Hours: Mo-Sa 11:30-19:30
+Wheelchair Accessibility: yes
+Latitude: 38.8950389
+Longitude: -77.0266591
+OpenStreetMap URL: https://www.openstreetmap.org/node/738194959
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/738194959
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

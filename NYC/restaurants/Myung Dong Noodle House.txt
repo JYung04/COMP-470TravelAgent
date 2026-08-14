@@ -1,0 +1,25 @@
+Name: Myung Dong Noodle House
+City: NYC
+Category: restaurants
+Cuisine: noodle
+Address: 2013 Lemoine Ave, Fort Lee, NJ 07024, United States
+Description: Not listed
+Website: http://mdnoodle.com/
+Phone: +1 201-592-6900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.851876
+Longitude: -73.9698907
+OpenStreetMap URL: https://www.openstreetmap.org/node/12233725017
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12233725017
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

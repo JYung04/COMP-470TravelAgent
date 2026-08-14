@@ -1,0 +1,25 @@
+Name: La Cocina
+City: NYC
+Category: restaurants
+Cuisine: Cuban, Latin American, Spanish
+Address: 61 New St, Newark, NJ 07102, United States
+Description: Not listed
+Website: https://www.lacocinanewark.com/
+Phone: +1 973-856-6777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7407862
+Longitude: -74.1722385
+OpenStreetMap URL: https://www.openstreetmap.org/node/5005273951
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5005273951
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: TJ Maxx
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 808 Columbus Avenue, New York NY 10025
+Description: Not listed
+Website: https://tjmaxx.tjx.com/store/stores/New+York+Columbus+Village-NY-10025/1092/aboutstore
+Phone: +1-212-222-0543
+Email: Not listed
+Opening Hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7948916
+Longitude: -73.9662954
+OpenStreetMap URL: https://www.openstreetmap.org/node/4111221271
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4111221271
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

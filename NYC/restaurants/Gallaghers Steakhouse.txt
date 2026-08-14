@@ -1,0 +1,24 @@
+Name: Gallaghers Steakhouse
+City: NYC
+Category: restaurants
+Cuisine: american, steak_house
+Address: 228 West 52nd Street, 10019
+Description: Not listed
+Website: https://gallaghersnysteakhouse.com/
+Phone: +1 212-586-5000
+Email: Not listed
+Opening Hours: Mo-Sa 11:45-23:30; Su 11:45-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7628531
+Longitude: -73.9838317
+OpenStreetMap URL: https://www.openstreetmap.org/node/4278330892
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4278330892
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

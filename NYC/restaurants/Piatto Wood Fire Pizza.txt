@@ -1,0 +1,24 @@
+Name: Piatto Wood Fire Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza, italian
+Address: Not listed
+Description: Not listed
+Website: https://www.piattolic.com/
+Phone: +1-718-361-2751
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-16:00; Mo-Th, Su 17:00-22:00, 09:00-18:00; Fr, Sa 17:00-23:00; Sa, Su 11:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7435421
+Longitude: -73.9590758
+OpenStreetMap URL: https://www.openstreetmap.org/node/5397500865
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5397500865
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

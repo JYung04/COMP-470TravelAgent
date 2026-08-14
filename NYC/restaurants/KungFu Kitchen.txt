@@ -1,0 +1,25 @@
+Name: KungFu Kitchen
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 610 8th Avenue
+Description: Not listed
+Website: https://www.kfkitchennyc.com/
+Phone: +1-212-951-1935
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7555903
+Longitude: -73.9907507
+OpenStreetMap URL: https://www.openstreetmap.org/node/4913377711
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4913377711
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

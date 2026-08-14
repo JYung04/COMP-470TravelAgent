@@ -1,0 +1,24 @@
+Name: Wing Bar
+City: NYC
+Category: bars
+Cuisine: american, burger
+Address: Not listed
+Description: Not listed
+Website: https://www.thewingbar.com/
+Phone: +1-718-237-2728
+Email: Not listed
+Opening Hours: Mo-Th 11:00-24:00, Fr-Sa 11:00-01:00, Su 11:00-24:00
+Wheelchair Accessibility: limited
+Latitude: 40.6825247
+Longitude: -73.9931709
+OpenStreetMap URL: https://www.openstreetmap.org/node/5987486727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5987486727
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

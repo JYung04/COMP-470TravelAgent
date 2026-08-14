@@ -1,0 +1,24 @@
+Name: Pasta Night
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: Not listed
+Description: Not listed
+Website: https://www.pastanightbk.com
+Phone: +1-718-483-8443
+Email: Not listed
+Opening Hours: Mo-We 11:00-21:00, Th-Sa 11:00-22:00, Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6805331
+Longitude: -73.9676293
+OpenStreetMap URL: https://www.openstreetmap.org/node/8495079936
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8495079936
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

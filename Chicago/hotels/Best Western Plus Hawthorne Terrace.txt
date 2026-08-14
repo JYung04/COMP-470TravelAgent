@@ -1,0 +1,25 @@
+Name: Best Western Plus Hawthorne Terrace
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 3434 North Broadway, Chicago IL 60657
+Description: Not listed
+Website: https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-plus-hawthorne-terrace-hotel/propertyCode.14151.html
+Phone: +1 773-244-3434
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9441296
+Longitude: -87.6459657
+OpenStreetMap URL: https://www.openstreetmap.org/way/210329540
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210329540
+Price: Not listed
+Rating: 5.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

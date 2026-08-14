@@ -1,0 +1,24 @@
+Name: Gui Steakhouse
+City: NYC
+Category: restaurants
+Cuisine: korean, american
+Address: 776 8th Avenue, New York NY 10036
+Description: Not listed
+Website: https://guinyc.com/
+Phone: +16463295929
+Email: info@guinyc.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7605323
+Longitude: -73.9870469
+OpenStreetMap URL: https://www.openstreetmap.org/node/2717293878
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2717293878
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

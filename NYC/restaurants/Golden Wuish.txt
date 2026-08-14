@@ -1,0 +1,25 @@
+Name: Golden Wuish
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 6 Platt Street, 10038
+Description: Not listed
+Website: https://www.goldenwuish.com/
+Phone: +12122739296
+Email: wuishplattstreet@gmail.com
+Opening Hours: Mo-Su 12:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7074441
+Longitude: -74.0066143
+OpenStreetMap URL: https://www.openstreetmap.org/node/4915258227
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4915258227
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

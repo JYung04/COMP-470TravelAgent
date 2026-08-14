@@ -1,0 +1,25 @@
+Name: Cell Block
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3702 North Halsted Street, Chicago IL
+Description: Not listed
+Website: https://cellblockchi.com
+Phone: +1-773-665-8064
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9493364
+Longitude: -87.6497516
+OpenStreetMap URL: https://www.openstreetmap.org/node/13240079324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13240079324
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

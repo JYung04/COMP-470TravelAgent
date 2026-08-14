@@ -1,0 +1,25 @@
+Name: The Tea Spot
+City: Orlando
+Category: cafes
+Cuisine: bubble_tea
+Address: 5078 West Colonial Drive, Orlando FL 32808
+Description: Not listed
+Website: https://the-tea-spot.square.site
+Phone: +1-407-995-6609
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5508889
+Longitude: -81.4496321
+OpenStreetMap URL: https://www.openstreetmap.org/node/10798268224
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10798268224
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

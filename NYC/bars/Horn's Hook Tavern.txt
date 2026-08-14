@@ -1,0 +1,25 @@
+Name: Horn's Hook Tavern
+City: NYC
+Category: bars
+Cuisine: american
+Address: 1589 1st Avenue, 10028
+Description: Not listed
+Website: https://www.hornshooktavern.com
+Phone: +1 212-879-1500
+Email: info@hornshooktavern.com
+Opening Hours: 11:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7747898
+Longitude: -73.9511428
+OpenStreetMap URL: https://www.openstreetmap.org/node/2724057631
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2724057631
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

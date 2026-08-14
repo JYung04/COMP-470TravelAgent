@@ -1,0 +1,25 @@
+Name: Stan's Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: American, Sandwich, Salads, Healthy
+Address: 1029 Vermont Avenue Northwest, Washington DC 20005-3517
+Description: Not listed
+Website: https://www.stansdc.com/
+Phone: +1 202-347-4488
+Email: Not listed
+Opening Hours: Mo-Tu 11:00-22:30, We 11:00-24:00, Th 11:00-24:30, Fr-Sa 11:00-01:30, Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9035152
+Longitude: -77.0329023
+OpenStreetMap URL: https://www.openstreetmap.org/node/734466377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/734466377
+Price: $$$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

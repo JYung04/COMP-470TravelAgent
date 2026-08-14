@@ -1,0 +1,25 @@
+Name: Ukrainian Institute of Modern Art
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 2320 West Chicago Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://uima-chicago.org/
+Phone: +1 773 227 5522
+Email: info@uima-chicago.org
+Opening Hours: We-Su 12:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8959798
+Longitude: -87.6851652
+OpenStreetMap URL: https://www.openstreetmap.org/way/209389536
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209389536
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

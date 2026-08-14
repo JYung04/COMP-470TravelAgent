@@ -1,0 +1,25 @@
+Name: Border Grill Fresh-Mex
+City: Orlando
+Category: restaurants
+Cuisine: mexican
+Address: 5695-A Vineland Road, 32819
+Description: Not listed
+Website: http://bordergrillorlando.weebly.com
+Phone: +1-407-352-0101
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 28.4835768
+Longitude: -81.456725
+OpenStreetMap URL: https://www.openstreetmap.org/node/4834972122
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4834972122
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Havana's Cafe
+City: Orlando
+Category: restaurants
+Cuisine: cuban
+Address: 8544 Palm Parkway, Orlando FL 32836
+Description: Not listed
+Website: http://havanascubancuisine.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.384197
+Longitude: -81.501053
+OpenStreetMap URL: https://www.openstreetmap.org/node/1551588989
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1551588989
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

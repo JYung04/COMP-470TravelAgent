@@ -1,0 +1,25 @@
+Name: Metric Coffee
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2021 West Fulton Street, Chicago IL 60612
+Description: Not listed
+Website: https://metriccoffee.com/pages/metric-west-fulton
+Phone: +1-312-982-2196
+Email: Not listed
+Opening Hours: Mo-Su 07:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8866093
+Longitude: -87.6776792
+OpenStreetMap URL: https://www.openstreetmap.org/node/5794890475
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5794890475
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

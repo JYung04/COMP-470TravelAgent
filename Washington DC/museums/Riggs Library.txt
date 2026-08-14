@@ -1,0 +1,25 @@
+Name: Riggs Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: DC
+Description: Healy Hall is a National Historic Landmark and the flagship building of the main campus of Georgetown University in Washington, D.C., United States. Constructed between 1877 and 1879, the hall was designed by Paul J. Pelz and John L. Smithmeyer, both of whom also designed the Thomas Jefferson Building of the Library of Congress. The structure is named after Patrick Francis Healy, who was the President of Georgetown University at the time.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9069563
+Longitude: -77.0726504
+OpenStreetMap URL: https://www.openstreetmap.org/node/367142107
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367142107
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

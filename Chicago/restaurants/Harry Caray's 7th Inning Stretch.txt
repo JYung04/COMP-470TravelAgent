@@ -1,0 +1,25 @@
+Name: Harry Caray's 7th Inning Stretch
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 835 North Michigan Avenue, Chicago IL 60611
+Description: Named for the beloved Chicago Cubs announcer, Harry Caray’s 7th Inning Stretch is a laidback, family-friendly spot that’s home to one of the city’s favorite burgers. The Holy Cow! burger (a favorite catchphrase of Harry Caray) features an all-beef burger topped with candied applewood smoked bacon, smoked gouda, lettuce, tomato, and Harry’s steak sauce on a soft brioche bun. More great burger options: Other Chicago restaurants known to offer a stellar burger include the world-famous “cheezborger”
+Website: https://www.harrycarays.com/harry-carays-7th-inning-stretch-mag-mile.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8980985
+Longitude: -87.6220905
+OpenStreetMap URL: https://www.openstreetmap.org/node/8097718910
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8097718910
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

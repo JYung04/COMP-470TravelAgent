@@ -1,0 +1,25 @@
+Name: The Black Whale
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 279 City Island Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Fr 17:00-22:00; Sa 12:00-22:00; Su 10:00-14:00, 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8463428
+Longitude: -73.7863698
+OpenStreetMap URL: https://www.openstreetmap.org/node/4305351601
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4305351601
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

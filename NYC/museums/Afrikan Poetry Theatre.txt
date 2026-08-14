@@ -1,0 +1,25 @@
+Name: Afrikan Poetry Theatre
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 176-03 Jamaica Avenue, 11432
+Description: Not listed
+Website: https://www.theafrikanpoetrytheatre.org
+Phone: +1-718-523-3312
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7081459
+Longitude: -73.7841179
+OpenStreetMap URL: https://www.openstreetmap.org/way/248592805
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248592805
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

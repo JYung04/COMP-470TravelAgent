@@ -1,0 +1,25 @@
+Name: The Alley Bar
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 14 Pi Alley, Boston MA 02108
+Description: Not listed
+Website: http://www.thealleybar.com
+Phone: +1 617 263-1449
+Email: Not listed
+Opening Hours: 14:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3581085
+Longitude: -71.0587158
+OpenStreetMap URL: https://www.openstreetmap.org/node/6135655433
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6135655433
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

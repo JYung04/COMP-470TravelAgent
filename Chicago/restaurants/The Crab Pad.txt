@@ -1,0 +1,25 @@
+Name: The Crab Pad
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 2529 North Milwaukee Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.thecrabpad.com/
+Phone: +1-773-360-8332
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9274189
+Longitude: -87.7041962
+OpenStreetMap URL: https://www.openstreetmap.org/node/6306627384
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6306627384
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Brett's Kitchen
+City: Chicago
+Category: restaurants
+Cuisine: breakfast, sandwich
+Address: 233 West Superior Street, Chicago IL 60654
+Description: Not listed
+Website: http://www.brettskitchen.com/
+Phone: +1-312-664-6354
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-16:00; Sa 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8954004
+Longitude: -87.6355034
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679092
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210679092
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: 5411 Empanadas
+City: Chicago
+Category: restaurants
+Cuisine: empanada
+Address: 3715 North Southport Avenue, Chicago IL 60613
+Description: Not listed
+Website: https://www.5411empanadas.com/locations
+Phone: +1-872-802-4835
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 09:00-23:00; Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9493996
+Longitude: -87.6638989
+OpenStreetMap URL: https://www.openstreetmap.org/node/8614057451
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8614057451
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

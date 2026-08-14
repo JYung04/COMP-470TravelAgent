@@ -1,0 +1,25 @@
+Name: Marriott Marquis
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 901 Massachusetts Avenue Northwest, Washington DC 20001
+Description: Marriott Marquis Washington, DC is a luxury hotel located on Massachusetts Avenue NW, in NW, Washington, D.C., United States. The hotel is connected to the Walter E. Washington Convention Center across 9th Street NW via an underground concourse and receives significant business from convention attendees.
+Website: https://www.marriott.com/en-us/einterface/v5/WASCO
+Phone: +1 855-821-4281
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9036167
+Longitude: -77.0249833
+OpenStreetMap URL: https://www.openstreetmap.org/way/55316391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/55316391
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

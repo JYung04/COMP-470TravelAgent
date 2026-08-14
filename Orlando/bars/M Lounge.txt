@@ -1,0 +1,25 @@
+Name: M Lounge
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 2000 North Orange Avenue, Orlando FL 32804
+Description: Not listed
+Website: https://www.mloungebar.com
+Phone: +1-321-430-1140
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5698212
+Longitude: -81.3731958
+OpenStreetMap URL: https://www.openstreetmap.org/way/960905304
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/960905304
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

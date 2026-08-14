@@ -1,0 +1,24 @@
+Name: Cute Cat Café
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, sandwich
+Address: 66-69 Fresh Pond Road, Ridgewood NY 11385
+Description: Not listed
+Website: https://cutecatcafe.business.site/
+Phone: +1-718-417-7500
+Email: Not listed
+Opening Hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7068651
+Longitude: -73.8969118
+OpenStreetMap URL: https://www.openstreetmap.org/node/5351619383
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5351619383
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

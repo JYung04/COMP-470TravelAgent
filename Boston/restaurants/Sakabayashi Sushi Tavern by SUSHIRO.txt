@@ -1,0 +1,25 @@
+Name: Sakabayashi Sushi Tavern by SUSHIRO
+City: Boston
+Category: restaurants
+Cuisine: sushi
+Address: 665 Boylston Street, Boston Masachusetts 02116
+Description: Not listed
+Website: https://sakabayashi.com/
+Phone: +1 857-449-9006
+Email: Not listed
+Opening Hours: Mo-Su 11:30-15:00; Mo-Th 17:00-22:00; Fr 17:00-22:30; Sa 15:00-22:30; Su,PH 15:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3499391
+Longitude: -71.0787197
+OpenStreetMap URL: https://www.openstreetmap.org/node/13361979002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13361979002
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

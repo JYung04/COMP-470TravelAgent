@@ -1,0 +1,24 @@
+Name: Art Cafe + Bar
+City: NYC
+Category: cafes
+Cuisine: american, latin_american
+Address: 884-886 Pacific Street, Brooklyn NY 11238
+Description: Not listed
+Website: https://gureje.com/artcafeplusbar
+Phone: +1-718-857-2522
+Email: Not listed
+Opening Hours: Mo-Th 08:00-01:00; Fr-Sa 08:00-02:00; Su 08:00-24:00
+Wheelchair Accessibility: limited
+Latitude: 40.6801297
+Longitude: -73.964675
+OpenStreetMap URL: https://www.openstreetmap.org/way/686198400
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/686198400
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

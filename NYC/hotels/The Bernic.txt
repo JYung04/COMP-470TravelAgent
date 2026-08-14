@@ -1,0 +1,25 @@
+Name: The Bernic
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 145 East 47th Street, New York 10017
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/nyctbup-the-bernic-hotel-new-york-city/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7544214
+Longitude: -73.9726566
+OpenStreetMap URL: https://www.openstreetmap.org/way/265884383
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265884383
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

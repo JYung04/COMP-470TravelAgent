@@ -1,0 +1,25 @@
+Name: Kohl's
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 3200 North John Young Parkway, Kissimmee FL 34741
+Description: Not listed
+Website: https://www.kohls.com/stores/fl/kissimmee-951.shtml
+Phone: +1 407-847-6685
+Email: Not listed
+Opening Hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 28.3433166
+Longitude: -81.4237881
+OpenStreetMap URL: https://www.openstreetmap.org/way/300639644
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/300639644
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

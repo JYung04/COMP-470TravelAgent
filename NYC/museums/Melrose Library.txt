@@ -1,0 +1,25 @@
+Name: Melrose Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 910 Morris Avenue, Bronx 10451
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/melrose
+Phone: +1-718-588-0110
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.8265889
+Longitude: -73.9175706
+OpenStreetMap URL: https://www.openstreetmap.org/way/275323619
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/275323619
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

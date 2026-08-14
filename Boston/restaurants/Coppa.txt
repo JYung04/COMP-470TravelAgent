@@ -1,0 +1,25 @@
+Name: Coppa
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 253 Shawmut Avenue, Boston MA 02118
+Description: Not listed
+Website: https://www.coppaboston.com/
+Phone: +1-617-391-0902
+Email: Not listed
+Opening Hours: Sa-Su 12:00-16:00 "Brunch" || Su 16:00-21:00; Mo-Th 17:00-22:00; Fr-Sa 17:00-22:30 "Dinner"
+Wheelchair Accessibility: Not listed
+Latitude: 42.3434253
+Longitude: -71.0686341
+OpenStreetMap URL: https://www.openstreetmap.org/node/9273725903
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9273725903
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

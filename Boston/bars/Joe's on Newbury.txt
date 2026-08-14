@@ -1,0 +1,25 @@
+Name: Joe's on Newbury
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 181 Newbury Street, Boston MA 02116
+Description: Joe’s American Bar & Grill serves a fresh take on American classics alongside your all-time favorites, from prime burgers, seafood and authentic comfort food to pastas, soups and light salads. Discover the bold flavors and high-quality ingredients you crave, all with a signature New England legacy. Join us Saturday and Sunday from 9am - 3pm for Brunch! This Business is Group Friendly! We have two areas designed to accommodate group dining from 10 guests to 260 guests. We offer various group dining menus; one is particularly designed for tour groups dining Monday thru Friday from 11 AM – 4 PM. This menu provides a complimentary meal for the tour leader and bus driver. Please contact Kasey Andersen for all group dining inquiries. To-Go Offers Family Meals Details: Nightly dinner for 2 or 4. Preorder up to 3 p.m. the day-of..
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3506038
+Longitude: -71.0794585
+OpenStreetMap URL: https://www.openstreetmap.org/node/12663728392
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12663728392
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

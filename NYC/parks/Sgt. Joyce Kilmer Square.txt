@@ -1,0 +1,25 @@
+Name: Sgt. Joyce Kilmer Square
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: park in Brooklyn, Kings County, New York, United States of America
+Website: https://www.nycgovparks.org/parks/sgt-joyce-kilmer-triangle/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6078831
+Longitude: -73.9606783
+OpenStreetMap URL: https://www.openstreetmap.org/way/219621588
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/219621588
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

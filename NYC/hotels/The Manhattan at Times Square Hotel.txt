@@ -1,0 +1,25 @@
+Name: The Manhattan at Times Square Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 790 7th Avenue, New York NY 10019
+Description: Not listed
+Website: https://www.manhattanhoteltimessquare.com/
+Phone: +1 212 581 3300
+Email: reservations@mtshotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7621727
+Longitude: -73.9829659
+OpenStreetMap URL: https://www.openstreetmap.org/node/2610440255
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2610440255
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

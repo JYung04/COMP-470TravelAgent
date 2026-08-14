@@ -1,0 +1,25 @@
+Name: Cielo
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1435 Hylan Blvd, Staten Island, NY 10305, United States
+Description: Not listed
+Website: http://cielosi.com/
+Phone: +1 718-668-2211
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5934534
+Longitude: -74.0870944
+OpenStreetMap URL: https://www.openstreetmap.org/node/12677264722
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12677264722
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

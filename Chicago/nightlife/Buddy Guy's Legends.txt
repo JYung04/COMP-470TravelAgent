@@ -1,0 +1,25 @@
+Name: Buddy Guy's Legends
+City: Chicago
+Category: nightlife
+Cuisine: Not listed
+Address: 700 South Wabash Avenue, Chicago IL 60605
+Description: In the South Loop neighborhood, Buddy Guy’s Legends is owned by the iconic Blues guitarist. This famed nightclub keeps the Chicago-style blues tradition alive with nightly shows by local, national, and international acts. If you’re lucky, you might even see the man himself playing a residency of sold-out shows each January.
+Website: https://buddyguy.com/
+Phone: +1-312-427-1190
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8729632
+Longitude: -87.6264645
+OpenStreetMap URL: https://www.openstreetmap.org/way/149372353
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/149372353
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

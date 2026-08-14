@@ -1,0 +1,25 @@
+Name: Golden Link Motel
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 4914 West Irlo Bronson Memorial Highway, Kissimmee FL 34746
+Description: Not listed
+Website: http://www.goldenlinkmotel.com/
+Phone: +1 407-396-0555
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3318453
+Longitude: -81.4795106
+OpenStreetMap URL: https://www.openstreetmap.org/relation/7963372
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/7963372
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

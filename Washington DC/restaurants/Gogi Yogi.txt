@@ -1,0 +1,25 @@
+Name: Gogi Yogi
+City: Washington DC
+Category: restaurants
+Cuisine: korean
+Address: 1921 8th Street Northwest, Washington DC 20001-3151
+Description: Not listed
+Website: https://www.gogiyogi.com/
+Phone: +1 202-525-4167
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.916436
+Longitude: -77.022755
+OpenStreetMap URL: https://www.openstreetmap.org/node/4270732917
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4270732917
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

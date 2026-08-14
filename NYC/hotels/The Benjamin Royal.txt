@@ -1,0 +1,25 @@
+Name: The Benjamin Royal
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 125 East 50th Street, New York NY 10022
+Description: Not listed
+Website: https://www.sonesta.com/royal-sonesta/ny/new-york/benjamin-royal-sonesta-new-york
+Phone: +1 212-715-2500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7565929
+Longitude: -73.9719891
+OpenStreetMap URL: https://www.openstreetmap.org/way/265884682
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265884682
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

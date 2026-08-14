@@ -1,0 +1,25 @@
+Name: Truth Restaurant & Lounge
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 229-15 Merrick Boulevard, NY 11413
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6764735
+Longitude: -73.7407631
+OpenStreetMap URL: https://www.openstreetmap.org/way/250660262
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250660262
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hilton Garden Inn
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 6 Water Street, New York NY 10004
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/nycfcgi-hilton-garden-inn-nyc-financial-center-manhattan-downtown/
+Phone: +1-212-248-1100
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: designated
+Latitude: 40.7029734
+Longitude: -74.0122339
+OpenStreetMap URL: https://www.openstreetmap.org/way/278053540
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278053540
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; gardens

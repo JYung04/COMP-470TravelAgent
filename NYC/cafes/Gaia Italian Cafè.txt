@@ -1,0 +1,25 @@
+Name: Gaia Italian Cafè
+City: NYC
+Category: cafes
+Cuisine: italian
+Address: 226 East 3rd Street, New York NY 10009
+Description: Not listed
+Website: https://www.gaiaitaliancafe.shop/
+Phone: +1-646-350-3977
+Email: info@gaiaitaliancafe.com
+Opening Hours: Tu-Fr 11:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7222054
+Longitude: -73.9821254
+OpenStreetMap URL: https://www.openstreetmap.org/node/8272824072
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8272824072
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Lan Larb Esan
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: Not listed
+Description: Not listed
+Website: https://www.lanlarb2ave.com
+Phone: +1-212-889-1769
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.745334
+Longitude: -73.9757137
+OpenStreetMap URL: https://www.openstreetmap.org/node/5754424781
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5754424781
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

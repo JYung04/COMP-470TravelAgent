@@ -1,0 +1,25 @@
+Name: Rockaway Brewing Company
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 46-01 5th Street, Long Island City NY 11101
+Description: Not listed
+Website: http://rockawaybrewco.com
+Phone: +1 718 482 6528
+Email: info@rockawaybrewco.com
+Opening Hours: Mo-Th 15:00-21:00; Fr 15:00-22:00; Sa 12:00-22:00; Su 12:00-21:00
+Wheelchair Accessibility: no
+Latitude: 40.7471977
+Longitude: -73.9549525
+OpenStreetMap URL: https://www.openstreetmap.org/node/3205288492
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3205288492
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

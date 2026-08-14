@@ -1,0 +1,25 @@
+Name: Otto's Shrunken Head Tiki Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 538 East 14th Street, New York 10009
+Description: Not listed
+Website: https://www.ottosshrunkenhead.com/
+Phone: +1-212-228-2240
+Email: Not listed
+Opening Hours: Th-Su 16:00-24:00
+Wheelchair Accessibility: limited
+Latitude: 40.7295158
+Longitude: -73.9786409
+OpenStreetMap URL: https://www.openstreetmap.org/node/2901108443
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2901108443
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

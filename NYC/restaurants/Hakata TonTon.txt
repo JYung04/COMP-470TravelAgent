@@ -1,0 +1,25 @@
+Name: Hakata TonTon
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 35 West 35th Street, New York 10001
+Description: Not listed
+Website: https://www.hakatatonton.net/
+Phone: +1-917-261-6536
+Email: Not listed
+Opening Hours: Tu-Th 18:00-21:30, Fr 18:00-22:00, Sa 17:30-22:00, Su 17:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7499004
+Longitude: -73.985695
+OpenStreetMap URL: https://www.openstreetmap.org/node/2479458329
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2479458329
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

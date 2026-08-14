@@ -1,0 +1,25 @@
+Name: Pastis
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 52 Gansevoort Street, New York NY 10014
+Description: Not listed
+Website: https://pastisnyc.com/
+Phone: +1-212-929-4844
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7392357
+Longitude: -74.0069542
+OpenStreetMap URL: https://www.openstreetmap.org/node/6575701885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6575701885
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

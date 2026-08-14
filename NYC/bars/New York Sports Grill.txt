@@ -1,0 +1,25 @@
+Name: New York Sports Grill
+City: NYC
+Category: bars
+Cuisine: american
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6457523
+Longitude: -73.7739609
+OpenStreetMap URL: https://www.openstreetmap.org/node/4383823112
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4383823112
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

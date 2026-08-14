@@ -1,0 +1,25 @@
+Name: Cariño's Cafe
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 222 Broadway Avenue, Kissimmee FL 34741
+Description: Not listed
+Website: https://carinoscafefl.com
+Phone: +1 407 201-6129
+Email: Not listed
+Opening Hours: Mo-We 07:00-20:00,Th 07:00-21:00,Fr 08:00-23:00,Sa 08:00-23:30,Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.2937232
+Longitude: -81.4056059
+OpenStreetMap URL: https://www.openstreetmap.org/node/11194964373
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11194964373
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

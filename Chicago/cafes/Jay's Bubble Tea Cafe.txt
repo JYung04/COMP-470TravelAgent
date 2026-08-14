@@ -1,0 +1,25 @@
+Name: Jay's Bubble Tea Cafe
+City: Chicago
+Category: cafes
+Cuisine: bubble_tea
+Address: 1856 South Ashland Avenue, Chicago IL 60608
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Mo 12:00-18:00; We-Sa 12:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8560676
+Longitude: -87.6664526
+OpenStreetMap URL: https://www.openstreetmap.org/node/12097699003
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12097699003
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

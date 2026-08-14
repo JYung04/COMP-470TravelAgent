@@ -1,0 +1,25 @@
+Name: Riverbend Wetlands Preserve
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://meri.njmeadowlands.gov/mesic/sites/candidate-restoration-sites/riverbend-wetlands-preserve-2/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7530648
+Longitude: -74.0896201
+OpenStreetMap URL: https://www.openstreetmap.org/way/1061937002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1061937002
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

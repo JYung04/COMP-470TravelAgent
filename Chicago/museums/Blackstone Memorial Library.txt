@@ -1,0 +1,25 @@
+Name: Blackstone Memorial Library
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 4904 South Lake Park Avenue, Chicago IL 60615
+Description: A designated Chicago landmark. Built: 1904. Architect: Solon Spencer Beman. Landmark designation date: 2011-01-13T00:00:00.000.
+Website: https://www.chipublib.org/locations/12/
+Phone: +1-312-747-0511
+Email: blackstone@chipublib.org
+Opening Hours: Mo,We 12:00-20:00; Tu,Th 10:00-18:00; Fr-Sa 09:00-17:00; Su 13:00-17:00; PH off
+Wheelchair Accessibility: Not listed
+Latitude: 41.8057747
+Longitude: -87.5902575
+OpenStreetMap URL: https://www.openstreetmap.org/way/149976425
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/149976425
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Renaissance Bronzeville
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4641 South Doctor Martin Luther King Junior Drive, Chicago IL 60653
+Description: Not listed
+Website: http://www.renaissancebronzeville.com/
+Phone: +1-773-690-5416
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8099311
+Longitude: -87.6161107
+OpenStreetMap URL: https://www.openstreetmap.org/node/6301077864
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6301077864
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Sportello
+City: Boston
+Category: restaurants
+Cuisine: Italian
+Address: 348 Congress Street, Boston MA 02210
+Description: Not listed
+Website: https://www.sportelloboston.online/
+Phone: +1-617-737-1234
+Email: Not listed
+Opening Hours: Mo-Su 11:30-16:30; Su-We 16:30-22:00; Th-Sa 16:30-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3506431
+Longitude: -71.0486506
+OpenStreetMap URL: https://www.openstreetmap.org/node/13339930416
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13339930416
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

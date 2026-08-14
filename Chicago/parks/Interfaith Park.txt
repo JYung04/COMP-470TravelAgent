@@ -1,0 +1,25 @@
+Name: Interfaith Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 5914 North Sheridan Road, Chicago IL 60660
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/interfaith-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9898153
+Longitude: -87.6557964
+OpenStreetMap URL: https://www.openstreetmap.org/way/222585194
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/222585194
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

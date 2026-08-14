@@ -1,0 +1,24 @@
+Name: Nisos Prime
+City: Chicago
+Category: restaurants
+Cuisine: mediterranean, steak_house
+Address: 802 West Randolph Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.nisosprime.com/
+Phone: +1-312-800-8582
+Email: Not listed
+Opening Hours: Su-Th 17:00-22:00; Fr-Sa 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8847055
+Longitude: -87.6477091
+OpenStreetMap URL: https://www.openstreetmap.org/way/1504730669
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1504730669
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

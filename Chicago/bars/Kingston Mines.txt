@@ -1,0 +1,25 @@
+Name: Kingston Mines
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2548 North Halsted Street, Chicago IL 60614
+Description: Kingston Mines For more than 50 years, Kingston Mines has been bringing the blues to Chicago’s Lincoln Park neighborhood. Billed as the city’s largest and oldest continuously operating blues club, Kingston Mines is known for its two stages that bring non-stop music until late into the night. The space has been graced by the likes of Magic Slim, Koko Taylor, Sugar Blue, Billy Branch, Junior Wells, Joanna Connor, and more.
+Website: https://kingstonmines.com/
+Phone: +1-773-477-4647
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.928708
+Longitude: -87.6492146
+OpenStreetMap URL: https://www.openstreetmap.org/way/210321648
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210321648
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; music

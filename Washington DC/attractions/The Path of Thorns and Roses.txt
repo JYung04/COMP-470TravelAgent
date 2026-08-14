@@ -1,0 +1,25 @@
+Name: The Path of Thorns and Roses
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Memorial sculpture, The Path of Thorns and Roses, is by California based artist Mario Chiodo.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.7944165
+Longitude: -77.0497167
+OpenStreetMap URL: https://www.openstreetmap.org/node/13411512198
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13411512198
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing; art

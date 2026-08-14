@@ -1,0 +1,25 @@
+Name: Arlo Washington DC
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 333 G Street Northwest
+Description: Not listed
+Website: https://arlohotels.com/washingtondc/
+Phone: +1 202 737 7000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8984764
+Longitude: -77.0158649
+OpenStreetMap URL: https://www.openstreetmap.org/node/12902215221
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12902215221
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

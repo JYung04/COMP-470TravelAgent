@@ -1,0 +1,25 @@
+Name: Olea
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 327 Adelphi Street, 11205
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 11:00-21:30; Fr 11:00-22:30; Sa 10:00-22:30; Su 10:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6878089
+Longitude: -73.9706129
+OpenStreetMap URL: https://www.openstreetmap.org/way/248142061
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248142061
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Four Seasons
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Four Seasons is a 1974 mosaic by Marc Chagall that is located in Chase Tower Plaza in the Loop district of Chicago, Illinois. The mosaic was a gift to the City of Chicago by Frederick H. Prince ; it is wrapped around four sides of a 70 feet (21 m) long, 14 feet (4.3 m) high, 10 feet (3.0 m) wide rectangular box, and was dedicated on September 27, 1974. It was renovated in 1994 and a protective glass canopy was installed.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8810937
+Longitude: -87.6297893
+OpenStreetMap URL: https://www.openstreetmap.org/way/145626581
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/145626581
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

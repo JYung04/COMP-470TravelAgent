@@ -1,0 +1,25 @@
+Name: Grove 34
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 31-83 34th Street, 11106
+Description: Not listed
+Website: https://www.grove34.com/
+Phone: +1 848-219-7167
+Email: grove34studio@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7610844
+Longitude: -73.9226348
+OpenStreetMap URL: https://www.openstreetmap.org/node/12166151247
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12166151247
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

@@ -1,0 +1,25 @@
+Name: 72nd Eatery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 261 Columbus Avenue
+Description: Not listed
+Website: https://www.72ndeatery.com
+Phone: +1-212-721-7800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7775475
+Longitude: -73.9784645
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550112949
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550112949
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

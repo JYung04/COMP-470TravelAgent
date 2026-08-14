@@ -1,0 +1,25 @@
+Name: DoubleTree by Hilton Hotel Boston - Downtown
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 821 Washington Street, Boston MA 02111
+Description: The DoubleTree by Hilton Hotel Boston - Downtown offers a premier downtown location, newly renovated guest rooms with superb amenities, a full-service restaurant and bar, full-service Starbucks in the hotel lobby, and complimentary access to the adjoining YMCA fitness center. The hotel is conveniently located within walking distance of many of Boston's historic sights and the famed Theatre District. Two diverse meeting rooms, an intimate private dining room and outdoor courtyard are available for small meetings and functions. This Business is Group Friendly! Let the Hilton Worldwide Boston Regional Sales Center be your one stop shop when searching for the best available hotels for your next group visit to Boston. From Downtown by the Theatre District to across from the Charles River near Harvard Square, we provide an easy starting point for finding a hotel within the Hilton Worldwide portfolio.
+Website: https://doubletree3.hilton.com/en/hotels/massachusetts/doubletree-by-hilton-hotel-boston-downtown-BOSCODT/index.html
+Phone: +1 617-956-7900
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3488946
+Longitude: -71.0642452
+OpenStreetMap URL: https://www.openstreetmap.org/node/1905364881
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1905364881
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

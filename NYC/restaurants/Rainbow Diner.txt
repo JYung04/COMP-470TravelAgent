@@ -1,0 +1,25 @@
+Name: Rainbow Diner
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 2197 White Plains Road, Bronx NY 10462
+Description: Not listed
+Website: Not listed
+Phone: +1 718 823 7715
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8563115
+Longitude: -73.8678941
+OpenStreetMap URL: https://www.openstreetmap.org/node/9264338020
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9264338020
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

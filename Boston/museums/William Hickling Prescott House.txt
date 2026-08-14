@@ -1,0 +1,25 @@
+Name: William Hickling Prescott House
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 55 Beacon Street, Boston MA 02108
+Description: William Hickling Prescott House, also known as the Headquarters House, is an historic house museum located at 55 Beacon Street on Beacon Hill in Boston, Massachusetts. It is the western portion of a double townhouse at 54–55 Beacon Street. The townhouse, built in 1808 to a design by Asher Benjamin, was designated a National Historic Landmark in 1964 for its association with William Hickling Prescott (1796–1859), one of the nation's first historians. The house is now a museum operated by the Massachusetts chapter of the National Society of the Colonial Dames of America, which purchased it for its headquarters in 1944.
+Website: https://nscdama.org/william-hickling-prescott-house/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3567174
+Longitude: -71.0682418
+OpenStreetMap URL: https://www.openstreetmap.org/way/405911780
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/405911780
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

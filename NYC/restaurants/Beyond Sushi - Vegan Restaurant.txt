@@ -1,0 +1,25 @@
+Name: Beyond Sushi - Vegan Restaurant
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 134 West 37th Street, New York NY 10018
+Description: Not listed
+Website: https://beyondsushi.com/locations/w-37th-street/
+Phone: +1 212-564-0869
+Email: Not listed
+Opening Hours: Mo-Th,Su 11:30-21:30; Fr-Sa 11:30-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.7524663
+Longitude: -73.9884545
+OpenStreetMap URL: https://www.openstreetmap.org/node/11558119422
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11558119422
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

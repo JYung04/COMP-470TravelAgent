@@ -1,0 +1,25 @@
+Name: Cunningham Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 725 Cambridge Street, Brighton MA 02135
+Description: Officially classified as malls, squares & plazas. Located in Allston-Brighton. Covers approximately 0.2 acres. Also known as Sparhawk Square.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3501119
+Longitude: -71.1477108
+OpenStreetMap URL: https://www.openstreetmap.org/way/29830232
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29830232
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

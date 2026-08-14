@@ -1,0 +1,25 @@
+Name: Paparazzi Dogman and Rabbitwoman
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 6th Avenue
+Description: Not listed
+Website: https://gillieandmarc.art/pages/paparazzi-dogman-rabbitgirl
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7596545
+Longitude: -73.9829247
+OpenStreetMap URL: https://www.openstreetmap.org/node/6401458888
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6401458888
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

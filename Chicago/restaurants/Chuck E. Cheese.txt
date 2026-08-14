@@ -1,0 +1,25 @@
+Name: Chuck E. Cheese
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 1830 West Fullerton Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://locations.chuckecheese.com/us/il/chicago/1830-w.-fullerton-ave.
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9266519
+Longitude: -87.6740744
+OpenStreetMap URL: https://www.openstreetmap.org/way/1319737969
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1319737969
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

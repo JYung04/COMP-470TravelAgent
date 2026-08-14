@@ -1,0 +1,25 @@
+Name: Stonewall Inn
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 53 Christopher Street, New York NY 10014
+Description: Not listed
+Website: https://thestonewallinnnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 14:00-04:00
+Wheelchair Accessibility: limited
+Latitude: 40.7338163
+Longitude: -74.0021613
+OpenStreetMap URL: https://www.openstreetmap.org/node/368043598
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368043598
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

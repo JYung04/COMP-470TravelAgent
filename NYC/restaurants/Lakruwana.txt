@@ -1,0 +1,25 @@
+Name: Lakruwana
+City: NYC
+Category: restaurants
+Cuisine: sri_lankan
+Address: 668 Bay Street, Staten Island NY 10304
+Description: Not listed
+Website: https://www.lakruwana.com/
+Phone: +1 347-857-6619
+Email: Not listed
+Opening Hours: Mo off; Tu-We 12:00-15:00,17:00-21:00pm; Th-Fr 12:00-15:00,17:00-21:00; Sa 12:30-21:30; Su 12:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6257263
+Longitude: -74.0752406
+OpenStreetMap URL: https://www.openstreetmap.org/node/2570198566
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2570198566
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

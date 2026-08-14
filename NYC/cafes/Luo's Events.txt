@@ -1,0 +1,25 @@
+Name: Luo's Events
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 177 Dwight Street, 11231
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6735793
+Longitude: -74.011435
+OpenStreetMap URL: https://www.openstreetmap.org/node/12898116444
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12898116444
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

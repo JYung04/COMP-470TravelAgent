@@ -1,0 +1,25 @@
+Name: Topgolf Swing Suite
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 82 Causeway Street, Boston MA 02114
+Description: Topgolf International, Inc. is an American multinational sports-entertainment company headquartered in Dallas, Texas,. It is known for its eponymous, golf-based driving range game; which includes electronically tracked golf balls and automatically scored drives. The company has locations in the United States, United Kingdom, Australia, Germany, Mexico, Thailand, and the United Arab Emirates. Topgolf locations in Australia are run by a joint venture of Topgolf International (3.7%) and Village Roadshow Theme Parks. In Canada, a joint venture with Cineplex Entertainment was established to operate locations there, but was abandoned by Cineplex in 2020. Topgolf was founded in 2000 and remained independent until it was acquired by Callaway Golf in 2020, but the companies announced a planned split in 2024. With Callaway.
+Website: https://www.patinagroup.com/banners/swing-suite
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3655505
+Longitude: -71.0616404
+OpenStreetMap URL: https://www.openstreetmap.org/node/7818703231
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7818703231
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art

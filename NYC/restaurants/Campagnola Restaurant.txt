@@ -1,0 +1,25 @@
+Name: Campagnola Restaurant
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1382 1st Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7688938
+Longitude: -73.9549878
+OpenStreetMap URL: https://www.openstreetmap.org/node/11429546305
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11429546305
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Evelina Antonetty Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mar 02-Oct 31 07:00-21:00; Nov 01-Mar 01 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8175884
+Longitude: -73.9283162
+OpenStreetMap URL: https://www.openstreetmap.org/way/1339757519
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1339757519
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

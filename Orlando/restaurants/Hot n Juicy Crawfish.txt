@@ -1,0 +1,25 @@
+Name: Hot n Juicy Crawfish
+City: Orlando
+Category: restaurants
+Cuisine: seafood
+Address: 7572 West Sand Lake Road
+Description: Not listed
+Website: https://www.hotnjuicycrawfish.com/locations-2/orlando
+Phone: +1 470-370-4655
+Email: Not listed
+Opening Hours: Mo-Th 12:00-22:00; Fr 12:00-23:00; Sa 11:30-23:00; Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4489231
+Longitude: -81.4856339
+OpenStreetMap URL: https://www.openstreetmap.org/node/10218359389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10218359389
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

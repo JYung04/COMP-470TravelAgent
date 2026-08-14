@@ -1,0 +1,24 @@
+Name: Dumpling & Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfast, sandwich, chinese
+Address: 337 9th Street, Brooklyn NY 11215
+Description: Not listed
+Website: Not listed
+Phone: +1 347-557-9818
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-19:00; Sa 09:30-19:00; Su 09:30-19:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6688526
+Longitude: -73.9852378
+OpenStreetMap URL: https://www.openstreetmap.org/node/6677928152
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6677928152
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

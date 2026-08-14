@@ -1,0 +1,25 @@
+Name: Set L.E.S
+City: NYC
+Category: restaurants
+Cuisine: asian
+Address: 217 Ludlow Street, New York NY 10002
+Description: Relaxed gastropub offering cocktails and eclectic nibbles in a cozy atmosphere.
+Website: https://set-les.com
+Phone: +1-212-982-8225
+Email: Not listed
+Opening Hours: Mo-We 17:00-00:00; Th 17:00-01:00; Fr 17:00-02:00; Sa 12:00-02:00; Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7198803
+Longitude: -73.9885811
+OpenStreetMap URL: https://www.openstreetmap.org/node/6233725908
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6233725908
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

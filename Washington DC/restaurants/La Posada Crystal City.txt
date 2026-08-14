@@ -1,0 +1,25 @@
+Name: La Posada Crystal City
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 320 23rd Street South
+Description: Not listed
+Website: Not listed
+Phone: +1-703-412-9211
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8529832
+Longitude: -77.0519637
+OpenStreetMap URL: https://www.openstreetmap.org/node/12993371001
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12993371001
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

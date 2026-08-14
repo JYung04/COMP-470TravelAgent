@@ -1,0 +1,25 @@
+Name: Busy Beaver Button Museum
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 3407 West Armitage Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.buttonmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9171899
+Longitude: -87.7122707
+OpenStreetMap URL: https://www.openstreetmap.org/node/4541428858
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4541428858
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Lorenzo's Restaurant, Bar & Cabaret
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1100 South Avenue, Staten Island NY 10314
+Description: Not listed
+Website: https://lorenzosdining.com
+Phone: +1 718-477-2400
+Email: Not listed
+Opening Hours: Mo-Th 06:00-21:00; Fr 06:00-22:00; Sa 08:00-22:00; Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6149221
+Longitude: -74.1770833
+OpenStreetMap URL: https://www.openstreetmap.org/node/10252473109
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10252473109
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

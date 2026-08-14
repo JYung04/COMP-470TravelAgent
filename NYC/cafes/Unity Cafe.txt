@@ -1,0 +1,24 @@
+Name: Unity Cafe
+City: NYC
+Category: cafes
+Cuisine: breakfast, pastry, panini, salad
+Address: Not listed
+Description: Not listed
+Website: https://www.uintycafenj.com/menus
+Phone: +1 908-737-5326
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-20:30; Sa-Su 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6792384
+Longitude: -74.2367215
+OpenStreetMap URL: https://www.openstreetmap.org/node/9081177172
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9081177172
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Ironside Bar & Galley
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 546 North Wells Street, Chicago IL 60654
+Description: Not listed
+Website: https://ironsidechicago.com/
+Phone: +1-312-973-7792
+Email: Not listed
+Opening Hours: Mo 16:00-02:00; Tu-Fr 11:30-02:00; Sa-Su 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8921561
+Longitude: -87.6342686
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458096799
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458096799
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

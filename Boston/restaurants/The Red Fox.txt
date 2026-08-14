@@ -1,0 +1,25 @@
+Name: The Red Fox
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 326 Commercial Street, Boston MA 02109
+Description: This swanky 2024 debut —hidden down an unassuming staircase in a blink-and-you’ll-miss-it building—offers a more pared-down menu than the enormous books you’ll find at many a North End restaurant. But who needs 100 choices when each of a couple dozen will make your night? The prosciutto and zeppole, drizzled with honey, is a must-order appetizer, and if your group is hungry, split a hefty lasagna. To drink, Negroni and martini variations rule here, including the Aglio e Pepe dry martini with raw garlic, pepper, and parm. 326 Commercial St., North End, Boston, redfoxnorthend.com .
+Website: https://www.redfoxnorthend.com/
+Phone: +16176936003
+Email: Not listed
+Opening Hours: Mo-Su 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3653192
+Longitude: -71.0512635
+OpenStreetMap URL: https://www.openstreetmap.org/node/9434864817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9434864817
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

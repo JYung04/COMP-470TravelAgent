@@ -1,0 +1,25 @@
+Name: Option Cargo Express
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 80 s Semoran Boulevard, Orlando 32807
+Description: Not listed
+Website: www.optioncargo.com
+Phone: +1-407-730-9919
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5437758
+Longitude: -81.3109932
+OpenStreetMap URL: https://www.openstreetmap.org/node/2906045386
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2906045386
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

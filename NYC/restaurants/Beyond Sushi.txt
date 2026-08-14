@@ -1,0 +1,24 @@
+Name: Beyond Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi, asian
+Address: 62 West 56th Street, New York NY 10019
+Description: Not listed
+Website: https://beyondsushi.com/
+Phone: +1 646-964-5097
+Email: Not listed
+Opening Hours: Mo-Su 11:30-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.7633124
+Longitude: -73.9772025
+OpenStreetMap URL: https://www.openstreetmap.org/node/4085364218
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4085364218
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

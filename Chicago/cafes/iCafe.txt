@@ -1,0 +1,25 @@
+Name: iCafe
+City: Chicago
+Category: cafes
+Cuisine: turkish
+Address: 1814 West Irving Park Road, Chicago IL 60613
+Description: Not listed
+Website: https://www.icafechicago.com/
+Phone: +1-773-755-4022
+Email: Not listed
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9543857
+Longitude: -87.6746977
+OpenStreetMap URL: https://www.openstreetmap.org/node/12299625101
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12299625101
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

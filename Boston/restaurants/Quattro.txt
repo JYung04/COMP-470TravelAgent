@@ -1,0 +1,24 @@
+Name: Quattro
+City: Boston
+Category: restaurants
+Cuisine: italian, panini, sandwich, pizza
+Address: 264-266 Hanover Street
+Description: Not listed
+Website: https://www.depasqualeventures.com/
+Phone: +1 617 720 5740
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3636546
+Longitude: -71.0548061
+OpenStreetMap URL: https://www.openstreetmap.org/node/870648662
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/870648662
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

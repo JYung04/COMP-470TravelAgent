@@ -1,0 +1,25 @@
+Name: Hilton Garden Inn Queens/JFK Airport
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 148-18 134th Street, New York NY 11430
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/jfkqagi-hilton-garden-inn-queens-jfk-airport/
+Phone: +1 718-322-4448
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6656779
+Longitude: -73.8062886
+OpenStreetMap URL: https://www.openstreetmap.org/node/3822448402
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3822448402
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; gardens

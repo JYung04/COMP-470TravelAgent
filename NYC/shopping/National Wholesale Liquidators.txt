@@ -1,0 +1,25 @@
+Name: National Wholesale Liquidators
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 2201 59th Street, Brooklyn NY 11204
+Description: National Wholesale Liquidators is a Brooklyn, New York-based company that operates warehouse-style closeout discount stores. It offers a mix of brand-name items, everyday household items, and furniture. National Wholesale Liquidators carries over 120,000 items. The company also offers appliances, automotive products, bath towels, bedding, carpets and floor covers, detergents and cleaning products, electrical hardware, electronics, food products, furniture outdoor, giftware, health and beauty aids, holiday decorative, and household storage products. In addition, it offers indoor furniture, jewelry, kitchen towels-linens, luggage, men's apparel and fragrances, paint and sundries, paper goods and supplies, personal umbrellas, pet supplies, sporting goods, vacuums and accessories, video games, and women's fragrances.
+Website: https://nwl.me/pages/nwl-in-brooklyn
+Phone: +1-718-307-0007
+Email: Not listed
+Opening Hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6169972
+Longitude: -73.9766915
+OpenStreetMap URL: https://www.openstreetmap.org/node/11226200988
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11226200988
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

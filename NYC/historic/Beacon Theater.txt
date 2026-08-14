@@ -1,0 +1,25 @@
+Name: Beacon Theater
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: 2124 Broadway, New York NY
+Description: A designated New York City interior landmark. Status: DESIGNATED. Designation date: 12/11/1979.
+Website: https://www.msg.com/beacon-theatre/
+Phone: +1-212-465-6000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7804903
+Longitude: -73.9811314
+OpenStreetMap URL: https://www.openstreetmap.org/node/368052754
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368052754
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

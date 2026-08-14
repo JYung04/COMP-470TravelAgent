@@ -1,0 +1,25 @@
+Name: Delphin H. Greene Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/delphin-h-greene-playground
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6849611
+Longitude: -73.7288901
+OpenStreetMap URL: https://www.openstreetmap.org/way/614597592
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/614597592
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

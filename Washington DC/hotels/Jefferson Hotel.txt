@@ -1,0 +1,25 @@
+Name: Jefferson Hotel
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1200 16th Street Northwest
+Description: Not listed
+Website: http://www.thejeffersonwashingtondc.com/
+Phone: +1 202-347-2200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9059379
+Longitude: -77.0369558
+OpenStreetMap URL: https://www.openstreetmap.org/node/754896248
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/754896248
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

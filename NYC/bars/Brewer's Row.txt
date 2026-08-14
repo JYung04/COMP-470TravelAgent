@@ -1,0 +1,25 @@
+Name: Brewer's Row
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 228 7th Avenue, Brooklyn NY 11215
+Description: Not listed
+Website: https://www.brewersrownyc.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 14:00-24:00, Fr 14:00-01:00, Sa 12:00-01:00; Su 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6701919
+Longitude: -73.9790267
+OpenStreetMap URL: https://www.openstreetmap.org/node/5673620483
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5673620483
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

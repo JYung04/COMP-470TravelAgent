@@ -1,0 +1,24 @@
+Name: B.I. Tea & Dim Sum
+City: Chicago
+Category: cafes
+Cuisine: bubble_tea, dim_sum
+Address: 131 North Clinton Street, Chicago IL 60661
+Description: Not listed
+Website: https://frenchmarketchicago.com/vendor/b-i-tea-and-dim-sum/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8841459
+Longitude: -87.6407165
+OpenStreetMap URL: https://www.openstreetmap.org/node/13322988708
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13322988708
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

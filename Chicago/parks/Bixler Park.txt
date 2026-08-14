@@ -1,0 +1,25 @@
+Name: Bixler Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 5641 South Kenwood Avenue, Chicago IL 60637
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/bixler-ray-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7924135
+Longitude: -87.5931939
+OpenStreetMap URL: https://www.openstreetmap.org/way/206948780
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/206948780
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

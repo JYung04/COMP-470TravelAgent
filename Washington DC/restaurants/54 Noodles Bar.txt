@@ -1,0 +1,25 @@
+Name: 54 Noodles Bar
+City: Washington DC
+Category: restaurants
+Cuisine: vietnamese
+Address: 1527 14th Street Northwest, Washington DC 20005
+Description: Not listed
+Website: https://54noodlesbar.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: off
+Wheelchair Accessibility: Not listed
+Latitude: 38.9105707
+Longitude: -77.031711
+OpenStreetMap URL: https://www.openstreetmap.org/node/807592195
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/807592195
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

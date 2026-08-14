@@ -1,0 +1,25 @@
+Name: Arcola Green
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 2 Arcola St
+Description: Officially classified as malls, squares & plazas. Located in Jamaica Plain. Covers approximately 0.1 acres. Also known as Arcola Park Garden.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3244859
+Longitude: -71.1086126
+OpenStreetMap URL: https://www.openstreetmap.org/way/835334768
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/835334768
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

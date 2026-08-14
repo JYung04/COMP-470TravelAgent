@@ -1,0 +1,25 @@
+Name: Center for Architecture
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 546 LaGuardia Place
+Description: The Center for Architecture is located in the neighborhood of Greenwich Village at 536 LaGuardia Place, between West 3rd Street and Bleecker Street in Manhattan, New York City. The center was designed by architect Andrew Berman and completed in 2003. Since its inception, the center, operated by the New York Chapter of the American Institute of Architects, has become an increasingly important cultural institution through its revolving exhibits on architecture, urban planning, urban design, and environmental planning. The center also puts on seminars, public feedback forums, project unveilings, and educational programs, as well as events and changing exhibitions.
+Website: https://www.centerforarchitecture.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.72873
+Longitude: -73.9985805
+OpenStreetMap URL: https://www.openstreetmap.org/node/5747425246
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5747425246
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; architecture

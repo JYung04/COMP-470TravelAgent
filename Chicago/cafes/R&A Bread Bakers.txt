@@ -1,0 +1,25 @@
+Name: R&A Bread Bakers
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1938 West Lawrence Avenue, Chicago IL 60640
+Description: Not listed
+Website: https://randabreadbakers.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9689234
+Longitude: -87.6778916
+OpenStreetMap URL: https://www.openstreetmap.org/node/9272791437
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9272791437
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

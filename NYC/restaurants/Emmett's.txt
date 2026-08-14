@@ -1,0 +1,24 @@
+Name: Emmett's
+City: NYC
+Category: restaurants
+Cuisine: american, pizza
+Address: 50 MacDougal Street, New York NY 10012
+Description: Not listed
+Website: https://www.emmettsnyc.com/
+Phone: +1 917 639 3571
+Email: Not listed
+Opening Hours: Tu 17:00-23:00; We 12:00-23:00; Th 12:00-24:00; Fr-Sa 12:00-25:00; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7273671
+Longitude: -74.0025442
+OpenStreetMap URL: https://www.openstreetmap.org/node/2722711709
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2722711709
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

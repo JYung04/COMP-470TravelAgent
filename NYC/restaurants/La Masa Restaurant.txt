@@ -1,0 +1,24 @@
+Name: La Masa Restaurant
+City: NYC
+Category: restaurants
+Cuisine: colombian, comfort, spanish, latin_american
+Address: 2542 East Tremont Avenue, Bronx NY 10461
+Description: Not listed
+Website: https://lamasa.us/
+Phone: +1 718-822-8400
+Email: Not listed
+Opening Hours: Mo-Tu 10:00-21:00; We 10:00-22:00; Th 10:00-23:30; Fr-Sa 10:00-23:30; Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8427868
+Longitude: -73.8491612
+OpenStreetMap URL: https://www.openstreetmap.org/node/10632952972
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10632952972
+Price: Not listed
+Rating: 4.3
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

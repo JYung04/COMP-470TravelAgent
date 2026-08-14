@@ -1,0 +1,25 @@
+Name: Joyce's Tavern
+City: NYC
+Category: bars
+Cuisine: Irish
+Address: 3823 Richmond Avenue, Staten Island NY 10312
+Description: Not listed
+Website: https://www.joycestavern.com/
+Phone: +1 718-948-0220
+Email: Not listed
+Opening Hours: Su-We 12:00-22:00; Th-Sa 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.54507
+Longitude: -74.1654476
+OpenStreetMap URL: https://www.openstreetmap.org/node/7802850792
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7802850792
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

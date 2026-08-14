@@ -1,0 +1,25 @@
+Name: Central Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: Oakdale Street, Windermere FL 34786
+Description: Playground, Picnic Tables, Pavilion & Jogging Path. Parking located on Oakdale Street.
+Website: https://www.windermereparksandrecreation.com/index.php/our-parks/central-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4966651
+Longitude: -81.5338031
+OpenStreetMap URL: https://www.openstreetmap.org/way/576568396
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/576568396
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

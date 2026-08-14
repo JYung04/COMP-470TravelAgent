@@ -1,0 +1,25 @@
+Name: Rita's Italian Ice
+City: Chicago
+Category: cafes
+Cuisine: ice_cream
+Address: 5940 North Lincoln Avenue, Chicago IL 60659
+Description: Not listed
+Website: https://www.ritasice.com/location/ritas-of-west-ridge-il/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9889961
+Longitude: -87.7054696
+OpenStreetMap URL: https://www.openstreetmap.org/way/164021858
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/164021858
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

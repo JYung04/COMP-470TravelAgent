@@ -1,0 +1,25 @@
+Name: Sahara Turkish Grill
+City: NYC
+Category: restaurants
+Cuisine: turkish
+Address: 530 Neptune Avenue, NY 11224
+Description: Not listed
+Website: https://www.saharaturkishgrillbk.com/
+Phone: +1-718-333-0384
+Email: Not listed
+Opening Hours: 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.5796047
+Longitude: -73.9723498
+OpenStreetMap URL: https://www.openstreetmap.org/node/8931103808
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8931103808
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

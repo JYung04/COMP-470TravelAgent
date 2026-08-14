@@ -1,0 +1,25 @@
+Name: Mike’s Pizzaria
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 71-75 Yellowstone Blvd, Queens, NY 11375, United States
+Description: Not listed
+Website: http://www.mikespizzanyc.com/
+Phone: +1 718-793-3464
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7206897
+Longitude: -73.8551791
+OpenStreetMap URL: https://www.openstreetmap.org/node/9063451508
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9063451508
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

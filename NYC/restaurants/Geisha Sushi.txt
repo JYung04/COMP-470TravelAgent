@@ -1,0 +1,24 @@
+Name: Geisha Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 3468 Broadway, 10031
+Description: Not listed
+Website: Not listed
+Phone: +1-212-862-7800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8240742
+Longitude: -73.9518105
+OpenStreetMap URL: https://www.openstreetmap.org/node/3452345665
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3452345665
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

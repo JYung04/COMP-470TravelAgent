@@ -1,0 +1,25 @@
+Name: Robbins Reef Light
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: After her husband John died in 1890, Keeper Kate Walker (1848-1931), kept the lighthouse until 1919. U.S. Coast Guard Cutter Katherine Walker (WLM 552), a buoy tender, is stationed in Bayonne, NJ.
+Website: https://noblemaritime.org/robbins-reef-lighthouse-a-home-in-the-harbor
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6573755
+Longitude: -74.0653613
+OpenStreetMap URL: https://www.openstreetmap.org/node/2576304655
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2576304655
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

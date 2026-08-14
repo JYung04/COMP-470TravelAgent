@@ -1,0 +1,25 @@
+Name: Studio Movie Grill
+City: Orlando
+Category: entertainment
+Cuisine: Not listed
+Address: 3204 Margaritaville Boulevard, Kissimmee FL
+Description: Not listed
+Website: https://www.studiomoviegrill.com/locations/florida/sunset-walk/2019/10/31
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3431027
+Longitude: -81.6096264
+OpenStreetMap URL: https://www.openstreetmap.org/way/688224082
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/688224082
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

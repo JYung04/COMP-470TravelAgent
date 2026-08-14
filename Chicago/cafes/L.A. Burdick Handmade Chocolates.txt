@@ -1,0 +1,25 @@
+Name: L.A. Burdick Handmade Chocolates
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 609 North State Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.burdickchocolate.com/default.aspx
+Phone: +1-312-635-8975
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8927832
+Longitude: -87.6278992
+OpenStreetMap URL: https://www.openstreetmap.org/node/6319862562
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6319862562
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

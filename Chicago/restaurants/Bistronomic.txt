@@ -1,0 +1,25 @@
+Name: Bistronomic
+City: Chicago
+Category: restaurants
+Cuisine: french
+Address: 840 North Wabash Avenue, Chicago IL 60611
+Description: For special-occasion brunch outings, head to the Gold Coast’s Bistronomic for a sophisticated French bistro menu and setting. Enjoy refined dishs like chicken confit crepes, brioche French toast, or quiche Lorraine with the option of bottomless mimosas or sangria.
+Website: https://www.bistronomic.net
+Phone: +1-312-944-8400
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8978759
+Longitude: -87.627138
+OpenStreetMap URL: https://www.openstreetmap.org/node/6397254336
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6397254336
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

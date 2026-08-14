@@ -1,0 +1,24 @@
+Name: Addictive Wine and Tapas
+City: NYC
+Category: restaurants
+Cuisine: tapas, wine
+Address: 87-01 Northern Boulevard, 11369
+Description: Intimate locale offering tapas & wine.
+Website: https://addictivewinebar.com/
+Phone: +1-347-832-0951
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7562129
+Longitude: -73.8806029
+OpenStreetMap URL: https://www.openstreetmap.org/node/2553625661
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2553625661
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

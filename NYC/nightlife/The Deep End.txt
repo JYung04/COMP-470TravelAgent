@@ -1,0 +1,24 @@
+Name: The Deep End
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 1080 Wyckoff Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: https://thedeepend.nyc/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su 17:00-04:00; Tu-Sa 18:00-04:00
+Wheelchair Accessibility: no
+Latitude: 40.6944617
+Longitude: -73.9025245
+OpenStreetMap URL: https://www.openstreetmap.org/node/5351952018
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5351952018
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

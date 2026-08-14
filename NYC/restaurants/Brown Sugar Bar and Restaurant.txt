@@ -1,0 +1,25 @@
+Name: Brown Sugar Bar and Restaurant
+City: NYC
+Category: restaurants
+Cuisine: cuban
+Address: 5060 Broadway, 10034
+Description: Not listed
+Website: https://brownsugaruptown.business.site/
+Phone: +1-646-688-3504
+Email: Not listed
+Opening Hours: Mo-Fr 16:00-02:00; Sa-Su 12:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 40.8699663
+Longitude: -73.9152873
+OpenStreetMap URL: https://www.openstreetmap.org/way/275123570
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/275123570
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

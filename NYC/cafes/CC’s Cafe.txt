@@ -1,0 +1,25 @@
+Name: CC’s Cafe
+City: NYC
+Category: cafes
+Cuisine: american
+Address: 41 Monroe Street, New York NY 10002
+Description: Contemporary New American bistro serving breakfast, lunch and dinner.
+Website: https://ccscafe.nyc
+Phone: +1 212-571-1060
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7116726
+Longitude: -73.9946073
+OpenStreetMap URL: https://www.openstreetmap.org/node/2826442741
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2826442741
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

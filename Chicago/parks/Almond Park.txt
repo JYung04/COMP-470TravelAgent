@@ -1,0 +1,25 @@
+Name: Almond Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2234 West 115th Street, Chicago IL 60643
+Description: Officially classified as passive park. Covers approximately 0.7 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/almond-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6844756
+Longitude: -87.6765006
+OpenStreetMap URL: https://www.openstreetmap.org/way/175947148
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/175947148
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

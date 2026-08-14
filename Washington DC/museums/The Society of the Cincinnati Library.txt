@@ -1,0 +1,25 @@
+Name: The Society of the Cincinnati Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 20008
+Description: Not listed
+Website: https://www.societyofthecincinnati.org
+Phone: +1 202-785-2040
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9106526
+Longitude: -77.047541
+OpenStreetMap URL: https://www.openstreetmap.org/node/7926548972
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7926548972
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

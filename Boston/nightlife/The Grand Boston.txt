@@ -1,0 +1,25 @@
+Name: The Grand Boston
+City: Boston
+Category: nightlife
+Cuisine: Not listed
+Address: 29 Northern Avenue
+Description: High-tech Vegas-style dance club featuring a lineup of top DJs & VIP areas with bottle service.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.353174
+Longitude: -71.04754
+OpenStreetMap URL: https://www.openstreetmap.org/node/12843184101
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12843184101
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

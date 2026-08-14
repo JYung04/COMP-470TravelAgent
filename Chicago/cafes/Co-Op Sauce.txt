@@ -1,0 +1,25 @@
+Name: Co-Op Sauce
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 6338-40 North Clark Street, Chicago IL 60660
+Description: Not listed
+Website: https://www.coopsauce.com/find-us/#map1
+Phone: +1-773-216-5580
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.997518
+Longitude: -87.6708125
+OpenStreetMap URL: https://www.openstreetmap.org/node/6283080502
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6283080502
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

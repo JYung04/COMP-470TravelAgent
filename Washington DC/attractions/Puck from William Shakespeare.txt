@@ -1,0 +1,25 @@
+Name: Puck from William Shakespeare
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Lord, what fools these mortals be! definition. A line from the play A Midsummer Night's Dream, by William Shakespeare. A mischievous fairy, Puck, addressing his king, is commenting on the folly of the human beings who have come into his forest.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8893959
+Longitude: -77.0032817
+OpenStreetMap URL: https://www.openstreetmap.org/node/5344300314
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5344300314
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

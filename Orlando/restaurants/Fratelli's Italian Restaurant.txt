@@ -1,0 +1,25 @@
+Name: Fratelli's Italian Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: italian
+Address: 373 North Orange Avenue, Orlando FL
+Description: Not listed
+Website: https://getsauce.com/order/site/fratellis-italian-restaurant
+Phone: +1-407-422-5500
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5469915
+Longitude: -81.3789674
+OpenStreetMap URL: https://www.openstreetmap.org/node/940735085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/940735085
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

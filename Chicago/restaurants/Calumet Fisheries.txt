@@ -1,0 +1,25 @@
+Name: Calumet Fisheries
+City: Chicago
+Category: restaurants
+Cuisine: seafood
+Address: 3259 East 95th Street, Chicago IL 60617
+Description: Calumet Fisheries is a seafood restaurant in the South Deering neighborhood of Chicago, Illinois, United States, directly next to the 95th Street bridge. It was originally established in 1928, and subsequently purchased in 1948 by Sid Kotlick and Len Toll. It serves smoked and fried fish, shrimp, and clams. The restaurant is often featured on TV shows and web series, such as Eater's Dining on a Dime and Anthony Bourdain: No Reservations. The building is a one-room shack with a counter and no seating. Patrons can take their food to go, or sit in their parked cars along 95th Street to eat.
+Website: https://calumetfisheries.com/
+Phone: +1-773-933-9855
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.722641
+Longitude: -87.5440215
+OpenStreetMap URL: https://www.openstreetmap.org/way/211352838
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/211352838
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Pascalou
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: 1308 Madison Avenue, 10128
+Description: Not listed
+Website: https://pascalou.info/
+Phone: +1 212-534-7522
+Email: Not listed
+Opening Hours: Mo-Sa 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7851416
+Longitude: -73.9558929
+OpenStreetMap URL: https://www.openstreetmap.org/node/6270650093
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6270650093
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

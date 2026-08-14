@@ -1,0 +1,25 @@
+Name: 67th Street Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 328 East 67th Street, New York NY 10065
+Description: Not listed
+Website: https://www.nypl.org/locations/67th-street
+Phone: +1 212-734-1717
+Email: Not listed
+Opening Hours: Mo-Th 11:00-19:00; Fr, Sa 10:00-17:00; PH off; easter off
+Wheelchair Accessibility: yes
+Latitude: 40.7649116
+Longitude: -73.9595495
+OpenStreetMap URL: https://www.openstreetmap.org/way/266871312
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266871312
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

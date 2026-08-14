@@ -1,0 +1,25 @@
+Name: Hunan Delight
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 752 Union Street, 11215
+Description: Not listed
+Website: https://hunandelightbk.com
+Phone: +1-718-789-1400
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:00; Fr-Sa 11:00-22:30; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6753841
+Longitude: -73.9781785
+OpenStreetMap URL: https://www.openstreetmap.org/node/4111933912
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4111933912
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

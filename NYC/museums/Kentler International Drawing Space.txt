@@ -1,0 +1,25 @@
+Name: Kentler International Drawing Space
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://kentlergallery.org
+Phone: +1-718-875-2098
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6770075
+Longitude: -74.0130914
+OpenStreetMap URL: https://www.openstreetmap.org/node/10876530574
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10876530574
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

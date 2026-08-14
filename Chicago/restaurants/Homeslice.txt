@@ -1,0 +1,25 @@
+Name: Homeslice
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 938 West Webster Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://happycamper.pizza/homeslice/
+Phone: +1-312-789-4600
+Email: Not listed
+Opening Hours: Mo-We 11:00-22:00; Th 11:00-23:00; Fr 11:00-00:30; Sa 10:00-00:30; Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9218744
+Longitude: -87.6524401
+OpenStreetMap URL: https://www.openstreetmap.org/node/4460783569
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4460783569
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

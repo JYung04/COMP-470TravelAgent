@@ -1,0 +1,24 @@
+Name: Sajhoma #3
+City: NYC
+Category: restaurants
+Cuisine: latin_american, sandwich, american, italian
+Address: 941 Broadway, 11206
+Description: Not listed
+Website: Not listed
+Phone: +1-718-443-0243
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6972098
+Longitude: -73.9353976
+OpenStreetMap URL: https://www.openstreetmap.org/node/5744312486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5744312486
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

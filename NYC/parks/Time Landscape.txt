@@ -1,0 +1,25 @@
+Name: Time Landscape
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Time Landscape is a landscape artwork by American artist Alan Sonfist. Proposed in 1965, it consists of plants that were native to the New York City area in pre-colonial times. Those plants were replanted here in 1978, on a rectangular plot of 25' x 40' situated at University Village in lower Manhattan at the northeast corner of La Guardia Place and West Houston Street. The New York City Department of Parks and Recreation describes the artwork: "When it was first planted, Time Landscape portrayed the three stages of forest growth from grasses to saplings to grown trees. The southern part of the plot represented the youngest stage and now has birch trees and beaked hazelnut shrubs, with a layer of.
+Website: https://www.nycgovparks.org/parks/time-landscape
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7272313
+Longitude: -73.9994514
+OpenStreetMap URL: https://www.openstreetmap.org/way/576169665
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/576169665
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

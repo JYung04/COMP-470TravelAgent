@@ -1,0 +1,24 @@
+Name: Acapulco Bakery
+City: Chicago
+Category: cafes
+Cuisine: Bakery
+Address: 6044 West 63rd Street, Chicago IL 60638
+Description: Not listed
+Website: Not listed
+Phone: (773) 424-0167
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7780534
+Longitude: -87.773288
+OpenStreetMap URL: https://www.openstreetmap.org/node/6257979487
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6257979487
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

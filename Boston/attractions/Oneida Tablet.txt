@@ -1,0 +1,25 @@
+Name: Oneida Tablet
+City: Boston
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: First Football Club in America
+Website: https://soccerhistoryusa.org/episode-notes/the-oneida-football-club/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.356232
+Longitude: -71.0671781
+OpenStreetMap URL: https://www.openstreetmap.org/node/7936014543
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7936014543
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

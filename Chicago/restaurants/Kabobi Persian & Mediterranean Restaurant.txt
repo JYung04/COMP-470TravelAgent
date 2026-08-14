@@ -1,0 +1,24 @@
+Name: Kabobi Persian & Mediterranean Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: kebab, persian, middle_eastern, mediterranean
+Address: 3224 West Lawrence Avenue, Chicago IL 60625
+Description: Not listed
+Website: http://www.kabobigrill.com/
+Phone: +1-773-583-1400
+Email: Not listed
+Opening Hours: 10:30-01:00
+Wheelchair Accessibility: yes
+Latitude: 41.9686131
+Longitude: -87.70953
+OpenStreetMap URL: https://www.openstreetmap.org/node/6319069400
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6319069400
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

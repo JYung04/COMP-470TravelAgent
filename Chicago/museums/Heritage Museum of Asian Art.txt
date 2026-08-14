@@ -1,0 +1,25 @@
+Name: Heritage Museum of Asian Art
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 3500 South Morgan Street, Chicago IL 60609
+Description: Not listed
+Website: https://heritageasianart.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8305279
+Longitude: -87.6512007
+OpenStreetMap URL: https://www.openstreetmap.org/node/13201205528
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13201205528
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

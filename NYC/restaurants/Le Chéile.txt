@@ -1,0 +1,25 @@
+Name: Le Chéile
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 839 West 181st Street
+Description: Not listed
+Website: https://www.lecheilenyc.com/
+Phone: +1-212-740-3111
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-03:00; Sa-Su 10:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8514544
+Longitude: -73.9400045
+OpenStreetMap URL: https://www.openstreetmap.org/node/4224118981
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4224118981
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

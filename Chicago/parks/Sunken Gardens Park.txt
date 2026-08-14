@@ -1,0 +1,25 @@
+Name: Sunken Gardens Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4500 North Virginia Avenue, Chicago IL 60625
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/sunken-gardens-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9633281
+Longitude: -87.695059
+OpenStreetMap URL: https://www.openstreetmap.org/way/160009410
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/160009410
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

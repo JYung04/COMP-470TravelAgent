@@ -1,0 +1,24 @@
+Name: Portage Grounds
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop, pastry, tea
+Address: 5501 West Irving Park Road, Chicago IL 60641
+Description: Not listed
+Website: https://www.portagegrounds.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9530157
+Longitude: -87.764759
+OpenStreetMap URL: https://www.openstreetmap.org/node/7087385093
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7087385093
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

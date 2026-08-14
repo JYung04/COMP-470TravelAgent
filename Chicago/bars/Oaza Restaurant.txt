@@ -1,0 +1,25 @@
+Name: Oaza Restaurant
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3057 West Lawrence Avenue, Chicago IL 60625
+Description: Not listed
+Website: Not listed
+Phone: +1-872-888-8983
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.96825
+Longitude: -87.7058769
+OpenStreetMap URL: https://www.openstreetmap.org/node/6323811996
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6323811996
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

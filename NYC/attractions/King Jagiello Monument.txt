@@ -1,0 +1,25 @@
+Name: King Jagiello Monument
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: The King Jagiełło Monument is an equestrian monument of Władysław II Jagiełło, King of Poland and Grand Duke of Lithuania, located in Central Park, New York City.
+Website: https://www.centralparknyc.org/locations/king-jagiello
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7789243
+Longitude: -73.9666796
+OpenStreetMap URL: https://www.openstreetmap.org/node/3053662533
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3053662533
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

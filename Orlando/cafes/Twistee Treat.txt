@@ -1,0 +1,24 @@
+Name: Twistee Treat
+City: Orlando
+Category: cafes
+Cuisine: Ice Cream Parlor, Dessert Shop, Food Truck
+Address: 11524 S Orange Blossom Trl (at Whisper Lakes Dr), Orlando, FL 32837
+Description: Not listed
+Website: Not listed
+Phone: (407) 888-8651
+Email: Not listed
+Opening Hours: Mo-Th 12:00-22:30; Fr,Sa 12:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3987109
+Longitude: -81.4050731
+OpenStreetMap URL: https://www.openstreetmap.org/way/1356506236
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1356506236
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

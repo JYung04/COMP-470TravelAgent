@@ -1,0 +1,25 @@
+Name: Blue-Park Kitchen
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 666 3rd Avenue, New York NY 10017
+Description: Not listed
+Website: https://www.blueparkkitchen.com/location/midtown/
+Phone: +1-646-760-2168
+Email: hello@blueparkkitchen.com
+Opening Hours: Mo-Fr 08:00-10:15,11:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 40.7516202
+Longitude: -73.974679
+OpenStreetMap URL: https://www.openstreetmap.org/node/4555837496
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4555837496
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

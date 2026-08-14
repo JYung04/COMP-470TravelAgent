@@ -1,0 +1,25 @@
+Name: The Bitter End
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 147 Bleecker Street
+Description: Not listed
+Website: https://bitterend.com/
+Phone: +1-212-673-7030
+Email: info@bitterend.com
+Opening Hours: Mo, Fr, Sa 19:00-04:00; Tu-Th, Su 19:00-01:00
+Wheelchair Accessibility: limited
+Latitude: 40.7283337
+Longitude: -73.9992168
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550551548
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550551548
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

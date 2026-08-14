@@ -1,0 +1,25 @@
+Name: Flagship Brewing Co.
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 40 Minthorne Street
+Description: Not listed
+Website: http://theflagshipbrewery.com
+Phone: +17184485284
+Email: Not listed
+Opening Hours: Tu-We 14:00-22:00; Th-Sa 12:00-00:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.637155
+Longitude: -74.0755547
+OpenStreetMap URL: https://www.openstreetmap.org/node/4521531942
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4521531942
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Ten 10 Brewing Company
+City: Orlando
+Category: bars
+Cuisine: Not listed
+Address: 1010 Virginia Drive, Orlando FL 32803
+Description: CitySec/CitrusSec security meetups take place here on the third Wednesday of every month at 7 pm.
+Website: https://ten10brewingcompany.com/
+Phone: +1-407-930-8993
+Email: Not listed
+Opening Hours: Mo-Th 12:00-22:00; Fr, Sa 12:00-23:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5638213
+Longitude: -81.3659459
+OpenStreetMap URL: https://www.openstreetmap.org/way/628314000
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/628314000
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

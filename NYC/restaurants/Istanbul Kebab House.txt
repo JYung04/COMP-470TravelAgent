@@ -1,0 +1,24 @@
+Name: Istanbul Kebab House
+City: NYC
+Category: restaurants
+Cuisine: turkish, mediterranean
+Address: 1409 Kings Highway, 11229
+Description: Turkish and Mediterranean restaurant serving delicious hallal meals having in or to go.
+Website: https://www.istanbulkebabny.com/
+Phone: +1 914-400-0056
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6087615
+Longitude: -73.9588678
+OpenStreetMap URL: https://www.openstreetmap.org/way/247925864
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/247925864
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

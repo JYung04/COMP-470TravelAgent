@@ -1,0 +1,25 @@
+Name: Central Park Bar
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 2924 North Central Park Avenue, Chicago IL 60618
+Description: Not listed
+Website: https://www.centralparkbarchicago.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Fr 16:00-02:00, Sa 16:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9345296
+Longitude: -87.7174228
+OpenStreetMap URL: https://www.openstreetmap.org/node/3627809229
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3627809229
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

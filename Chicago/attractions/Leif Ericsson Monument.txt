@@ -1,0 +1,25 @@
+Name: Leif Ericsson Monument
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/leif-erikson-monument
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9067221
+Longitude: -87.7015621
+OpenStreetMap URL: https://www.openstreetmap.org/way/209394851
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209394851
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

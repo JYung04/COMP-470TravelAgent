@@ -1,0 +1,25 @@
+Name: Souk El-Shater
+City: NYC
+Category: restaurants
+Cuisine: lebanese
+Address: 43-03 Queens Boulevard
+Description: Not listed
+Website: https://soukelshater.netwaiter.com/sunnyside/about/
+Phone: +1 718-392-7202
+Email: Not listed
+Opening Hours: Mo-Su 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7437477
+Longitude: -73.921173
+OpenStreetMap URL: https://www.openstreetmap.org/node/11635480733
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11635480733
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

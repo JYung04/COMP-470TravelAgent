@@ -1,0 +1,25 @@
+Name: Matto Espresso
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 293 Mercer Street, New York NY 10003
+Description: Coffee Shop
+Website: https://www.matto.com/
+Phone: +13478828000
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-18:00; Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7302457
+Longitude: -73.9939666
+OpenStreetMap URL: https://www.openstreetmap.org/node/2547162213
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2547162213
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

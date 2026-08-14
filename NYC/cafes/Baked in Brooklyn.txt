@@ -1,0 +1,24 @@
+Name: Baked in Brooklyn
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfast, sandwich
+Address: 755 5th Avenue, 11232
+Description: Not listed
+Website: https://bakedinbrooklynny.com/about-the-store/
+Phone: +1-718-788-3164
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-19:00; Sa 07:00-19:00; Su 07:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6588298
+Longitude: -73.9962617
+OpenStreetMap URL: https://www.openstreetmap.org/node/10248988534
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10248988534
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

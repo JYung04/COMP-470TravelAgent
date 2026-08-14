@@ -1,0 +1,25 @@
+Name: Timber Pizza Company
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 809 Upshur Street Northwest, Washington DC 20011-5836
+Description: Not listed
+Website: https://www.timberpizza.com/
+Phone: +1 202-853-9746
+Email: Not listed
+Opening Hours: Su 08:00-13:00, 17:00-21:00; Mo-Tu 17:00-21:00; We-Th 17:00-21:30; Fr 17:00-22:00; Sa 08:00-13:00, 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9420712
+Longitude: -77.0238399
+OpenStreetMap URL: https://www.openstreetmap.org/node/4228579174
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4228579174
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

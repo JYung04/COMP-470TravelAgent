@@ -1,0 +1,25 @@
+Name: The Delegate
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 901 L Street Northwest
+Description: Not listed
+Website: https://thedelegatedc.com/
+Phone: +1 202-567-6645
+Email: Not listed
+Opening Hours: Mo-Su 07:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9043374
+Longitude: -77.0241543
+OpenStreetMap URL: https://www.openstreetmap.org/node/11142548629
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11142548629
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

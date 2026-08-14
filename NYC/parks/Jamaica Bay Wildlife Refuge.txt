@@ -1,0 +1,25 @@
+Name: Jamaica Bay Wildlife Refuge
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Go on a hike, search for turtle nesting areas, and admire the wildflowers and insects that call its over 9,000 acres of woods, salt marshes and freshwater ponds home at the Jamaica Bay Wildlife Refuge . With more than 325 species of birds, it’s a place bird-watchers will not want to miss. The refuge trails and parking lot are open daily from 6am to 9pm. Louis Armstrong House. Photo: Kate Glicksberg
+Website: https://www.nycgo.com/venues/jamaica-bay-wildlife-refuge/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.614159
+Longitude: -73.8328152
+OpenStreetMap URL: https://www.openstreetmap.org/relation/9457335
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/9457335
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

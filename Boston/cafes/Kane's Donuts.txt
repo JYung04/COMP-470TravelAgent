@@ -1,0 +1,25 @@
+Name: Kane's Donuts
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 90 Oliver Street, Boston MA 02110
+Description: Not listed
+Website: http://kanesdonuts.com
+Phone: 857-317-2654
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3562682
+Longitude: -71.0528023
+OpenStreetMap URL: https://www.openstreetmap.org/node/10723666358
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10723666358
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

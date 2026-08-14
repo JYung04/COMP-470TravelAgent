@@ -1,0 +1,25 @@
+Name: Salamander Washington DC
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1330 Maryland Avenue Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.salamanderdc.com/
+Phone: +1 844-860-2741
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8834031
+Longitude: -77.0306629
+OpenStreetMap URL: https://www.openstreetmap.org/way/48040312
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48040312
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

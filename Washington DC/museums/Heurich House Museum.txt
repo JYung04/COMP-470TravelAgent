@@ -1,0 +1,25 @@
+Name: Heurich House Museum
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://heurichhouse.org/
+Phone: +1 202-429-1894
+Email: info@heurichhouse.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9080298
+Longitude: -77.0445843
+OpenStreetMap URL: https://www.openstreetmap.org/node/4085826612
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4085826612
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

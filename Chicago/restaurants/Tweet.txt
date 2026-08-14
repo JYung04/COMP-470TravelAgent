@@ -1,0 +1,25 @@
+Name: Tweet
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 5020 North Sheridan Road, Chicago IL 60640
+Description: Not listed
+Website: http://tweet.biz/
+Phone: +1-773-728-5576
+Email: Not listed
+Opening Hours: 09:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9739873
+Longitude: -87.6551375
+OpenStreetMap URL: https://www.openstreetmap.org/node/3076192233
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3076192233
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

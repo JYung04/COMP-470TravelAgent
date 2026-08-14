@@ -1,0 +1,25 @@
+Name: The Duck Inn
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 2701 South Eleanor Street, Chicago IL 60608
+Description: Not listed
+Website: https://www.theduckinnchicago.com/
+Phone: +1-312-724-8811
+Email: Not listed
+Opening Hours: We-Su 17:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8444166
+Longitude: -87.6601412
+OpenStreetMap URL: https://www.openstreetmap.org/way/959713205
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/959713205
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

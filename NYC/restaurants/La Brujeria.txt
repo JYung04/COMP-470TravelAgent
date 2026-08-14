@@ -1,0 +1,25 @@
+Name: La Brujeria
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 590 Grand Street
+Description: Not listed
+Website: https://www.la-brujeria.com
+Phone: +1 201-267-6760
+Email: labrujeriajc@mail.com
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 40.7174036
+Longitude: -74.0615335
+OpenStreetMap URL: https://www.openstreetmap.org/node/10248225615
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10248225615
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Rubin Museum of Art
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 150 West 17th Street, New York NY 10011
+Description: The Rubin Museum of Himalayan Art, also known as the Rubin Museum or the Rubin Museum of Art, is dedicated to the collection, display, and preservation of the art and cultures of the Himalayas, the Indian subcontinent, Central Asia and other regions within Eurasia, with a permanent collection focused particularly on Tibetan art. The museum opened in 2004 at 150 West 17th Street between the Avenue of the Americas and Seventh Avenue in the Chelsea neighborhood of Manhattan in New York City. In early 2024 it announced the closure of its New York City building in order to become a global "museum without walls", focusing on traveling exhibitions, long-term loans, partnerships, and digital resources. The museum closed on October 6.
+Website: https://rubinmuseum.org/
+Phone: +1-212-620-5000
+Email: Not listed
+Opening Hours: Th-Su 11:00-17:00; Fr 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7400959
+Longitude: -73.9977377
+OpenStreetMap URL: https://www.openstreetmap.org/node/1810241472
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1810241472
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

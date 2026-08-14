@@ -1,0 +1,25 @@
+Name: Food For The Soul
+City: Boston
+Category: restaurants
+Cuisine: chicken
+Address: 651 Warren Street, Boston MA 02121
+Description: Not listed
+Website: http://bostonfoodforthesoul.com/
+Phone: +1-617-602-1042
+Email: Not listed
+Opening Hours: Tu-Sa 12:00-21:00; Su 13:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3098224
+Longitude: -71.083052
+OpenStreetMap URL: https://www.openstreetmap.org/node/8986324517
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8986324517
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

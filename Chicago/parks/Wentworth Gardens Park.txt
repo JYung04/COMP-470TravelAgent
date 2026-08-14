@@ -1,0 +1,25 @@
+Name: Wentworth Gardens Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 3770 South Wentworth Avenue, Chicago IL 60609
+Description: Officially classified as community park. Covers approximately 2.5 acres. Facilities include gymnasium, outdoor pool, playground.
+Website: https://www.chicagoparkdistrict.com/parks/Wentworth-Gardens-Park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.825473
+Longitude: -87.6321312
+OpenStreetMap URL: https://www.openstreetmap.org/way/219423373
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/219423373
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

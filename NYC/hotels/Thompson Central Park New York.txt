@@ -1,0 +1,25 @@
+Name: Thompson Central Park New York
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 119 West 56th Street, New York NY 10019
+Description: The Thompson Central Park New York is a 587-room hotel located at 56th Street in Midtown Manhattan, New York City. Located near Central Park, the 42-story hotel building houses restaurants, a gym, and other retailers.
+Website: https://www.hyatt.com/hotel/new-york/thompson-central-park-new-york/lgatp
+Phone: +1 212-245-5000
+Email: lgatp.concierge@hyatt.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7643251
+Longitude: -73.9784762
+OpenStreetMap URL: https://www.openstreetmap.org/way/265148531
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265148531
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

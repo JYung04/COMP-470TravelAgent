@@ -1,0 +1,25 @@
+Name: The Playground Theater
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 3209 North Halsted Street, Chicago IL 60657
+Description: The Playground Theater is a continuously operating non-profit theater in Chicago dedicated to Modern Theatrical Improvisation, a form of theater invented in the city. The Playground was founded in 1997 by a collective of Chicago improvisors. Originally located on Halsted Street, the theater now produces shows at different theatrical venues across Chicago. The Playground Theater was created to provide a Chicago venue where improvisors could have complete artistic control over the work they produced.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9403203
+Longitude: -87.649143
+OpenStreetMap URL: https://www.openstreetmap.org/node/5698233279
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5698233279
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: entertainment; art

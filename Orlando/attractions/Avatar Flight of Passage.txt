@@ -1,0 +1,25 @@
+Name: Avatar Flight of Passage
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Avatar Flight of Passage is a 3D flying simulator attraction within Pandora – The World of Avatar at Disney's Animal Kingdom. Set in the Avatar universe, the attraction allows guests to take flight on a native mountain Banshee and soar across the landscape of Pandora.
+Website: https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3548608
+Longitude: -81.5928263
+OpenStreetMap URL: https://www.openstreetmap.org/node/4836297934
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4836297934
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

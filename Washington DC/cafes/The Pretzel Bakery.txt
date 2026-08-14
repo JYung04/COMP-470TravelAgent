@@ -1,0 +1,24 @@
+Name: The Pretzel Bakery
+City: Washington DC
+Category: cafes
+Cuisine: pretzel, coffee_shop
+Address: 257 15th Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://www.thepretzelbakery.com/
+Phone: +1 202-450-6067
+Email: Not listed
+Opening Hours: Tu-Su 08:00-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.885484
+Longitude: -76.9838366
+OpenStreetMap URL: https://www.openstreetmap.org/node/1425506224
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1425506224
+Price: $
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

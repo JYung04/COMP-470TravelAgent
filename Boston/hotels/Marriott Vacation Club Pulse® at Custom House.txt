@@ -1,0 +1,25 @@
+Name: Marriott Vacation Club Pulse® at Custom House
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 3 McKinley Square, Boston MA 02109
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/bosch-marriott-vacation-club-pulse-at-custom-house-boston/
+Phone: +1-617-310-6300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3590801
+Longitude: -71.0536495
+OpenStreetMap URL: https://www.openstreetmap.org/node/4130242617
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4130242617
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: IPIC Theaters
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 11 Fulton Street, New York NY 10038
+Description: movie theater in the Financial District of Manhattan, New York City, United States
+Website: https://www.ipic.com/new-york-city-ny-fulton-market/location
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7066783
+Longitude: -74.0030665
+OpenStreetMap URL: https://www.openstreetmap.org/node/6935388093
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6935388093
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

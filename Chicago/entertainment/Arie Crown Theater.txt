@@ -1,0 +1,25 @@
+Name: Arie Crown Theater
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 2301 South Lake Shore Drive, Chicago IL 60616
+Description: The Arie Crown Theater is an entertainment venue situated on Lake Shore Drive in the Near South Side area of Chicago. Named after Lithuanian immigrant Arie Crown, who was the father of industrialist and philanthropist Henry Crown, it opened in 1960 with seating for 5,000 people, one of the largest seating capacities in Chicago. The theater is part of the McCormick Place convention facility, owned by the Metropolitan Pier and Exposition Authority.
+Website: https://www.ariecrown.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8519011
+Longitude: -87.6117906
+OpenStreetMap URL: https://www.openstreetmap.org/way/1286946899
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1286946899
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; art

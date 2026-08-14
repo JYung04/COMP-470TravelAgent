@@ -1,0 +1,25 @@
+Name: Dumpling Hot Pot Beyond
+City: Washington DC
+Category: restaurants
+Cuisine: chinese
+Address: 1216 H Street Northeast, Washington DC 20002
+Description: Not listed
+Website: https://www.dumplinghotpotbeyond.com/
+Phone: +1-202-450-1405
+Email: Not listed
+Opening Hours: Mo-Fr 17:00-24:00; Sa 11:30-22:30; Su 12:30-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9003565
+Longitude: -76.9895672
+OpenStreetMap URL: https://www.openstreetmap.org/node/12518811923
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12518811923
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

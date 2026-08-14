@@ -1,0 +1,25 @@
+Name: Belga Cafe
+City: Washington DC
+Category: restaurants
+Cuisine: belgian
+Address: 514 8th Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://belgacafe.com/
+Phone: +1 202 544-0100
+Email: info@belgacafe.com
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.8821724
+Longitude: -76.994714
+OpenStreetMap URL: https://www.openstreetmap.org/node/737404965
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737404965
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

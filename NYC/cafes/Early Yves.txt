@@ -1,0 +1,25 @@
+Name: Early Yves
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 210 Patchen Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 08:00-15:00
+Wheelchair Accessibility: yes
+Latitude: 40.6836278
+Longitude: -73.9263876
+OpenStreetMap URL: https://www.openstreetmap.org/node/10065571478
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10065571478
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

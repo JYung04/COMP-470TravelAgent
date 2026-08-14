@@ -1,0 +1,25 @@
+Name: Walker Football Field & Sam Williams Little League Complex
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 415 S Park Avenue, Winter Garden FL 34787
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5616
+Longitude: -81.5908495
+OpenStreetMap URL: https://www.openstreetmap.org/way/810154715
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/810154715
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

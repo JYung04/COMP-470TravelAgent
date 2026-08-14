@@ -1,0 +1,25 @@
+Name: Emmy Squared
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 200 West 60th Street, New York NY 10023
+Description: Not listed
+Website: https://www.emmysquaredpizza.com/location/midtown-west-new-york-ny/
+Phone: +1-929-989-3669
+Email: askemily@emmysquaredpizza.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.771011
+Longitude: -73.9874576
+OpenStreetMap URL: https://www.openstreetmap.org/node/3785038150
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3785038150
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

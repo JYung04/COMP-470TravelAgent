@@ -1,0 +1,25 @@
+Name: New Oriental House
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 3704 Washington Street, Jamaica Plain MA 02130
+Description: Not listed
+Website: Not listed
+Phone: +1-617-983-1388;+1-617-524-1551
+Email: Not listed
+Opening Hours: Tu-Su 14:00-23:30; Mo off
+Wheelchair Accessibility: Not listed
+Latitude: 42.3004452
+Longitude: -71.1129813
+OpenStreetMap URL: https://www.openstreetmap.org/node/6636161286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6636161286
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hotel AKA Washington Circle
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1 Washington Circle Northwest, Washington DC 20037
+Description: Not listed
+Website: https://www.stayaka.com/hotel-aka-washington-circle
+Phone: +1 202 591 1500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9033582
+Longitude: -77.049794
+OpenStreetMap URL: https://www.openstreetmap.org/node/759570206
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/759570206
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

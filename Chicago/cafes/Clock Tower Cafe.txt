@@ -1,0 +1,25 @@
+Name: Clock Tower Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3701 North Recreation Drive, Chicago IL 60613
+Description: The striking English Gothic clock tower that sits along the lakefront north of Belmont Harbor is home to the Clock Tower Café . This casual spot in the Lakeview neighborhood is popular with those playing on the nearby tennis courts and golf course, but all are welcome to enjoy cold drinks and a casual menu. Choose from burgers, salads, sandwiches, and hot dogs, plus your choice of seating on two different patios.
+Website: https://www.clocktowercafechicago.com/
+Phone: +1-312-742-7930 x3
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.952177
+Longitude: -87.6417043
+OpenStreetMap URL: https://www.openstreetmap.org/way/210331436
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210331436
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; views

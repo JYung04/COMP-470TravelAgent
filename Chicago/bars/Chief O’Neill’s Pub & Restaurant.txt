@@ -1,0 +1,25 @@
+Name: Chief O’Neill’s Pub & Restaurant
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3471 North Elston Avenue, Chicago IL 60618
+Description: Not listed
+Website: https://www.chiefoneillspub.com/
+Phone: +1-773-583-3066
+Email: Not listed
+Opening Hours: Mo-Th 16:00-02:00; Fr 11:00-02:00; Sa 11:00-03:00; Su 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.944524
+Longitude: -87.7055174
+OpenStreetMap URL: https://www.openstreetmap.org/node/2712290135
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2712290135
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

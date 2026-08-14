@@ -1,0 +1,25 @@
+Name: Burnham Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1200-5700 South Lake Shore Drive, Chicago IL 60615
+Description: Burnham Park is a public park located in Chicago, Illinois. Situated along 6 miles (9.7 km) of Lake Michigan shoreline, the park connects Grant Park at 14th Street to Jackson Park at 56th Street. The 598 acres (242 ha) of parkland is owned and managed by the Chicago Park District. It was named for urban planner and architect Daniel Burnham in 1927. Burnham was one of the designers of the 1893 World's Columbian Exposition.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/burnham-daniel-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8299023
+Longitude: -87.5970227
+OpenStreetMap URL: https://www.openstreetmap.org/relation/15772174
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/15772174
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

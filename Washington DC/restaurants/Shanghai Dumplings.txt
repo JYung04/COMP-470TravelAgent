@@ -1,0 +1,25 @@
+Name: Shanghai Dumplings
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 3925 14th Street Northwest, Washington DC 20011
+Description: Not listed
+Website: Not listed
+Phone: +1 202-699-9555
+Email: Not listed
+Opening Hours: Closed
+Wheelchair Accessibility: Not listed
+Latitude: 38.939376
+Longitude: -77.032474
+OpenStreetMap URL: https://www.openstreetmap.org/node/12403643878
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12403643878
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

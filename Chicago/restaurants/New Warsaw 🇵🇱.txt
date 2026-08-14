@@ -1,0 +1,24 @@
+Name: New Warsaw 🇵🇱
+City: Chicago
+Category: restaurants
+Cuisine: polish, coffee, american, breakfast
+Address: 6250 West 63rd Street, Chicago IL 60638
+Description: Not listed
+Website: Not listed
+Phone: +1 773 586 0410
+Email: Not listed
+Opening Hours: Tu-Fr 11:00-15:30, Sa 11:00-19:00; Su 08:30-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7779986
+Longitude: -87.778265
+OpenStreetMap URL: https://www.openstreetmap.org/node/7418074166
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7418074166
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hyatt Place
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 400 E Street Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.hyatt.com/en-us/hotel/washington-dc/hyatt-place-washington-dc-national-mall/waszc
+Phone: +1 202-803-6110
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8829065
+Longitude: -77.0179769
+OpenStreetMap URL: https://www.openstreetmap.org/way/48085044
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48085044
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

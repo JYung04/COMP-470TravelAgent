@@ -1,0 +1,25 @@
+Name: IDOF - I Dream of Falafel
+City: Chicago
+Category: restaurants
+Cuisine: mediterranean
+Address: 555 West Monroe Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.idreamoffalafel.com/locations/chicago/
+Phone: +1-312-559-3333
+Email: Not listed
+Opening Hours: Mo-Fr 10:30-20:00
+Wheelchair Accessibility: yes
+Latitude: 41.8803617
+Longitude: -87.6413837
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460615421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460615421
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

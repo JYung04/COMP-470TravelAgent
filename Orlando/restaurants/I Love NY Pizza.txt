@@ -1,0 +1,25 @@
+Name: I Love NY Pizza
+City: Orlando
+Category: restaurants
+Cuisine: pizza
+Address: Not listed
+Description: Not listed
+Website: https://www.ilovenypizzainorlando.com/
+Phone: +1-407-710-2449
+Email: Not listed
+Opening Hours: Mo-Th 09:30-20:00; Fr-Sa 09:30-20:30; Su 09:30-18:00
+Wheelchair Accessibility: yes
+Latitude: 28.4677048
+Longitude: -81.3086477
+OpenStreetMap URL: https://www.openstreetmap.org/node/5728674447
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5728674447
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

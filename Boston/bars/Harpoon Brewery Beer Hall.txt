@@ -1,0 +1,24 @@
+Name: Harpoon Brewery Beer Hall
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Tu,Su 12:00-20:00; We 12:00-20:30; Th 12:00-21:00; Fr-Sa 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 42.347508
+Longitude: -71.0337861
+OpenStreetMap URL: https://www.openstreetmap.org/node/6185151434
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6185151434
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

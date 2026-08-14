@@ -1,0 +1,25 @@
+Name: Rowan Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 11546 South Avenue L, Chicago IL 60617
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks/Rowan-Park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6857918
+Longitude: -87.5382534
+OpenStreetMap URL: https://www.openstreetmap.org/way/140587974
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/140587974
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

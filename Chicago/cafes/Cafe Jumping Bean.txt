@@ -1,0 +1,25 @@
+Name: Cafe Jumping Bean
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1439 West 18th Street, Chicago IL 60608
+Description: Not listed
+Website: Not listed
+Phone: +13124550019
+Email: cafejumpingbean@gmail.com
+Opening Hours: Mo-Sa 06:00-19:00; Su 06:30-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8577238
+Longitude: -87.6628124
+OpenStreetMap URL: https://www.openstreetmap.org/node/1796488740
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1796488740
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

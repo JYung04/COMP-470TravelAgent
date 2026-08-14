@@ -1,0 +1,25 @@
+Name: Don Juan Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 1660 Lamont Street Northwest, Washington DC 20010-2715
+Description: Not listed
+Website: https://www.facebook.com/Donjuans202
+Phone: +1 202-667-0010
+Email: Not listed
+Opening Hours: Mo-Th 10:00-13:30; Fr-Sa 10:00-14:00; Su 08:00-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9310686
+Longitude: -77.038514
+OpenStreetMap URL: https://www.openstreetmap.org/node/741027391
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/741027391
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

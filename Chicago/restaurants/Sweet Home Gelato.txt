@@ -1,0 +1,25 @@
+Name: Sweet Home Gelato
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: Not listed
+Description: Got a sweet tooth? Sweet Home Gelato serves up hand-crafted gelato along the Chicago Riverwalk in the warmer months. Choose from a rotating array of freshly made gelatos and sorbets, like amaretto, chai tea, Nutella, panna cotta, and more. They also serve baked treats, shakes and floats, and coffee.
+Website: https://sweethomegelato.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8870476
+Longitude: -87.6332347
+OpenStreetMap URL: https://www.openstreetmap.org/node/7025601432
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7025601432
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

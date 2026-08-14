@@ -1,0 +1,25 @@
+Name: Museum of the Palestinian People
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1900 18th Street Northwest, 20009
+Description: Listed in Washington, DC official data as museum / zoo. Status: ACTIVE.
+Website: https://mpp-dc.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Fr 15:00-20:00; Sa 12:00-18:00; Su 12:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9157198
+Longitude: -77.0418497
+OpenStreetMap URL: https://www.openstreetmap.org/node/12091851371
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12091851371
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

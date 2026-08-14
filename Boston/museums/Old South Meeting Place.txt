@@ -1,0 +1,25 @@
+Name: Old South Meeting Place
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 2 Milk Street, Boston MA 02108
+Description: An official Boston landmark in Downtown. Status: Approved Landmark. Designated area: Interior & Certain Interior Elements.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.356988
+Longitude: -71.0583947
+OpenStreetMap URL: https://www.openstreetmap.org/way/29620426
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29620426
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Think Coffee
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 123 4th Avenue, New York NY 10003
+Description: Not listed
+Website: https://www.thinkcoffee.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.733002
+Longitude: -73.9897704
+OpenStreetMap URL: https://www.openstreetmap.org/node/1754412984
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1754412984
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

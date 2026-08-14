@@ -1,0 +1,25 @@
+Name: Litchfield Villa
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: 95 Prospect Park West, Brooklyn NY 11215
+Description: Just in from Prospect Park West, between 4th and 5th streets Up a small hill and slightly obscured in summer by ivy and tree coverage, Litchfield Villa is hidden in plain sight (as is the small, sunken Third Street Playground, just to its side). More important, the fanciful Italianate home, designed by Alexander Jackson Davis back in the 1850s, provides insight into NYC’s architectural progress and is a fascinating contrast to Lefferts Historic House on the east side of the park, a colonial-era
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6668751
+Longitude: -73.9737048
+OpenStreetMap URL: https://www.openstreetmap.org/way/241846599
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241846599
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history

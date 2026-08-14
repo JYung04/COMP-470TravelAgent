@@ -1,0 +1,25 @@
+Name: Sushi Nakazawa
+City: Washington DC
+Category: restaurants
+Cuisine: sushi
+Address: 1100 Pennsylvania Avenue Northwest, Washington DC 20004
+Description: Downtown If a menu-less, 20-course dining experience sounds exciting to you, look no further than Sushi Nakazawa . This New York import that turns eating into an adventure comes from chef Daisuke Nakazawa. The restaurant serves fresh-caught fruits of the sea in the style of omakase, a Japanese phrase that roughly translates to “I'll leave it up to you.” Kinship
+Website: https://www.sushinakazawa.com/washington-dc
+Phone: +1 202-289-3515
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8936618
+Longitude: -77.0275905
+OpenStreetMap URL: https://www.openstreetmap.org/node/6300458085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6300458085
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

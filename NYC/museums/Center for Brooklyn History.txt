@@ -1,0 +1,25 @@
+Name: Center for Brooklyn History
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 128 Pierrepont Street, Brooklyn NY 11201
+Description: The Center for Brooklyn History is a museum, library, and educational center founded in 1863 that preserves and encourages the study of Brooklyn's 400-year history. The center's Romanesque Revival building, located at Pierrepont and Clinton Streets in Brooklyn Heights, was designed by George B. Post and built in 1878–1881 by David H. King Jr., is a National Historic Landmark and part of New York City's Brooklyn Heights Historic District. The CBH houses materials relating to the history of Brooklyn and its people, and hosts exhibitions which draw over 9,000 members a year. In addition to general programming, the CBH serves over 70,000 public school students and teachers annually by providing exhibit tours, educational programs and curricula, and making its professional.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6947907
+Longitude: -73.9924114
+OpenStreetMap URL: https://www.openstreetmap.org/way/241833034
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241833034
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

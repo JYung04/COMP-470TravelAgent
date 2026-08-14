@@ -1,0 +1,24 @@
+Name: Wen's Yunnan Noodle & Ramen
+City: Boston
+Category: restaurants
+Cuisine: chinese, noodle, ramen
+Address: 144 Tremont Street
+Description: Not listed
+Website: https://www.wensnoodle.com/
+Phone: +1-617-262-6688
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3553043
+Longitude: -71.0629965
+OpenStreetMap URL: https://www.openstreetmap.org/node/10853299721
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10853299721
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

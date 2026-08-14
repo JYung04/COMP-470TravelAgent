@@ -1,0 +1,25 @@
+Name: Harlem Pizza Co.
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 135 West 116th Street, New York NY 10026
+Description: Not listed
+Website: http://www.harlempizzaco.com/
+Phone: +1 212-222-9889
+Email: Not listed
+Opening Hours: Mo-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8028171
+Longitude: -73.9511423
+OpenStreetMap URL: https://www.openstreetmap.org/node/9432238405
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9432238405
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

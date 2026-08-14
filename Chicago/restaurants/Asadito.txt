@@ -1,0 +1,25 @@
+Name: Asadito
+City: Chicago
+Category: restaurants
+Cuisine: tacos
+Address: 30 North Clinton Street, Chicago IL 60661
+Description: Not listed
+Website: https://asaditotaco.com/
+Phone: +1-312-929-2657
+Email: Not listed
+Opening Hours: Mo 11:00-14:00; Tu-Fr 11:00-20:30
+Wheelchair Accessibility: yes
+Latitude: 41.882683
+Longitude: -87.64147
+OpenStreetMap URL: https://www.openstreetmap.org/node/11673117985
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11673117985
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

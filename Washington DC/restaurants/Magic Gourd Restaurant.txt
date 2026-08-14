@@ -1,0 +1,25 @@
+Name: Magic Gourd Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: chinese
+Address: 528 23rd Street Northwest, Washington DC 20037
+Description: Not listed
+Website: https://order.magicgourd528.com/
+Phone: +1-202-466-3995
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:00; Sa 12:00-21:00; Su off
+Wheelchair Accessibility: yes
+Latitude: 38.8967764
+Longitude: -77.0506151
+OpenStreetMap URL: https://www.openstreetmap.org/node/804628568
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/804628568
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

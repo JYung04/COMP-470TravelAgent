@@ -1,0 +1,25 @@
+Name: William Jay Gaynor
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/cadman-plaza-park-and-brooklyn-war-memorial/monuments/576
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6995396
+Longitude: -73.9905125
+OpenStreetMap URL: https://www.openstreetmap.org/node/7377084843
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7377084843
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

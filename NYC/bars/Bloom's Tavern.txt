@@ -1,0 +1,25 @@
+Name: Bloom's Tavern
+City: NYC
+Category: bars
+Cuisine: american
+Address: 208 East 58th Street, 10022
+Description: Not listed
+Website: https://bloomsnyc.com/
+Phone: +1 212-308-9400
+Email: bloomstavern@gmail.com
+Opening Hours: 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.760572
+Longitude: -73.9665084
+OpenStreetMap URL: https://www.openstreetmap.org/node/7089475612
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7089475612
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

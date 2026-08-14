@@ -1,0 +1,25 @@
+Name: Baan Ga
+City: Boston
+Category: restaurants
+Cuisine: korean
+Address: 636 Beacon Street, Boston MA 02215
+Description: Not listed
+Website: Not listed
+Phone: +1-617-936-4252
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3494682
+Longitude: -71.0952586
+OpenStreetMap URL: https://www.openstreetmap.org/node/12045953854
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12045953854
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

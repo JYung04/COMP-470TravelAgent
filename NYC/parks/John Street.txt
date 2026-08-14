@@ -1,0 +1,25 @@
+Name: John Street
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: John Street, Brooklyn NY 11201
+Description: Not listed
+Website: https://brooklynbridgepark.org/places-to-see/john-street/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7048097
+Longitude: -73.987361
+OpenStreetMap URL: https://www.openstreetmap.org/way/1255157561
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1255157561
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

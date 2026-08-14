@@ -1,0 +1,25 @@
+Name: Eastern Mirage Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 42-31 Union Street, Flushing NY 11355
+Description: Not listed
+Website: https://www.easternmiragehotel.com/
+Phone: +1 888-866-8180
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.757272
+Longitude: -73.8238985
+OpenStreetMap URL: https://www.openstreetmap.org/node/9466649181
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9466649181
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

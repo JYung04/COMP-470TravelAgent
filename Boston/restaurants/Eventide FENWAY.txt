@@ -1,0 +1,25 @@
+Name: Eventide FENWAY
+City: Boston
+Category: restaurants
+Cuisine: seafood
+Address: 1321 Boylston Street, Boston MA 02215
+Description: Best of Boston winner, 2018 (Best Seafood, Fast-Casual) Maybe you’ve heard of the famous brown-butter lobster rolls at this offshoot of a fantastically popular Portland, Maine restaurant—they’re great, especially followed by some brown-butter soft serve . But don’t let the bestseller distract you from other globally inspired delectable options: the coconut-based Maine lobster stew, perhaps, with maitake and sweet potato, or the scallop dumplings in brown-butter (yep) ponzu, or the made-to-share fish kabob platter with tabouleh and garlic yogurt. A dirty martini with oyster-infused vodka is a great complement to the feast, or a glass of something sparkling. (Note: If you haven’t been in in a few years, the Fenway restaurant, which started as a counter-service operation, is now full-service.)
+Website: https://www.eventideoysterco.com/eventide-fenway
+Phone: +1-617-545-1060
+Email: fenway@eventideoysterco.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3444645
+Longitude: -71.0990561
+OpenStreetMap URL: https://www.openstreetmap.org/node/7763953743
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7763953743
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

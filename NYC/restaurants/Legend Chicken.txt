@@ -1,0 +1,25 @@
+Name: Legend Chicken
+City: NYC
+Category: restaurants
+Cuisine: taiwanese
+Address: 135-15 40th Road, Flushing NY
+Description: Not listed
+Website: https://www.legendchicken88.com
+Phone: +1-516-388-6888
+Email: Not listed
+Opening Hours: Su-Th 12:00-20:00; Fr-Sa 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7586645
+Longitude: -73.8309696
+OpenStreetMap URL: https://www.openstreetmap.org/node/6980049861
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6980049861
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

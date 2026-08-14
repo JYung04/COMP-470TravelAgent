@@ -1,0 +1,25 @@
+Name: Jade Eatery and Lounge
+City: NYC
+Category: restaurants
+Cuisine: Asian fusion
+Address: 1 Station Square #2, Queens, NY 11375, United States
+Description: Not listed
+Website: https://www.jadeeatery.com/
+Phone: +1 718-793-2203
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7190923
+Longitude: -73.8452223
+OpenStreetMap URL: https://www.openstreetmap.org/node/6909144453
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6909144453
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

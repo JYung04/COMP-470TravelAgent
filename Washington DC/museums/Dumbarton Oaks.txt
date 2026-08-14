@@ -1,0 +1,25 @@
+Name: Dumbarton Oaks
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Dumbarton Oaks, formally the Dumbarton Oaks Research Library and Collection, is a historic estate in the Georgetown neighborhood of Washington, D.C. It was the residence and gardens of wealthy U.S. diplomat Robert Woods Bliss and his wife Mildred Barnes Bliss. The estate was founded by the Bliss couple, who gave the home and gardens to Harvard University in 1940.
+Website: https://www.doaks.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.914063
+Longitude: -77.0635772
+OpenStreetMap URL: https://www.openstreetmap.org/way/66691700
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66691700
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art; gardens

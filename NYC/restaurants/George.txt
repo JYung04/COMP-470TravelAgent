@@ -1,0 +1,24 @@
+Name: George
+City: NYC
+Category: restaurants
+Cuisine: greek, seafood, chicken
+Address: 1144 1st Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7619444
+Longitude: -73.9600493
+OpenStreetMap URL: https://www.openstreetmap.org/node/11729272519
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11729272519
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

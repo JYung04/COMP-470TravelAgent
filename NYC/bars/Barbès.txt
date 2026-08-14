@@ -1,0 +1,25 @@
+Name: Barbès
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 1300 Park Avenue Hoboken NJ 07030
+Description: Not listed
+Website: https://www.barbesbrooklyn.com
+Phone: +1-347-422-0248
+Email: Not listed
+Opening Hours: Mo-Fr 17:00-02:00; Sa-Su 14:00-02:00
+Wheelchair Accessibility: yes
+Latitude: 40.6677889
+Longitude: -73.9838478
+OpenStreetMap URL: https://www.openstreetmap.org/node/5528710489
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5528710489
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

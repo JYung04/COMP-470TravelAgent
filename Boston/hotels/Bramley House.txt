@@ -1,0 +1,24 @@
+Name: Bramley House
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: Sleaford Road, Boston PE21 7PQ
+Description: Not listed
+Website: http://www.bramleyguesthouse.co.uk
+Phone: 01205 354538
+Email: bramleyhouseboston@outlook.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9730428
+Longitude: -0.0574001
+OpenStreetMap URL: https://www.openstreetmap.org/way/1391039953
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1391039953
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

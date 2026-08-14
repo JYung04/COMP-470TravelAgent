@@ -1,0 +1,25 @@
+Name: Revolution Health Kitchen
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 150 Huntington Avenue, Boston MA 02115
+Description: Not listed
+Website: https://www.revolutionhealthkitchen.com/
+Phone: +1-857-233-4314
+Email: info@revolutionhealthkitchen.com
+Opening Hours: Mo-Fr 10:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3450995
+Longitude: -71.0816884
+OpenStreetMap URL: https://www.openstreetmap.org/node/8120082200
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8120082200
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

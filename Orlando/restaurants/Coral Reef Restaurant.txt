@@ -1,0 +1,25 @@
+Name: Coral Reef Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: seafood
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/epcot/coral-reef-restaurant/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3751383
+Longitude: -81.5505118
+OpenStreetMap URL: https://www.openstreetmap.org/node/2990152022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2990152022
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

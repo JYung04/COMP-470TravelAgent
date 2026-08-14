@@ -1,0 +1,25 @@
+Name: Seven Grams Caffe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop
+Address: 275 7th Avenue, New York NY 10001
+Description: Not listed
+Website: https://www.sevengramscaffe.com
+Phone: +1 212-727-1777
+Email: info@sevengramscaffe.com
+Opening Hours: Mo-Fr 07:00-19:00; Sa-Su 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7455323
+Longitude: -73.9943777
+OpenStreetMap URL: https://www.openstreetmap.org/node/4442836595
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4442836595
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

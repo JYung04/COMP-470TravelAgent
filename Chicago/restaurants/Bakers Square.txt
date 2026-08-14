@@ -1,0 +1,25 @@
+Name: Bakers Square
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 5220 North Harlem Avenue, Chicago IL 60656
+Description: Not listed
+Website: http://www.bakerssquare.com/locations/220658
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9748034
+Longitude: -87.8074927
+OpenStreetMap URL: https://www.openstreetmap.org/way/163327249
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163327249
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

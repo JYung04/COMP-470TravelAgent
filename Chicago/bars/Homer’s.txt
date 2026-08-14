@@ -1,0 +1,25 @@
+Name: Homer’s
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 4518 South McDowell Avenue, Chicago IL 60609
+Description: Not listed
+Website: http://homersbar.com/
+Phone: +1-773-847-5760
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.811906
+Longitude: -87.661109
+OpenStreetMap URL: https://www.openstreetmap.org/node/6294536164
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6294536164
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

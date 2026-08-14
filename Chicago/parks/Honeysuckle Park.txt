@@ -1,0 +1,25 @@
+Name: Honeysuckle Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4635 South Champlain Avenue, Chicago IL 60653
+Description: Officially classified as mini-park. Covers approximately 0.2 acres.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/honeysuckle-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8101522
+Longitude: -87.6098743
+OpenStreetMap URL: https://www.openstreetmap.org/way/186759072
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/186759072
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

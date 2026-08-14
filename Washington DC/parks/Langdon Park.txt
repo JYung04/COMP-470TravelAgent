@@ -1,0 +1,25 @@
+Name: Langdon Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: 18th St. & Mills Ave., to Hamlin & Franklin Sts., NE
+Description: Officially classified as rec center grounds. Amenities include baseball or softball diamond, playground, tot lot, outdoor pool, drinking fountain.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9266361
+Longitude: -76.9741504
+OpenStreetMap URL: https://www.openstreetmap.org/way/48207614
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48207614
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

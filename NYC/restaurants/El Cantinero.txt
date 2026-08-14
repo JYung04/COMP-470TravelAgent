@@ -1,0 +1,25 @@
+Name: El Cantinero
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 86 University Place, 10003
+Description: Not listed
+Website: https://www.elcantineronyc.com/
+Phone: +1 212-255-9378
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:30-24:00; Fr, Sa 11:30-04:00
+Wheelchair Accessibility: no
+Latitude: 40.7336295
+Longitude: -73.9932341
+OpenStreetMap URL: https://www.openstreetmap.org/node/6032479080
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6032479080
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

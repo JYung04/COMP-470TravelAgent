@@ -1,0 +1,24 @@
+Name: No Goodbyes Bar
+City: Washington DC
+Category: bars
+Cuisine: american, southern
+Address: 1770 Euclid Street Northwest, Washington DC 20009
+Description: Not listed
+Website: https://www.thelinehotel.com/dc/restaurants-bars/no-goodbyes/
+Phone: +1-202-864-4180
+Email: Not listed
+Opening Hours: Mo-Fr 15:00-22:00; Sa 10:00-24:00; Su 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.922789
+Longitude: -77.041621
+OpenStreetMap URL: https://www.openstreetmap.org/node/5376799697
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5376799697
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Chicago Cultural Center
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 78 East Washington Street, Chicago IL 60602
+Description: Under the Dome Concert at the Chicago Cultural Center A stunning showcase for the arts, this massive landmark building in the heart of downtown hosts free concerts and performances throughout the year. The Chicago Cultural Center ‘s stunning interior makes for an unforgettable backdrop for classical, jazz, and blues acts. It’s also one of the venues for the annual Chicago World Music Festival .
+Website: https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_culturalcenter.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8838798
+Longitude: -87.6249853
+OpenStreetMap URL: https://www.openstreetmap.org/relation/15899437
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/15899437
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: chicago cultural center
+Best For: museums and culture; art; music

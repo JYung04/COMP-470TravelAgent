@@ -1,0 +1,25 @@
+Name: Virginia's
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 200 East 3rd Street, 10009
+Description: Not listed
+Website: https://www.virginiasnyc.com
+Phone: +1-646-952-0032
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:00, Fr 3:30-23:00, Sa 11:00-23:00, Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7227097
+Longitude: -73.9833118
+OpenStreetMap URL: https://www.openstreetmap.org/node/13530139916
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13530139916
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

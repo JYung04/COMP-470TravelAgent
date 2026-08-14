@@ -1,0 +1,25 @@
+Name: Ben's Noodles & Rice
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 1139 West Bryn Mawr Avenue, Chicago IL 60640
+Description: Not listed
+Website: http://bensnoodlesandrice.com/
+Phone: +1 773 907 8936
+Email: Not listed
+Opening Hours: Mo-Tu 11:00-21:00; Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9835168
+Longitude: -87.6595429
+OpenStreetMap URL: https://www.openstreetmap.org/node/12202176532
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12202176532
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

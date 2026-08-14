@@ -1,0 +1,25 @@
+Name: Allen Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 1-19 Church Street
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Dorchester. Covers approximately 1.3 acres. Also known as Rev James K Allen Park, James F Donovan Park, Dorchester Square or Common.
+Website: https://www.cityofboston.gov/veterans/herosquares/View.aspx?id=15
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3081043
+Longitude: -71.0631878
+OpenStreetMap URL: https://www.openstreetmap.org/way/29819094
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29819094
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

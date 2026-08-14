@@ -1,0 +1,24 @@
+Name: Beacon Hill Pub
+City: Boston
+Category: bars
+Cuisine: Yoga Studio
+Address: 149 Charles Street, Boston 02114
+Description: Not listed
+Website: http://www.yogabeaconhill.com
+Phone: (617) 784-8419
+Email: info@yogabeaconhill.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3604302
+Longitude: -71.070636
+OpenStreetMap URL: https://www.openstreetmap.org/node/2700809528
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2700809528
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

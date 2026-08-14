@@ -1,0 +1,25 @@
+Name: Woori
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 336 Myrtle Avenue
+Description: Not listed
+Website: https://woori-korean-restaurant.business.site
+Phone: +1-516-460-8606
+Email: Not listed
+Opening Hours: Mo-We 12:00-21:00; Th-Sa 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6931343
+Longitude: -73.9730742
+OpenStreetMap URL: https://www.openstreetmap.org/node/7208938668
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7208938668
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

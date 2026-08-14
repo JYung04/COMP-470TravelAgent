@@ -1,0 +1,25 @@
+Name: Reclining Liberty
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Plaster resin, oxidized copper paint, foam, wood, steel. 25’ x 7’ x 5' Originally installed at Morningside Park, Harlem, NYC.
+Website: https://www.zaqart.com/projects/reclining_liberty/reclining_liberty.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.881923
+Longitude: -77.102315
+OpenStreetMap URL: https://www.openstreetmap.org/node/9870484786
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9870484786
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

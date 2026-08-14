@@ -1,0 +1,25 @@
+Name: Unique Omakase
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 120 1st Avenue, 10009
+Description: Not listed
+Website: https://www.uniqueomakase.com
+Phone: +1-718-496-7213
+Email: Not listed
+Opening Hours: Mo-Sa 12:00-16:00,17:00-23:00; Su 13:00-16:00,17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7270696
+Longitude: -73.9854654
+OpenStreetMap URL: https://www.openstreetmap.org/node/6109307685
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6109307685
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

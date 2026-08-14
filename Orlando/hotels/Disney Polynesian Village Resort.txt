@@ -1,0 +1,25 @@
+Name: Disney Polynesian Village Resort
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: FL
+Description: Disney’s Polynesian Village Resort also opened with Walt Disney World in 1971, offering a laid-back tropical vibe inspired by the spirit of the South Pacific. Say “aloha” to complimentary bus, boat and monorail transportation, a speakeasy-style tiki bar, Polynesian flavors at ‘Ohana , Kona Cafe and Wailulu Bar & Grill, and three pools, including a lush garden Oasis Pool, a new Cove Pool and adjacent Moana -themed splash pad, and a lively Lava Pool with a towering volcano, waterfall and 142-foot-
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4055093
+Longitude: -81.5853522
+OpenStreetMap URL: https://www.openstreetmap.org/relation/20773830
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/20773830
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; gardens

@@ -1,0 +1,25 @@
+Name: Rezdôra
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 27 East 20th Street, New York NY 10003
+Description: Not listed
+Website: https://www.rezdora.nyc
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo 17:00-22:30; Tu-Fr 12:30-14:30,17:00-22:30; Sa-Su 11:30-14:30,17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7390943
+Longitude: -73.9893691
+OpenStreetMap URL: https://www.openstreetmap.org/node/7149223689
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7149223689
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

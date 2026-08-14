@@ -1,0 +1,25 @@
+Name: Los Cantaros
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 8612 4th Avenue, 11209
+Description: Not listed
+Website: Not listed
+Phone: +1-347-223-4031
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6224961
+Longitude: -74.0286873
+OpenStreetMap URL: https://www.openstreetmap.org/node/7038487812
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7038487812
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

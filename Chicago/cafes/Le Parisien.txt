@@ -1,0 +1,25 @@
+Name: Le Parisien
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 4140 North Kolmar Avenue, Chicago IL 60641
+Description: Not listed
+Website: Not listed
+Phone: +1-773-725-3500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9565634
+Longitude: -87.7421885
+OpenStreetMap URL: https://www.openstreetmap.org/way/1433410127
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1433410127
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

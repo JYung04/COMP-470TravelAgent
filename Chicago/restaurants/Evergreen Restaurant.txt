@@ -1,0 +1,25 @@
+Name: Evergreen Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 2411 South Wentworth Avenue, Chicago IL 60616
+Description: Not listed
+Website: http://orderevergreenrestaurant.com/
+Phone: +1 312-225-8898
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8487356
+Longitude: -87.631759
+OpenStreetMap URL: https://www.openstreetmap.org/node/6726359269
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6726359269
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

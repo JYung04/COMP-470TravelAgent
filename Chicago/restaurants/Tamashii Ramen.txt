@@ -1,0 +1,25 @@
+Name: Tamashii Ramen
+City: Chicago
+Category: restaurants
+Cuisine: japanese
+Address: 810 West Jackson Boulevard, Chicago IL 60607
+Description: Not listed
+Website: https://www.tamashiiramenchicago.com/
+Phone: +1 312-526-3166
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8780601
+Longitude: -87.6477877
+OpenStreetMap URL: https://www.openstreetmap.org/node/6013931441
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6013931441
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

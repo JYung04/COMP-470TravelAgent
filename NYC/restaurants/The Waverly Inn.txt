@@ -1,0 +1,25 @@
+Name: The Waverly Inn
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 16 Bank Street, New York NY 10014
+Description: Not listed
+Website: http://www.waverlynyc.com
+Phone: +19178281154
+Email: Not listed
+Opening Hours: Mo-Th 18:00-00:00; Fr 18:00-01:00; Sa 11:00-01:00; Su 11:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7369557
+Longitude: -74.002226
+OpenStreetMap URL: https://www.openstreetmap.org/node/4045599201
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4045599201
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

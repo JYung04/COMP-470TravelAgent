@@ -1,0 +1,25 @@
+Name: Gong Cha
+City: Boston
+Category: cafes
+Cuisine: bubble_tea
+Address: 173B Cambridge Street, Boston 02114
+Description: Not listed
+Website: https://gongchausa.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3613536
+Longitude: -71.0662421
+OpenStreetMap URL: https://www.openstreetmap.org/node/2708166063
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2708166063
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

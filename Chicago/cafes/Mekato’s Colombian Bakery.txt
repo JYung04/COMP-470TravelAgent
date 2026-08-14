@@ -1,0 +1,25 @@
+Name: Mekato’s Colombian Bakery
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 5423 North Lincoln Avenue, Chicago IL 60625
+Description: Not listed
+Website: https://mekatos.com/
+Phone: +1-773-784-5181
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9802421
+Longitude: -87.6924943
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322579338
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322579338
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

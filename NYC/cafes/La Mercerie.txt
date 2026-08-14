@@ -1,0 +1,25 @@
+Name: La Mercerie
+City: NYC
+Category: cafes
+Cuisine: french
+Address: 53 Howard Street, New York NY 10013
+Description: Not listed
+Website: https://www.lamerceriecafe.com/
+Phone: +1-212-852-9097
+Email: LAMERCERIE.INFO@STARR-RESTAURANT.COM
+Opening Hours: Mo-Fr 12:00-15:30, 16:30-22:00; Sa 11:00-15:30, 16:30-22:00; Su 11:00-15:30, 16:30-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7202081
+Longitude: -74.0021478
+OpenStreetMap URL: https://www.openstreetmap.org/node/7975003159
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7975003159
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

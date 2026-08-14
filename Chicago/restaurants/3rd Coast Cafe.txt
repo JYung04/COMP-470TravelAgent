@@ -1,0 +1,25 @@
+Name: 3rd Coast Cafe
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1260 North Dearborn Parkway, Chicago IL 60610
+Description: Not listed
+Website: https://www.3rdcoastcafe.com/
+Phone: +1-312-649-0730
+Email: Not listed
+Opening Hours: Mo-Su 07:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9056759
+Longitude: -87.6303029
+OpenStreetMap URL: https://www.openstreetmap.org/node/6250192785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6250192785
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

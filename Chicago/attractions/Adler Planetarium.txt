@@ -1,0 +1,25 @@
+Name: Adler Planetarium
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: 1300 South Lake Shore Drive, Chicago IL 60605
+Description: The Adler Planetarium is a municipal public museum for astronomy in Chicago, Illinois, United States. It is operated by the Chicago Park District, a municipal government agency of the City of Chicago. It is the first planetarium in the United States.
+Website: https://www.adlerplanetarium.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8663624
+Longitude: -87.6066267
+OpenStreetMap URL: https://www.openstreetmap.org/way/24825591
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/24825591
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: adler planetarium
+Best For: sightseeing

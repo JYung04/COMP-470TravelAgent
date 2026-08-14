@@ -1,0 +1,25 @@
+Name: Bill "Bojangles" Robinson Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: West 150th Street, New York NY 10039
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/bill-bojangles-robinson-playground
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.825291
+Longitude: -73.9372932
+OpenStreetMap URL: https://www.openstreetmap.org/way/664153164
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/664153164
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

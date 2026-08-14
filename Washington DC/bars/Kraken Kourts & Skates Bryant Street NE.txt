@@ -1,0 +1,25 @@
+Name: Kraken Kourts & Skates | Bryant Street NE
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 514 Rhode Island Avenue Northeast, Washington DC 20002
+Description: Not listed
+Website: https://www.experiencekraken.com/bryantstreet
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su,We,Th 06:00-22:00; Fr,Sa 06:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9216712
+Longitude: -76.99993
+OpenStreetMap URL: https://www.openstreetmap.org/node/9082405757
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9082405757
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

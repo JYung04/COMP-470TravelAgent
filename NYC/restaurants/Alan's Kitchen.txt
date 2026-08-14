@@ -1,0 +1,25 @@
+Name: Alan's Kitchen
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 316 West 39th Street, 10018
+Description: Not listed
+Website: https://www.alanskitchennyc.com
+Phone: +1-212-465-0592
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-20:00; Sa 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7556117
+Longitude: -73.992188
+OpenStreetMap URL: https://www.openstreetmap.org/node/5816964481
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5816964481
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

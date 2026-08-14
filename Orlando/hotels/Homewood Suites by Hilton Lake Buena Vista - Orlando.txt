@@ -1,0 +1,25 @@
+Name: Homewood Suites by Hilton Lake Buena Vista - Orlando
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 11428 Marbella Palm Court, Orlando FL 32836
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3925956
+Longitude: -81.492283
+OpenStreetMap URL: https://www.openstreetmap.org/way/141885665
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/141885665
+Price: Not listed
+Rating: 5.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

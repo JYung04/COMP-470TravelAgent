@@ -1,0 +1,24 @@
+Name: Casino
+City: NYC
+Category: restaurants
+Cuisine: french, italian
+Address: 171 East Broadway, New York NY 10002
+Description: Not listed
+Website: https://www.casinonyc.info/
+Phone: +1-646-848-0101
+Email: Not listed
+Opening Hours: Tu-Sa 17:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7139367
+Longitude: -73.9896705
+OpenStreetMap URL: https://www.openstreetmap.org/node/5193274490
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5193274490
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

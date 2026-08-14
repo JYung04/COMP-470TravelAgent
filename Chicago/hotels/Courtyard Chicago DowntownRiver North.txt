@@ -1,0 +1,25 @@
+Name: Courtyard Chicago Downtown/River North
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 30 East Hubbard Street, Chicago IL 60611
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/
+Phone: +1 312-329-2500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8902477
+Longitude: -87.62768
+OpenStreetMap URL: https://www.openstreetmap.org/node/2721192348
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2721192348
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

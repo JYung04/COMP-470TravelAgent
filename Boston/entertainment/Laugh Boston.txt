@@ -1,0 +1,25 @@
+Name: Laugh Boston
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Laugh Boston is a high end comedy club/events space that can be used to host private events, with or without entertainment. Sister company to Improv Asylum, Laugh Boston's weekly acts feature headliners from NYC and LA as well as the best comedians working in Boston. Sister company to Improv Asylum, Laugh Boston's weekly acts feature headliners from NYC and LA as well as the best comedians working in Boston. Laugh Boston can seat up to 300 and can be configured to host any type of event, from catered dinners to fashion shows to even a wrestling match! Features full bar, state-of-the art audio visual, amazing location steps away to the Boston Convention Center.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3464846
+Longitude: -71.0430428
+OpenStreetMap URL: https://www.openstreetmap.org/node/4394182202
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4394182202
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

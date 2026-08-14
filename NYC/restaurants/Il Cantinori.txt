@@ -1,0 +1,25 @@
+Name: Il Cantinori
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 32 East 10th Street, New York NY 10003
+Description: Not listed
+Website: http://www.ilcantinori.com/
+Phone: +1 212-673-6044
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7323245
+Longitude: -73.993126
+OpenStreetMap URL: https://www.openstreetmap.org/node/11836538423
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11836538423
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

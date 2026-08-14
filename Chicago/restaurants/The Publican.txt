@@ -1,0 +1,24 @@
+Name: The Publican
+City: Chicago
+Category: restaurants
+Cuisine: seafood, pork
+Address: 837 West Fulton Market, Chicago IL 60607
+Description: Paul Kahan The multi-award-winning restauranteur is a man of many talents. His accolades include James Beard nods for Outstanding Chef and Best Chef of the Midwest, plus numerous recognitions from Food & Wine Magazine , Conde Nast Traveler , Michelin Guide, and more. Paul has helmed the kitchen at many of the city’s most beloved institutions, including avec , Big Star , The Publican , Publican Quality Meats , and Dove’s Luncheonette .
+Website: https://thepublicanrestaurant.com
+Phone: +1-312-733-9555
+Email: info@thepublicanrestaurant.com
+Opening Hours: Mo-Th 11:00-14:00,16:00-22:00; Fr 11:00-14:00,16:00-23:00; Sa 10:00-14:00,16:00-23:00; Su 10:00-14:00,16:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.886615
+Longitude: -87.648856
+OpenStreetMap URL: https://www.openstreetmap.org/node/4076939309
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4076939309
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

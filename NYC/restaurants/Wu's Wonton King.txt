@@ -1,0 +1,25 @@
+Name: Wu's Wonton King
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 165 East Broadway, New York NY 10002
+Description: Relaxed eatery serving an extensive menu of classic Chinese noodles, BBQ, and casseroles.
+Website: https://wuswontonking.com
+Phone: +1 212-477-1111
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.7139189
+Longitude: -73.989957
+OpenStreetMap URL: https://www.openstreetmap.org/node/6231529911
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6231529911
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

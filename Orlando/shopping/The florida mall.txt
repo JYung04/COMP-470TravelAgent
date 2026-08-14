@@ -1,0 +1,24 @@
+Name: The florida mall
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 8001 S Orange Blossom Trail (at Sand Lake Rd), Orlando, FL 32809
+Description: Not listed
+Website: https://www.simon.com/mall/the-florida-mall
+Phone: (407) 851-6255
+Email: abjornlie@simon.com
+Opening Hours: Mo-Fr 10:00-21:00; Sa 10:00-22:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4468957
+Longitude: -81.3953265
+OpenStreetMap URL: https://www.openstreetmap.org/node/5036727321
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5036727321
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

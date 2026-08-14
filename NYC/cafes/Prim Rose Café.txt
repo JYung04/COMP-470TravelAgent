@@ -1,0 +1,24 @@
+Name: Prim Rose Café
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfast, sandwich
+Address: 147 Greene Avenue, Brooklyn NY 11238
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-16:00
+Wheelchair Accessibility: no
+Latitude: 40.6867938
+Longitude: -73.9662119
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978792487
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978792487
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

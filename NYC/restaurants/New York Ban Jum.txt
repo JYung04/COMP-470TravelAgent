@@ -1,0 +1,25 @@
+Name: New York Ban Jum
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 221-34 Horace Harding Expressway, NY 11364
+Description: Not listed
+Website: https://www.newyorkbanjum.com
+Phone: +1-718-428-5959
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7492717
+Longitude: -73.7552837
+OpenStreetMap URL: https://www.openstreetmap.org/node/2553306791
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2553306791
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Thip Khao
+City: Washington DC
+Category: restaurants
+Cuisine: lao
+Address: 3462 14th Street Northwest, Washington DC 20010
+Description: Not listed
+Website: https://www.thipkhao.com/
+Phone: +1 202-387-5426
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9329066
+Longitude: -77.0330142
+OpenStreetMap URL: https://www.openstreetmap.org/node/738190919
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/738190919
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

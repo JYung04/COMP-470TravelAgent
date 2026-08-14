@@ -1,0 +1,25 @@
+Name: Latin American Restaurant
+City: NYC
+Category: restaurants
+Cuisine: latin_american
+Address: West 26th Street, New York 10001
+Description: Puerto Viejo 564 Grand Ave., Crown Heights, Brooklyn Distressed dark wood walls, homey seating and the vibrant artwork that adorns Puerto Viejo instantly transport you to the Dominican Republic—but instead, you’re inside a Crown Heights mainstay, in business since 1986. The menu—a mix of contemporary and classic items—satisfies old-timers and newcomers alike. The pernil, slow-roasted marinated pork shoulder (served with boiled yuca and pickled red onions), is a must-try, along with the flan de c
+Website: https://www.puertoviejony.com/
+Phone: +1-212-689-2570
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7443244
+Longitude: -73.9900461
+OpenStreetMap URL: https://www.openstreetmap.org/node/2621558482
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2621558482
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

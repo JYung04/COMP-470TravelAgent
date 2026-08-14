@@ -1,0 +1,25 @@
+Name: Fort Warren
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Georges Island, Boston Harbor
+Description: Fort Warren is a historic fort on the 28-acre (110,000 m2) Georges Island at the entrance to Boston Harbor. The fort is named for Revolutionary War hero Dr. Joseph Warren, who sent Paul Revere on his famous ride, and was later killed at the Battle of Bunker Hill. The name was transferred in 1833 from the first Fort Warren – built in 1808 – which was renamed Fort Winthrop.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3203532
+Longitude: -70.9278038
+OpenStreetMap URL: https://www.openstreetmap.org/node/7616159719
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7616159719
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

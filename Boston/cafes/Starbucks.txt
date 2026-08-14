@@ -1,0 +1,25 @@
+Name: Starbucks
+City: Boston
+Category: cafes
+Cuisine: coffee_shop
+Address: Boston MA 02128
+Description: Not listed
+Website: https://www.starbucks.com/store-locator/store/16015/bos-terminal-a-gate-18-boston-logan-international-airport-boston-ma-02128
+Phone: +1 617-755-9312
+Email: Not listed
+Opening Hours: PH,Mo-Su 05:00-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3632641
+Longitude: -71.0246719
+OpenStreetMap URL: https://www.openstreetmap.org/node/2687181596
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2687181596
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Premier Inn Boston
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: Wainfleet Road, Boston PE21 9RW
+Description: Not listed
+Website: https://www.premierinn.com/gb/en/hotels/england/lincolnshire/boston/boston.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9878586
+Longitude: -0.0040625
+OpenStreetMap URL: https://www.openstreetmap.org/way/188397214
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/188397214
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

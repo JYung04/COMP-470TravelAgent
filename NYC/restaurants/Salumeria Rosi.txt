@@ -1,0 +1,24 @@
+Name: Salumeria Rosi
+City: NYC
+Category: restaurants
+Cuisine: italian, tuscan
+Address: 283 Amsterdam Avenue, New York NY 10023
+Description: Not listed
+Website: https://www.salumeriarosinyc.com
+Phone: +1-212-877-4800
+Email: info@salumeriarosinyc.com
+Opening Hours: Mo-Fr 12:00-22:00; Sa, Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7793592
+Longitude: -73.9808591
+OpenStreetMap URL: https://www.openstreetmap.org/node/2745370256
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2745370256
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

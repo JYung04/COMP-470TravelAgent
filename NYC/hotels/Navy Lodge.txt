@@ -1,0 +1,25 @@
+Name: Navy Lodge
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 408 North Path Road
+Description: Not listed
+Website: https://www.navy-lodge.com/new-york
+Phone: +1 718-442-0413
+Email: navylodge.newyork@nexweb.org
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.598731
+Longitude: -74.0621774
+OpenStreetMap URL: https://www.openstreetmap.org/node/9543354337
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9543354337
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Panni Grill
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 538 Forest Ave, Staten Island, NY 10310, United States
+Description: Not listed
+Website: http://www.paninigrillsi.com/
+Phone: +1 718-981-2999
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6301349
+Longitude: -74.108125
+OpenStreetMap URL: https://www.openstreetmap.org/node/12700513223
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12700513223
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Antique Taco Chiquito
+City: Chicago
+Category: restaurants
+Cuisine: mexican, tacos
+Address: 125 South Clark Street, Chicago IL 60603
+Description: Not listed
+Website: http://www.antiquetaco.com/
+Phone: +1-773-770-6195
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8797787
+Longitude: -87.6302003
+OpenStreetMap URL: https://www.openstreetmap.org/node/6651949788
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6651949788
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

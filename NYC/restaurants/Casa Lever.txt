@@ -1,0 +1,25 @@
+Name: Casa Lever
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 10022
+Description: Not listed
+Website: https://www.casalever.com
+Phone: +1 212 888-2700
+Email: Info@casalever.com
+Opening Hours: Mo-Fr 10:30-13:00,14:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7596903
+Longitude: -73.9730149
+OpenStreetMap URL: https://www.openstreetmap.org/node/11091932105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11091932105
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

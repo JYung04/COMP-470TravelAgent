@@ -1,0 +1,25 @@
+Name: Latela Curatorial
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 716 Monroe Street Northeast
+Description: Not listed
+Website: https://www.latelacuratorial.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: "by appointment"
+Wheelchair Accessibility: Not listed
+Latitude: 38.9333019
+Longitude: -76.994947
+OpenStreetMap URL: https://www.openstreetmap.org/node/10674682253
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10674682253
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

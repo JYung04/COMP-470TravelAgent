@@ -1,0 +1,24 @@
+Name: Phở 777
+City: Chicago
+Category: restaurants
+Cuisine: vietnamese, noodle
+Address: 1065 W Argyle St, Chicago, IL 60640, United States
+Description: Not listed
+Website: https://www.pho777chicago.com/
+Phone: +1 773-561-9909
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.973153
+Longitude: -87.6574765
+OpenStreetMap URL: https://www.openstreetmap.org/node/7152419173
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7152419173
+Price: Not listed
+Rating: 4.2
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

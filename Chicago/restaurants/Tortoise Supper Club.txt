@@ -1,0 +1,25 @@
+Name: Tortoise Supper Club
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 350 North State Street, Chicago IL 60654
+Description: Tortoise Supper Club is a swanky, jazz-age supper club in River North serving up steaks, chops, and fresh seafood in an upscale atmosphere. Come for a happy hour drink in the lounge, dinner by the cozy fireplace, or live jazz played on the grand piano each weekend.
+Website: https://www.tortoisesupperclub.com/
+Phone: +1-312-755-1700
+Email: Not listed
+Opening Hours: Tu-Th 16:30-21:00; Fr,Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8887672
+Longitude: -87.6283097
+OpenStreetMap URL: https://www.openstreetmap.org/node/4266779691
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4266779691
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

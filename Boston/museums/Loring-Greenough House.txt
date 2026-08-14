@@ -1,0 +1,25 @@
+Name: Loring-Greenough House
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 12 South Street, Jamaica Plain MA 02130
+Description: The Loring–Greenough House is the last surviving 18th century residence in Sumner Hill, a historic section of Jamaica Plain, Massachusetts, a neighborhood of Boston. It is located at 12 South Street on Monument Square at the edge of Sumner Hill. It is situated on the border of two National Historic Districts.
+Website: https://loring-greenough.org/
+Phone: +1-617-524-3158
+Email: info@loring-greenough.org
+Opening Hours: "Grounds open from dawn to dusk. House tours on Sundays beginning at 13, 14, or 15."
+Wheelchair Accessibility: Not listed
+Latitude: 42.3095548
+Longitude: -71.1148872
+OpenStreetMap URL: https://www.openstreetmap.org/way/29791676
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29791676
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

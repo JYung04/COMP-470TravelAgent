@@ -1,0 +1,25 @@
+Name: Thai Select
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 472 9th Avenue
+Description: Not listed
+Website: https://thaiselectny.com/
+Phone: +1-212-695-9920
+Email: thaiselect@gmail.com
+Opening Hours: Mo-Fr 11:30-22:15; Sa 13:00-22:15; Su 13:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.754807
+Longitude: -73.9950154
+OpenStreetMap URL: https://www.openstreetmap.org/node/5832407897
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5832407897
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

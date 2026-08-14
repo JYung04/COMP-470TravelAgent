@@ -1,0 +1,25 @@
+Name: Days Inn & Suites by Wyndham Orlando East UCF Area
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 11639 East Colonial Drive, Orlando FL 32817
+Description: Not listed
+Website: https://www.wyndhamhotels.com/days-inn/orlando-florida/days-inn-and-suites-orlando-east-ucf-area/overview
+Phone: +1 407-917-3789
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5678725
+Longitude: -81.2099795
+OpenStreetMap URL: https://www.openstreetmap.org/way/921099630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/921099630
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

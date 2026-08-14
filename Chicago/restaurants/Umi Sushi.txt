@@ -1,0 +1,25 @@
+Name: Umi Sushi
+City: Chicago
+Category: restaurants
+Cuisine: sushi
+Address: 60 East Jackson Boulevard, Chicago IL 60604
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8783744
+Longitude: -87.6258014
+OpenStreetMap URL: https://www.openstreetmap.org/node/13015722742
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13015722742
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Madame Sousou
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 31-05 33rd Street, Astoria NY 11106
+Description: Not listed
+Website: Not listed
+Phone: +1-718-710-6577
+Email: Not listed
+Opening Hours: 06:00-21:00
+Wheelchair Accessibility: no
+Latitude: 40.7631897
+Longitude: -73.9219964
+OpenStreetMap URL: https://www.openstreetmap.org/node/3236430399
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3236430399
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

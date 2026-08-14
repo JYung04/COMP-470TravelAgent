@@ -1,0 +1,25 @@
+Name: CARLOS BAKERY
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 8001 S ORANGE BLOSSOM TRL, Orlando FL 32809
+Description: Not listed
+Website: https://www.simon.com/mall/the-florida-mall/stores/carlos-bakery
+Phone: +1-407-316-2606
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4470219
+Longitude: -81.3945126
+OpenStreetMap URL: https://www.openstreetmap.org/node/8719286062
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8719286062
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

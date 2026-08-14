@@ -1,0 +1,24 @@
+Name: Bongiorno's Cucina Italiana & Pizzeria
+City: Chicago
+Category: restaurants
+Cuisine: pizza, italian
+Address: 405 North Wabash Avenue, Chicago IL 60611
+Description: Not listed
+Website: http://www.bongiornoschicago.com/
+Phone: +1-312-755-1255
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-22:00; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8897038
+Longitude: -87.6259049
+OpenStreetMap URL: https://www.openstreetmap.org/node/3918941297
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3918941297
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

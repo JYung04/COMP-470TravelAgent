@@ -1,0 +1,25 @@
+Name: Cathédral
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 10003
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Sa 18:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7315779
+Longitude: -73.9895131
+OpenStreetMap URL: https://www.openstreetmap.org/node/7047041785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7047041785
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

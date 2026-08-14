@@ -1,0 +1,24 @@
+Name: Select Oyster Bar
+City: Boston
+Category: restaurants
+Cuisine: seafood, oyster
+Address: 50 Gloucester Street, Boston MA 02115
+Description: Tucked inside a Back Bay townhouse, chef Michael Serpa’s date-night seafood spot is polished but unpretentious, fun yet refined, inviting to neighborhood regulars but absolutely worth an Uber ride from the other side of the city. The Mediterranean-glancing menu features elaborate shellfish tiers; starters like pan con tomate and white anchovies or Maine uni crostini; and showstoppers like a loaded bouillabaisse. 50 Gloucester St., Back Bay, Boston, 857-239-8064, selectboston.com .
+Website: http://www.selectboston.com/
+Phone: +1-857-239-8064
+Email: selectoysterbar@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3486374
+Longitude: -71.0840371
+OpenStreetMap URL: https://www.openstreetmap.org/node/3601388788
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3601388788
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

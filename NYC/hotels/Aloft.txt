@@ -1,0 +1,25 @@
+Name: Aloft
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 450 11th Avenue, New York NY 10018
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/ispva-aloft-long-island-city-manhattan-view/overview/
+Phone: +1 718-433-9305
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7573579
+Longitude: -74.0004028
+OpenStreetMap URL: https://www.openstreetmap.org/way/1021569486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1021569486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

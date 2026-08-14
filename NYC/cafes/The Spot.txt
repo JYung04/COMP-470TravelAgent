@@ -1,0 +1,25 @@
+Name: The Spot
+City: NYC
+Category: cafes
+Cuisine: coffee
+Address: 61-05 Madison Street, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-929-228-9957
+Email: Not listed
+Opening Hours: Mo-Su 07:00-22:00
+Wheelchair Accessibility: limited
+Latitude: 40.7073005
+Longitude: -73.8969064
+OpenStreetMap URL: https://www.openstreetmap.org/node/5343852056
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5343852056
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

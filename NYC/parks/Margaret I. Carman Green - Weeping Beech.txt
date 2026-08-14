@@ -1,0 +1,25 @@
+Name: Margaret I. Carman Green - Weeping Beech
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: The Weeping Beech was a historic tree located at Weeping Beech Park in Flushing, Queens, New York City. It was the mother of all European weeping beeches in the United States. The Weeping Beech was imported by horticulturalist Samuel Parsons Sr. in 1846 and planted in 1847. It was designated a living New York City Landmark in 1966, one of two trees in New York City to have received that designation, and was placed on the National Register of Historic Places in 1972 along with the adjacent Kingsland Homestead. The Weeping Beech was partially removed in 1998.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7633097
+Longitude: -73.8245368
+OpenStreetMap URL: https://www.openstreetmap.org/way/836889897
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/836889897
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

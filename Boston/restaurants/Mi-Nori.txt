@@ -1,0 +1,25 @@
+Name: Mi-Nori
+City: Boston
+Category: restaurants
+Cuisine: sushi
+Address: 122 Brighton Avenue, Boston MA 02134
+Description: Not listed
+Website: https://mi-nori.square.site/
+Phone: +1-833-960-8188
+Email: minorihandroll@gmail.com
+Opening Hours: Mo-Fr 11:00-21:00; Sa-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3523822
+Longitude: -71.1311531
+OpenStreetMap URL: https://www.openstreetmap.org/node/13972752611
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13972752611
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

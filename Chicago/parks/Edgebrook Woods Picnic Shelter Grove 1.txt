@@ -1,0 +1,25 @@
+Name: Edgebrook Woods Picnic Shelter Grove 1
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9913878
+Longitude: -87.7640545
+OpenStreetMap URL: https://www.openstreetmap.org/way/162839920
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162839920
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

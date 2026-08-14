@@ -1,0 +1,25 @@
+Name: The Brew Inn
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 924 Manhattan Avenue, Brooklyn NY 11222
+Description: Not listed
+Website: https://www.instagram.com/the_brew_inn
+Phone: +1-718-564-7155
+Email: Not listed
+Opening Hours: Mo-Su 16:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7310173
+Longitude: -73.9541919
+OpenStreetMap URL: https://www.openstreetmap.org/node/2592331340
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2592331340
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

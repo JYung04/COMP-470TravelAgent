@@ -1,0 +1,25 @@
+Name: Imperial Court Hotel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 307 West 79th Street, New York NY 10024
+Description: apartment building in Manhattan, New York City, New York, United States
+Website: https://www.imperialcourthotel.com/
+Phone: Not listed
+Email: frontdesk@imperialcourthotel.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7848313
+Longitude: -73.9816428
+OpenStreetMap URL: https://www.openstreetmap.org/way/270898203
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/270898203
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

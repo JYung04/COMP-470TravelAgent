@@ -1,0 +1,24 @@
+Name: Antica Pizzeria
+City: Chicago
+Category: restaurants
+Cuisine: pizza, italian
+Address: 5663 North Clark Street, Chicago IL 60660
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9851351
+Longitude: -87.668934
+OpenStreetMap URL: https://www.openstreetmap.org/node/5692134731
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5692134731
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

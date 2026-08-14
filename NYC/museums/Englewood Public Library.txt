@@ -1,0 +1,25 @@
+Name: Englewood Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: Engle Street
+Description: Not listed
+Website: https://www.englewoodlibrary.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8938984
+Longitude: -73.9715702
+OpenStreetMap URL: https://www.openstreetmap.org/node/4894518721
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4894518721
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

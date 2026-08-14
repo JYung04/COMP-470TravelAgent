@@ -1,0 +1,25 @@
+Name: Chamoun's Way
+City: NYC
+Category: restaurants
+Cuisine: lebanese
+Address: 1237 1st Avenue, 10065
+Description: Not listed
+Website: https://www.eatchamounsway.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7645085
+Longitude: -73.958622
+OpenStreetMap URL: https://www.openstreetmap.org/node/2723743084
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2723743084
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

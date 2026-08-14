@@ -1,0 +1,25 @@
+Name: Heritage Square Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.5425091
+Longitude: -81.3779025
+OpenStreetMap URL: https://www.openstreetmap.org/way/636850326
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/636850326
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

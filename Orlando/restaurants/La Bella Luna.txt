@@ -1,0 +1,25 @@
+Name: La Bella Luna
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 4886 New Broad Street, Orlando FL 32814
+Description: Not listed
+Website: https://labellalunafl.com
+Phone: +1-407-895-0025
+Email: Not listed
+Opening Hours: Mo 17:00-21:00,Tu,We 17:00-22:00,Th-Sa 12:00-20:00,Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5678267
+Longitude: -81.3264971
+OpenStreetMap URL: https://www.openstreetmap.org/node/10267427686
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10267427686
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

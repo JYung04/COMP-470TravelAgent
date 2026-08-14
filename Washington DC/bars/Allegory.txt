@@ -1,0 +1,25 @@
+Name: Allegory
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1201 K Street Northwest, Washington DC 20005
+Description: Not listed
+Website: https://www.allegory-dc.com/
+Phone: +1 202-289-7600
+Email: Not listed
+Opening Hours: Mo-Th 17:00-23:30; Fr-Sa 17:00-01:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9027885
+Longitude: -77.0285311
+OpenStreetMap URL: https://www.openstreetmap.org/node/6372830486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6372830486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

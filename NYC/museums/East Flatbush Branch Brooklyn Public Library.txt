@@ -1,0 +1,25 @@
+Name: East Flatbush Branch Brooklyn Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 9612 Church Avenue, Brooklyn NY 11212
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6557032
+Longitude: -73.9149418
+OpenStreetMap URL: https://www.openstreetmap.org/way/250174701
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/250174701
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

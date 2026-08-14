@@ -1,0 +1,25 @@
+Name: Vietnam Veterans Memorial
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Vietnam Veterans Memorial, commonly called the Vietnam Memorial, is a U.S. national memorial in Washington, D.C., honoring service members of the United States Armed Forces who served in the Vietnam War. The two-acre (8,100 m2) site is dominated by two black granite walls engraved with the names of those service members who died or remain missing as a result of their service in Vietnam and South East Asia during the war. The Memorial Wall was designed by American architect Maya Lin and is an example of minimalist architecture. The Wall, completed in 1982, has since been supplemented with the statue Three Soldiers in 1984 and the Vietnam Women's Memorial in 1993.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8910515
+Longitude: -77.0475919
+OpenStreetMap URL: https://www.openstreetmap.org/way/173932971
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/173932971
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: vietnam veterans memorial
+Best For: history; architecture

@@ -1,0 +1,25 @@
+Name: Abrons Arts Center
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 466 Grand Street, New York NY
+Description: Not listed
+Website: https://www.abronsartscenter.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.715245
+Longitude: -73.9837408
+OpenStreetMap URL: https://www.openstreetmap.org/node/368043384
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368043384
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

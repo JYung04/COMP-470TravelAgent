@@ -1,0 +1,25 @@
+Name: Happy Wok
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 450;450C Rockaway Turnpike
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6279769
+Longitude: -73.736848
+OpenStreetMap URL: https://www.openstreetmap.org/node/5772895064
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5772895064
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

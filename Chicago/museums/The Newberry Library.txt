@@ -1,0 +1,25 @@
+Name: The Newberry Library
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 60 West Walton Street, Chicago IL 60610
+Description: Not listed
+Website: https://www.newberry.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Sa 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9001627
+Longitude: -87.6305886
+OpenStreetMap URL: https://www.openstreetmap.org/way/144015996
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/144015996
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

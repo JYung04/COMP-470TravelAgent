@@ -1,0 +1,24 @@
+Name: Mr.Poke
+City: NYC
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 27 Great Neck Road, Great Neck NY 11021
+Description: Not listed
+Website: Not listed
+Phone: +15164820416
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7864609
+Longitude: -73.7275103
+OpenStreetMap URL: https://www.openstreetmap.org/node/8783508189
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8783508189
+Price: Not listed
+Rating: 4.4
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

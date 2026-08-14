@@ -1,0 +1,25 @@
+Name: Scarangella Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Brooklyn NY 11223
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/scarangella-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.59468
+Longitude: -73.9843235
+OpenStreetMap URL: https://www.openstreetmap.org/way/697706698
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/697706698
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

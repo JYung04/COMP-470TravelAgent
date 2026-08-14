@@ -1,0 +1,25 @@
+Name: Mexico Folk Art Gallery
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/attractions/epcot/mexican-folk-art-gallery/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.3714991
+Longitude: -81.5474111
+OpenStreetMap URL: https://www.openstreetmap.org/node/2993384459
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2993384459
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

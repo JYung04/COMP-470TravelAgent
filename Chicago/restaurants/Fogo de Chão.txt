@@ -1,0 +1,24 @@
+Name: Fogo de Chão
+City: Chicago
+Category: restaurants
+Cuisine: brazilian, steak_house
+Address: 661 North LaSalle Drive, Chicago IL 60654
+Description: Not listed
+Website: https://fogodechao.com/location/chicago
+Phone: +1-312-932-9330
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-14:00; Mo-Th 17:00-22:00; Fr 17:00-22:30; Sa 11:30-22:30; Su 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8942562
+Longitude: -87.632123
+OpenStreetMap URL: https://www.openstreetmap.org/way/210679146
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210679146
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

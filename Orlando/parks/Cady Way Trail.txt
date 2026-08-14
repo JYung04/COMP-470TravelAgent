@@ -1,0 +1,25 @@
+Name: Cady Way Trail
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: Cady Way Trail, Orlando, FL 32803
+Description: The Cady Way Trail is located four miles northeast of Downtown Orlando and is one section of a larger regional trail. The Cady Way Trail extends northeast from the Fashion Square Mall through Orange County, connecting to the Cross Seminole Trail.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Cady-Way-Trail
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5876302
+Longitude: -81.3165597
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2086805
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2086805
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

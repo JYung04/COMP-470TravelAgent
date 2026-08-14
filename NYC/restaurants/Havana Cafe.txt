@@ -1,0 +1,25 @@
+Name: Havana Cafe
+City: NYC
+Category: restaurants
+Cuisine: Cuban
+Address: 3151 East Tremont Avenue, Bronx NY 10461
+Description: Not listed
+Website: http://havanacafe.info/
+Phone: +1 718-518-1800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8377828
+Longitude: -73.8343969
+OpenStreetMap URL: https://www.openstreetmap.org/node/9275946634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9275946634
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

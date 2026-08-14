@@ -1,0 +1,25 @@
+Name: New Wave Coffee
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2557 North Milwaukee Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.newwavecoffee.com/
+Phone: +1-773-489-0646
+Email: Not listed
+Opening Hours: Mo-Th 07:00-15:00; Fr-Su 07:00-16:00
+Wheelchair Accessibility: no
+Latitude: 41.9279155
+Longitude: -87.7051197
+OpenStreetMap URL: https://www.openstreetmap.org/node/1700855310
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1700855310
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Vinoteca di Monica
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 143 Richmond Street, Boston MA 02109
+Description: Not listed
+Website: https://www.monicasboston.com
+Phone: +1-617-227-0311
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-23:00; Sa-Su 10:00-23:00 "Dining room" || Mo-Fr 11:30-24:00; Sa-Su 10:00-24:00 "Bar"
+Wheelchair Accessibility: Not listed
+Latitude: 42.3634143
+Longitude: -71.0542915
+OpenStreetMap URL: https://www.openstreetmap.org/node/9252733150
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9252733150
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

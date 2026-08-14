@@ -1,0 +1,24 @@
+Name: Nanglo
+City: Washington DC
+Category: restaurants
+Cuisine: indian, nepalese
+Address: 1301 H Street Northeast
+Description: Not listed
+Website: https://nanglodc.com/
+Phone: +1 202-204-3395
+Email: Not listed
+Opening Hours: Fr-Sa 12:00-22:00; Su-Th 12:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9000628
+Longitude: -76.988099
+OpenStreetMap URL: https://www.openstreetmap.org/node/13097398371
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13097398371
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

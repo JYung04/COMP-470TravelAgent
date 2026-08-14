@@ -1,0 +1,25 @@
+Name: Baskin-Robbins
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 406 8th Street Southeast
+Description: Not listed
+Website: https://locations.baskinrobbins.com/dc/washington/406-8th-st-se-359701-br
+Phone: +1 202-630-4930
+Email: Not listed
+Opening Hours: 05:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.883482
+Longitude: -76.994753
+OpenStreetMap URL: https://www.openstreetmap.org/node/13104024970
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13104024970
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

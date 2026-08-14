@@ -1,0 +1,24 @@
+Name: Sabor Azteca
+City: NYC
+Category: restaurants
+Cuisine: mexican, sandwich, breakfast
+Address: 742 Nostrand Avenue, Brooklyn NY 11216
+Description: Not listed
+Website: Not listed
+Phone: +1-347-365-7942
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-20:00, Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6731963
+Longitude: -73.9503433
+OpenStreetMap URL: https://www.openstreetmap.org/node/6943222795
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6943222795
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

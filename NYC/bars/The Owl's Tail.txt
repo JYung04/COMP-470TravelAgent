@@ -1,0 +1,25 @@
+Name: The Owl's Tail
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 215 West 75th Street, New York NY 10023
+Description: Not listed
+Website: https://www.owlstail.com
+Phone: +1-646-609-3906
+Email: info@owlstail.com
+Opening Hours: Tu-We 15:30-22:00; Th-Fr 15:30-23:00; Sa 14:00-22:00; Su 14:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7809547
+Longitude: -73.9808772
+OpenStreetMap URL: https://www.openstreetmap.org/node/8651793617
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8651793617
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Diego
+City: Chicago
+Category: bars
+Cuisine: mexican
+Address: 459 North Ogden Avenue, Chicago IL 60642
+Description: Not listed
+Website: https://www.diegochicago.com
+Phone: +1-312-291-8449
+Email: Not listed
+Opening Hours: Tu-Th 16:00-02:00; Fr-Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8905209
+Longitude: -87.6591892
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460671009
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460671009
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

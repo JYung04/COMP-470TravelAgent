@@ -1,0 +1,25 @@
+Name: Victory Tap Chicago
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1416 South Michigan Avenue, Chicago IL 60605
+Description: Not listed
+Website: https://armandspizzeria.com/
+Phone: +1-312-566-9300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8635201
+Longitude: -87.6245316
+OpenStreetMap URL: https://www.openstreetmap.org/node/6316574821
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6316574821
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

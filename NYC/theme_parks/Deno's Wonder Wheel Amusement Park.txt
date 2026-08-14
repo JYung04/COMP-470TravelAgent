@@ -1,0 +1,25 @@
+Name: Deno's Wonder Wheel Amusement Park
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 3059 West 12th Street, Brooklyn NY 11224
+Description: Not listed
+Website: https://www.denoswonderwheel.com/
+Phone: +1-718-372-2592
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5740157
+Longitude: -73.979191
+OpenStreetMap URL: https://www.openstreetmap.org/way/230060366
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/230060366
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

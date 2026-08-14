@@ -1,0 +1,25 @@
+Name: Yummy Yummy Asian Cuisine
+City: Chicago
+Category: restaurants
+Cuisine: asian
+Address: 2901 North Broadway, Chicago IL 60657
+Description: Not listed
+Website: https://www.yummyyummyasiancuisine.net/
+Phone: +1-773-525-6677
+Email: Not listed
+Opening Hours: Mo-Tu,Th-Sa 12:00-22:30; We off
+Wheelchair Accessibility: Not listed
+Latitude: 41.9350033
+Longitude: -87.6440701
+OpenStreetMap URL: https://www.openstreetmap.org/node/11244741140
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11244741140
+Price: Not listed
+Rating: 4.3
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

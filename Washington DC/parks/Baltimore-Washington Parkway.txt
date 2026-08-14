@@ -1,0 +1,25 @@
+Name: Baltimore-Washington Parkway
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: National Park System component encompassing a portion of the Baltimore-Washington Parkway roadway
+Website: https://www.nps.gov/bawa/
+Phone: +1-301-344-3948
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 39.0289679
+Longitude: -76.8480946
+OpenStreetMap URL: https://www.openstreetmap.org/relation/9645079
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/9645079
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

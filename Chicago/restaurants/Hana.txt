@@ -1,0 +1,24 @@
+Name: Hana
+City: Chicago
+Category: restaurants
+Cuisine: sushi, thai, chinese
+Address: 1311 West Taylor Street, Chicago IL 60607
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8691547
+Longitude: -87.6597341
+OpenStreetMap URL: https://www.openstreetmap.org/node/7554554285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7554554285
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

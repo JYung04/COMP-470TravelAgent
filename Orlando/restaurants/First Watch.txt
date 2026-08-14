@@ -1,0 +1,24 @@
+Name: First Watch
+City: Orlando
+Category: restaurants
+Cuisine: american, breakfast
+Address: 140 North Orlando Avenue, Winter Park FL 32789
+Description: Not listed
+Website: https://www.firstwatch.com/locations/winter-park/?utm_source=gbp-listing&utm_medium=organic&utm_campaign=gbp-listing&utm_content=winter-park
+Phone: +1-407-363-5622
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5982637
+Longitude: -81.3649231
+OpenStreetMap URL: https://www.openstreetmap.org/node/8668481550
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8668481550
+Price: Not listed
+Rating: 4.6
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

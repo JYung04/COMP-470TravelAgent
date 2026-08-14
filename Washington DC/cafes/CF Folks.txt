@@ -1,0 +1,25 @@
+Name: CF Folks
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: 1225 19th Street Northwest, Washington DC 20036
+Description: Not listed
+Website: http://www.cffolkscatering.com
+Phone: +1 202-293-0162
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9066938
+Longitude: -77.0432068
+OpenStreetMap URL: https://www.openstreetmap.org/node/767497037
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/767497037
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

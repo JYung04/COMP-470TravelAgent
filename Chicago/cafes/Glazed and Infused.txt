@@ -1,0 +1,25 @@
+Name: Glazed and Infused
+City: Chicago
+Category: cafes
+Cuisine: donut
+Address: 201 East Delaware Place, Chicago
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8991079
+Longitude: -87.621583
+OpenStreetMap URL: https://www.openstreetmap.org/node/2357293585
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2357293585
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

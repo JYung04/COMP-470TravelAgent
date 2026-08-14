@@ -1,0 +1,24 @@
+Name: Amy Ruth's Downtown
+City: NYC
+Category: restaurants
+Cuisine: american, southern
+Address: 39 West 14th Street, 10011
+Description: Not listed
+Website: https://amyruthsdowntown.com
+Phone: +1-212-401-6849
+Email: Not listed
+Opening Hours: Mo-Th 11:00-20:30; Fr-Su 11:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.7369618
+Longitude: -73.9954517
+OpenStreetMap URL: https://www.openstreetmap.org/node/6308814785
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6308814785
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

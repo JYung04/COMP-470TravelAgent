@@ -1,0 +1,25 @@
+Name: Cafe du Soleil
+City: Washington DC
+Category: cafes
+Cuisine: french
+Address: 215 South Union Street, 22314
+Description: Not listed
+Website: https://cafedusoleilva.com/
+Phone: +1 571-312-8010
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8024811
+Longitude: -77.0407726
+OpenStreetMap URL: https://www.openstreetmap.org/node/10937806846
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10937806846
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

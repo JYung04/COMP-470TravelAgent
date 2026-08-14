@@ -1,0 +1,24 @@
+Name: Disco Birdies
+City: NYC
+Category: restaurants
+Cuisine: chicken, sandwich
+Address: 355 Franklin Avenue, Brooklyn NY 11216
+Description: Not listed
+Website: https://www.discobirdies.com
+Phone: Not listed
+Email: disco@discobirdies.com
+Opening Hours: We-Sa 18:00-23:00, Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6872687
+Longitude: -73.9567348
+OpenStreetMap URL: https://www.openstreetmap.org/node/12799671733
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12799671733
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

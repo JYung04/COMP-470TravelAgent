@@ -1,0 +1,25 @@
+Name: O'Hallaren Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 8335 South Honore Street, Chicago IL 60620
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks/OHallaren-Park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7420845
+Longitude: -87.6693087
+OpenStreetMap URL: https://www.openstreetmap.org/way/39169102
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/39169102
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

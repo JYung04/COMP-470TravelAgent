@@ -1,0 +1,24 @@
+Name: Portsmith
+City: Chicago
+Category: restaurants
+Cuisine: seafood, fine_dining
+Address: 660 North State Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.portsmithchicago.com/
+Phone: +1-312-202-6050
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-11:00, 11:30-14:00, 17:00-22:00; Sa-Su 08:00-14:00; Sa 17:00-22:00; Su 16:30-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8942694
+Longitude: -87.6283372
+OpenStreetMap URL: https://www.openstreetmap.org/node/5456988515
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5456988515
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Mall at Millenia
+City: Orlando
+Category: shopping
+Cuisine: Not listed
+Address: 4200 Conroy Road, Orlando FL 32839
+Description: High end shopping mall in Orlando, Florida. Mall is owned and operated by Forbes Inc.
+Website: https://www.mallatmillenia.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 28.4855696
+Longitude: -81.4316251
+OpenStreetMap URL: https://www.openstreetmap.org/way/44959968
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/44959968
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

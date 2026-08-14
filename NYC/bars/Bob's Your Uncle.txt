@@ -1,0 +1,25 @@
+Name: Bob's Your Uncle
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 929 Columbus Avenue, New York NY 10025
+Description: Not listed
+Website: http://www.bobsyouruncle.nyc/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su 14:00-02:00, Mo-We 15:00-02:00, Th-Fr 15:00-03:00, Sa 14:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7988323
+Longitude: -73.9629321
+OpenStreetMap URL: https://www.openstreetmap.org/node/11005206216
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11005206216
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

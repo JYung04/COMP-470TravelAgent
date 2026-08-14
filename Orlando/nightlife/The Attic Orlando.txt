@@ -1,0 +1,25 @@
+Name: The Attic Orlando
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5409649
+Longitude: -81.3776804
+OpenStreetMap URL: https://www.openstreetmap.org/node/4026646274
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4026646274
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

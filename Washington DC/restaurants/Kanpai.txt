@@ -1,0 +1,25 @@
+Name: Kanpai
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 1401 Wilson Boulevard Arlington VA 22209
+Description: Not listed
+Website: Not listed
+Phone: +1-703-527-8400
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8953128
+Longitude: -77.0736358
+OpenStreetMap URL: https://www.openstreetmap.org/node/2752719339
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2752719339
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

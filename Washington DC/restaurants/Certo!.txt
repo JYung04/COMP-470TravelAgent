@@ -1,0 +1,25 @@
+Name: Certo!
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 2121 P Street Northwest, Washington DC 20037-1010
+Description: Not listed
+Website: https://certodc.com/
+Phone: +1 202-956-6650
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9097712
+Longitude: -77.0471561
+OpenStreetMap URL: https://www.openstreetmap.org/node/11585502353
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11585502353
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

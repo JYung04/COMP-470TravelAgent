@@ -1,0 +1,25 @@
+Name: Sathi
+City: NYC
+Category: restaurants
+Cuisine: Indian, Nepalese
+Address: 216 3rd Ave, New York, NY 10003, United States
+Description: Not listed
+Website: https://www.sathinewyork.com/
+Phone: +1-212-260-3700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.7362201
+Longitude: -73.9852797
+OpenStreetMap URL: https://www.openstreetmap.org/node/7160825479
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7160825479
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

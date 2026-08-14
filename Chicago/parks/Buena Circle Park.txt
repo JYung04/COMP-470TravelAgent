@@ -1,0 +1,25 @@
+Name: Buena Circle Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1049 West Buena Avenue, Chicago IL 60613
+Description: Officially classified as neighborhood park. Covers approximately 0.5 acres.
+Website: https://www.chicagoparkdistrict.com/parks/Buena-Circle-Playlot-Park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.95841
+Longitude: -87.6564571
+OpenStreetMap URL: https://www.openstreetmap.org/way/210753537
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210753537
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

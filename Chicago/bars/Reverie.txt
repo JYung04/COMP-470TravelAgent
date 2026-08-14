@@ -1,0 +1,25 @@
+Name: Reverie
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 414 North Orleans Street, Chicago IL 60654
+Description: Not listed
+Website: http://www.reveriechicago.com/
+Phone: +1-312-467-4141
+Email: Not listed
+Opening Hours: Th 21:00-02:00; Fr 15:00-02:00; Sa 21:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8896816
+Longitude: -87.6372631
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458005427
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458005427
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

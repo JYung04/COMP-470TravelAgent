@@ -1,0 +1,25 @@
+Name: St. Pat's Bar & Grill
+City: NYC
+Category: bars
+Cuisine: irish
+Address: 22 West 46th, 10036
+Description: Not listed
+Website: https://stpatsbar.com
+Phone: +1-212-239-1111
+Email: info@stpatsbar
+Opening Hours: 10:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7564278
+Longitude: -73.9803554
+OpenStreetMap URL: https://www.openstreetmap.org/node/6321504681
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6321504681
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

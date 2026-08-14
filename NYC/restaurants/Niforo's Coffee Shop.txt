@@ -1,0 +1,25 @@
+Name: Niforo's Coffee Shop
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 43-57 11th Street
+Description: Not listed
+Website: Not listed
+Phone: +1 718-786-7759
+Email: Not listed
+Opening Hours: Mo-Fr 05:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7503311
+Longitude: -73.9489138
+OpenStreetMap URL: https://www.openstreetmap.org/node/11876253500
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11876253500
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

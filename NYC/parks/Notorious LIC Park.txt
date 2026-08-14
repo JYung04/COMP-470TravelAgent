@@ -1,0 +1,25 @@
+Name: Notorious LIC Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: park in Queens, New York, United States of America
+Website: https://www.nycgovparks.org/parks/bridge-and-tunnel-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7419391
+Longitude: -73.9513637
+OpenStreetMap URL: https://www.openstreetmap.org/way/295109956
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295109956
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

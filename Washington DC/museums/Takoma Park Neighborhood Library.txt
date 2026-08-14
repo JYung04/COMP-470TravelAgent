@@ -1,0 +1,25 @@
+Name: Takoma Park Neighborhood Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 416 Cedar Street Northwest, Washington 20012
+Description: The Takoma Park Neighborhood Library is a branch of the District of Columbia Public Library (DCPL) System that serves the Takoma neighborhood. It opened in 1911.
+Website: https://www.dclibrary.org/takomapark
+Phone: +1 202-576-7252
+Email: Not listed
+Opening Hours: Mo-Tu,Fr-Sa 10:00-18:00; We 10:00-20:00; Th 12:00-20:00; Su 13:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 38.9744364
+Longitude: -77.0201569
+OpenStreetMap URL: https://www.openstreetmap.org/way/91814281
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/91814281
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

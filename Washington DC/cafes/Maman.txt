@@ -1,0 +1,25 @@
+Name: Maman
+City: Washington DC
+Category: cafes
+Cuisine: french
+Address: 1353 Wisconsin Avenue Northwest, Washington DC 20007-3388
+Description: Not listed
+Website: https://mamannyc.com/locations/georgetown
+Phone: +1-202-506-3372
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-19:00; Sa-Su 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.907975
+Longitude: -77.0634766
+OpenStreetMap URL: https://www.openstreetmap.org/node/10671566228
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10671566228
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

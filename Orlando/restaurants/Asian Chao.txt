@@ -1,0 +1,25 @@
+Name: Asian Chao
+City: Orlando
+Category: restaurants
+Cuisine: Asian
+Address: International Drive Orlando FL 32819
+Description: Not listed
+Website: http://www.foodsystemsunlimited.com/restaurants/asianchao.php
+Phone: +1 909 378 0094
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4470929
+Longitude: -81.393806
+OpenStreetMap URL: https://www.openstreetmap.org/node/8975197936
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8975197936
+Price: Not listed
+Rating: 2.8
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

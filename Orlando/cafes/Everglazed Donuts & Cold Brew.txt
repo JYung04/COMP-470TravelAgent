@@ -1,0 +1,25 @@
+Name: Everglazed Donuts & Cold Brew
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 1504 East Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://everglazed.com
+Phone: +1-888-354-5293
+Email: Not listed
+Opening Hours: Su-Th 09:00-22:00; Fr-Sa 09:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3699227
+Longitude: -81.5211921
+OpenStreetMap URL: https://www.openstreetmap.org/node/8677080017
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8677080017
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

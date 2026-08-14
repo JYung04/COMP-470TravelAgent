@@ -1,0 +1,25 @@
+Name: Rosetta Italian
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 1 South Dearborn Street, Chicago IL
+Description: Not listed
+Website: https://rosebudrestaurants.com/
+Phone: +1-312-384-1900
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:00; Sa 16:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8814165
+Longitude: -87.6289457
+OpenStreetMap URL: https://www.openstreetmap.org/node/4731347922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4731347922
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

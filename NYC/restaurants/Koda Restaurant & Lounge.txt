@@ -1,0 +1,25 @@
+Name: Koda Restaurant & Lounge
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 985 Flushing Avenue, Brooklyn NY 11206
+Description: Not listed
+Website: http://www.kodarestaurant.com/
+Phone: +1-347-223-4026
+Email: Not listed
+Opening Hours: Mo 12:00-16:00, 17:00-28:00; Tu-Sa 17:00-28:00; Su 17:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7030761
+Longitude: -73.9333087
+OpenStreetMap URL: https://www.openstreetmap.org/node/5801942483
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5801942483
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

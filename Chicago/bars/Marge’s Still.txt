@@ -1,0 +1,25 @@
+Name: Marge’s Still
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1758 North Sedgwick Street, Chicago IL 60614
+Description: Not listed
+Website: https://www.margeschicago.com/
+Phone: +1-312-664-9775
+Email: Not listed
+Opening Hours: Tu-Fr 16:30-00:00; Sa 16:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9145918
+Longitude: -87.6389496
+OpenStreetMap URL: https://www.openstreetmap.org/node/6321478798
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6321478798
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

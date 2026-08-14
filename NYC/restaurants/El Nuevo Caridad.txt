@@ -1,0 +1,25 @@
+Name: El Nuevo Caridad
+City: NYC
+Category: restaurants
+Cuisine: dominican
+Address: 2257 2nd Avenue, 10029
+Description: Not listed
+Website: https://elnuevonyc.com
+Phone: +1 212-860-8187
+Email: Not listed
+Opening Hours: Mo-Su 08:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.7969303
+Longitude: -73.9380482
+OpenStreetMap URL: https://www.openstreetmap.org/node/2765399935
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2765399935
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

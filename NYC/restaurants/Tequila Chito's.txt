@@ -1,0 +1,25 @@
+Name: Tequila Chito's
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-212-463-0535
+Email: Not listed
+Opening Hours: Mo,Tu 16:00-23:00; We 16:00-24:00; Th 15:00-24:00; Fr 15:00-01:00; Sa 16:00-01:00; Su 16:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7461064
+Longitude: -74.0008419
+OpenStreetMap URL: https://www.openstreetmap.org/node/6139645147
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6139645147
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

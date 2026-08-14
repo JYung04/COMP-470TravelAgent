@@ -1,0 +1,25 @@
+Name: Marquette Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 6743 South Kedzie Avenue, Chicago IL 60629
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks/Marquette-Park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7680333
+Longitude: -87.7029016
+OpenStreetMap URL: https://www.openstreetmap.org/way/34318481
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/34318481
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

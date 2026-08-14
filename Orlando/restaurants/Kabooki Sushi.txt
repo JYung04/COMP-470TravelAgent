@@ -1,0 +1,25 @@
+Name: Kabooki Sushi
+City: Orlando
+Category: restaurants
+Cuisine: Sushi, Asian fusion, Japanese, Seafood
+Address: E. Colonial Drive
+Description: Not listed
+Website: https://kabookisushi.com/
+Phone: +1 407-228-3839
+Email: Not listed
+Opening Hours: Th 18:00-24:00, Su 18:00-24:00, Fr,Sa 18:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5529896
+Longitude: -81.3440002
+OpenStreetMap URL: https://www.openstreetmap.org/node/6441886292
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6441886292
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

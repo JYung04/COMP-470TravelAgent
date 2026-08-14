@@ -1,0 +1,25 @@
+Name: Larry Flynt's Hustler Club
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 641 West 51st Street, New York NY 10019
+Description: Not listed
+Website: https://hustlerny.com/
+Phone: +1-212-247-2460
+Email: Not listed
+Opening Hours: Mo-Sa 18:00-04:00; Su 20:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7674015
+Longitude: -73.9959382
+OpenStreetMap URL: https://www.openstreetmap.org/node/4840395323
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4840395323
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

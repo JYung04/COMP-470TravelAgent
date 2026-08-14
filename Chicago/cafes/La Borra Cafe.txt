@@ -1,0 +1,25 @@
+Name: La Borra Cafe
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 10 East Delaware Place, Chicago IL 60611
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8992835
+Longitude: -87.628104
+OpenStreetMap URL: https://www.openstreetmap.org/node/3076179333
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3076179333
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

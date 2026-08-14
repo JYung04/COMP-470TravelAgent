@@ -1,0 +1,25 @@
+Name: Lucky Goat Coffee Co
+City: Orlando
+Category: cafes
+Cuisine: coffee_shop
+Address: 56 Riley Road, Celebration FL 34747
+Description: Not listed
+Website: https://luckygoatcoffee.com/pages/celebration-place
+Phone: +1-407-408-9264
+Email: celebrationplace@luckygoatcoffee.com
+Opening Hours: Mo-Sa 07:00-18:00; Su 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3306807
+Longitude: -81.5283321
+OpenStreetMap URL: https://www.openstreetmap.org/node/13761642010
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13761642010
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

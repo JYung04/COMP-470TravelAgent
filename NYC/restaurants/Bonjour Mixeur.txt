@@ -1,0 +1,25 @@
+Name: Bonjour Mixeur
+City: NYC
+Category: restaurants
+Cuisine: crepe
+Address: 1436 Lexington Avenue, 10128
+Description: Not listed
+Website: https://www.bonjourmixeur.com/
+Phone: +1 212-933-4626
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-21:00; Sa, Su 09:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7843648
+Longitude: -73.95221
+OpenStreetMap URL: https://www.openstreetmap.org/node/11281910246
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11281910246
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

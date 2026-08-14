@@ -1,0 +1,25 @@
+Name: Elio's
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 39-28 Queens Boulevard, 11104
+Description: Not listed
+Website: https://elios.dine.online/locations/869453
+Phone: Not listed
+Email: Not listed
+Opening Hours: Fr-Su 12:00-02:00; Mo-Th 14:00-01:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7436024
+Longitude: -73.9250311
+OpenStreetMap URL: https://www.openstreetmap.org/node/2844971036
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2844971036
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

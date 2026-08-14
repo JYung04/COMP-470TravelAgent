@@ -1,0 +1,25 @@
+Name: Philly Connection
+City: Orlando
+Category: restaurants
+Cuisine: sandwich
+Address: 6536 Old Brick Road, Windermere FL 34786
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4498385
+Longitude: -81.5629052
+OpenStreetMap URL: https://www.openstreetmap.org/node/5362620596
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5362620596
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

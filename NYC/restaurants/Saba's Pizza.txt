@@ -1,0 +1,24 @@
+Name: Saba's Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza, italian
+Address: 1217 Lexington Avenue
+Description: Not listed
+Website: https://www.sabaspizzanyc.com/
+Phone: +1 212-987-9130
+Email: sabaspizzany@gmail.com
+Opening Hours: Su-Th 11:00-19:45; Fr 11:00-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7770944
+Longitude: -73.9571567
+OpenStreetMap URL: https://www.openstreetmap.org/node/6979980085
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6979980085
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

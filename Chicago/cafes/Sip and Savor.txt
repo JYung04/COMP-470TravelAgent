@@ -1,0 +1,25 @@
+Name: Sip and Savor
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1070 West Bryn Mawr Avenue, Chicago IL 60660
+Description: Not listed
+Website: https://www.sipandsavorchicago.com/location-edgewater
+Phone: +1-773-564-9400
+Email: Not listed
+Opening Hours: Su 07:00-16:00; Mo-Fr 06:30-16:00; Sa 07:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9837878
+Longitude: -87.6578698
+OpenStreetMap URL: https://www.openstreetmap.org/node/6892161698
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6892161698
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

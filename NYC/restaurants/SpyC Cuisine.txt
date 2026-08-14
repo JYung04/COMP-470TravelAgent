@@ -1,0 +1,25 @@
+Name: SpyC Cuisine
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 72-06 Austin Street
+Description: Not listed
+Website: http://www.spycny.com
+Phone: +1 718 263 0357
+Email: Not listed
+Opening Hours: Tu-Th 11:30-22:00; Fr 11:30-22:30; Sa 12:00-22:30; Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7191595
+Longitude: -73.8424407
+OpenStreetMap URL: https://www.openstreetmap.org/node/8793340332
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8793340332
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

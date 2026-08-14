@@ -1,0 +1,25 @@
+Name: Gladstone Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 530 West 21st Street, New York NY 10011
+Description: Not listed
+Website: https://www.gladstonegallery.com
+Phone: +1-212-206-7606
+Email: info@gladstonegallery.com
+Opening Hours: Tu-Sa 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7469471
+Longitude: -74.0066777
+OpenStreetMap URL: https://www.openstreetmap.org/node/10873196740
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10873196740
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

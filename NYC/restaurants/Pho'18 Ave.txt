@@ -1,0 +1,25 @@
+Name: Pho'18 Ave
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 7116 18th Avenue, 11204
+Description: Not listed
+Website: Not listed
+Phone: +1-347-374-6633
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6154351
+Longitude: -73.9941385
+OpenStreetMap URL: https://www.openstreetmap.org/node/5691689928
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5691689928
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Play DC
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 1541 7th Street Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.play-dc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Fr,Sa 22:00-03:00, Su 18:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9107784
+Longitude: -77.0217192
+OpenStreetMap URL: https://www.openstreetmap.org/node/10262748713
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10262748713
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

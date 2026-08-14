@@ -1,0 +1,25 @@
+Name: Ben's Chili Bowl
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 801 Mount Vernon Place Northwest, Washington DC 20001
+Description: Few people have witnessed as much change in the District as Virginia Ali , who, along with her husband Ben, opened up the DC institution Ben’s Chili Bowl on U Street in August 1958. Purveyors of DC’s signature take on a hot dog , the half-smoke, the Ali family played a unique role during the 1968 race riots following the assassination of Martin Luther King, Jr, as they stayed open past curfew to serve both activists and local police and firemen. The restaurant has stood the test of time, perseve
+Website: https://benschilibowl.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9045192
+Longitude: -77.0226304
+OpenStreetMap URL: https://www.openstreetmap.org/way/1240491197
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1240491197
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

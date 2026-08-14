@@ -1,0 +1,25 @@
+Name: Ju-Go Juice Bar
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 41-54 52nd Street
+Description: Not listed
+Website: https://www.jugojuicebar.com/
+Phone: +1 718-440-9135
+Email: Not listed
+Opening Hours: Mo-Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7444812
+Longitude: -73.9125355
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978832686
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978832686
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

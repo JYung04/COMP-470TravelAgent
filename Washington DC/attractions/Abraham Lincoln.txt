@@ -1,0 +1,25 @@
+Name: Abraham Lincoln
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Abraham Lincoln (1920) is a colossal seated figure of the 16th president of the United States, Abraham Lincoln (1809–1865), sculpted by Daniel Chester French (1850–1931) and carved by the Piccirilli Brothers. Located in the Lincoln Memorial, constructed between 1914 and 1922 on the National Mall in Washington, D.C., the statue was unveiled in 1922. The work follows in the nation's Beaux Arts and American Renaissance-style architecture traditions.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8892757
+Longitude: -77.0502652
+OpenStreetMap URL: https://www.openstreetmap.org/node/6166898771
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6166898771
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing; architecture; art

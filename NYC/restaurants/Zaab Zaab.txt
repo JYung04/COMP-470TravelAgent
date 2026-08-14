@@ -1,0 +1,25 @@
+Name: Zaab Zaab
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 76-04 Woodside Avenue, NY 11373
+Description: Not listed
+Website: https://zaabzaabnyc.com
+Phone: +1-718-576-3743
+Email: Not listed
+Opening Hours: 12:00-1:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7433014
+Longitude: -73.8886531
+OpenStreetMap URL: https://www.openstreetmap.org/node/9923265678
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9923265678
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

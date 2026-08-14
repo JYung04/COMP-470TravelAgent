@@ -1,0 +1,25 @@
+Name: Left Coast Food
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 717 North Wells Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.leftcoastfood.com/
+Phone: +1-312-877-5500
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-21:00; Sa-Su 08:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8954309
+Longitude: -87.6338964
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458107322
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458107322
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

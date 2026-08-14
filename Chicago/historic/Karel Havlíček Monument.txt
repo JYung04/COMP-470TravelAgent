@@ -1,0 +1,25 @@
+Name: Karel Havlíček Monument
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Karel Havlíček Monument is an outdoor monument and sculpture by Joseph Strachovsky commemorating Karel Havlíček Borovský, installed in the median of East Solidarity Drive, in Chicago's Northerly Island, in the U.S. state of Illinois. The statue was created in 1911 and installed in 1983.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8663119
+Longitude: -87.6104689
+OpenStreetMap URL: https://www.openstreetmap.org/way/766536502
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/766536502
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history

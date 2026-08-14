@@ -1,0 +1,25 @@
+Name: Bartow-Pell Mansion Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: https://www.bartowpellmansionmuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Su 12:00-16:00; Th off; Fr off
+Wheelchair Accessibility: Not listed
+Latitude: 40.8717809
+Longitude: -73.8056401
+OpenStreetMap URL: https://www.openstreetmap.org/node/368061866
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368061866
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

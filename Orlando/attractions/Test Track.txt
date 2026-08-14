@@ -1,0 +1,25 @@
+Name: Test Track
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Test Track is a high-speed slot car thrill ride manufactured by Dynamic Attractions located in World Discovery at Epcot, a theme park at the Walt Disney World Resort in Bay Lake, Florida. Designed by Walt Disney Imagineering in partnership with General Motors, the ride is a simulated excursion through the rigorous testing procedures that General Motors uses to evaluate its concept cars, culminating in a high-speed drive around the exterior of the attraction.
+Website: https://disneyworld.disney.go.com/attractions/epcot/test-track/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.372856
+Longitude: -81.5472181
+OpenStreetMap URL: https://www.openstreetmap.org/way/295315993
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295315993
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; art

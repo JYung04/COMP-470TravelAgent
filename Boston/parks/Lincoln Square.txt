@@ -1,0 +1,25 @@
+Name: Lincoln Square
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Park Plaza, Boston
+Description: Officially classified as malls, squares & plazas. Located in Central Boston. Covers approximately 0.1 acres. Also known as Abraham Lincoln Square.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3516013
+Longitude: -71.0680119
+OpenStreetMap URL: https://www.openstreetmap.org/way/103383592
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/103383592
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

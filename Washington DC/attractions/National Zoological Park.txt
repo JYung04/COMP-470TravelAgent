@@ -1,0 +1,25 @@
+Name: National Zoological Park
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: 3001 Connecticut Avenue Northwest, Washington DC
+Description: Listed in Washington, DC official data as museum / zoo. Status: ACTIVE.
+Website: https://nationalzoo.si.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mar 15-Sep 30 08:00-19:00; Oct 01-Mar 14 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9285352
+Longitude: -77.0495696
+OpenStreetMap URL: https://www.openstreetmap.org/relation/10511120
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/10511120
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

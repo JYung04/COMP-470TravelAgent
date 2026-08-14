@@ -1,0 +1,25 @@
+Name: Floyd Bennett Field
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Floyd Bennett Field is an airfield in the Marine Park neighborhood of southeast Brooklyn in New York City, along the shore of Jamaica Bay. The airport originally hosted commercial and general aviation traffic before being used as a naval air station. Floyd Bennett Field is part of the Gateway National Recreation Area's Jamaica Bay Unit, and is managed by the National Park Service (NPS). While no longer used as an operational commercial, military, or general aviation airfield, a section is still used as a helicopter base by the New York City Police Department (NYPD), and one runway is reserved for hobbyists flying radio-controlled aircraft.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.591146
+Longitude: -73.8942921
+OpenStreetMap URL: https://www.openstreetmap.org/relation/9460480
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/9460480
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

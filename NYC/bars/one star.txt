@@ -1,0 +1,25 @@
+Name: "one star"
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 147 West 24th Street, New York NY
+Description: Quirky bar whose name has intentional quotes.
+Website: Not listed
+Phone: +1 212-777-0100
+Email: theshakes@onestarnyc.com
+Opening Hours: Mo-Sa 16:00-02:00; Su "by appointment"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7444948
+Longitude: -73.9941795
+OpenStreetMap URL: https://www.openstreetmap.org/node/5844606724
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5844606724
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

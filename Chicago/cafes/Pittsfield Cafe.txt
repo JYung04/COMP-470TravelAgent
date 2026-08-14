@@ -1,0 +1,25 @@
+Name: Pittsfield Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 55 East Washington Street, Chicago IL 60602
+Description: Not listed
+Website: https://pittsfieldcafe.com/
+Phone: +1-312-726-2020
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8830968
+Longitude: -87.6255717
+OpenStreetMap URL: https://www.openstreetmap.org/node/2819241297
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2819241297
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

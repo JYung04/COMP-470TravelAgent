@@ -1,0 +1,25 @@
+Name: Dawson Playground
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Dawson Street, Bronx NY 10459
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/rainey-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8196733
+Longitude: -73.8984148
+OpenStreetMap URL: https://www.openstreetmap.org/way/667593365
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/667593365
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

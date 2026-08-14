@@ -1,0 +1,25 @@
+Name: Brooklyn
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 546 Flatbush Ave
+Description: Celebrate Brooklyn! June 8–August 6 BRIC Arts’ annual summer concert series is among the most popular in NYC, and takes place in Prospect Park with both free and ticketed events. This year’s lineup includes artists such as rapper Vic Mensa, soul singer Erykah Badu and Afrobeat star Davido. Virgil Abloh: Figures of Speech at Brooklyn Museum July 1, 2022–January 23, 2023 The Brooklyn Museum celebrates the life of the renowned American designer through this new exhibit. The show highlights key mome
+Website: https://business.nyctourism.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6954116
+Longitude: -73.9516371
+OpenStreetMap URL: https://www.openstreetmap.org/node/12065670491
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12065670491
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing; art

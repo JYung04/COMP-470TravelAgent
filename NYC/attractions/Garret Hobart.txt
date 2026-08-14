@@ -1,0 +1,25 @@
+Name: Garret Hobart
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Honors Garret Hobart, former Paterson resident and 24th Vice President of the United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.916846
+Longitude: -74.1719256
+OpenStreetMap URL: https://www.openstreetmap.org/node/4650620778
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4650620778
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing; art

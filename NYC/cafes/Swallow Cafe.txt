@@ -1,0 +1,24 @@
+Name: Swallow Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, sandwich
+Address: 156 Atlantic Avenue, 11201
+Description: Not listed
+Website: Not listed
+Phone: +1-347-689-4192
+Email: Not listed
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6901367
+Longitude: -73.994571
+OpenStreetMap URL: https://www.openstreetmap.org/node/4625658555
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4625658555
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

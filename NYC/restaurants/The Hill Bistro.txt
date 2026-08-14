@@ -1,0 +1,25 @@
+Name: The Hill Bistro
+City: NYC
+Category: restaurants
+Cuisine: new_american
+Address: 3541 Riverdale Avenue, Bronx NY 10463
+Description: Not listed
+Website: https://www.thehillbistro.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8863151
+Longitude: -73.9072003
+OpenStreetMap URL: https://www.openstreetmap.org/node/8641884277
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8641884277
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

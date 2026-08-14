@@ -1,0 +1,25 @@
+Name: La Famiglia Giorgio's Restaurant
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 112 Salem Street, Boston MA 02113
+Description: “It might even be as good as my mom’s” is a sentiment echoed over and over again inside this cozy Salem Street brownstone, where the Giorgio family has been churning out gargantuan portions of red-sauce classics for more than three decades. Favorites range from the irresistibly spicy frutti di mare with fresh fettuccine (worth the $3 upcharge) to the tender eggplant parm with a bright marinara. 112 Salem St., North End, Boston, 617-367-6711, lafamigliagiorgios.com .
+Website: https://www.lafamigliagiorgios.com/
+Phone: +1 617-367-6711
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3645234
+Longitude: -71.0555929
+OpenStreetMap URL: https://www.openstreetmap.org/node/5212542323
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5212542323
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Al Coith Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 901 Delaney Avenue, Orlando, FL 32806
+Description: Located just to the south of Downtown Orlando, Al Coith Park offers open space and oak-shaded areas.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Al-Coith-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5305855
+Longitude: -81.3737601
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1187019
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1187019
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

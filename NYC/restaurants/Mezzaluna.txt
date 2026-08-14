@@ -1,0 +1,25 @@
+Name: Mezzaluna
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1295 3rd Avenue, 10021
+Description: Not listed
+Website: https://mezzalunanyc.com
+Phone: +1 212-535-9600
+Email: info@mezzalunanyc.com
+Opening Hours: 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7711935
+Longitude: -73.9593206
+OpenStreetMap URL: https://www.openstreetmap.org/node/9015420301
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9015420301
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Sammy L Coffee
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, sandwich, pastry
+Address: 83 3rd Avenue, New York NY 10003
+Description: Not listed
+Website: Not listed
+Phone: +1-917-770-4047
+Email: Not listed
+Opening Hours: Mo-Th 07:00-22:00; Fr 07:00-23:00; Sa 09:00-23:00; Su 09:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7316535
+Longitude: -73.9880652
+OpenStreetMap URL: https://www.openstreetmap.org/node/9579377217
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9579377217
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

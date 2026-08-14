@@ -1,0 +1,25 @@
+Name: Gil Hodges Community Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 534 Carroll Street, 11215
+Description: Not listed
+Website: https://www.nyrp.org/green-spaces/garden-details/gil-hodges-community-garden/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Apr-Oct: Mo-Fr 09:00-14:00; Sa-Su 10:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6762662
+Longitude: -73.9847563
+OpenStreetMap URL: https://www.openstreetmap.org/way/315400541
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/315400541
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

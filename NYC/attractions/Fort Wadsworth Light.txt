@@ -1,0 +1,25 @@
+Name: Fort Wadsworth Light
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Fort Wadsworth Light is a 1903 lighthouse built atop Battery Weed on Staten Island in New York Harbor. The light illuminates the Narrows, the entrance to the harbor. It is located under the Verrazzano–Narrows Bridge. Fort Wadsworth Light was part of the transfer of Fort Wadsworth from the Navy to the National Park Service in March 1995 as part of Gateway National Recreation Area.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6058119
+Longitude: -74.0539435
+OpenStreetMap URL: https://www.openstreetmap.org/node/411613101
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/411613101
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; art

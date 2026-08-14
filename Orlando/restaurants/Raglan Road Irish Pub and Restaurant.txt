@@ -1,0 +1,25 @@
+Name: Raglan Road Irish Pub and Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: irish
+Address: 1640 East Buena Vista Drive, Lake Buena Vista FL 32830
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/disney-springs/raglan-road-irish-pub-and-restaurant/
+Phone: +1-407-938-0300
+Email: Not listed
+Opening Hours: Mo-Su 11:00-15:00,15:05-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3712966
+Longitude: -81.5175907
+OpenStreetMap URL: https://www.openstreetmap.org/way/292502107
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/292502107
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

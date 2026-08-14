@@ -1,0 +1,25 @@
+Name: Alegrias Seafood Chicago
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1024 North Ashland Avenue, Chicago IL 60622
+Description: Not listed
+Website: http://alegriasseafoodchicago.com
+Phone: +1-773-252-7200
+Email: Not listed
+Opening Hours: Mo-Th, Su 10:00-22:00; Fr-Sa 10:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9004836
+Longitude: -87.6676383
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575072897
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575072897
+Price: Not listed
+Rating: 4.2
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

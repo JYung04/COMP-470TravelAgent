@@ -1,0 +1,25 @@
+Name: Nederlander Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 208 West 41st Street, New York NY 10018
+Description: The Nederlander Theatre is a Broadway theater at 208 West 41st Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1921, it was designed by William Neil Smith for theatrical operator Walter C. Jordan. It has around 1,235 seats across two levels and is operated by the Nederlander Organization. Since 1980, it has been named for American theater impresario David Tobias Nederlander, father of theatrical producer James M. Nederlander. It is the southernmost Broadway theater in the Theater District.
+Website: Not listed
+Phone: (212) 921-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7554972
+Longitude: -73.9883023
+OpenStreetMap URL: https://www.openstreetmap.org/way/266143337
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266143337
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

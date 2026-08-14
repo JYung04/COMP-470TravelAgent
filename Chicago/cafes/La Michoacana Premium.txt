@@ -1,0 +1,25 @@
+Name: La Michoacana Premium
+City: Chicago
+Category: cafes
+Cuisine: ice_cream
+Address: 10533 South Ewing Avenue, Chicago IL 60617
+Description: Not listed
+Website: http://www.lamichoacanapremium-ewing.com
+Phone: +1-773-437-3644
+Email: Not listed
+Opening Hours: Mo-Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.7036176
+Longitude: -87.535022
+OpenStreetMap URL: https://www.openstreetmap.org/way/211388387
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/211388387
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Homewood Suites West Loop Fulton Market Area
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 118 North Jefferson Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/chiwwhw-homewood-suites-chicago-west-loop-fulton-market-area/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8837678
+Longitude: -87.6430103
+OpenStreetMap URL: https://www.openstreetmap.org/node/9025067829
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9025067829
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

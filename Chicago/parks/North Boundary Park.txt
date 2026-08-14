@@ -1,0 +1,25 @@
+Name: North Boundary Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 7211 North Kedzie Avenue, Chicago IL 60645
+Description: Officially classified as linear park. Covers approximately 2.0 acres.
+Website: https://www.chicagoparkdistrict.com/parks/north-boundary-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0138806
+Longitude: -87.7087179
+OpenStreetMap URL: https://www.openstreetmap.org/way/209692625
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209692625
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

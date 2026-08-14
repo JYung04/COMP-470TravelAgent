@@ -1,0 +1,25 @@
+Name: The Roasted Boon
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 1018 Rhode Island Avenue Northwest, Washington DC 20001-3220
+Description: Not listed
+Website: https://roastedboon.com
+Phone: +1 202-555-0179
+Email: info@roastedboon.com
+Opening Hours: Mo-Su 07:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 38.9104257
+Longitude: -77.026718
+OpenStreetMap URL: https://www.openstreetmap.org/node/745905454
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/745905454
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

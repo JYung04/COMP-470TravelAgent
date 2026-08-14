@@ -1,0 +1,25 @@
+Name: Queensboro Hill Branch Queens Borough Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 60-05 Main Street, NY 11355
+Description: Not listed
+Website: https://www.queenslibrary.org/about-us/locations/queensboro-hill
+Phone: +1-718-359-8332
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7429227
+Longitude: -73.8251517
+OpenStreetMap URL: https://www.openstreetmap.org/way/284615866
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/284615866
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

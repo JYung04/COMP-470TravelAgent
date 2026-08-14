@@ -1,0 +1,25 @@
+Name: Sweet & Flour
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 300 Front Street, 07094
+Description: Not listed
+Website: https://www.sweetandflournj.com/
+Phone: +1 201-552-2678
+Email: info@sweetandflournj.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7940807
+Longitude: -74.0641745
+OpenStreetMap URL: https://www.openstreetmap.org/node/11343751176
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11343751176
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

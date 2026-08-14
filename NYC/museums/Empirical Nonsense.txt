@@ -1,0 +1,25 @@
+Name: Empirical Nonsense
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 87 Rivington Street
+Description: EN is an intimate place where artists, musicians, writers, actors, filmmakers, performers and dancers congregate.
+Website: https://empiricalnonsense.today
+Phone: +1 212-226-4552
+Email: desk.drawer@empiricalnonsense.today
+Opening Hours: We-Sa 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7201441
+Longitude: -73.9889614
+OpenStreetMap URL: https://www.openstreetmap.org/node/6417061185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6417061185
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art; music

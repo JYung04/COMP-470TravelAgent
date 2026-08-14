@@ -1,0 +1,25 @@
+Name: Stable DC
+City: Washington DC
+Category: restaurants
+Cuisine: swiss
+Address: 1324 H Street Northeast, 20002
+Description: Swiss-American restaurant specializing in fondue, raclette, and alpine-inspired dishes.
+Website: https://stabledc.com/
+Phone: +1-202-733-4604
+Email: silvank@stabledc.com
+Opening Hours: We-Th 17:00-21:00; Fr 17:00-21:30; Sa 10:00-14:00,17:00-21:30; Su 10:00-14:00
+Wheelchair Accessibility: no
+Latitude: 38.9003873
+Longitude: -76.9873436
+OpenStreetMap URL: https://www.openstreetmap.org/node/13669679682
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13669679682
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

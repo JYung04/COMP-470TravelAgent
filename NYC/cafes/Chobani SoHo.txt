@@ -1,0 +1,24 @@
+Name: Chobani SoHo
+City: NYC
+Category: cafes
+Cuisine: yogurt, coffee_shop
+Address: 152 Prince Street
+Description: Not listed
+Website: https://chobani.com/
+Phone: +1-212-364-3970
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-19:00; Sa, Su 08:30-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7257638
+Longitude: -74.0011009
+OpenStreetMap URL: https://www.openstreetmap.org/node/5642382126
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5642382126
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

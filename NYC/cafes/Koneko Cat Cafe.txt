@@ -1,0 +1,24 @@
+Name: Koneko Cat Cafe
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, japanese
+Address: 26 Clinton Street, New York NY 10002
+Description: Japanese-inspired cafe with separate petting room for cats up for adoption. $20 fee for one hour with felines.
+Website: https://www.konekonyc.com
+Phone: +1 646-370-9699
+Email: info@konekonyc.com
+Opening Hours: We-Su 09:00-21:00
+Wheelchair Accessibility: limited
+Latitude: 40.7204867
+Longitude: -73.9842269
+OpenStreetMap URL: https://www.openstreetmap.org/node/6293667225
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6293667225
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: The Fudge Pot
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1532 North Wells Street, Chicago IL 60610
+Description: Not listed
+Website: http://thefudgepotchicago.com/
+Phone: +1-312-943-1777
+Email: Not listed
+Opening Hours: Su-Th 12:00-20:00; Fr,Sa 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9101255
+Longitude: -87.6349907
+OpenStreetMap URL: https://www.openstreetmap.org/node/6315228817
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6315228817
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

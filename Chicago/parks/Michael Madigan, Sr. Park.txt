@@ -1,0 +1,25 @@
+Name: Michael Madigan, Sr. Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4707 West Marquette Road, Chicago IL 60629
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks/michael-j-madigan-sr-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.76991
+Longitude: -87.7389027
+OpenStreetMap URL: https://www.openstreetmap.org/way/160066151
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/160066151
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,24 @@
+Name: Ramen Danbo
+City: NYC
+Category: restaurants
+Cuisine: japanese, ramen
+Address: 48 Carmine Street, New York NY 10014
+Description: Not listed
+Website: https://ramendanbo.com/
+Phone: +1-917-261-7355
+Email: Not listed
+Opening Hours: Mo-Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7298743
+Longitude: -74.0034651
+OpenStreetMap URL: https://www.openstreetmap.org/node/10796135812
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10796135812
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

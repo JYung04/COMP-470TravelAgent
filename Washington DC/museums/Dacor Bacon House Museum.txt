@@ -1,0 +1,25 @@
+Name: Dacor Bacon House Museum
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1801 F Street Northwest
+Description: The Ringgold–Carroll House (also known as the DACOR Bacon House and John Marshall House) is an historic residence located at 1801 F St Northwest, Washington, D.C. Built in 1825, it is listed on the National Register of Historic Places. It has been adapted
+Website: https://dacorbacon.org
+Phone: +1 202-682-0500
+Email: Not listed
+Opening Hours: Mo,We,Th 02:30-16:30
+Wheelchair Accessibility: yes
+Latitude: 38.8975905
+Longitude: -77.0419693
+OpenStreetMap URL: https://www.openstreetmap.org/way/65780838
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/65780838
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Tamam Falafel
+City: NYC
+Category: restaurants
+Cuisine: falafel
+Address: 1108 Lexington Avenue, New York NY 10075
+Description: Not listed
+Website: https://tamamfalafel.com/
+Phone: +12126391818
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7740338
+Longitude: -73.9597573
+OpenStreetMap URL: https://www.openstreetmap.org/node/10000521613
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10000521613
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Mecatos Bakery & Cafe
+City: Orlando
+Category: cafes
+Cuisine: dessert, salad, sandwich, cake
+Address: 20 North Orange Avenue, Orlando FL 32801
+Description: Not listed
+Website: https://mecatoscafe.com
+Phone: +1-407-704-3841
+Email: Not listed
+Opening Hours: Mo-Th 07:00-18:00, Fr 07:00-20:00, Sa-Su 08:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5425427
+Longitude: -81.3793741
+OpenStreetMap URL: https://www.openstreetmap.org/node/10796639852
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10796639852
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,24 @@
+Name: Joe G
+City: NYC
+Category: restaurants
+Cuisine: italian, italian_pizza
+Address: 244 West 56th Street, 10019
+Description: Not listed
+Website: https://joegrestaurant.com/
+Phone: +1-212-765-3160
+Email: customer_service@joegrestaurant.com
+Opening Hours: Mo 15:00-22:00; Tu-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7657529
+Longitude: -73.9828919
+OpenStreetMap URL: https://www.openstreetmap.org/node/13143970801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13143970801
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

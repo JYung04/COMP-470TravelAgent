@@ -1,0 +1,25 @@
+Name: Hotel le Bleu
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 370 4th Avenue, 11215
+Description: Not listed
+Website: https://www.hotellebleu.com
+Phone: +1-718-625-1500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6732677
+Longitude: -73.987102
+OpenStreetMap URL: https://www.openstreetmap.org/way/241850500
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241850500
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

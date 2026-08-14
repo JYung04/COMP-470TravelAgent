@@ -1,0 +1,25 @@
+Name: Soho Diner
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 320 West Broadway, New York NY 10013
+Description: Not listed
+Website: https://www.sohodinernyc.com/
+Phone: +1 212-965-3011
+Email: Not listed
+Opening Hours: Mo-Su 07:00+
+Wheelchair Accessibility: Not listed
+Latitude: 40.7220958
+Longitude: -74.0042287
+OpenStreetMap URL: https://www.openstreetmap.org/node/12259319359
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12259319359
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

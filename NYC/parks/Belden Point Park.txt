@@ -1,0 +1,25 @@
+Name: Belden Point Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: This park area should be updated. Morris Yacht & Beach Club and the Tony seafood restaurants are both private entities. Park designation gives impression that it is public land which it isn't
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8375468
+Longitude: -73.7828983
+OpenStreetMap URL: https://www.openstreetmap.org/way/44844928
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/44844928
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

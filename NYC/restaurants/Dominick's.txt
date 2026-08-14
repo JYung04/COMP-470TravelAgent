@@ -1,0 +1,25 @@
+Name: Dominick's
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 2335 Arthur Avenue, Bronx 10458
+Description: Not listed
+Website: https://www.facebook.com/Dominicks-Restaurant-102210239822815/
+Phone: +1 718 733-2807
+Email: Not listed
+Opening Hours: Th-Sa 12:00-21:00; Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8542838
+Longitude: -73.8889188
+OpenStreetMap URL: https://www.openstreetmap.org/node/3136825389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3136825389
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Sorelle
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.353327
+Longitude: -71.0529532
+OpenStreetMap URL: https://www.openstreetmap.org/node/3624083294
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3624083294
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

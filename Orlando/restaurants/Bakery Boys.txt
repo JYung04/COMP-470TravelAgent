@@ -1,0 +1,25 @@
+Name: Bakery Boys
+City: Orlando
+Category: restaurants
+Cuisine: deli
+Address: 603 Market Street, Celebration FL 34747
+Description: Not listed
+Website: https://www.nybakeryboys.com/
+Phone: +1-321-939-4416
+Email: BBNYbageldeli@gmail.com
+Opening Hours: Su-Th 07:00-18:00; Fr-Sa 07:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 28.3188016
+Longitude: -81.5406199
+OpenStreetMap URL: https://www.openstreetmap.org/node/2769868430
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2769868430
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

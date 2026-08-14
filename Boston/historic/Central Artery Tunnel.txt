@@ -1,0 +1,25 @@
+Name: Central Artery Tunnel
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.mass.gov/info-details/the-big-dig-project-background
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3624657
+Longitude: -71.0546745
+OpenStreetMap URL: https://www.openstreetmap.org/node/7738417275
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7738417275
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history; art

@@ -1,0 +1,24 @@
+Name: Rosarito Fish Shack
+City: NYC
+Category: restaurants
+Cuisine: seafood, american
+Address: 168 Wythe Avenue, 11249
+Description: Not listed
+Website: Not listed
+Phone: +1-718-388-8833
+Email: Not listed
+Opening Hours: Th 17:00-23:00; Fr,Sa 17:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7194963
+Longitude: -73.9606455
+OpenStreetMap URL: https://www.openstreetmap.org/node/2839715666
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2839715666
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

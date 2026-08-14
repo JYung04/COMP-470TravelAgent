@@ -1,0 +1,25 @@
+Name: Aqueduct Walk
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Aqueduct Walk is a linear public park in the West Bronx in New York City, New York. Operated by the New York City Department of Parks and Recreation, the park runs on the old Croton Aqueduct route. It stretches about 1.7 miles (2.7 km) between Kingsbridge Road to the north and Tremont Avenue to the south. Aqueduct Walk is a New York City scenic landmark, and the adjacent section of the aqueduct is listed on the National Register of Historic Places as a National Historic Landmark.
+Website: https://www.nycgovparks.org/parks/X001A/map
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8592962
+Longitude: -73.9075663
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3910502
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3910502
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

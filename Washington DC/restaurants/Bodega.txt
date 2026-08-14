@@ -1,0 +1,25 @@
+Name: Bodega
+City: Washington DC
+Category: restaurants
+Cuisine: spanish
+Address: 3116 M Street Northwest, Washington DC 20007
+Description: Not listed
+Website: https://bodegadc.com/
+Phone: +1-202-333-4733
+Email: Not listed
+Opening Hours: Mo-We 12:00-23:00; Fr 12:00-23:30; Sa 11:00-23:30; Su 11:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9050313
+Longitude: -77.0617637
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272417
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272417
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

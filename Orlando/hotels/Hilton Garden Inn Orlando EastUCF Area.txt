@@ -1,0 +1,25 @@
+Name: Hilton Garden Inn Orlando East/UCF Area
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1959 North Alafaya Trail, Orlando FL 32826
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/orlucgi-hilton-garden-inn-orlando-east-ucf-area/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5719175
+Longitude: -81.2067903
+OpenStreetMap URL: https://www.openstreetmap.org/way/917263771
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/917263771
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; gardens

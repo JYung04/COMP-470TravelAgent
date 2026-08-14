@@ -1,0 +1,24 @@
+Name: Everyday Sundae
+City: Washington DC
+Category: cafes
+Cuisine: Ice Cream Parlor
+Address: 713 Kennedy St NW, Washington, D.C. 20011
+Description: Not listed
+Website: https://www.everydaysundaedc.com
+Phone: (202) 723-0159
+Email: Not listed
+Opening Hours: Mo-Tu off; We-Su 15:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9565131
+Longitude: -77.0229229
+OpenStreetMap URL: https://www.openstreetmap.org/node/10984540571
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10984540571
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

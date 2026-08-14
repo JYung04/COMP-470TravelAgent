@@ -1,0 +1,25 @@
+Name: Fort Independence
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: 2100 William J. Day Boulevard;William J Day Boulevard, South Boston MA 02127
+Description: A National Register property categorized as site. Areas of significance include MILITARY. Listed date: 1970-10-15.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3383104
+Longitude: -71.0110941
+OpenStreetMap URL: https://www.openstreetmap.org/relation/64881
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/64881
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

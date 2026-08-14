@@ -1,0 +1,24 @@
+Name: U & I Restaurant
+City: NYC
+Category: restaurants
+Cuisine: greek
+Address: 4409 18th Avenue, 11230
+Description: Not listed
+Website: Not listed
+Phone: +1-718-435-7332
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6304564
+Longitude: -73.9774025
+OpenStreetMap URL: https://www.openstreetmap.org/node/11016355598
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11016355598
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

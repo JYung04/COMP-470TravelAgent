@@ -1,0 +1,25 @@
+Name: Penniman Road Play Area
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 25 Penniman Road
+Description: Officially classified as parks, playgrounds & athletic fields. Located in Allston-Brighton. Covers approximately 0.9 acres. Also known as Penniman-Hano Play Area.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3550421
+Longitude: -71.137175
+OpenStreetMap URL: https://www.openstreetmap.org/way/29837173
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29837173
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

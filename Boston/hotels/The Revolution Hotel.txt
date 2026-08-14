@@ -1,0 +1,25 @@
+Name: The Revolution Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 40 Berkeley Street, Boston MA 02116
+Description: Located at the intersection of Berkley and Appleton Streets in the heart of Boston’s South End and Back Bay, The Revolution Hotel offers a co-working space for the community’s creative set and a home base for travelers at rates that cannot be beat on a variety of room types smartly designed with modern, urban explorers in mind. The hotel draws inspiration from Boston’s rich history of innovators, thought leaders and risk takers that have helped shape the modern world. Interpretive art, stunning sculptures, and clever design cues speak to the notion of Boston ‘firsts’ – a common thread weaved throughout the guest experience.
+Website: https://therevolutionhotel.com/
+Phone: +1-617-848-9200
+Email: info@THEREVOLUTIONHOTEL.COM
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.346057
+Longitude: -71.0708438
+OpenStreetMap URL: https://www.openstreetmap.org/node/2818304792
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2818304792
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; art

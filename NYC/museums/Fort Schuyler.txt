@@ -1,0 +1,25 @@
+Name: Fort Schuyler
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: A National Register property categorized as district. Areas of significance include MILITARY; ARCHITECTURE. Listed date: 1976-06-29.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8052814
+Longitude: -73.7915732
+OpenStreetMap URL: https://www.openstreetmap.org/relation/3745992
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/3745992
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; architecture

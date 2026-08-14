@@ -1,0 +1,25 @@
+Name: Charlesmark Hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 655 Boylston Street, Boston MA 02116
+Description: Not listed
+Website: https://www.charlesmarkhotel.com/
+Phone: +1-617-247-1212
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3499981
+Longitude: -71.0785679
+OpenStreetMap URL: https://www.openstreetmap.org/node/7499693358
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7499693358
+Price: Not listed
+Rating: 5.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

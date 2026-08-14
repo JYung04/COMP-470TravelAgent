@@ -1,0 +1,25 @@
+Name: The Door
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 122-25 Guy R Brewer Boulevard
+Description: 163-07 Baisley Blvd., Jamaica, Queens Serving authentic, traditional Jamaican food in an upscale environment, The Door is a staple for those in Southeast Queens and beyond. Many New Yorkers find their way here in search of delicious dishes such as oxtail, escovitch fish and buttered lobster. On Thursday evenings check out the seafood and chicken buffet; on Sunday mornings there’s a breakfast buffet. Just 10 minutes (by car) from JFK Airport, this is a great first or last stop on a trip to New Yo
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6785665
+Longitude: -73.7794585
+OpenStreetMap URL: https://www.openstreetmap.org/node/5515267560
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5515267560
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

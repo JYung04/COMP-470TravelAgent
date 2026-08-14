@@ -1,0 +1,25 @@
+Name: Abbott Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 49 East 95th Street, Chicago IL 60628
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/abbott-robert-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.71902
+Longitude: -87.6220942
+OpenStreetMap URL: https://www.openstreetmap.org/relation/5249134
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/5249134
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

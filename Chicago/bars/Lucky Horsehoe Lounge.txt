@@ -1,0 +1,25 @@
+Name: Lucky Horsehoe Lounge
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3169 North Halsted Street, Chicago IL
+Description: Not listed
+Website: https://luckyhorseshoelounge.com/
+Phone: +1-773-404-3169
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9398678
+Longitude: -87.6490939
+OpenStreetMap URL: https://www.openstreetmap.org/node/5178274159
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5178274159
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

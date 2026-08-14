@@ -1,0 +1,25 @@
+Name: Steppenwolf Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 1650 North Halsted Street, Chicago IL 60614
+Description: Steppenwolf Theatre Company is a Chicago theater company founded in 1974 by Terry Kinney, Jeff Perry, and Gary Sinise in the Immaculate Conception grade school in Highland Park, Illinois and is now located in Chicago's Lincoln Park neighborhood on Halsted Street. After occupying several theatres in Chicago, in 1991, it moved into its own purpose-built complex with three performing spaces, the largest seating 550.
+Website: https://www.steppenwolf.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9125725
+Longitude: -87.6486809
+OpenStreetMap URL: https://www.openstreetmap.org/way/210315491
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210315491
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

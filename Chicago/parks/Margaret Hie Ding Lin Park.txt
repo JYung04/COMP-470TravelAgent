@@ -1,0 +1,25 @@
+Name: Margaret Hie Ding Lin Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1735 South State Street, Chicago IL 60616
+Description: Trying to make a tough decision, Sydney tosses balls at a basketball court to soothe her nerves in episode five. Lin Park is a small community park with a basketball court and playground on the city’s near South Side. This isn’t the park’s first appearance on the small screen — it has also been featured in commercials with Chicago Bulls stars Michael Jordan and Derrick Rose.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/lin-margaret-hie-ding-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8580455
+Longitude: -87.6267824
+OpenStreetMap URL: https://www.openstreetmap.org/way/218985812
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/218985812
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

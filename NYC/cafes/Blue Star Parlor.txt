@@ -1,0 +1,25 @@
+Name: Blue Star Parlor
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 1112 Cortelyou Road, Brooklyn NY 11218
+Description: Not listed
+Website: Not listed
+Phone: +1 347-365-9035
+Email: Not listed
+Opening Hours: 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6396937
+Longitude: -73.9674191
+OpenStreetMap URL: https://www.openstreetmap.org/node/9661877493
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9661877493
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

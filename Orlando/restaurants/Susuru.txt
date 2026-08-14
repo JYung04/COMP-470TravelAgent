@@ -1,0 +1,25 @@
+Name: Susuru
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: 8548 Palm Parkway, Orlando FL 32836
+Description: Not listed
+Website: https://susuruorl.com
+Phone: +1-407-778-4813
+Email: Not listed
+Opening Hours: Mo-Th 17:00-23:00; Fr-Sa 17:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3842081
+Longitude: -81.5013041
+OpenStreetMap URL: https://www.openstreetmap.org/node/1551588995
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1551588995
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

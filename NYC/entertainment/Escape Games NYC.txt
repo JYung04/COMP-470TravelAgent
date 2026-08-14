@@ -1,0 +1,25 @@
+Name: Escape Games NYC
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 79 Leonard Street, 10013
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7174772
+Longitude: -74.0050253
+OpenStreetMap URL: https://www.openstreetmap.org/node/5935221149
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5935221149
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

@@ -1,0 +1,25 @@
+Name: Pearl Indian Restaurant
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 738 Franklin Ave, Brooklyn, NY 11238, United States
+Description: Not listed
+Website: https://pearlindiannyc.com/
+Phone: +1-718-622-9500
+Email: Not listed
+Opening Hours: Mo-Th 11:30-15:30,17:00-22:30; Fr 11:30-15:30,17:00-23:30; Sa 12:00-23:00; Su 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.67321
+Longitude: -73.9572049
+OpenStreetMap URL: https://www.openstreetmap.org/node/4092436389
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4092436389
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

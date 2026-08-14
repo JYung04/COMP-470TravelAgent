@@ -1,0 +1,25 @@
+Name: Joe's Seafood, Prime Steak & Stone Crab - Washington DC
+City: Washington DC
+Category: restaurants
+Cuisine: seafood
+Address: 750 15th Street Northwest, Washington DC 20005
+Description: Not listed
+Website: https://www.joes.net/washington-dc
+Phone: +1 202-489-0140
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-22:00; Su 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8999964
+Longitude: -77.0338962
+OpenStreetMap URL: https://www.openstreetmap.org/node/2792878028
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2792878028
+Price: $$$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

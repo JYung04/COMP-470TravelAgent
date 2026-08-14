@@ -1,0 +1,25 @@
+Name: Penny
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 288 North 8th Street Brooklyn NY 11211
+Description: Not listed
+Website: https://www.penny-nyc.com
+Phone: +1-929-594-2020
+Email: Not listed
+Opening Hours: Mo-Su 17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7308231
+Longitude: -73.989714
+OpenStreetMap URL: https://www.openstreetmap.org/node/12890222603
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12890222603
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

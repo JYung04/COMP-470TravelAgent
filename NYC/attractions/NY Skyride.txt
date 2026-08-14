@@ -1,0 +1,25 @@
+Name: NY Skyride
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: 350 5th Avenue, New York NY 10118
+Description: Not listed
+Website: https://skyride.com
+Phone: +1 212-279-9777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7483271
+Longitude: -73.9856549
+OpenStreetMap URL: https://www.openstreetmap.org/node/5190610589
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5190610589
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

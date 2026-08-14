@@ -1,0 +1,25 @@
+Name: Nama
+City: Washington DC
+Category: restaurants
+Cuisine: sushi
+Address: 475 K Street Northwest
+Description: Not listed
+Website: https://namadc.com
+Phone: Not listed
+Email: namadc@schlowrg.com
+Opening Hours: Mo-Th,Su 16:00-21:00; Fr-Sa 16:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9027653
+Longitude: -77.0183075
+OpenStreetMap URL: https://www.openstreetmap.org/node/11345449272
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11345449272
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

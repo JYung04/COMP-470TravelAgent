@@ -1,0 +1,25 @@
+Name: Park No. 576
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2100 East 134th Street, Chicago IL 60633
+Description: Under Development
+Website: https://www.chicagoparkdistrict.com/parks-facilities/park-no-576-whitford-pond
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6482719
+Longitude: -87.5679502
+OpenStreetMap URL: https://www.openstreetmap.org/relation/5233939
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/5233939
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

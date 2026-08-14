@@ -1,0 +1,25 @@
+Name: Thai Thani
+City: Orlando
+Category: restaurants
+Cuisine: thai
+Address: 600 Market Street, Celebration FL 34747
+Description: Not listed
+Website: https://thaithanifl.com/
+Phone: +1 407-566-9444
+Email: pbthaibistro@gmail.com
+Opening Hours: Su-Th 11:00-22:00; Fr-Sa 11:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 28.3187075
+Longitude: -81.5409435
+OpenStreetMap URL: https://www.openstreetmap.org/node/761842943
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/761842943
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

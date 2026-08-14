@@ -1,0 +1,25 @@
+Name: Palm Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 1225 19th Street Northwest
+Description: Not listed
+Website: https://www.thepalm.com/location/the-palm-washington-dc/
+Phone: +1-202-293-9091
+Email: Not listed
+Opening Hours: Mo-Th 11:30-21:00; Fr 11:30-22:00; Sa 17:00-22:00; Su 16:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 38.9066041
+Longitude: -77.0432122
+OpenStreetMap URL: https://www.openstreetmap.org/node/739339984
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739339984
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

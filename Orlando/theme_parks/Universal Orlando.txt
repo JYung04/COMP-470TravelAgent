@@ -1,0 +1,25 @@
+Name: Universal Orlando
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 6000 Universal Boulevard, Orlando FL 32819
+Description: 5800 Universal Boulevard | Universal Orlando Resort Live like a star and get treated like a celebrity with impeccable surroundings, laid-back attitude and show-stopping service. Supremely talented chefs offer culinary nirvana from a famed steakhouse to delicious American classic cuisine. The sweeping California mission-style design welcomes you to escape to a sensational world with a palm-lined swimming pool featuring underwater music, incredible memorabilia and amped-up recreation featuring liv
+Website: https://www.universalorlando.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4571143
+Longitude: -81.4552939
+OpenStreetMap URL: https://www.openstreetmap.org/relation/19050841
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/19050841
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing; music

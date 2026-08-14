@@ -1,0 +1,25 @@
+Name: JINYA Ramen Bar
+City: Orlando
+Category: restaurants
+Cuisine: ramen
+Address: 8 North Summerlin Avenue, Orlando FL 32801
+Description: Not listed
+Website: https://www.jinyaramenbar.com
+Phone: +1-407-704-1825
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5427212
+Longitude: -81.368628
+OpenStreetMap URL: https://www.openstreetmap.org/node/11007021201
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11007021201
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

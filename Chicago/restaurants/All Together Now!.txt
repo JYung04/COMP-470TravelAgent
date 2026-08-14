@@ -1,0 +1,24 @@
+Name: All Together Now!
+City: Chicago
+Category: restaurants
+Cuisine: Wine Bar
+Address: 2119 West Chicago Avenue, Chicago IL 60622
+Description: Not listed
+Website: http://www.brothersandsisters.fun
+Phone: (773) 661-1599
+Email: Not listed
+Opening Hours: Tu-Fr 11:00-21:00; Sa 10:00-21:00; Su 10:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8956638
+Longitude: -87.680397
+OpenStreetMap URL: https://www.openstreetmap.org/node/6269127897
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6269127897
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

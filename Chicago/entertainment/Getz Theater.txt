@@ -1,0 +1,25 @@
+Name: Getz Theater
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 72 East 11th Street, Chicago IL 60605
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8695541
+Longitude: -87.6250819
+OpenStreetMap URL: https://www.openstreetmap.org/way/150720481
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/150720481
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

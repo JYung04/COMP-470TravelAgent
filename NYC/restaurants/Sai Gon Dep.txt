@@ -1,0 +1,25 @@
+Name: Sai Gon Dep
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 719 2nd Avenue, 10016
+Description: Not listed
+Website: Not listed
+Phone: +1-212-986-4420
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7477679
+Longitude: -73.9739443
+OpenStreetMap URL: https://www.openstreetmap.org/node/7182200996
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7182200996
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

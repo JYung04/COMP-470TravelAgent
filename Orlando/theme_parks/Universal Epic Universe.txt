@@ -1,0 +1,25 @@
+Name: Universal Epic Universe
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 1001 Epic Boulevard, Orlando FL 32819
+Description: Universal Epic Universe is a theme park located in Orlando, Florida, United States. Owned by NBCUniversal and operated by Universal Destinations & Experiences, the park officially opened on May 22, 2025, as the fourth park at Universal Orlando Resort. It is situated within a larger 750-acre (300 ha) land acquisition a few miles south of the resort's other parks and features five themed areas: Celestial Park, Dark Universe, How to Train Your Dragon – Isle of Berk, Super Nintendo World, and The Wizarding World of Harry Potter – Ministry of Magic.
+Website: https://www.universalorlando.com/web/en/us/theme-parks/epic-universe
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4435028
+Longitude: -81.447741
+OpenStreetMap URL: https://www.openstreetmap.org/way/1372221500
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1372221500
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: universal epic universe
+Best For: sightseeing

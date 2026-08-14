@@ -1,0 +1,25 @@
+Name: Hotel Rendale Washington DC
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1900 Connecticut Avenue Northwest, Washington DC 20009
+Description: Not listed
+Website: https://www.hotelrendaledc.com/
+Phone: +1 202 332 9300
+Email: info@hotelrendaledc.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9160449
+Longitude: -77.0468105
+OpenStreetMap URL: https://www.openstreetmap.org/node/740372175
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740372175
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

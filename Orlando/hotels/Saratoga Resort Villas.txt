@@ -1,0 +1,25 @@
+Name: Saratoga Resort Villas
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 4787 West Irlo Bronson Memorial Highway, Kissimmee FL 34746-5332
+Description: Not listed
+Website: https://www.saratogaresortvillas.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3298294
+Longitude: -81.4702173
+OpenStreetMap URL: https://www.openstreetmap.org/way/557553362
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/557553362
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

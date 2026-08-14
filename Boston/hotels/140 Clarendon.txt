@@ -1,0 +1,25 @@
+Name: 140 Clarendon
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 140 Clarendon Street, Boston MA 02116
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3485927
+Longitude: -71.0744782
+OpenStreetMap URL: https://www.openstreetmap.org/way/241971727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241971727
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

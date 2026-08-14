@@ -1,0 +1,25 @@
+Name: Oliang
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 2428 North Ashland Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://oliangcafechicago.com/
+Phone: +1 312-955-0422
+Email: Not listed
+Opening Hours: Tu-Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9260419
+Longitude: -87.6685609
+OpenStreetMap URL: https://www.openstreetmap.org/way/209882878
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209882878
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

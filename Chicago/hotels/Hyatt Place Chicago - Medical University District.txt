@@ -1,0 +1,25 @@
+Name: Hyatt Place Chicago - Medical / University District
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 1835 West Harrison Street, Chicago IL 60612
+Description: Not listed
+Website: https://www.hyatt.com/en-US/hotel/illinois/hyatt-place-chicago-medical-university-district/chizt
+Phone: +1 312-341-1234
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8738377
+Longitude: -87.6727073
+OpenStreetMap URL: https://www.openstreetmap.org/way/1504318157
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1504318157
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

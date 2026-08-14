@@ -1,0 +1,25 @@
+Name: Tenley-Friendship Branch Library
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 4450 Wisconsin Avenue Northwest
+Description: The Tenley-Friendship Neighborhood Library is a branch of the District of Columbia Public Library in the Tenleytown neighborhood of Washington, D.C. Located at 4450 Wisconsin Avenue NW, it services the neighborhoods of Tenleytown and Friendship Heights. A public library branch first opened in the area in 1926, and a library at the current site opened in 1960. A redesigned library branch was built at a cost of $18 million and opened in 2011. The Washington Post described the new library building, which featured a green roof and other sustainable-design features, as "one of the best things for D.C. in decades", though it experienced years of problems with a leaky roof.
+Website: https://www.dclibrary.org/plan-visit/tenley-friendship-library
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo,Tu 10:00-18:00; We 10:00-20:00; Th 12:00-20:00; Fr,Sa 10:00-18:00; Su 13:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9476
+Longitude: -77.0799087
+OpenStreetMap URL: https://www.openstreetmap.org/way/130432619
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/130432619
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

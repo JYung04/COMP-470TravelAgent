@@ -1,0 +1,25 @@
+Name: Arts & Crafts Beer Parlor
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 1135 Amsterdam Avenue, New York NY 10025
+Description: Not listed
+Website: https://www.artsandcraftsbarnyc.com/
+Phone: +1-917-675-6835
+Email: Not listed
+Opening Hours: Mo,Su 15:00-24:00; Tu 15:00-00:00; We,Th 12:00-24:00; Fr,Sa 12:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8065783
+Longitude: -73.9609934
+OpenStreetMap URL: https://www.openstreetmap.org/node/7004346066
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7004346066
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

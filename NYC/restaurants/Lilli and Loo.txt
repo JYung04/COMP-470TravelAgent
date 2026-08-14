@@ -1,0 +1,24 @@
+Name: Lilli and Loo
+City: NYC
+Category: restaurants
+Cuisine: chinese, sushi
+Address: 785 Lexington Avenue, 10065
+Description: Not listed
+Website: https://lilliandloonyc.com/
+Phone: +1 212-421-7800
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-22:00; Sa, Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7635568
+Longitude: -73.9670208
+OpenStreetMap URL: https://www.openstreetmap.org/node/5090752521
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5090752521
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

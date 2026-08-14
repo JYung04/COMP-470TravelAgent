@@ -1,0 +1,24 @@
+Name: JJ's Fusion Grille
+City: Orlando
+Category: restaurants
+Cuisine: mediterranean, mexican, lebanese
+Address: 2950 Curry Ford Road, 32806
+Description: Not listed
+Website: http://myjjsgrille.com
+Phone: +1-407-802-2947
+Email: Not listed
+Opening Hours: Mo-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5236071
+Longitude: -81.345327
+OpenStreetMap URL: https://www.openstreetmap.org/node/4834976721
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4834976721
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

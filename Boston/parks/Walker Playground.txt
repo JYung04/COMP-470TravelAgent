@@ -1,0 +1,25 @@
+Name: Walker Playground
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Official Boston park data lists features including Athletic Field, Athletic Seating, Basketball, Drinking Fountain, Playground, Restroom, Shade Stucture, Spray Play, Tennis.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2779832
+Longitude: -71.089534
+OpenStreetMap URL: https://www.openstreetmap.org/way/29818526
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29818526
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Bearing Witness
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Bearing Witness is an outdoor 1997 sculpture by Martin Puryear, installed outside the Ronald Reagan Building and International Trade Center in Washington, D.C., in the United States. Twenty plus years after its construction the sculpture follows the characteristic style of Puryear and remains standing with minimal maintenance twenty plus years after its construction. The meaning of the sculpture is left up to interpretation, although many observers read into the inspirations Puryear may have had when designing the work.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8936785
+Longitude: -77.0299354
+OpenStreetMap URL: https://www.openstreetmap.org/node/5339811452
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5339811452
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing; art

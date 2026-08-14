@@ -1,0 +1,25 @@
+Name: Sepia
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 123 North Jefferson Street, Chicago IL 60661
+Description: Sepia In a late 19th-century former print shop, Sepia has the, well, sepia-toned feel of a classic. The upscale spot still shines after more than a decade in business. Filled with hand-crafted millwork, burnished brass, and vintage stemware makes an ideal setting for an intimate meal between friends or business colleagues. Chef Andrew Zimmerman’s inventive seasonal menu is designed to showcase the flavors of the mostly organic ingredients.
+Website: https://www.sepiachicago.com/
+Phone: +1-312-441-1920
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.883943
+Longitude: -87.6425174
+OpenStreetMap URL: https://www.openstreetmap.org/node/4733127521
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4733127521
+Price: Not listed
+Rating: 4.6
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

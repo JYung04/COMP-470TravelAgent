@@ -1,0 +1,25 @@
+Name: Fortuna Bakery & Cafe
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: 12701 John Young Parkway, Orlando FL 32837
+Description: Not listed
+Website: http://www.fortunabakerycafe.com/
+Phone: +1 407 855 7070
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-17:00, Su 15:00
+Wheelchair Accessibility: yes
+Latitude: 28.3806655
+Longitude: -81.4247283
+OpenStreetMap URL: https://www.openstreetmap.org/node/9505562925
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9505562925
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Down to Earth Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/opportunities/volunteer/group/down-to-earth-garden
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7280955
+Longitude: -73.9792509
+OpenStreetMap URL: https://www.openstreetmap.org/way/1410368742
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1410368742
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art; gardens

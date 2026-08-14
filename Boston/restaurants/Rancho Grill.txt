@@ -1,0 +1,24 @@
+Name: Rancho Grill
+City: Boston
+Category: restaurants
+Cuisine: pizza, burger, american, steak_house
+Address: 3 Witham Bank East, Boston PE21 9JU
+Description: Not listed
+Website: https://grill-rancho.co.uk/
+Phone: +44 1205 315220
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 52.9828119
+Longitude: -0.0307313
+OpenStreetMap URL: https://www.openstreetmap.org/node/316201920
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/316201920
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Grill Room
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1050 31st Street Northwest, Washington DC 20007
+Description: Not listed
+Website: https://www.rosewoodhotels.com/en/washington-dc/dining/the-grill-room
+Phone: +1-202-617-2424
+Email: Not listed
+Opening Hours: Su-Th 06:30-10:00, 11:30-14:30, 17:30-22:00; Fr-Sa 06:30-10:00, 11:30-14:30, 17:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9040527
+Longitude: -77.0613735
+OpenStreetMap URL: https://www.openstreetmap.org/node/4879536897
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4879536897
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

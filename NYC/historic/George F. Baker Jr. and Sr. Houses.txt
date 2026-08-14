@@ -1,0 +1,25 @@
+Name: George F. Baker Jr. and Sr. Houses
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: East 93rd Street, New York NY 10128
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7848964
+Longitude: -73.954166
+OpenStreetMap URL: https://www.openstreetmap.org/way/266940034
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266940034
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

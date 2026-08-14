@@ -1,0 +1,25 @@
+Name: BomBon Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3748 West 26th Street, Chicago IL 60623
+Description: Not listed
+Website: https://bomboncakes.com/locations/
+Phone: +1-773-277-8777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8444849
+Longitude: -87.7192433
+OpenStreetMap URL: https://www.openstreetmap.org/node/6268317885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6268317885
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

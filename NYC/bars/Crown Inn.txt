@@ -1,0 +1,25 @@
+Name: Crown Inn
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 724 Franklin Avenue, 11238
+Description: Not listed
+Website: https://crowninnbk.com
+Phone: +1-334-463-0756
+Email: Not listed
+Opening Hours: Mo-We 16:00-24:00; Th 14:00-02:00; Fr 14:00-02:30; Sa 13:00-02:30; Su 14:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6738854
+Longitude: -73.9569638
+OpenStreetMap URL: https://www.openstreetmap.org/node/2705030238
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2705030238
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

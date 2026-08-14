@@ -1,0 +1,25 @@
+Name: Reggae Vibes
+City: Washington DC
+Category: restaurants
+Cuisine: jamaican
+Address: 7708 Georgia Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 240-531-2502
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9851761
+Longitude: -77.0271282
+OpenStreetMap URL: https://www.openstreetmap.org/way/80566124
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/80566124
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

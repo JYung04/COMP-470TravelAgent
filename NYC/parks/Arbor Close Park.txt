@@ -1,0 +1,25 @@
+Name: Arbor Close Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Forest Hills NY 11375
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7174908
+Longitude: -73.8378766
+OpenStreetMap URL: https://www.openstreetmap.org/way/468459753
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/468459753
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

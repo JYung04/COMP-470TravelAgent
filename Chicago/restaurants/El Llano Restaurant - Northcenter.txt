@@ -1,0 +1,25 @@
+Name: El Llano Restaurant - Northcenter
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 3941 North Lincoln Avenue, Chicago IL 60613
+Description: Not listed
+Website: https://www.llanochicago.com/
+Phone: +1-773-868-1899
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9535455
+Longitude: -87.6779861
+OpenStreetMap URL: https://www.openstreetmap.org/node/6285864716
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6285864716
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

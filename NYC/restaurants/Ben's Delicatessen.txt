@@ -1,0 +1,25 @@
+Name: Ben's Delicatessen
+City: NYC
+Category: restaurants
+Cuisine: deli
+Address: 209 West 38th Street
+Description: Not listed
+Website: https://www.bensdeli.net/locations/manhattan-ny-kosher-deli-restaurant/
+Phone: +1 212-398-2367
+Email: manhattan@bensdeli.net
+Opening Hours: 09:00-21:00 open "Deli" || 11:00-21:00 open "Dining room"
+Wheelchair Accessibility: Not listed
+Latitude: 40.7539008
+Longitude: -73.9892603
+OpenStreetMap URL: https://www.openstreetmap.org/node/6053487985
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6053487985
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

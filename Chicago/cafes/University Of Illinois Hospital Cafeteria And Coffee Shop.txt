@@ -1,0 +1,25 @@
+Name: University Of Illinois Hospital Cafeteria And Coffee Shop
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1740 West Taylor Street, Chicago IL 60612
+Description: Not listed
+Website: https://hospital.uillinois.edu/patients-and-visitors/visiting-a-patient/dining
+Phone: +1-866-600-2273
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8694161
+Longitude: -87.6705195
+OpenStreetMap URL: https://www.openstreetmap.org/node/6307102401
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6307102401
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

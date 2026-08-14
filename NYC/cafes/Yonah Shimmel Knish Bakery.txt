@@ -1,0 +1,25 @@
+Name: Yonah Shimmel Knish Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 137 East Houston Street, 10002
+Description: Yonah Schimmel's Knish Bakery is a bakery and restaurant, located at 137 East Houston Street, on the Lower East Side of Manhattan, that has been selling knishes since 1890. Its current location on Houston Street opened in 1910. It is certified CupK Kosher.
+Website: http://www.knishery.com
+Phone: +1-212-477-2858
+Email: Not listed
+Opening Hours: Mo-Su 09:30-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7231858
+Longitude: -73.9901312
+OpenStreetMap URL: https://www.openstreetmap.org/node/2486570141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2486570141
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

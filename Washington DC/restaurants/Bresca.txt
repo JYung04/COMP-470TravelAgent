@@ -1,0 +1,25 @@
+Name: Bresca
+City: Washington DC
+Category: restaurants
+Cuisine: french
+Address: 1906 14th Street Northwest, Washington DC 20009
+Description: Not listed
+Website: http://www.brescadc.com/
+Phone: +1 202-518-7926
+Email: Not listed
+Opening Hours: Mo off; Tu off; We-Th 05:30-21:30; Fr 05:00-22:00; Sa 04:00-22:00; Su 04:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9157574
+Longitude: -77.0321871
+OpenStreetMap URL: https://www.openstreetmap.org/node/6299710951
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6299710951
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

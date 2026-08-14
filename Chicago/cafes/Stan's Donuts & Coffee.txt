@@ -1,0 +1,25 @@
+Name: Stan's Donuts & Coffee
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1560 North Damen Avenue, Chicago IL 60622
+Description: Not listed
+Website: http://www.stansdonutschicago.com/
+Phone: +1-773-360-7386
+Email: Not listed
+Opening Hours: Su-We 06:30-21:00; Th 06:30-22:00; Fr,Sa 06:30-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9100107
+Longitude: -87.6776111
+OpenStreetMap URL: https://www.openstreetmap.org/node/3570221093
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3570221093
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Chilacates
+City: Boston
+Category: restaurants
+Cuisine: mexican
+Address: 4257 Washington Street, Boston MA 02131
+Description: Not listed
+Website: http://chilacates.mx/
+Phone: +1 617-477-4094
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2855933
+Longitude: -71.1292373
+OpenStreetMap URL: https://www.openstreetmap.org/node/12063881864
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12063881864
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

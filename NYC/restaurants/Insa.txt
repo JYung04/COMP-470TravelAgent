@@ -1,0 +1,25 @@
+Name: Insa
+City: NYC
+Category: restaurants
+Cuisine: korean
+Address: 328 Douglass Street, 11217
+Description: 328 Douglass St., Gowanus, Brooklyn Cuisine: Korean If your kids are off book on Mean Girls , sing K-pop in their sleep or have an armful of Swiftie bracelets, they’re gonna love the karaoke at Korean restaurant Insa—and all will love chef and partner Sohui Kim’s authentic menu of Korean favorites. Insa has a few choices for dining depending on whether you’re up for everyone sitting together at one of the big tables in the massive main room (it’s roughly the size of an airport hangar) or would p
+Website: https://www.insabrooklyn.com/
+Phone: +1-718-855-2620
+Email: Not listed
+Opening Hours: We 17:30-22:00; Th-Sa 17:30-24:00; Su 17:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6794303
+Longitude: -73.9826835
+OpenStreetMap URL: https://www.openstreetmap.org/way/241845981
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241845981
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; families; art

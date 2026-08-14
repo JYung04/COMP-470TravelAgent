@@ -1,0 +1,25 @@
+Name: Elfegne
+City: Washington DC
+Category: restaurants
+Cuisine: ethiopian
+Address: 2420 18th Street Northwest, Washington DC 20009-2004
+Description: Not listed
+Website: https://elfegnedc.com/
+Phone: +1 202-667-4700
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:00; Fr-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9213247
+Longitude: -77.0424456
+OpenStreetMap URL: https://www.openstreetmap.org/node/7782851108
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7782851108
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

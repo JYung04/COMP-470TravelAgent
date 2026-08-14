@@ -1,0 +1,25 @@
+Name: Taqueria Los Pérez
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 1344 H Street Northeast, Washington DC 20002
+Description: Not listed
+Website: https://www.taquerialosperez.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 08:00-21:00; Fr-Su 08:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9003505
+Longitude: -76.9867763
+OpenStreetMap URL: https://www.openstreetmap.org/node/6432768814
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6432768814
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

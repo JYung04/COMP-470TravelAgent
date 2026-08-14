@@ -1,0 +1,25 @@
+Name: K. 159
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Carbon fiber and mirror polished aluminum. Dimensions approximately 19'1.5" x 21' x 22'3.5"
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.5749291
+Longitude: -73.9767714
+OpenStreetMap URL: https://www.openstreetmap.org/node/9384326221
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9384326221
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

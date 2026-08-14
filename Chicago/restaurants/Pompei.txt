@@ -1,0 +1,25 @@
+Name: Pompei
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 1531 West Taylor Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.pompeiusa.com
+Phone: +1-312-421-5179
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8691156
+Longitude: -87.6655365
+OpenStreetMap URL: https://www.openstreetmap.org/node/6300477487
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6300477487
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hoosier Mama Pie Company
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1618 1/2 West Chicago Avenue, Chicago IL 60622
+Description: Not listed
+Website: https://hoosiermamapie.com/
+Phone: +1-312-243-4846
+Email: Not listed
+Opening Hours: Tu-Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8962266
+Longitude: -87.6681081
+OpenStreetMap URL: https://www.openstreetmap.org/node/2365034037
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2365034037
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

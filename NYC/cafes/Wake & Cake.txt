@@ -1,0 +1,25 @@
+Name: Wake & Cake
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: Not listed
+Description: cannabis-infused desserts
+Website: Not listed
+Phone: +1-718-775-7946
+Email: Not listed
+Opening Hours: We-Th 16:00-21:00; Fr-Sa 02:00-20:00; Su 12:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6312278
+Longitude: -74.0223046
+OpenStreetMap URL: https://www.openstreetmap.org/node/2553065354
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2553065354
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Sitar Art Center
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1700 kalorama street
+Description: Not listed
+Website: https://www.sitarartscenter.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.921005
+Longitude: -77.0392357
+OpenStreetMap URL: https://www.openstreetmap.org/node/8446804568
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8446804568
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture; art

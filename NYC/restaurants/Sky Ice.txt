@@ -1,0 +1,24 @@
+Name: Sky Ice
+City: NYC
+Category: restaurants
+Cuisine: thai, ice_cream
+Address: 63 5th Avenue, 11217
+Description: Not listed
+Website: Not listed
+Phone: +1-718-230-0910
+Email: Not listed
+Opening Hours: Mo 12:00-22:30; Tu 16:30-22:30; We,Th 12:00-22:30; Fr,Sa 12:00-23:00; Su 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.680712
+Longitude: -73.9773803
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550054034
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550054034
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

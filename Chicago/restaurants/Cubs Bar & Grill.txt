@@ -1,0 +1,25 @@
+Name: Cubs Bar & Grill
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9754593
+Longitude: -87.9029986
+OpenStreetMap URL: https://www.openstreetmap.org/node/2285134858
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2285134858
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

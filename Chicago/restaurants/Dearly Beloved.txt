@@ -1,0 +1,25 @@
+Name: Dearly Beloved
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 900 North Franklin Street, Chicago IL 60610
+Description: Not listed
+Website: https://www.dearlybelovedchicago.com/
+Phone: Not listed
+Email: Lauren@machinehospitality.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.899178
+Longitude: -87.6360476
+OpenStreetMap URL: https://www.openstreetmap.org/node/6319246272
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6319246272
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

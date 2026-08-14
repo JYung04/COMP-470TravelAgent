@@ -1,0 +1,24 @@
+Name: The King of Meat
+City: NYC
+Category: restaurants
+Cuisine: steak_house, mexican, burger
+Address: Not listed
+Description: Not listed
+Website: https://thekingofmeat.net
+Phone: +1-718-489-9084
+Email: Not listed
+Opening Hours: Mo-We 17:00-01:00, Th 17:00-02:00, Fr 17:00-04:00, Sa 12:00-04:00, Su 12:00-01:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6483668
+Longitude: -74.0071506
+OpenStreetMap URL: https://www.openstreetmap.org/node/10712803766
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10712803766
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

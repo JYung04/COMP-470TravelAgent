@@ -1,0 +1,25 @@
+Name: North Shore Beach
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1040 W NORTH SHORE AVE, Chicago, IL 60626
+Description: Officially classified as passive park. Covers approximately 0.7 acres. Facilities include beach.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.003673
+Longitude: -87.6571948
+OpenStreetMap URL: https://www.openstreetmap.org/way/1466119076
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1466119076
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

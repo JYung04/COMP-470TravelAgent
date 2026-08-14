@@ -1,0 +1,25 @@
+Name: Driftwood
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 1021 West Montrose Avenue, Chicago IL 60613
+Description: Not listed
+Website: Not listed
+Phone: +1-847-962-8906
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.961622
+Longitude: -87.6557775
+OpenStreetMap URL: https://www.openstreetmap.org/node/6284798616
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6284798616
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Tiny Tapp
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: If you’re looking for a waterfront beer garden, this is the place to be. Tiny Tapp is located on the scenic Chicago Riverwalk, which means you can enjoy a cold drink and sweeping river views at the same time. Plus — beer, wine, and cocktails on tap! There’s also a full menu of munchies that pair perfectly with a cold beer, like street corn nachos and Chicago style hot dogs.
+Website: http://www.tinytapp.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8870511
+Longitude: -87.6302742
+OpenStreetMap URL: https://www.openstreetmap.org/node/5118121241
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5118121241
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; views; gardens

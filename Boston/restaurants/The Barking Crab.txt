@@ -1,0 +1,25 @@
+Name: The Barking Crab
+City: Boston
+Category: restaurants
+Cuisine: seafood
+Address: 88 Sleeper Street, Boston MA 02210
+Description: Best of Boston winner, 2001 (Best Seafood, Affordable) , 2002 (Best Seafood, Affordable) , and 2005 (Best Seafood, Affordable) You can’t miss that bright red- and yellow-striped big top tent on the waterfront. This Seaport fixture beckons with its boisterous crowds gathered for classic crab-shack eats: platters piled high with crustaceans and drawn butter dip; fried-seafood standards—like Ipswich clams or Rhode Island calamari; and plenty of cold beer to wash it all down. The space is strung with lobster traps and strands of lights; it ain’t fancy, but it’s a lot of fun. 88 Sleeper St., Seaport District, Boston, 617-426-2722, barkingcrab.com .
+Website: https://barkingcrab.com/
+Phone: +1-617-426-2722
+Email: Boston@barkingcrab.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.353709
+Longitude: -71.048734
+OpenStreetMap URL: https://www.openstreetmap.org/node/1325873773
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1325873773
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

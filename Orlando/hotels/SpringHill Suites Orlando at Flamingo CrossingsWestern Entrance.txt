@@ -1,0 +1,25 @@
+Name: SpringHill Suites Orlando at Flamingo Crossings/Western Entrance
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 13279 Hartzog Road, Winter Garden FL 34787
+Description: Not listed
+Website: https://www.marriott.com/mcofm
+Phone: +1 407-507-1200
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3808422
+Longitude: -81.6142333
+OpenStreetMap URL: https://www.openstreetmap.org/way/398438034
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/398438034
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

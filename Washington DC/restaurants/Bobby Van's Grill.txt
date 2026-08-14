@@ -1,0 +1,25 @@
+Name: Bobby Van's Grill
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1201 New York Avenue Northwest, Washington DC 20005-0002
+Description: Not listed
+Website: https://bobbyvansnyave.com/
+Phone: +1 202-589-1504
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-21:00; Sa 17:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 38.9009286
+Longitude: -77.0282816
+OpenStreetMap URL: https://www.openstreetmap.org/node/739262811
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739262811
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

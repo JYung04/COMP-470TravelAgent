@@ -1,0 +1,25 @@
+Name: North Center Prime
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 4138 North Lincoln Avenue, Chicago 60618
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-Th 17:00-21:30; Fr-Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9569918
+Longitude: -87.680937
+OpenStreetMap URL: https://www.openstreetmap.org/node/13131946702
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13131946702
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

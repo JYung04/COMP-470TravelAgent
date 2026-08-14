@@ -1,0 +1,25 @@
+Name: White House Kitchen Garden
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: The White House has had multiple vegetable gardens since its completion in 1800. John and Abigail Adams, Eleanor Roosevelt, Hillary Clinton and Michelle Obama all have had their own versions of vegetable gardens. Roosevelt planted the White House victory garden during World War II to promote the use of victory gardens by American citizens in a time of possible food scarcity. Hillary Clinton had a vegetable garden constructed on the roof of the White House. On March 20, 2009, Michelle Obama broke ground on the largest and most expansive vegetable garden to date on the White House lawn.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8958052
+Longitude: -77.0370912
+OpenStreetMap URL: https://www.openstreetmap.org/way/244112977
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/244112977
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; gardens

@@ -1,0 +1,25 @@
+Name: Hash House A Go Go
+City: Orlando
+Category: restaurants
+Cuisine: New American, Dating service, Sandwich shop
+Address: 5350 International Drive, Orlando FL
+Description: Not listed
+Website: http://hashhouseagogo.com/
+Phone: +1 407-370-4646
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4624436
+Longitude: -81.4507254
+OpenStreetMap URL: https://www.openstreetmap.org/way/141032279
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/141032279
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

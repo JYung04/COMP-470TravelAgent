@@ -1,0 +1,25 @@
+Name: Mugar Memorial Library
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 771 Commonwealth Avenue, Boston MA 02215
+Description: The Mugar Memorial Library is the primary library for study, teaching, and research in the humanities and social sciences for Boston University. It was opened in 1966. Stephen P. Mugar, an Armenian immigrant who was successful in the grocery business, provided the naming gift to commemorate his parents. Mugar's entrance carries an inscription from Stephen honoring his parents. In coming to America from Armenia my parents opened the door of Freedom to me. America's public schools & libraries opened my eyes to the unlimited opportunity in this great land, as well as the privileges and obligations of citizenship. May this library serve over the years as a similar inspiration to all who use it. In memory of my father and.
+Website: https://www.bu.edu/library/mugar-memorial/
+Phone: +1-617-353-2700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3510008
+Longitude: -71.1080037
+OpenStreetMap URL: https://www.openstreetmap.org/way/130209089
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/130209089
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

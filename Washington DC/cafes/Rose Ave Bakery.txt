@@ -1,0 +1,24 @@
+Name: Rose Ave Bakery
+City: Washington DC
+Category: cafes
+Cuisine: asian, american
+Address: 2633 Connecticut Avenue Northwest, 20008
+Description: Woodley Park's Rose Ave Bakery puts a Southeast Asian spin on the classic bakery, pairing expertly brewed coffee with colorful pastries inspired by Chef Rose Nguyen's heritage. Whether you're craving a pandan coconut doughnut, an ube-filled brioche or a savory garlic scallion bun, each pastry blends classic techniques with bold flavors. Named 2026 RAMMY Pastry Chef or Baker of the Year , Nguyen has made Rose Ave a favorite stop for both locals and visitors looking to start the day on a sweet not
+Website: https://www.roseavebakery.com/
+Phone: +1-202-506-4380
+Email: Not listed
+Opening Hours: Mo off; Tu-Fr 08:00-16:00; Sa-Su 09:00-13:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9245432
+Longitude: -77.0517705
+OpenStreetMap URL: https://www.openstreetmap.org/node/7110695233
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7110695233
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

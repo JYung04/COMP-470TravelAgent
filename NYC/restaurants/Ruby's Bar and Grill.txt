@@ -1,0 +1,24 @@
+Name: Ruby's Bar and Grill
+City: NYC
+Category: restaurants
+Cuisine: burger, sandwich, chicken, american
+Address: 213, Riegelmann Boardwalk, NY 11235, United States
+Description: Not listed
+Website: http://rubysbar.com/
+Phone: +1 718-975-7829
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.5732504
+Longitude: -73.9801333
+OpenStreetMap URL: https://www.openstreetmap.org/node/4080306997
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4080306997
+Price: Not listed
+Rating: 4.0
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

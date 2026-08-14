@@ -1,0 +1,24 @@
+Name: Lil' Frankies
+City: NYC
+Category: restaurants
+Cuisine: italian, pizza
+Address: 19 1st Avenue, New York NY 10003
+Description: Not listed
+Website: https://www.lilfrankies.com/
+Phone: +1-212-420-4900
+Email: reservations@frankcares.com
+Opening Hours: Mo-Th 11:00-02:00; Fr-Sa 11:00-04:00; Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7235847
+Longitude: -73.9884552
+OpenStreetMap URL: https://www.openstreetmap.org/node/3608052274
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3608052274
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

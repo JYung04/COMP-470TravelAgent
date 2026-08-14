@@ -1,0 +1,25 @@
+Name: A-Pou’s Taste
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 965 Grand Street
+Description: Not listed
+Website: https://www.apoustaste.com/
+Phone: +1 718-388-3038
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7132054
+Longitude: -73.9361207
+OpenStreetMap URL: https://www.openstreetmap.org/node/5994557885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5994557885
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

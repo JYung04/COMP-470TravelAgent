@@ -1,0 +1,25 @@
+Name: Lazy Moon Pizza
+City: Orlando
+Category: restaurants
+Cuisine: pizza
+Address: Not listed
+Description: Cheesy slices bigger than your head? Say no more. Build your perfect pizza slice starting at just $6.75 or choose from a preselected list of “Lazy Faves” (typically $10 – $11) for a guaranteed hit. Choose from over 45 toppings, including vegan cheese and protein options, along with salads and vegetable bowls to keep things balanced. Lazy Moon also offers several basic cheese pizza combo deals, like two slices for $11 weekdays from 11 a.m. - 4 p.m. or an anytime slice served with a pint of PBR fo
+Website: https://lazymoonpizza.com
+Phone: +1-407-412-6222
+Email: Not listed
+Opening Hours: Su-Th 11:00-22:00, Fr,Sa 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5534791
+Longitude: -81.3660485
+OpenStreetMap URL: https://www.openstreetmap.org/node/13019989680
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13019989680
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

@@ -1,0 +1,25 @@
+Name: Perimeter Gallery
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 210-212 West Superior Street, Chicago IL 60654
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8958663
+Longitude: -87.6349157
+OpenStreetMap URL: https://www.openstreetmap.org/way/210680486
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210680486
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

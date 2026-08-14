@@ -1,0 +1,25 @@
+Name: Hilton Garden Inn
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 2201 M Street Northwest, Washington DC 20037
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/waswegi-hilton-garden-inn-washington-dc-georgetown-area/
+Phone: +1 202-974-6010
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9054574
+Longitude: -77.049197
+OpenStreetMap URL: https://www.openstreetmap.org/node/11652717434
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11652717434
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging; gardens

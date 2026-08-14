@@ -1,0 +1,25 @@
+Name: Hops Hill
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 886 Fulton Street, Brooklyn NY 11238
+Description: Not listed
+Website: https://www.hops-hill.com/
+Phone: +1-347-987-4334
+Email: Not listed
+Opening Hours: Mo-Su 12:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.683091
+Longitude: -73.9656353
+OpenStreetMap URL: https://www.openstreetmap.org/node/4940954521
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4940954521
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

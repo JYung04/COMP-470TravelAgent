@@ -1,0 +1,25 @@
+Name: Kimpton Banneker Hotel by IHG
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 1315 16th Street Northwest, Washington DC 20036
+Description: Not listed
+Website: https://www.thebanneker.com/?utm_source=kh.com&utm_medium=referral&utm_campaign=hotel-links
+Phone: +1 202 234 6399
+Email: talktous@thebanneker.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.908266
+Longitude: -77.0361302
+OpenStreetMap URL: https://www.openstreetmap.org/node/759624413
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/759624413
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

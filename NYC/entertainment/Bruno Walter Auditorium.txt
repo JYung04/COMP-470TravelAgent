@@ -1,0 +1,25 @@
+Name: Bruno Walter Auditorium
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nypl.org/about/locations/lpa/events
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7733628
+Longitude: -73.9850233
+OpenStreetMap URL: https://www.openstreetmap.org/node/9863904626
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9863904626
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

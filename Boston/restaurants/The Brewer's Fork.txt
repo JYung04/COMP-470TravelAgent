@@ -1,0 +1,25 @@
+Name: The Brewer's Fork
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 7 Moulton Street, Charlestown MA
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3766768
+Longitude: -71.0565092
+OpenStreetMap URL: https://www.openstreetmap.org/way/371546741
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/371546741
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

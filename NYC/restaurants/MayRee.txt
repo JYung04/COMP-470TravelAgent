@@ -1,0 +1,25 @@
+Name: MayRee
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 58 East 1st Street, New York NY 10003
+Description: Not listed
+Website: https://www.mayreenyc.com/
+Phone: +1-929-989-6213
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-16:00, 17:00-22:00; Sa-Su 12:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.7237527
+Longitude: -73.9892869
+OpenStreetMap URL: https://www.openstreetmap.org/node/11558613469
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11558613469
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

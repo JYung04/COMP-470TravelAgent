@@ -1,0 +1,25 @@
+Name: Illinois Centennial Monument
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Illinois Centennial Memorial Column, also known as the Logan Square Monument or Illinois Centennial Monument, is a public monument in the Logan Square community area of Chicago, within the Chicago Landmark and National Register of Historic Places-listed Logan Square Boulevards Historic District. Built in 1918 to celebrate the 100th anniversary of Illinois' statehood, the monument was designed by Henry Bacon, architect of the Lincoln Memorial in Washington, D.C., and consists of a single 70-foot (21 m) marble Doric column topped by an eagle. Evelyn Beatrice Longman designed and sculpted the reliefs surrounding the base.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9283908
+Longitude: -87.7073273
+OpenStreetMap URL: https://www.openstreetmap.org/way/163901343
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163901343
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

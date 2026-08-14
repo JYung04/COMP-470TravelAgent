@@ -1,0 +1,25 @@
+Name: Ginza BBQ Lounge & Karaoke
+City: Washington DC
+Category: restaurants
+Cuisine: japanese
+Address: 524 8th Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://www.ginzaktv.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.881838
+Longitude: -76.9945744
+OpenStreetMap URL: https://www.openstreetmap.org/node/3892242699
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3892242699
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

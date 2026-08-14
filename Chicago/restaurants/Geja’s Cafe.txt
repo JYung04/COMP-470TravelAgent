@@ -1,0 +1,25 @@
+Name: Geja’s Cafe
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 340 West Armitage Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://gejascafe.com/
+Phone: +1-773-281-9101
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.918593
+Longitude: -87.6380077
+OpenStreetMap URL: https://www.openstreetmap.org/node/6291773197
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6291773197
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

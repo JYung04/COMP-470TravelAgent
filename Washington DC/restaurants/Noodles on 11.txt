@@ -1,0 +1,25 @@
+Name: Noodles on 11
+City: Washington DC
+Category: restaurants
+Cuisine: asian
+Address: 1100 New York Avenue Northwest, Washington DC 20005
+Description: Not listed
+Website: http://www.noodleson11.com/
+Phone: +1 202-408-3377
+Email: Not listed
+Opening Hours: 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9006187
+Longitude: -77.027278
+OpenStreetMap URL: https://www.openstreetmap.org/node/11159971794
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11159971794
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

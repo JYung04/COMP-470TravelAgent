@@ -1,0 +1,25 @@
+Name: Cadman Plaza Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Brooklyn NY 11201
+Description: Cadman Plaza is a park located on the border of the Brooklyn Heights and Downtown Brooklyn neighborhoods in Brooklyn, New York City. Named for Reverend Doctor Samuel Parkes Cadman (1864–1936), a renowned minister in the Brooklyn Congregational Church, it is built on land reclaimed by condemnation in 1935 and was named as a park in 1939. The park borders Cadman Plaza West and Cadman Plaza East and the west and east sides of the plaza, respectively.
+Website: https://www.nycgovparks.org/parks/cadman-plaza-park-and-brooklyn-war-memorial/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-25:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6985199
+Longitude: -73.9905345
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17290189
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/17290189
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

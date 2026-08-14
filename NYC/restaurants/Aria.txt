@@ -1,0 +1,25 @@
+Name: Aria
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 16 Bedford Street, 10014
+Description: Not listed
+Website: https://ariawinebar.com
+Phone: +1-212-242-4233
+Email: Not listed
+Opening Hours: Mo-Th 11:30-23:00, Fr 11:30-24:00, Sa 11:00-24:00, Su 11:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7291517
+Longitude: -74.0034544
+OpenStreetMap URL: https://www.openstreetmap.org/node/12195740987
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12195740987
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

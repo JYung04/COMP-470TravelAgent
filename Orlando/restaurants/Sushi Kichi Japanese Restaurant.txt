@@ -1,0 +1,25 @@
+Name: Sushi Kichi Japanese Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: 5368 Central Florida Parkway, Orlando FL 32821
+Description: Not listed
+Website: https://sushikichi.com
+Phone: +1-407-778-1953
+Email: Not listed
+Opening Hours: Tu-Su 12:00-14:30, 17:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 28.4071282
+Longitude: -81.448883
+OpenStreetMap URL: https://www.openstreetmap.org/node/11955139260
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11955139260
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

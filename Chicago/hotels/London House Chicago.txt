@@ -1,0 +1,25 @@
+Name: London House Chicago
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 85 East Wacker Drive, Chicago IL 60601
+Description: The London House was a jazz club and restaurant in Chicago located at the corner of Wacker Drive and Michigan Avenue, in the London Guaranty and Accident Company Building.
+Website: https://londonhousechicago.com
+Phone: +1-312-357-1200
+Email: sales@londonhouse.com
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 41.8877548
+Longitude: -87.625305
+OpenStreetMap URL: https://www.openstreetmap.org/way/330535225
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/330535225
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,24 @@
+Name: Il Porcellino
+City: Chicago
+Category: restaurants
+Cuisine: pasta, italian
+Address: 59 West Hubbard Street, Chicago IL 60654
+Description: Not listed
+Website: http://ilporcellinochicago.com/
+Phone: +1-312-595-0800
+Email: Not listed
+Opening Hours: Mo-We 16:00-23:00; Th-Sa 16:00-00:00; Su 16:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8898275
+Longitude: -87.6302615
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458095214
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458095214
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

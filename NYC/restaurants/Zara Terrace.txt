@@ -1,0 +1,24 @@
+Name: Zara Terrace
+City: NYC
+Category: restaurants
+Cuisine: turkish, mediterranean
+Address: 862 2nd Avenue, New York 10017
+Description: Not listed
+Website: https://www.zaraterrace.com/
+Phone: +1-917-817-0746
+Email: Not listed
+Opening Hours: Mo off; Tu-Su 10:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.7524053
+Longitude: -73.9700918
+OpenStreetMap URL: https://www.openstreetmap.org/node/2711639380
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2711639380
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

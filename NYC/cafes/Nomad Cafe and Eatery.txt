@@ -1,0 +1,24 @@
+Name: Nomad Cafe and Eatery
+City: NYC
+Category: cafes
+Cuisine: sandwich, bagel, breakfast
+Address: 67-14 Forest Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-347-227-8136
+Email: Not listed
+Opening Hours: Tu-Fr 07:00-18:00; Sa-Su 09:00-18:00
+Wheelchair Accessibility: no
+Latitude: 40.7040845
+Longitude: -73.901837
+OpenStreetMap URL: https://www.openstreetmap.org/node/5934793658
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5934793658
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

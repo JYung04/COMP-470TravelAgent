@@ -1,0 +1,25 @@
+Name: Suns Cinema
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: 3107 Mount Pleasant Street Northwest
+Description: movie theater in Washington, D. C., United States
+Website: https://www.sunscinema.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9289593
+Longitude: -77.0372153
+OpenStreetMap URL: https://www.openstreetmap.org/node/4887147277
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4887147277
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

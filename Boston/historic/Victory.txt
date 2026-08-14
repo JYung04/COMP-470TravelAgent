@@ -1,0 +1,25 @@
+Name: Victory
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Boston Massacre Monument, also known as the Crispus Attucks Monument and Victory, is an outdoor bronze memorial by Adolph Robert Kraus, installed in Boston Common, in Boston, Massachusetts, United States.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3542792
+Longitude: -71.0644098
+OpenStreetMap URL: https://www.openstreetmap.org/node/7610330937
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7610330937
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

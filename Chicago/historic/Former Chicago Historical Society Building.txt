@@ -1,0 +1,25 @@
+Name: Former Chicago Historical Society Building
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 632 North Dearborn Street, Chicago IL 60654
+Description: A designated Chicago landmark. Built: 1892. Architect: Henry Ives Cobb. Landmark designation date: 1997-02-26T00:00:00.000.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8935156
+Longitude: -87.6300664
+OpenStreetMap URL: https://www.openstreetmap.org/way/711728865
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/711728865
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

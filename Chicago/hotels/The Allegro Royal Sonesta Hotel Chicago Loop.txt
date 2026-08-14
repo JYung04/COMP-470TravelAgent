@@ -1,0 +1,25 @@
+Name: The Allegro Royal Sonesta Hotel Chicago Loop
+City: Chicago
+Category: hotels
+Cuisine: Not listed
+Address: 171 West Randolph Street, Chicago IL 60601
+Description: Not listed
+Website: https://www.sonesta.com/royal-sonesta/il/chicago/allegro-royal-sonesta-hotel-chicago-loop/
+Phone: +1-312-236-0123
+Email: theallegroroyalsonesta.frontdesk@sonesta.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8841781
+Longitude: -87.6332998
+OpenStreetMap URL: https://www.openstreetmap.org/way/210671541
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210671541
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

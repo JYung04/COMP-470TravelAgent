@@ -1,0 +1,25 @@
+Name: Asian Mix Cafe
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 3945 North Broadway, Chicago IL 60613
+Description: Not listed
+Website: https://www.asianmixcafechi.com/
+Phone: +1 773 857 0989
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-21:00; Sa 12:00-21:00; Su off
+Wheelchair Accessibility: Not listed
+Latitude: 41.9540921
+Longitude: -87.6500846
+OpenStreetMap URL: https://www.openstreetmap.org/node/10249068002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10249068002
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

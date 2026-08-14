@@ -1,0 +1,25 @@
+Name: Eerkin's Uyghur Cuisine
+City: Washington DC
+Category: restaurants
+Cuisine: asian_fusion
+Address: 2412 Wisconsin Avenue Northwest, Washington DC 20007
+Description: Not listed
+Website: https://eerkins.com
+Phone: +1-202-333-3600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9214114
+Longitude: -77.0724117
+OpenStreetMap URL: https://www.openstreetmap.org/node/4831900318
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4831900318
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

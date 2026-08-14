@@ -1,0 +1,25 @@
+Name: Conte Forum
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 2599;2601 Beacon Street, MA
+Description: The Silvio O. Conte Forum, commonly known as Conte Forum, Kelley Rink, or simply Conte, is an 8,606-seat multi-purpose arena which opened in 1988 in Boston, Massachusetts on the campus of Boston College in the Chestnut Hill neighborhood. Conte Forum is home to the Boston College Eagles men's and women's basketball and ice hockey teams as well as the Boston College Marching Band.
+Website: https://bceagles.com/facilities/conte-forum/1
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3351614
+Longitude: -71.167664
+OpenStreetMap URL: https://www.openstreetmap.org/way/187088150
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/187088150
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

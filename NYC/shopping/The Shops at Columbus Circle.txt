@@ -1,0 +1,25 @@
+Name: The Shops at Columbus Circle
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 10 Columbus Circle, New York NY
+Description: Not listed
+Website: https://www.theshopsatcolumbuscircle.com/
+Phone: +1 212-823-6300
+Email: Not listed
+Opening Hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7684026
+Longitude: -73.9828296
+OpenStreetMap URL: https://www.openstreetmap.org/node/4338609364
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4338609364
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

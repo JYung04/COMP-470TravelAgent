@@ -1,0 +1,25 @@
+Name: Manhattan Bowery Lodge
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://manhattanbowerylodgeny.us
+Phone: +1-917-353-5617
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.716686
+Longitude: -73.9953975
+OpenStreetMap URL: https://www.openstreetmap.org/node/6939916259
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6939916259
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

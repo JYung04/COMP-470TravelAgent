@@ -1,0 +1,24 @@
+Name: Mulligan's Pub
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 267 Madison Avenue, 10016
+Description: Not listed
+Website: https://www.mulligansnyc.com
+Phone: +1-212-286-0207
+Email: Not listed
+Opening Hours: Mo 11:00-02:00, Tu 11:00-03:00, We-Sa 11:00-04:00, Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7510216
+Longitude: -73.9804011
+OpenStreetMap URL: https://www.openstreetmap.org/node/5981570885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5981570885
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

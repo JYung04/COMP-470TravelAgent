@@ -1,0 +1,25 @@
+Name: The Boiler Room
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 86 East 4th Street, New York NY 10003
+Description: Not listed
+Website: https://www.theboilerroomnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 16:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7259518
+Longitude: -73.9891412
+OpenStreetMap URL: https://www.openstreetmap.org/node/5446733056
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5446733056
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

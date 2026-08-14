@@ -1,0 +1,25 @@
+Name: Joan W. and Irving B. Harris Theater for Music and Dance
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 205 East Randolph Street, Chicago IL 60601
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8838934
+Longitude: -87.6219016
+OpenStreetMap URL: https://www.openstreetmap.org/way/234847962
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/234847962
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; music

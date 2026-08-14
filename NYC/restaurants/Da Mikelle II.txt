@@ -1,0 +1,25 @@
+Name: Da Mikelle II
+City: NYC
+Category: restaurants
+Cuisine: Middle Eastern, Banquet hall, Event venue, Kosher
+Address: 102-51 Queens Blvd, Queens, NY 11375, United States
+Description: Not listed
+Website: https://www.damikelle.com/
+Phone: +1 718-830-0500
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7255032
+Longitude: -73.8503758
+OpenStreetMap URL: https://www.openstreetmap.org/node/8904932601
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8904932601
+Price: Not listed
+Rating: 4.0
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

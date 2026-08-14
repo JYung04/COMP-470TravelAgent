@@ -1,0 +1,25 @@
+Name: The Duke on 42nd Street
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 229 West 42nd Street
+Description: Not listed
+Website: https://dukeon42.org/
+Phone: +1 646-223-3010
+Email: dukeinfo@new42.org
+Opening Hours: Mo-Fr 09:30-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7567679
+Longitude: -73.9882358
+OpenStreetMap URL: https://www.openstreetmap.org/node/7653858222
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7653858222
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

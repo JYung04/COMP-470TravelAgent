@@ -1,0 +1,25 @@
+Name: Me Jana
+City: Washington DC
+Category: restaurants
+Cuisine: Healthy, Middle Eastern, Vegetarian
+Address: 2300 Clarendon Boulevard Arlington VA 22201-3300
+Description: Not listed
+Website: https://mejanarestaurant.com/
+Phone: +1 703-465-4440
+Email: Not listed
+Opening Hours: Mo-Th, Su 11:00-21:30; Fr, Sa 11:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8902972
+Longitude: -77.087323
+OpenStreetMap URL: https://www.openstreetmap.org/node/6123973735
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6123973735
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

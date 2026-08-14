@@ -1,0 +1,25 @@
+Name: La Tia Delia
+City: NYC
+Category: restaurants
+Cuisine: Peruvian, furniture store
+Address: 28 Market St A, Paterson, NJ 07505, United States
+Description: Not listed
+Website: https://facebook.com/latiadelia
+Phone: +1 973-523-4550
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.9149207
+Longitude: -74.1767047
+OpenStreetMap URL: https://www.openstreetmap.org/way/379238334
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/379238334
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

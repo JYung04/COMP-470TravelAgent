@@ -1,0 +1,25 @@
+Name: Delizia
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 1374 1st Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 212-517-8888
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-22:00; Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7686535
+Longitude: -73.955143
+OpenStreetMap URL: https://www.openstreetmap.org/node/11761723978
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11761723978
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

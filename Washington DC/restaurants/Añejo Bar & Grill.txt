@@ -1,0 +1,24 @@
+Name: Añejo Bar & Grill
+City: Washington DC
+Category: restaurants
+Cuisine: mexican, tex-mex
+Address: 3910 14th Street Northwest, Washington DC 20011-5406
+Description: Not listed
+Website: http://Anejo.restaurant/
+Phone: +1 202-506-7383
+Email: Not listed
+Opening Hours: Su 12:00-02:00, Mon-Th 16:00-02:00, Fri 16:00-03:00, Sat 12:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9389834
+Longitude: -77.0329914
+OpenStreetMap URL: https://www.openstreetmap.org/node/744636052
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/744636052
+Price: $
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

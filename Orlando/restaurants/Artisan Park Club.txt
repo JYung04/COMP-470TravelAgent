@@ -1,0 +1,25 @@
+Name: Artisan Park Club
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 1343 Celebration Avenue, Celebration FL 34747
+Description: Not listed
+Website: https://www.artisanparkclub.com/artisan-club/
+Phone: +1-321-939-2116
+Email: Artisan@Ciramail.com
+Opening Hours: We-Sa 09:00-20:00; Su 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.2993553
+Longitude: -81.5541268
+OpenStreetMap URL: https://www.openstreetmap.org/node/13534836008
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13534836008
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

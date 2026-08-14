@@ -1,0 +1,25 @@
+Name: Gatsby
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1201 Half Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://gatsbyrestaurant.com/
+Phone: +1-202-817-3005
+Email: info@gatsbyrestaurant.com
+Opening Hours: Mo-Th 12:00-21:00; Fr 12:00-22:00; Sa 11:00-22:00; Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8747959
+Longitude: -77.0076337
+OpenStreetMap URL: https://www.openstreetmap.org/node/10677378789
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10677378789
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

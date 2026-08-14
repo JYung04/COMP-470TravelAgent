@@ -1,0 +1,25 @@
+Name: Tako Cheena
+City: Orlando
+Category: restaurants
+Cuisine: mexican
+Address: 948 North Mills Avenue, Orlando FL 32803
+Description: Specializing in Asian fusion fare influenced by food truck culture, Tako Cheena delivers handcrafted tacos, hot dogs and burritos “the size of a baby’s arm,” all for $15 or less. Hot menu items include kimchi tots, Thai Panang chicken burritos, Asian braised brisket tacos and a Banh Mi Dog with Cantonese style sausage. Best of all, their newest location on Mills 50 closes between 11 p.m. – 4 a.m. every day, perfect for that late night taco craving.
+Website: https://tako407cheena.com/
+Phone: +14079308608
+Email: Not listed
+Opening Hours: Su 13:00-24:00; Mo 12:00-24:00; Tu 12:00-23:00; We 12:00-24:00; Th 11:00-24:00; Fr 11:00-28:00; Sa 12:00-28:00;
+Wheelchair Accessibility: yes
+Latitude: 28.5583071
+Longitude: -81.3646149
+OpenStreetMap URL: https://www.openstreetmap.org/node/13020103002
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13020103002
+Price: Not listed
+Rating: 4.5
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

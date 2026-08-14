@@ -1,0 +1,25 @@
+Name: Boston Chops
+City: Boston
+Category: restaurants
+Cuisine: steak_house
+Address: 52 Temple Place, Boston MA
+Description: 2015 Best Steakhouse Boston Chops Boston This venture from Deuxave's Chris Coombs and Brian Piccini is billed as an "urban steak bistro"—shorthand for "not your grandparents' steakhouse." Start with daring small [...] read more»
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3550938
+Longitude: -71.0616029
+OpenStreetMap URL: https://www.openstreetmap.org/node/10963807731
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10963807731
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

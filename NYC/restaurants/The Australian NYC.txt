@@ -1,0 +1,25 @@
+Name: The Australian NYC
+City: NYC
+Category: restaurants
+Cuisine: australian
+Address: 20 West 38th Street
+Description: Not listed
+Website: https://theaustraliannyc.com/
+Phone: +1 212-869-9601
+Email: info@theaustraliannyc.com
+Opening Hours: Mo, Su 11:30-00:00; Tu, We 11:30-23:00; Th 11:30-02:00; Fr, Sa 11:30-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7512973
+Longitude: -73.9838618
+OpenStreetMap URL: https://www.openstreetmap.org/node/3040295633
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3040295633
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

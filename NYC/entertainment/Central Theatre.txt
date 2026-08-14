@@ -1,0 +1,25 @@
+Name: Central Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: NY
+Description: former movie theater in Cedarhurst, New York, United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6202778
+Longitude: -73.725
+OpenStreetMap URL: https://www.openstreetmap.org/node/368053173
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368053173
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

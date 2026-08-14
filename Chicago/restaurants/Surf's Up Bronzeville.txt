@@ -1,0 +1,24 @@
+Name: Surf's Up Bronzeville
+City: Chicago
+Category: restaurants
+Cuisine: surf_&_turf, steak_house, seafood
+Address: 4317 South Cottage Grove Avenue, Chicago IL 60653
+Description: Not listed
+Website: https://surfsupbronzeville.com
+Phone: +1-773-420-3228
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8162363
+Longitude: -87.6065093
+OpenStreetMap URL: https://www.openstreetmap.org/node/8604294602
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8604294602
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

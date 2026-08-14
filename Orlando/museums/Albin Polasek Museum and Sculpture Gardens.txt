@@ -1,0 +1,25 @@
+Name: Albin Polasek Museum and Sculpture Gardens
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: 633 Osceola Avenue, Winter Park FL 32789
+Description: Born in 1879 in what is now known as the Czech Republic, internationally acclaimed sculptor Albin Polasek emigrated to the U.S. in his early 20s. During his long career, he created more than 400 works of art — and you can view nearly half of them at the Albin Polasek Museum & Sculpture Gardens in Winter Park, about 20 minutes north of International Drive. More than an arts venue, the Albin Polasek Museum was formerly the artist’s Winter Park home, in which he lived from 1950 until his passing in
+Website: https://www.polasek.org/
+Phone: +1 407-647-6294
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.596475
+Longitude: -81.34366
+OpenStreetMap URL: https://www.openstreetmap.org/node/367827611
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/367827611
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: museums and culture; art; views

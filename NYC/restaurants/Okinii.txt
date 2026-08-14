@@ -1,0 +1,25 @@
+Name: Okinii
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 10012
+Description: Not listed
+Website: Not listed
+Phone: +1-516-504-3615
+Email: Not listed
+Opening Hours: Fr-Sa 12:00-23:00; Su-Th 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7289222
+Longitude: -73.9990944
+OpenStreetMap URL: https://www.openstreetmap.org/node/11582969069
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11582969069
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

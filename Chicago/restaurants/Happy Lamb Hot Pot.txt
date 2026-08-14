@@ -1,0 +1,24 @@
+Name: Happy Lamb Hot Pot
+City: Chicago
+Category: restaurants
+Cuisine: mongolian, hot_pot
+Address: 2707 North Clark Street, Chicago IL 60614
+Description: Not listed
+Website: https://happylambhotpot.com/
+Phone: +1-773-661-6647
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9316445
+Longitude: -87.6442593
+OpenStreetMap URL: https://www.openstreetmap.org/node/13138225773
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13138225773
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

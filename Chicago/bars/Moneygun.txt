@@ -1,0 +1,25 @@
+Name: Moneygun
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 660 West Lake Street, Chicago IL 60661
+Description: Not listed
+Website: https://www.moneygunchicago.com/
+Phone: +1-312-600-0600
+Email: Not listed
+Opening Hours: Tu-Su 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8858571
+Longitude: -87.6451137
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460580000
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460580000
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

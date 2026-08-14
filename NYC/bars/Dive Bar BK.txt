@@ -1,0 +1,25 @@
+Name: Dive Bar BK
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 408 Troutman Street, Brooklyn NY 11237
+Description: Not listed
+Website: https://www.divebarbk.com/
+Phone: +1-718-808-1028
+Email: Not listed
+Opening Hours: Mo-We 17:00-02:00; Th-Sa 17:00-04:00; Su 13:00-00:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7065985
+Longitude: -73.9226462
+OpenStreetMap URL: https://www.openstreetmap.org/node/13344162737
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13344162737
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

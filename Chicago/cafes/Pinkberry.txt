@@ -1,0 +1,25 @@
+Name: Pinkberry
+City: Chicago
+Category: cafes
+Cuisine: frozen_yogurt
+Address: 635 North State Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.pinkberry.com/frozen-yogurt-store/us/il/chicago/175/river-north
+Phone: +1-312-475-0641
+Email: Not listed
+Opening Hours: Su-Th 11:00-00:00; Fr 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8937764
+Longitude: -87.627916
+OpenStreetMap URL: https://www.openstreetmap.org/node/2371452195
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2371452195
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

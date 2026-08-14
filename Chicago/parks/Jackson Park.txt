@@ -1,0 +1,25 @@
+Name: Jackson Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 6401 South Stony Island Avenue, Chicago IL 60637
+Description: Jackson Park is a 551.5-acre (223.2 ha) urban park on the shore of Lake Michigan on the South Side of Chicago. Straddling the Hyde Park, Woodlawn, and South Shore neighborhoods, the park was designed in 1871 by Frederick Law Olmsted and Calvert Vaux and remodeled in 1893 to serve as the site of the World's Columbian Exposition. It is one of the largest and most historically significant parks in the city, and many of the park's features are mementos of the fair—including the Garden of the Phoenix, the Statue of The Republic, and the Museum of Science and Industry.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/jackson-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7833587
+Longitude: -87.5764609
+OpenStreetMap URL: https://www.openstreetmap.org/relation/2914324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/2914324
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

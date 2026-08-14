@@ -1,0 +1,25 @@
+Name: QPL North Forest Park
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 98-27 Metropolitan Avenue, Forest Hills NY 11375
+Description: Not listed
+Website: https://www.queenslibrary.org/about-us/locations/north-forest-park
+Phone: +1-718-261-5512
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7111909
+Longitude: -73.8536716
+OpenStreetMap URL: https://www.openstreetmap.org/way/248698194
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/248698194
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Magic Gourd Restaurant - Chinese
+City: Washington DC
+Category: cafes
+Cuisine: chinese
+Address: 1439 11th St Northwest, Washington DC 20001
+Description: Not listed
+Website: http://Asianamerican2.com
+Phone: +1 202-836-8266
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9018898
+Longitude: -77.0126457
+OpenStreetMap URL: https://www.openstreetmap.org/node/5070573822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5070573822
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

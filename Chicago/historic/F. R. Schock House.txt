@@ -1,0 +1,25 @@
+Name: F. R. Schock House
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 5084 West Midway Park, Chicago IL 60644
+Description: A designated Chicago landmark. Built: 1886. Architect: Frederick Schock. Landmark designation date: 1999-01-20T00:00:00.000.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8892934
+Longitude: -87.7702553
+OpenStreetMap URL: https://www.openstreetmap.org/way/162952740
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162952740
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

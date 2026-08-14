@@ -1,0 +1,25 @@
+Name: Revolution Brewing
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3350 North Kedzie Avenue, Chicago IL 60618
+Description: Head to Revolution Brewing ‘s Kedzie Avenue facility to tour their production brewery , where they make their beer and fill kegs and cans for distribution. Get a behind-the-scenes look at the largest craft brewery in the state on this 45-minute tour. Each guest will receive a full-size “walking beer”, a sample of freshly made beer at the Innovation Station, and a cool Revolution Brewing glass as a souvenir.
+Website: https://revbrew.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9421294
+Longitude: -87.7085822
+OpenStreetMap URL: https://www.openstreetmap.org/way/163906039
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/163906039
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

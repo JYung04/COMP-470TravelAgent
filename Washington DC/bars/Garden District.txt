@@ -1,0 +1,24 @@
+Name: Garden District
+City: Washington DC
+Category: bars
+Cuisine: Beer Garden, BBQ Joint
+Address: 1801 14th St NW (at S St NW), Washington, D.C. 20009
+Description: Not listed
+Website: http://www.gardendistrictdc.com
+Phone: (202) 797-9005
+Email: info@gardendistrictdc.com
+Opening Hours: Mo-Th 17:00-01:00; Fr 13:00-02:00; Sa 12:00-02:00; Su 12:00-01:00
+Wheelchair Accessibility: yes
+Latitude: 38.9142269
+Longitude: -77.0316452
+OpenStreetMap URL: https://www.openstreetmap.org/way/298627924
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/298627924
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; gardens

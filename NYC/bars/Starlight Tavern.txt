@@ -1,0 +1,24 @@
+Name: Starlight Tavern
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.thestarlighttavern.com
+Phone: +1-718-486-3700
+Email: Not listed
+Opening Hours: Tu-Th 17:00-02:00, Fr-Sa 15:00-04:00, Su 15:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.711121
+Longitude: -73.9480859
+OpenStreetMap URL: https://www.openstreetmap.org/node/12403502572
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12403502572
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

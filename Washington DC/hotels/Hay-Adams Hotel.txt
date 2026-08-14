@@ -1,0 +1,25 @@
+Name: Hay-Adams Hotel
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 800 16th Street Northwest, Washington DC 20006
+Description: The Hay–Adams is an historic luxury hotel opened in 1928, located at 800 16th Street NW in Washington, D.C. It south-fronts on Lafayette Square across from the White House. It sits on the former site of connected 19th-century mansions, which were owned by two influential friends, John Hay and Henry Adams, which led to the hotel's naming.
+Website: https://www.hayadams.com/
+Phone: +1 202-638-6600
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9005054
+Longitude: -77.0369485
+OpenStreetMap URL: https://www.openstreetmap.org/way/55326891
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/55326891
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

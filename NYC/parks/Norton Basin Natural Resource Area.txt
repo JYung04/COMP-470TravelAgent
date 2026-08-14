@@ -1,0 +1,25 @@
+Name: Norton Basin Natural Resource Area
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.dec.ny.gov/outdoor/48692.html
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6016857
+Longitude: -73.7698643
+OpenStreetMap URL: https://www.openstreetmap.org/way/430669285
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/430669285
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

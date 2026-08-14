@@ -1,0 +1,25 @@
+Name: Wet Dog Tavern
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 2100 Vermont Avenue Northwest, Washington DC 20001
+Description: Not listed
+Website: https://www.wetdogdc.com/
+Phone: +1 202-234-3334
+Email: Not listed
+Opening Hours: Mo-Th 16:00-23:00; Fr 16:00-01:00; Sa 14:00-01:00; Su 14:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.918259
+Longitude: -77.024869
+OpenStreetMap URL: https://www.openstreetmap.org/node/4731208887
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4731208887
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

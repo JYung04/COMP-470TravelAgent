@@ -1,0 +1,25 @@
+Name: Garden Cafe
+City: Washington DC
+Category: cafes
+Cuisine: american
+Address: 2116 F Street Northwest, Washington DC 20037-2712
+Description: Not listed
+Website: https://www.stateplaza.com/dining
+Phone: +1 202-861-0331
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8971986
+Longitude: -77.0475703
+OpenStreetMap URL: https://www.openstreetmap.org/node/3368367471
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3368367471
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; gardens

@@ -1,0 +1,25 @@
+Name: Miramar
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: Not listed
+Description: Not listed
+Website: http://miramarnyc.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7079986
+Longitude: -74.0179927
+OpenStreetMap URL: https://www.openstreetmap.org/node/5984008357
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5984008357
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

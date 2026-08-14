@@ -1,0 +1,25 @@
+Name: Absolute Noodle & Sushi Bar
+City: Washington DC
+Category: restaurants
+Cuisine: sushi
+Address: 772 5th Street Northwest
+Description: Not listed
+Website: https://absolutenoodlesushi.com/
+Phone: +1 202-789-5422
+Email: Irishchannelpub@gmail.com
+Opening Hours: Mo-Th 11:30-15:00,16:30-21:30; Fr 11:30-15:00,16:30-22:00; Sa 12:30-22:00; Su 12:30-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.8991068
+Longitude: -77.0190944
+OpenStreetMap URL: https://www.openstreetmap.org/node/11583035404
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11583035404
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

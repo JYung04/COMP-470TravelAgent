@@ -1,0 +1,25 @@
+Name: Greenpoint Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 390 Mc Guinness Boulevard, Brooklyn NY 11222
+Description: Not listed
+Website: https://greenpointgallery.com
+Phone: +1-718-510-5773
+Email: greenpointgallery@gmail.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7363545
+Longitude: -73.95243
+OpenStreetMap URL: https://www.openstreetmap.org/node/2843018177
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2843018177
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

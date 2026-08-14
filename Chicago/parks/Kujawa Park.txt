@@ -1,0 +1,25 @@
+Name: Kujawa Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 4330 South Kedvale Avenue, Chicago IL 60632
+Description: Officially classified as mini-park. Covers approximately 0.5 acres. Facilities include spray feature.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/kujawa-chester-frank-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8141828
+Longitude: -87.7278331
+OpenStreetMap URL: https://www.openstreetmap.org/way/239358634
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/239358634
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Pl-zen
+City: Chicago
+Category: restaurants
+Cuisine: american
+Address: 1519 West 18th Street, Chicago IL 60608
+Description: Not listed
+Website: https://pl-zen.com/
+Phone: +1-312-733-0248
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8576922
+Longitude: -87.6645496
+OpenStreetMap URL: https://www.openstreetmap.org/node/8508251826
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8508251826
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

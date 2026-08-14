@@ -1,0 +1,25 @@
+Name: Smakosz Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: polish
+Address: 5619 West Lawrence Avenue, Chicago IL 60630
+Description: Not listed
+Website: https://www.smakoszrestaurant.com/
+Phone: +1 773-205-1771
+Email: Not listed
+Opening Hours: Mo 12:00-20:00; Tu off; We-Su 12:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.967564
+Longitude: -87.7683937
+OpenStreetMap URL: https://www.openstreetmap.org/way/162714729
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162714729
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

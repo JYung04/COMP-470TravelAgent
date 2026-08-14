@@ -1,0 +1,25 @@
+Name: Marsha P. Johnson State Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 90 Kent Avenue, Brooklyn NY 11249
+Description: Marsha P. Johnson State Park is an 11-acre (4.5 ha) state park in the Williamsburg neighborhood of Brooklyn in New York City, New York, U.S. The park stretches along the East River near North 7th, 8th, and 9th Streets, with views of the Williamsburg Bridge and Midtown Manhattan.
+Website: https://parks.ny.gov/parks/155/details.aspx
+Phone: +1 718-782-2731
+Email: Not listed
+Opening Hours: 07:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7215886
+Longitude: -73.9620733
+OpenStreetMap URL: https://www.openstreetmap.org/way/33819583
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/33819583
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

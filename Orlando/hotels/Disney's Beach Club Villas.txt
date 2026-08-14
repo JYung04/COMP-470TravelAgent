@@ -1,0 +1,25 @@
+Name: Disney's Beach Club Villas
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1800 Epcot Resorts Boulevard, Lake Buena Vista Fl 32830-8443
+Description: Not listed
+Website: https://disneyworld.disney.go.com/resorts/beach-club-resort/
+Phone: +1-407-934-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3720007
+Longitude: -81.5552826
+OpenStreetMap URL: https://www.openstreetmap.org/way/295171667
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/295171667
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

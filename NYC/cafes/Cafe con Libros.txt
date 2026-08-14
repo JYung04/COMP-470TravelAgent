@@ -1,0 +1,25 @@
+Name: Cafe con Libros
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 724 Prospect Place, Brooklyn NY 11216
+Description: A Feminist community bookstore catering to folks, specifically womyn and girls, who are book lovers, coffee aficionados, or both.
+Website: https://www.cafeconlibrosbk.com
+Phone: +1-347-460-2838
+Email: Not listed
+Opening Hours: Tu-Fr 07:00-18:00; Sa 08:00-19:00; Su 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6743416
+Longitude: -73.9525653
+OpenStreetMap URL: https://www.openstreetmap.org/node/5351859759
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5351859759
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

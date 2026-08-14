@@ -1,0 +1,25 @@
+Name: Oasis Guest House
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 22 Edgerly Road, Boston MA 02215
+Description: Not listed
+Website: https://www.oasisguesthouse.com/
+Phone: +1-617-267-2262
+Email: info@oasisgh.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3458547
+Longitude: -71.0877793
+OpenStreetMap URL: https://www.openstreetmap.org/relation/9668869
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/9668869
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

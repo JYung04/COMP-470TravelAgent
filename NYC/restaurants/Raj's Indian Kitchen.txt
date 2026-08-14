@@ -1,0 +1,25 @@
+Name: Raj's Indian Kitchen
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 42-12 28th Street, Long Island City NY 11101
+Description: Not listed
+Website: https://orderrajsindiankitchen.com/
+Phone: +1-718-361-8844
+Email: Not listed
+Opening Hours: Mo-Sa 11:00-22:00; Su 00:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7495206
+Longitude: -73.9394992
+OpenStreetMap URL: https://www.openstreetmap.org/node/10742589881
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10742589881
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

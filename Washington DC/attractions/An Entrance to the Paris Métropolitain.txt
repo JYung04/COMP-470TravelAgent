@@ -1,0 +1,25 @@
+Name: An Entrance to the Paris Métropolitain
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: An Entrance to the Paris Métropolitain is a sculpture by Hector Guimard, conceived in 1902 and fabricated between 1902 and 1913. Guimard designed 141 entrances to the Paris Métro of varying types, 86 of which are still standing. One is featured at the National Gallery of Art Sculpture Garden in Washington, D.C.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8910505
+Longitude: -77.0234916
+OpenStreetMap URL: https://www.openstreetmap.org/node/2634817051
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2634817051
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing; art; gardens

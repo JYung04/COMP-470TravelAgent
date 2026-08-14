@@ -1,0 +1,25 @@
+Name: Urban Vegan Kitchen
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7451722
+Longitude: -73.9976887
+OpenStreetMap URL: https://www.openstreetmap.org/node/12307257374
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12307257374
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Taqueria Al Lado II
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 809 12th Street Northeast, Washington DC 20002-4435
+Description: Not listed
+Website: http://taqueriaallado.com/
+Phone: +1 202-506-4669
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9004806
+Longitude: -76.9900154
+OpenStreetMap URL: https://www.openstreetmap.org/node/807161971
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/807161971
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Mother Juice
+City: Boston
+Category: restaurants
+Cuisine: juice, salad, dessert
+Address: 100 High Street, Boston MA 02110
+Description: Not listed
+Website: https://motherjuice.com/
+Phone: +1-857-263-7401
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-17:00; Sa 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3541701
+Longitude: -71.0559901
+OpenStreetMap URL: https://www.openstreetmap.org/node/13759785558
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13759785558
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

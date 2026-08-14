@@ -1,0 +1,25 @@
+Name: Damn Fine Coffee Bar
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3317 West Armitage Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.damnfinechicago.com/
+Phone: +1-773-904-7051
+Email: Not listed
+Opening Hours: Mo-Su 07:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9172177
+Longitude: -87.7110484
+OpenStreetMap URL: https://www.openstreetmap.org/node/4676051017
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4676051017
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

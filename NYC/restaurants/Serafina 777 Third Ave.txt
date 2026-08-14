@@ -1,0 +1,25 @@
+Name: Serafina 777 Third Ave
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 777 Third Avenue, New York NY 10017
+Description: Not listed
+Website: https://www.serafinarestaurant.com/serafina-777
+Phone: +1-347-479-1830
+Email: Not listed
+Opening Hours: Mo-Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7546507
+Longitude: -73.971268
+OpenStreetMap URL: https://www.openstreetmap.org/node/12840446756
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12840446756
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Red Star
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 2529 Adam Clayton Powell Boulevard
+Description: Not listed
+Website: Not listed
+Phone: +1 212-281-9281
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8225077
+Longitude: -73.938104
+OpenStreetMap URL: https://www.openstreetmap.org/node/11982189827
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11982189827
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

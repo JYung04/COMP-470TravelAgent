@@ -1,0 +1,25 @@
+Name: Cali Aji
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 98-15 Astoria Boulevard
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7624445
+Longitude: -73.8708509
+OpenStreetMap URL: https://www.openstreetmap.org/node/5452635671
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5452635671
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

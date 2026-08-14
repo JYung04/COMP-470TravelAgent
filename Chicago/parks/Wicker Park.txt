@@ -1,0 +1,25 @@
+Name: Wicker Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1425 North Damen Avenue, Chicago IL 60622
+Description: Wicker Park is a 4.03-acre (1.63 ha) public urban park in the Wicker Park neighborhood of the West Town community and West Side district, in Chicago, Illinois. It is named after Charles G. Wicker and Joel H. Wicker.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/wicker-charles-joel-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9080017
+Longitude: -87.6761743
+OpenStreetMap URL: https://www.openstreetmap.org/way/5732180
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/5732180
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

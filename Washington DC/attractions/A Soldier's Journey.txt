@@ -1,0 +1,25 @@
+Name: A Soldier's Journey
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: A Soldier's Journey is a bronze relief sculpture designed and created by American sculptor Sabin Howard to honor the legacy of Americans who served in World War I. The relief is located along the western end of the National World War I Memorial in Washington, D.C.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8959919
+Longitude: -77.0331094
+OpenStreetMap URL: https://www.openstreetmap.org/way/1337616376
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1337616376
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

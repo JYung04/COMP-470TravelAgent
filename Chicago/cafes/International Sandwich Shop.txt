@@ -1,0 +1,25 @@
+Name: International Sandwich Shop
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 1 North Franklin Street, Chicago IL 60606
+Description: Not listed
+Website: https://www.internationalsandwichshop1.com/
+Phone: +1-309-333-7071
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8824432
+Longitude: -87.6349588
+OpenStreetMap URL: https://www.openstreetmap.org/node/6300080964
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6300080964
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

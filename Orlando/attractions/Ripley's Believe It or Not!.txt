@@ -1,0 +1,25 @@
+Name: Ripley's Believe It or Not!
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 8201 International Drive, Orlando FL 32819
+Description: Ripley’s Believe It or Not! on I-Drive looks like it’s falling into a massive Florida sinkhole — but don’t worry, it’s not going anywhere. Inside the 10,000-square-foot venue, be amazed, astounded and thoroughly entertained as you explore unusual and fascinating exhibits collected by world-famous traveler Robert Ripley and his successors.
+Website: https://www.ripleys.com/orlando/believe-it-or-not/
+Phone: +1 407-345-0501
+Email: Not listed
+Opening Hours: Su-Th 10:00-22:00; Fr-Sa 10:00-11:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4462212
+Longitude: -81.4703885
+OpenStreetMap URL: https://www.openstreetmap.org/way/140641447
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/140641447
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: sightseeing

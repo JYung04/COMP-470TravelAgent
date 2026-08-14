@@ -1,0 +1,25 @@
+Name: Geodesic Dome
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: also a fountain Designer/inventor Richard Buckminster Fuller, US patent number 2,682,235 date issued June 29, 1954
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8024926
+Longitude: -77.0636553
+OpenStreetMap URL: https://www.openstreetmap.org/node/2245515674
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2245515674
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

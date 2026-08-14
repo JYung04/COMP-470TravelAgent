@@ -1,0 +1,25 @@
+Name: Corado's Restaurant
+City: Washington DC
+Category: restaurants
+Cuisine: guatemalan
+Address: 3217 Mount Pleasant Street Northwest, Washington DC 20010-2103
+Description: Not listed
+Website: https://www.coradosrestaurant.com/
+Phone: +1 202-462-3332
+Email: coradosrestaurant@gmail.com
+Opening Hours: Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9317555
+Longitude: -77.0383708
+OpenStreetMap URL: https://www.openstreetmap.org/node/741027344
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/741027344
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

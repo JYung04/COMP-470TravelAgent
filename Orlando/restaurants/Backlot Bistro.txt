@@ -1,0 +1,24 @@
+Name: Backlot Bistro
+City: Orlando
+Category: restaurants
+Cuisine: pizza, burger, sandwich, chicken
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.4774664
+Longitude: -81.4708503
+OpenStreetMap URL: https://www.openstreetmap.org/node/13624591294
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13624591294
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

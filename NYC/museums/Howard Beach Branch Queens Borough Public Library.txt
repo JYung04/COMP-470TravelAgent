@@ -1,0 +1,25 @@
+Name: Howard Beach Branch Queens Borough Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 92-06 156th Avenue, Howard Beach NY 11414
+Description: Not listed
+Website: https://www.queenslibrary.org/about-us/locations/howard-beach
+Phone: +1-718-641-7086
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.6638102
+Longitude: -73.8418007
+OpenStreetMap URL: https://www.openstreetmap.org/way/285147485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/285147485
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

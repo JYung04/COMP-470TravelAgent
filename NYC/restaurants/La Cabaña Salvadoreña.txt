@@ -1,0 +1,25 @@
+Name: La Cabaña Salvadoreña
+City: NYC
+Category: restaurants
+Cuisine: salvadoran
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-347-644-1147
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6950689
+Longitude: -73.8444818
+OpenStreetMap URL: https://www.openstreetmap.org/node/13045995491
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13045995491
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

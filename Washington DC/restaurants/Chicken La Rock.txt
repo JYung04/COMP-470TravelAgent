@@ -1,0 +1,24 @@
+Name: Chicken La Rock
+City: Washington DC
+Category: restaurants
+Cuisine: BBQ Joint, Korean Restaurant
+Address: 7313 Baltimore Avenue
+Description: Not listed
+Website: Not listed
+Phone: (301) 277-2180
+Email: Not listed
+Opening Hours: We-Sa 11:00-20:00; Su 11:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9798152
+Longitude: -76.9377296
+OpenStreetMap URL: https://www.openstreetmap.org/node/6541152927
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6541152927
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

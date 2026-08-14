@@ -1,0 +1,25 @@
+Name: Avenue Grill
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1331 Pennsylvania Avenue Northwest
+Description: Not listed
+Website: https://www.marriott.com/en-us/hotels/wasjw-jw-marriott-washington-dc/dining/
+Phone: +1 202-626-6970
+Email: Not listed
+Opening Hours: Mo-Fr 06:30-10:30,11:00-14:00; Sa-Su 07:00-11:00,11:30-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.8963367
+Longitude: -77.0311623
+OpenStreetMap URL: https://www.openstreetmap.org/node/734259644
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/734259644
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

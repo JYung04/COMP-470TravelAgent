@@ -1,0 +1,25 @@
+Name: China Star Chinese Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: chinese
+Address: 14944 East Orange Lake Boulevard, 34747
+Description: Not listed
+Website: http://kissimmeechinastar.com
+Phone: +1-407-238-0029
+Email: Not listed
+Opening Hours: Mo-Sa 11:30-11:00; Su 17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3487322
+Longitude: -81.6142915
+OpenStreetMap URL: https://www.openstreetmap.org/node/4738900622
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4738900622
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

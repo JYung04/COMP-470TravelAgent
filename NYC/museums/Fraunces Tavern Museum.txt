@@ -1,0 +1,25 @@
+Name: Fraunces Tavern Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 54 Pearl Street, New York NY 10004
+Description: A designated New York City individual landmark. Status: DESIGNATED. Designation date: 11/23/1965.
+Website: https://www.frauncestavernmuseum.org/
+Phone: +1 212-425-1778
+Email: Not listed
+Opening Hours: 12:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 40.703387
+Longitude: -74.011354
+OpenStreetMap URL: https://www.openstreetmap.org/node/368052081
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368052081
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Cascade Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: This park is a privately owned and maintained space with public access that follows the same opening hours as the majority of publicly-owned parks (6 AM to 11 PM).
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8860889
+Longitude: -87.6150265
+OpenStreetMap URL: https://www.openstreetmap.org/way/970686361
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/970686361
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

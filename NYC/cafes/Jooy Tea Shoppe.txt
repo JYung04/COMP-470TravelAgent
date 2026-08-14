@@ -1,0 +1,25 @@
+Name: Jooy Tea Shoppe
+City: NYC
+Category: cafes
+Cuisine: bubble_tea
+Address: 653 9th Avenue, New York NY 10036
+Description: Not listed
+Website: Not listed
+Phone: +1 646-692-4229
+Email: Not listed
+Opening Hours: Mo-Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7607909
+Longitude: -73.9911391
+OpenStreetMap URL: https://www.openstreetmap.org/node/10817203424
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10817203424
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

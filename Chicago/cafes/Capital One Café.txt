@@ -1,0 +1,24 @@
+Name: Capital One Café
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop, tea
+Address: 1538 North Clybourn Avenue, Chicago IL 60610
+Description: Capital One Cafe is a chain of coffee shops owned by capital one bank
+Website: https://www.capitalone.com/local/chicago-lincolnpark
+Phone: +1-312-279-8060
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9092533
+Longitude: -87.6479812
+OpenStreetMap URL: https://www.openstreetmap.org/node/6280492238
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6280492238
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

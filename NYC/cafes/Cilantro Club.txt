@@ -1,0 +1,24 @@
+Name: Cilantro Club
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, sandwich
+Address: 108 Central Avenue, Brooklyn NY
+Description: Not listed
+Website: https://joincilantro.club/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7003011
+Longitude: -73.9293438
+OpenStreetMap URL: https://www.openstreetmap.org/node/6125305149
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6125305149
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

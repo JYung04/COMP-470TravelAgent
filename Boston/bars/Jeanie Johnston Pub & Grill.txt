@@ -1,0 +1,25 @@
+Name: Jeanie Johnston Pub & Grill
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 144 South Street, Jamaica Plain MA 02130
+Description: Not listed
+Website: https://jeaniejohnstonpub.com/
+Phone: +1-617-983-9432
+Email: info@jeaniejohnstonpub.com
+Opening Hours: Mo-Su 12:00-24:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3050894
+Longitude: -71.1145161
+OpenStreetMap URL: https://www.openstreetmap.org/node/4059105771
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4059105771
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

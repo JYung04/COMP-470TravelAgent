@@ -1,0 +1,25 @@
+Name: El Tenampa Mexican Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: mexican
+Address: 4565 West Irlo Bronson Memorial Highway, Kissimmee FL 34746
+Description: Not listed
+Website: https://www.eltenampakissimmee.com/el-tenampa-restaurant
+Phone: +1-407-397-1981
+Email: Not listed
+Opening Hours: 10:00 - 21:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.3106078
+Longitude: -81.4650316
+OpenStreetMap URL: https://www.openstreetmap.org/node/13373029927
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13373029927
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

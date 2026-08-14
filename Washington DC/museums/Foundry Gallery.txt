@@ -1,0 +1,25 @@
+Name: Foundry Gallery
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 2118 8th Street Northwest, 20001
+Description: Not listed
+Website: https://www.foundrygallery.org/
+Phone: +1 202-232-0203
+Email: Not listed
+Opening Hours: Fr-Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9185523
+Longitude: -77.0230797
+OpenStreetMap URL: https://www.openstreetmap.org/node/11842105153
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11842105153
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

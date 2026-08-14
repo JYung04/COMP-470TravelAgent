@@ -1,0 +1,25 @@
+Name: The Redhead Piano Bar
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 16 West Ontario Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.redheadpianobar.com/
+Phone: +1-312-640-1000
+Email: Not listed
+Opening Hours: Su-Fr 19:00-04:00; Sa 19:00-05:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8934341
+Longitude: -87.6287429
+OpenStreetMap URL: https://www.openstreetmap.org/node/5456983087
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5456983087
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Phantom
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 1327 Connecticut Avenue Northwest, 20036
+Description: Not listed
+Website: https://phantomdc.com/
+Phone: +1 202-430-6100
+Email: Not listed
+Opening Hours: Su,Th 22:00-02:00; Fr,Sa 22:00-03:00
+Wheelchair Accessibility: limited
+Latitude: 38.9080198
+Longitude: -77.0421979
+OpenStreetMap URL: https://www.openstreetmap.org/node/739339982
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/739339982
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

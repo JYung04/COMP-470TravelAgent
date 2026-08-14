@@ -1,0 +1,25 @@
+Name: Chicago Q
+City: Chicago
+Category: restaurants
+Cuisine: barbecue
+Address: 1160 North Dearborn Street, Chicago IL 60610
+Description: Significantly more polished than your typical BBQ joint, Chicago Q in downtown’s Gold Coast boasts rich leather couches and gleaming dark wood tables, as well as a critically acclaimed pit master. Billed as the new urban BBQ experience, the pits are manned by none other than celebrity chef Art Smith, who was a personal chef for Oprah Winfrey. Expect artisanal housemade rubs, the highest quality meats, and service that exudes Southern hospitality.
+Website: https://chicagoqrestaurant.com/
+Phone: +1-312-642-1160
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9036152
+Longitude: -87.6304189
+OpenStreetMap URL: https://www.openstreetmap.org/node/6282505580
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6282505580
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art

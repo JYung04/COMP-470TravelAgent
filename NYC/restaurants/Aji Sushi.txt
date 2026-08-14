@@ -1,0 +1,24 @@
+Name: Aji Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 838 2nd Avenue
+Description: Not listed
+Website: https://ajisushi-thai.com
+Phone: +1-212-227-2108
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-15:30,16:30-22:00; Sa off; Su 15:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.751452
+Longitude: -73.9707949
+OpenStreetMap URL: https://www.openstreetmap.org/node/12676843762
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12676843762
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

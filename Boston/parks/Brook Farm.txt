@@ -1,0 +1,25 @@
+Name: Brook Farm
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Brook Farm, also called the Brook Farm Institute of Agriculture and Education or the Brook Farm Association for Industry and Education, was a utopian experiment in communal living in the United States in the 1840s. It was founded by former Unitarian minister George Ripley and his wife Sophia Ripley at the Ellis Farm in West Roxbury, Massachusetts, in 1841 and was inspired in part by the ideals of transcendentalism, a religious and cultural philosophy based in New England. Founded as a joint stock company, it promised its participants a portion of the farm's profits in exchange for an equal share of the work. Brook Farmers believed that by sharing the workload, they would have ample time for leisure and intellectual.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.2869638
+Longitude: -71.180896
+OpenStreetMap URL: https://www.openstreetmap.org/relation/13096884
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/13096884
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; art

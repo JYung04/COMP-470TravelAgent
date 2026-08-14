@@ -1,0 +1,25 @@
+Name: Park No. 540
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 2401 South Federal Street, Chicago IL 60616
+Description: Officially classified as neighborhood park. Covers approximately 5.0 acres. Facilities include playground.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/park-no-540
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.848346
+Longitude: -87.6290026
+OpenStreetMap URL: https://www.openstreetmap.org/way/218162319
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/218162319
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

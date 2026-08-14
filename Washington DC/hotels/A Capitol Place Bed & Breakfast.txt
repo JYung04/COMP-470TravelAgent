@@ -1,0 +1,25 @@
+Name: A Capitol Place Bed & Breakfast
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 134 12th Street Southeast, Washington DC 20003
+Description: Not listed
+Website: http://www.acapitolplace.com/
+Phone: +1 202-543-1020
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8883656
+Longitude: -76.9899772
+OpenStreetMap URL: https://www.openstreetmap.org/node/759603163
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/759603163
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

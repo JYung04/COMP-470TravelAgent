@@ -1,0 +1,25 @@
+Name: Steeplechase Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: 1739 Riegelmann Boardwalk, Brooklyn NY 11224
+Description: Steeplechase Park was an amusement park that operated in the Coney Island neighborhood of Brooklyn in New York City, United States, from 1897 to 1964. Steeplechase Park was created by the entrepreneur George C. Tilyou as the first of the three large amusement parks built on Coney Island, the other two being Luna Park (1903–1944) and Dreamland (1904–1911). Of the three, Steeplechase was the longest-lasting, running for 67 years.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 40.5731318
+Longitude: -73.9837956
+OpenStreetMap URL: https://www.openstreetmap.org/way/405891530
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/405891530
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,24 @@
+Name: Howl at the Moon
+City: Orlando
+Category: nightlife
+Cuisine: Not listed
+Address: 8815 International Drive, Orlando FL
+Description: Not listed
+Website: http://www.howlatthemoon.com
+Phone: (407) 354-5999
+Email: orlando@howlatthemoon.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 28.4375297
+Longitude: -81.4713816
+OpenStreetMap URL: https://www.openstreetmap.org/way/140641439
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/140641439
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

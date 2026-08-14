@@ -1,0 +1,25 @@
+Name: Queens Tavern
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 68-69 Fresh Pond Road, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-718-821-9337
+Email: Not listed
+Opening Hours: Su-Th 17:00-02:00; Fr-Sa 17:00-04:00
+Wheelchair Accessibility: limited
+Latitude: 40.7034206
+Longitude: -73.895285
+OpenStreetMap URL: https://www.openstreetmap.org/node/5351699032
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5351699032
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

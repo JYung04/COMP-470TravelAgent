@@ -1,0 +1,25 @@
+Name: Little Myanmar
+City: NYC
+Category: restaurants
+Cuisine: burmese
+Address: 150 East 2nd Street, 10009
+Description: Not listed
+Website: https://littlemyanmarny.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7229483
+Longitude: -73.9853975
+OpenStreetMap URL: https://www.openstreetmap.org/node/11971148917
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11971148917
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

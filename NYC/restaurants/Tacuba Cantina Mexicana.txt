@@ -1,0 +1,25 @@
+Name: Tacuba Cantina Mexicana
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 802 9th Avenue
+Description: Not listed
+Website: http://tacubanyc.com/
+Phone: +1-212-245-4500
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:00; Fr 11:30-23:00; Sa 11:00-23:00; Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7654494
+Longitude: -73.9872699
+OpenStreetMap URL: https://www.openstreetmap.org/node/9327461658
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9327461658
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

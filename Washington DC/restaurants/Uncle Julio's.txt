@@ -1,0 +1,25 @@
+Name: Uncle Julio's
+City: Washington DC
+Category: restaurants
+Cuisine: mexican
+Address: 4870 Bethesda Ave, Bethesda, MD 20814, United States
+Description: Not listed
+Website: https://unclejulios.com/locations/bethesda-row/
+Phone: +1 301-656-2981
+Email: Not listed
+Opening Hours: 11:00-22:00; Nov 24 off
+Wheelchair Accessibility: Not listed
+Latitude: 38.980706
+Longitude: -77.0981384
+OpenStreetMap URL: https://www.openstreetmap.org/node/1323051820
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1323051820
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

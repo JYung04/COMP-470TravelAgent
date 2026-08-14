@@ -1,0 +1,24 @@
+Name: Cai Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: chinese, cantonese, dim_sum
+Address: Not listed
+Description: Not listed
+Website: http://www.cairestaurant.com/
+Phone: +1-312-326-6888
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-23:00; Sa,Su 08:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8545987
+Longitude: -87.6324113
+OpenStreetMap URL: https://www.openstreetmap.org/node/6663059208
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6663059208
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

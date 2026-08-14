@@ -1,0 +1,25 @@
+Name: Bar Six
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 502 6th Avenue
+Description: Not listed
+Website: http://www.barsixny.com/
+Phone: +1-212-691-1363
+Email: Not listed
+Opening Hours: Mo-Su 11:00-16:00, 17:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 40.7364211
+Longitude: -73.9972187
+OpenStreetMap URL: https://www.openstreetmap.org/node/5574666644
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5574666644
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

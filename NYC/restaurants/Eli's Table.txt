@@ -1,0 +1,25 @@
+Name: Eli's Table
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 1413 3rd Avenue, 10028
+Description: Not listed
+Website: https://www.elizabar.com/Elis-Table.aspx
+Phone: +1 212-717-9798
+Email: elistable@elizabar.com
+Opening Hours: Tu-Sa 17:30-21:30
+Wheelchair Accessibility: yes
+Latitude: 40.7750684
+Longitude: -73.95648
+OpenStreetMap URL: https://www.openstreetmap.org/node/7108601966
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7108601966
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

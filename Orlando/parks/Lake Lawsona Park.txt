@@ -1,0 +1,25 @@
+Name: Lake Lawsona Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 1019 E Jackson Street, Orlando, FL 32801
+Description: Lake Lawsona Park is a quiet oasis with lakeside views. The park is located on 1019 East Jackson Street.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Lawsona-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5406909
+Longitude: -81.3641171
+OpenStreetMap URL: https://www.openstreetmap.org/way/69560662
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/69560662
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

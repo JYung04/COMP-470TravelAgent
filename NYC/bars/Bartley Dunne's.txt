@@ -1,0 +1,24 @@
+Name: Bartley Dunne's
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 160 West 54th Street, New York 10019
+Description: Not listed
+Website: https://www.bartleysnyc.com/
+Phone: +1-646-771-9214
+Email: Not listed
+Opening Hours: Mo-Tu 12:00-02:00, We-Th 12:00-03:00, Fr 12:00-04:00, Sa 10:30-04:00, Su 10:30-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7632835
+Longitude: -73.9810028
+OpenStreetMap URL: https://www.openstreetmap.org/node/2958284620
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2958284620
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

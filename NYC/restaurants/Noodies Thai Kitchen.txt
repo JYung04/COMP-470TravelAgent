@@ -1,0 +1,25 @@
+Name: Noodies Thai Kitchen
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 830 9th Avenue
+Description: Not listed
+Website: https://www.noodiesnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 12:00-22:00; Fr,Sa 12:00-22:30
+Wheelchair Accessibility: yes
+Latitude: 40.7662252
+Longitude: -73.9867368
+OpenStreetMap URL: https://www.openstreetmap.org/node/7061899686
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7061899686
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

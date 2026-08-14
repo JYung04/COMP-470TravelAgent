@@ -1,0 +1,25 @@
+Name: National Museum of African Art
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 950 Independence Avenue Southwest, Washington DC 20560
+Description: The National Museum of African Art is the Smithsonian Institution's African art museum, located on the National Mall of the United States capital. Its collections include 9,000 works of traditional and contemporary African art from both Sub-Saharan and North Africa, 300,000 photographs, and 50,000 library volumes. It was the first institution dedicated to African art in the United States and remains the largest collection. The Washington Post called the museum a mainstay in the international art world and the main venue for contemporary African art in the United States.
+Website: https://africa.si.edu/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30; PH off
+Wheelchair Accessibility: yes
+Latitude: 38.8879651
+Longitude: -77.0255043
+OpenStreetMap URL: https://www.openstreetmap.org/way/26765041
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/26765041
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

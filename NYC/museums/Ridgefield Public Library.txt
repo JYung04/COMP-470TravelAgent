@@ -1,0 +1,25 @@
+Name: Ridgefield Public Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 527 Morse Avenue, Ridgefield 07657
+Description: Not listed
+Website: https://www.ridgefieldpubliclibrary.com/
+Phone: +1 201-941-0192
+Email: Not listed
+Opening Hours: Mo-Th 10:00-20:00; Fr 10:00-17:00; Sa 10:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.8322204
+Longitude: -74.0053327
+OpenStreetMap URL: https://www.openstreetmap.org/way/1151677557
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1151677557
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

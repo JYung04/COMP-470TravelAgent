@@ -1,0 +1,25 @@
+Name: EaThai
+City: Chicago
+Category: restaurants
+Cuisine: thai
+Address: 2901 North Kedzie Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9339805
+Longitude: -87.7072158
+OpenStreetMap URL: https://www.openstreetmap.org/node/2285167402
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2285167402
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

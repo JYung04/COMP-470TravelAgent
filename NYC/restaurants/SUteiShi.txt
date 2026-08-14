@@ -1,0 +1,25 @@
+Name: SUteiShi
+City: NYC
+Category: restaurants
+Cuisine: japanese
+Address: 24 Peck Slip, 10038
+Description: Not listed
+Website: https://www.suteishi.com/
+Phone: +12127662344
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-15:30, 17:30-22:30; Sa 11:30-23:30; Su 11:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.707782
+Longitude: -74.0018443
+OpenStreetMap URL: https://www.openstreetmap.org/node/4850227822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4850227822
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

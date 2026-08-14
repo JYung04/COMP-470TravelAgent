@@ -1,0 +1,25 @@
+Name: Murphy Playground
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Official Boston park data lists features including Athletic Field, Athletic Seating, Bike Rack, Drinking Fountain, Playground.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3073651
+Longitude: -71.113308
+OpenStreetMap URL: https://www.openstreetmap.org/way/29835395
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29835395
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Belmont Park Village
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.belmontparkvillage.com/belmont-park-village/en
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7069021
+Longitude: -73.7252042
+OpenStreetMap URL: https://www.openstreetmap.org/way/986068726
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/986068726
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

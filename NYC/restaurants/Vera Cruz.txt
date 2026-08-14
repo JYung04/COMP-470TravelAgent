@@ -1,0 +1,25 @@
+Name: Vera Cruz
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 195 Bedford Avenue, Brooklyn NY 11211
+Description: Not listed
+Website: https://veracruzbrooklyn.com/
+Phone: +1-718-486-3333
+Email: Not listed
+Opening Hours: Mo-Sa 16:00-04:00; Su 15:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7173677
+Longitude: -73.9580295
+OpenStreetMap URL: https://www.openstreetmap.org/node/6182605480
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6182605480
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

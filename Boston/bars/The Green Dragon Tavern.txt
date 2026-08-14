@@ -1,0 +1,25 @@
+Name: The Green Dragon Tavern
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 11 Marshall Street, Boston MA 02108
+Description: Historic Irish pub offers bar bites, a vibrant scene & live bands on weekend nights.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 11:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3615079
+Longitude: -71.0568617
+OpenStreetMap URL: https://www.openstreetmap.org/node/5212997930
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5212997930
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

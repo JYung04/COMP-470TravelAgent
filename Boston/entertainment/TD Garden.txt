@@ -1,0 +1,25 @@
+Name: TD Garden
+City: Boston
+Category: entertainment
+Cuisine: Not listed
+Address: 100 Legends Way, Boston MA 02114
+Description: TD Garden is New England's premier sports and entertainment facility. Home to the 2011 Stanley Cup Champion Boston Bruins and the Boston Celtics, the 19,600 seat arena hosts world renowned concerts, sporting events, family shows and much more. The TD Garden has three private restaurants (Banners Harbor View, Budweiser Legends Club, and The Premium Club Bistro), 90 Executive Suites, 1100 club seats, a multimillion dollar high-definition video scoreboard - Garden HDX - and complete 360-degree LED technology.
+Website: https://www.tdgarden.com/
+Phone: +1-617-624-1050
+Email: customerservice@tdgarden.com
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3663038
+Longitude: -71.0621014
+OpenStreetMap URL: https://www.openstreetmap.org/way/25123637
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/25123637
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment; views; gardens

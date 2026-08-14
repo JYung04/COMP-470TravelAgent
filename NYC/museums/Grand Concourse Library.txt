@@ -1,0 +1,25 @@
+Name: Grand Concourse Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 155 East 173rd Street, Bronx 10457
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/grand-concourse
+Phone: +1-718-583-6611
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.8440006
+Longitude: -73.9100916
+OpenStreetMap URL: https://www.openstreetmap.org/way/276025333
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/276025333
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

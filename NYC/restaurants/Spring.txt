@@ -1,0 +1,24 @@
+Name: Spring
+City: NYC
+Category: restaurants
+Cuisine: thai, sushi
+Address: 96-40 Queens Boulevard, Rego Park 11374
+Description: Havana Film Festival New York (April) In collaboration with Havana’s International Festival of New Latin American Cinema, this NYC celebration of Latin American film and filmmakers takes place in Midtown and presents a selection of films from countries such as Brazil, Argentina, Colombia, Chile and Puerto Rico. Courtesy, Tribeca Film Festival Tribeca Film Festival (April) Tribeca is the biggest film festival in NYC, with an expansive program of narratives, docs and shorts as well as episodic and
+Website: https://www.springthaifusion.com/
+Phone: +1-718-440-9618
+Email: Not listed
+Opening Hours: Mo-Th 11:00-23:00, Fr 11:00-23:30, Sa 12:00-23:30, Su 12:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.729411
+Longitude: -73.8613202
+OpenStreetMap URL: https://www.openstreetmap.org/node/5123325421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5123325421
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

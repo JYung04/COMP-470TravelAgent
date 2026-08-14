@@ -1,0 +1,25 @@
+Name: Hamilton's Bakery and Cafe
+City: NYC
+Category: cafes
+Cuisine: regional
+Address: 3570;3576 Broadway, New York NY 10031
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8274731
+Longitude: -73.9493563
+OpenStreetMap URL: https://www.openstreetmap.org/node/2768305932
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2768305932
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

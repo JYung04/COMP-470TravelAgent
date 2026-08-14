@@ -1,0 +1,25 @@
+Name: Grace Street Coffee Roasters
+City: Washington DC
+Category: cafes
+Cuisine: coffee_shop
+Address: 3210 Grace Street Northwest Washington DC 20007
+Description: Not listed
+Website: https://www.gracestcoffee.com/
+Phone: +1 202-470-1331
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9875665
+Longitude: -77.0996948
+OpenStreetMap URL: https://www.openstreetmap.org/node/12831691940
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12831691940
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Kimpton Glover Park Hotel
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 2505 Wisconsin Avenue Northwest, Washington DC 20007
+Description: Not listed
+Website: https://www.gloverparkhotel.com/
+Phone: +1 202-337-9700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9233099
+Longitude: -77.0727824
+OpenStreetMap URL: https://www.openstreetmap.org/way/67829141
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/67829141
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

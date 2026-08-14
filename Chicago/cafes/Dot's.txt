@@ -1,0 +1,25 @@
+Name: Dot's
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3604 North Damen Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9469966
+Longitude: -87.6787078
+OpenStreetMap URL: https://www.openstreetmap.org/node/13891938101
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13891938101
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

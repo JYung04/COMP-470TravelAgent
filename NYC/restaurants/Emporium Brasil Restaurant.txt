@@ -1,0 +1,25 @@
+Name: Emporium Brasil Restaurant
+City: NYC
+Category: restaurants
+Cuisine: brazilian
+Address: 15 West 46th Street, New York 10036
+Description: Not listed
+Website: https://emporiumbrasil.com/
+Phone: +1-212-764-4646
+Email: Not listed
+Opening Hours: Mo-Su 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7565246
+Longitude: -73.9798908
+OpenStreetMap URL: https://www.openstreetmap.org/node/4311338891
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4311338891
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

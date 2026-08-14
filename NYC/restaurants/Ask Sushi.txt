@@ -1,0 +1,24 @@
+Name: Ask Sushi
+City: NYC
+Category: restaurants
+Cuisine: fusion, sushi, latin_american
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-347-924-9033
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7330703
+Longitude: -73.8957452
+OpenStreetMap URL: https://www.openstreetmap.org/node/13121218083
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13121218083
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

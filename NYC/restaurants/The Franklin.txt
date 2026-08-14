@@ -1,0 +1,25 @@
+Name: The Franklin
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 164 East 87th Street 10128
+Description: Not listed
+Website: https://www.franklinhotel.com/
+Phone: +1 212-710-2569
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7415278
+Longitude: -74.0470913
+OpenStreetMap URL: https://www.openstreetmap.org/node/12229859286
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12229859286
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: The Matchbox
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 770 North Milwaukee Avenue, Chicago IL 60642
+Description: Not listed
+Website: Not listed
+Phone: +1-312-666-9292
+Email: Not listed
+Opening Hours: Mo-Su 15:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8957112
+Longitude: -87.6548491
+OpenStreetMap URL: https://www.openstreetmap.org/node/6315665345
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6315665345
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Freer Gallery of Art
+City: Washington DC
+Category: museums
+Cuisine: Not listed
+Address: 1050 Independence Avenue Southwest, Washington DC 20013
+Description: The Freer Gallery of Art is an art museum of the Smithsonian Institution in Washington, D.C. focusing on Asian art. The Freer and the Arthur M. Sackler Gallery together form the National Museum of Asian Art in the United States. The Freer and Sackler galleries house the largest Asian art research library in the country and contain art from East Asia, South Asia, Southeast Asia, the Islamic world, the ancient Near East, and ancient Egypt, as well as a significant collection of American art.
+Website: https://www.asia.si.edu/
+Phone: +1 202-633-1000
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-17:30; Dec 25 off
+Wheelchair Accessibility: Not listed
+Latitude: 38.8881079
+Longitude: -77.0273456
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1029355
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1029355
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

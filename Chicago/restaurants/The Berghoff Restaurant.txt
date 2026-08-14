@@ -1,0 +1,25 @@
+Name: The Berghoff Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: german
+Address: 17 West Adams Street, Chicago IL 60603
+Description: The Berghoff Craving a little local history (and maybe a cold beer)? Then head to The Berghoff , Chicago’s most famous German restaurant that’s been family-owned and operated for more than a century. The Berghoff was established in 1898, but you can trace its roots back to the 1893 Chicago World’s Fair, when Herman Berghoff set up a stand to sell his beers to the crowds. He went on to procure Chicago’s first post-Prohibition liquor license to open The Berghoff Bar. More than 100 years later, The
+Website: https://www.theberghoff.com/
+Phone: +1 312-427-3170
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:00; Sa 11:30-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8793454
+Longitude: -87.6284801
+OpenStreetMap URL: https://www.openstreetmap.org/node/368064192
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/368064192
+Price: Not listed
+Rating: 4.4
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

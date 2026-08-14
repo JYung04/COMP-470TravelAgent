@@ -1,0 +1,25 @@
+Name: La Piccola Liguria
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 47 Shore Road, Port Washington NY 11050
+Description: Not listed
+Website: https://la-piccola-liguria.edan.io/
+Phone: +1 516-767-6490
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8365518
+Longitude: -73.7017075
+OpenStreetMap URL: https://www.openstreetmap.org/way/769679961
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/769679961
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

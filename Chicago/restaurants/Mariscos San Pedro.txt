@@ -1,0 +1,25 @@
+Name: Mariscos San Pedro
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1227 West 18th Street, Chicago IL 60608
+Description: Not listed
+Website: https://mariscossanpedro.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.8578003
+Longitude: -87.6574498
+OpenStreetMap URL: https://www.openstreetmap.org/node/4075429622
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4075429622
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

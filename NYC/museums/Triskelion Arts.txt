@@ -1,0 +1,25 @@
+Name: Triskelion Arts
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 106 Calyer Street, Brooklyn NY 11222
+Description: Triskelion Arts is a non-profit arts presenting organization founded in 2000, which includes two theaters and rehearsal studios in Greenpoint, Brooklyn. Triskelion Arts features artists from the concert dance, comedy, improvisation, Butoh and clowning communities, “where young companies can afford to self-produce and where choreographers can take a chance.” [3]
+Website: https://www.triskelionarts.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7269717
+Longitude: -73.9565605
+OpenStreetMap URL: https://www.openstreetmap.org/node/10988277105
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10988277105
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

@@ -1,0 +1,25 @@
+Name: haley.henry
+City: Boston
+Category: bars
+Cuisine: seafood
+Address: Not listed
+Description: haley.henry is an intimate wine bar located in the heart of downtown Boston. The cuisine focuses on rotating seasonal fare as well as responsibly sourced natural, sustainable and small production wine options from across the globe. It has been a fixture in downtown since its inception in 2016 and continues to foster a safe, inclusive and welcoming tone to all that frequent its doors. Lovers of hiphop & pop culture, haley.henry continues to deliver a vibe like no other in the area and maintains its ability to keep the energy flowing every single night.
+Website: https://www.facebook.com/MeetBostonUSA
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3575054
+Longitude: -71.0596738
+OpenStreetMap URL: https://www.openstreetmap.org/node/10963819706
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10963819706
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks; art

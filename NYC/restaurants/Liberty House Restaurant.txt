@@ -1,0 +1,25 @@
+Name: Liberty House Restaurant
+City: NYC
+Category: restaurants
+Cuisine: American, Banquet hall, Event venue
+Address: 76 Audrey Zapp Dr, Jersey City, NJ 07305, United States
+Description: Not listed
+Website: http://libertyhouserestaurant.com/
+Phone: +1 201-395-0300
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7091353
+Longitude: -74.0399848
+OpenStreetMap URL: https://www.openstreetmap.org/way/277479644
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/277479644
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

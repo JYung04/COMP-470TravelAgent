@@ -1,0 +1,25 @@
+Name: Pretty Ricky's
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 101 Rivington Street, New York NY 10002
+Description: Not listed
+Website: https://www.prettyrickys.com/
+Phone: +1-646-429-3957
+Email: Not listed
+Opening Hours: Mo-Su 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7199647
+Longitude: -73.9882898
+OpenStreetMap URL: https://www.openstreetmap.org/node/6233803807
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6233803807
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

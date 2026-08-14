@@ -1,0 +1,25 @@
+Name: Rose's Luxury
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 717 8th Street Southeast, Washington DC 20003
+Description: Capitol Hill Neighborhood dining doesn't get any better than this Barracks Row establishment , once named the best new restaurant in America by Bon Appétit . Eaters line up hours in advance to get a table, but now you can score same-day reservations as well. Little Pearl
+Website: https://www.rosesluxury.com/
+Phone: +1 202-580-8889
+Email: Not listed
+Opening Hours: Mo-Sa 17:00-22:00
+Wheelchair Accessibility: limited
+Latitude: 38.880642
+Longitude: -76.9952808
+OpenStreetMap URL: https://www.openstreetmap.org/way/55332584
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/55332584
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

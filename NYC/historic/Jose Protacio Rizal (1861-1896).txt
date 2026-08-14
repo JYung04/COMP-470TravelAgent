@@ -1,0 +1,25 @@
+Name: Jose Protacio Rizal (1861-1896)
+City: NYC
+Category: historic
+Cuisine: Not listed
+Address: Christopher Columbus Drive, Jersey City
+Description: NHI historical marker for José Rizal in Jersey City, New Jersey, United States
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7221156
+Longitude: -74.0509875
+OpenStreetMap URL: https://www.openstreetmap.org/node/6172733375
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6172733375
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history

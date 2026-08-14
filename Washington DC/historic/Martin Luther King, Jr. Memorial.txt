@@ -1,0 +1,25 @@
+Name: Martin Luther King, Jr. Memorial
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Martin Luther King, Jr. Memorial is a national memorial located in West Potomac Park next to the National Mall in Washington, D.C., United States. It covers four acres (1.6 ha) and includes the Stone of Hope, a granite statue of civil rights movement leader Martin Luther King Jr. carved by sculptor Lei Yixin. The inspiration for the memorial design is a line from King's "I Have a Dream" speech: "Out of the mountain of despair, a stone of hope." The memorial opened to the public on August 22, 2011, after more than two decades of planning, fundraising, and construction.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8860892
+Longitude: -77.0440376
+OpenStreetMap URL: https://www.openstreetmap.org/way/398822975
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/398822975
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: martin luther king jr memorial
+Best For: history; art

@@ -1,0 +1,25 @@
+Name: Pete's Diner
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 212 2nd Street Southeast, Washington DC 20003-1943
+Description: Not listed
+Website: http://www.petescarryout.com
+Phone: +1 202-544-7335
+Email: Not listed
+Opening Hours: Mo-Fr 06:00-15:00; Sa-Su 07:00-15:00
+Wheelchair Accessibility: limited
+Latitude: 38.8869923
+Longitude: -77.0033429
+OpenStreetMap URL: https://www.openstreetmap.org/node/2402684131
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2402684131
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

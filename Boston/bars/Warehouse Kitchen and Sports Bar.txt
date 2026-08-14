@@ -1,0 +1,25 @@
+Name: Warehouse Kitchen and Sports Bar
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 40 Broad Street, Boston MA 02109
+Description: Not listed
+Website: https://www.thewarehouseboston.com/
+Phone: +1-617-936-4383
+Email: info@thewarehouseboston.com
+Opening Hours: 11:30 - 00:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3581128
+Longitude: -71.0539425
+OpenStreetMap URL: https://www.openstreetmap.org/node/13241430402
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13241430402
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

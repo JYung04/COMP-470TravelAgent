@@ -1,0 +1,25 @@
+Name: Salinas
+City: NYC
+Category: restaurants
+Cuisine: ecuadorian
+Address: 102-02 Northern Boulevard
+Description: Not listed
+Website: https://salinasnyc.com/
+Phone: +1 212-776-1990
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7574001
+Longitude: -73.866384
+OpenStreetMap URL: https://www.openstreetmap.org/node/5490013363
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5490013363
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

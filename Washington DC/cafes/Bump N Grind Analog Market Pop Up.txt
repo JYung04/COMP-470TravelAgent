@@ -1,0 +1,25 @@
+Name: Bump N Grind Analog Market Pop Up
+City: Washington DC
+Category: cafes
+Cuisine: Not listed
+Address: Gist Avenue 923
+Description: vintage vinyl+ coffee shop + other vendors
+Website: https://bumpngrind.co/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Su 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9897101
+Longitude: -77.0248496
+OpenStreetMap URL: https://www.openstreetmap.org/node/12243104773
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12243104773
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Brookland Grill
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 3528 12th Street Northeast, Washington DC 20017-2544
+Description: Not listed
+Website: http://thebrooklandgrill.com/home.html
+Phone: +1 202-526-7419
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9332937
+Longitude: -76.9912029
+OpenStreetMap URL: https://www.openstreetmap.org/node/9046095968
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9046095968
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

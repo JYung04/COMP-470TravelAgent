@@ -1,0 +1,25 @@
+Name: Beacon Hill Books & Cafe
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 71 Charles Street, MA 02114
+Description: Not listed
+Website: https://www.bhbooks.com
+Phone: +1-617-945-4713
+Email: Not listed
+Opening Hours: Mo off; Tu-Sa 09:00-11:00 open "Breakfast", Tu-Sa 11:00-15:30 open "Lunch", Tu-Sa 15:30-17:00 open "Coffee & Drinks (Kitchen Closed)", Tu-Sa 17:00-21:00 open "Supper", Tu-Sa 17:00-21:00 open "Supper"; Su 11:00-21:00 open "Afternoon Tea"
+Wheelchair Accessibility: Not listed
+Latitude: 42.3581991
+Longitude: -71.0703264
+OpenStreetMap URL: https://www.openstreetmap.org/node/11378587042
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11378587042
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

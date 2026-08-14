@@ -1,0 +1,24 @@
+Name: Emily
+City: NYC
+Category: restaurants
+Cuisine: pizza, burger
+Address: 919 Fulton Street, Brooklyn NY 11238
+Description: Not listed
+Website: https://www.pizzalovesemily.com/location/brooklyn/
+Phone: +1-347-844-9588
+Email: Not listed
+Opening Hours: Mo-Th 17:30-22:30; Fr 17:30-23:30; Sa 12:00-15:00,17:00-23:30; Su 12:00-15:00,17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6835141
+Longitude: -73.9664316
+OpenStreetMap URL: https://www.openstreetmap.org/node/6168774385
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6168774385
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

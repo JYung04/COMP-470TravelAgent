@@ -1,0 +1,25 @@
+Name: Bungalow
+City: NYC
+Category: restaurants
+Cuisine: indian
+Address: 24 1st Avenue, New York 10009
+Description: Not listed
+Website: https://www.bungalowny.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-We 17:00-22:30, Th-Sa 17:00-23:00, Su 17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7236539
+Longitude: -73.9879543
+OpenStreetMap URL: https://www.openstreetmap.org/node/12389271511
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12389271511
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

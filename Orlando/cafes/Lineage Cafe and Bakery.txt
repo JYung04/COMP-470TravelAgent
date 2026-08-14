@@ -1,0 +1,25 @@
+Name: Lineage Cafe and Bakery
+City: Orlando
+Category: cafes
+Cuisine: coffee_shop
+Address: 11556 University Boulevard, Orlando FL 32817
+Description: Not listed
+Website: https://www.lineageroasting.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5972189
+Longitude: -81.219071
+OpenStreetMap URL: https://www.openstreetmap.org/node/10304904142
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10304904142
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

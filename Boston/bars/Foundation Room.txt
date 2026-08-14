@@ -1,0 +1,25 @@
+Name: Foundation Room
+City: Boston
+Category: bars
+Cuisine: Not listed
+Address: 15 Lansdowne Street, Boston MA 02215
+Description: Not listed
+Website: https://www.houseofblues.com/boston/fr
+Phone: Not listed
+Email: Not listed
+Opening Hours: We-Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3474068
+Longitude: -71.0959362
+OpenStreetMap URL: https://www.openstreetmap.org/node/7606962996
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7606962996
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

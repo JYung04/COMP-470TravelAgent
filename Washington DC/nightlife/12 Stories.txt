@@ -1,0 +1,24 @@
+Name: 12 Stories
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 75 District Square Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.12storiesdc.com
+Phone: (202) 894-9700
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.8796582
+Longitude: -77.0252829
+OpenStreetMap URL: https://www.openstreetmap.org/node/8691887344
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8691887344
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

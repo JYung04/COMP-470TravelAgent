@@ -1,0 +1,25 @@
+Name: BJ's
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 39 Green Acres Road
+Description: Not listed
+Website: https://www.bjsrestaurants.com/locations/nj/teterboro
+Phone: +1 551-313-7450
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8607237
+Longitude: -74.060869
+OpenStreetMap URL: https://www.openstreetmap.org/node/8530362478
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8530362478
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Poppabox
+City: Washington DC
+Category: cafes
+Cuisine: asian
+Address: 1928 I Street Northwest, Washington DC 20006-2135
+Description: Not listed
+Website: https://www.poppaboxdc.com/
+Phone: +1 202-659-1111
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9011806
+Longitude: -77.0447352
+OpenStreetMap URL: https://www.openstreetmap.org/node/3000739361
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3000739361
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

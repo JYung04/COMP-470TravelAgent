@@ -1,0 +1,25 @@
+Name: Syndicated Bar Theater Kitchen
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 40 Bogart Street, Brooklyn NY 11206
+Description: movie theater in Bushwick, Brooklyn, New York City, United States
+Website: https://syndicatedbk.com/
+Phone: +1-718-386-3399
+Email: Not listed
+Opening Hours: Su 15:00-24:00; Mo-We 17:00-24:00; Th 17:00-27:00; Fr 17:00-26:00; Sa 15:00-26:00
+Wheelchair Accessibility: limited
+Latitude: 40.7049878
+Longitude: -73.933081
+OpenStreetMap URL: https://www.openstreetmap.org/node/2838596374
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2838596374
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

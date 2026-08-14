@@ -1,0 +1,25 @@
+Name: Casa Yari
+City: Chicago
+Category: restaurants
+Cuisine: latin_american
+Address: 3268 West Fullerton Avenue, Chicago IL 60647
+Description: Not listed
+Website: https://www.facebook.com/casayari2013
+Phone: +1-773-661-9546
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9249421
+Longitude: -87.7102153
+OpenStreetMap URL: https://www.openstreetmap.org/node/6280541276
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6280541276
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

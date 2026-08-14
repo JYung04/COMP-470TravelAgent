@@ -1,0 +1,25 @@
+Name: Esco
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 738 West Couch Place, Chicago IL 60661
+Description: Not listed
+Website: https://komochicago.com/esco/
+Phone: +1-872-206-5245
+Email: Not listed
+Opening Hours: Th-Fr 21:00-01:30; Sa 21:00-02:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8848397
+Longitude: -87.647215
+OpenStreetMap URL: https://www.openstreetmap.org/node/5460388170
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5460388170
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

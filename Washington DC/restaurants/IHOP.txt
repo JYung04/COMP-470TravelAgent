@@ -1,0 +1,24 @@
+Name: IHOP
+City: Washington DC
+Category: restaurants
+Cuisine: breakfast, pancake
+Address: 3100 14th Street Northwest, Washington DC 20010
+Description: Not listed
+Website: https://restaurants.ihop.com/en-us/dc/washington/breakfast-3100-14th-st-nw-3332
+Phone: +1 202-939-0500
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: yes
+Latitude: 38.9288994
+Longitude: -77.0336861
+OpenStreetMap URL: https://www.openstreetmap.org/node/1333685835
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1333685835
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

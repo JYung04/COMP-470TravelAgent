@@ -1,0 +1,25 @@
+Name: 5 Spices House 五味七品棲
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 58 Beach Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3514325
+Longitude: -71.0603959
+OpenStreetMap URL: https://www.openstreetmap.org/node/13226697701
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13226697701
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

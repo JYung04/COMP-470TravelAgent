@@ -1,0 +1,25 @@
+Name: Cheltenham Drive Urban Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.montgomeryparks.org/parks_facilities_directory/cheltenhamdriveup.shtm
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9886297
+Longitude: -77.0939348
+OpenStreetMap URL: https://www.openstreetmap.org/way/374791251
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/374791251
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

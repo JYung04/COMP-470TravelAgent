@@ -1,0 +1,25 @@
+Name: Anixi Mediterranean Vegan Restaurant
+City: NYC
+Category: restaurants
+Cuisine: mediterranean
+Address: 290 8th Avenue, New York NY 10001
+Description: Not listed
+Website: https://www.anixinyc.com/
+Phone: +1-646-410-0946
+Email: Not listed
+Opening Hours: Mo-Th 16:30-22:00; Fr 16:30-22:30; Sa 11:30-22:30; Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7462748
+Longitude: -73.9975223
+OpenStreetMap URL: https://www.openstreetmap.org/node/11088424818
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11088424818
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Kobe Japanese Steakhouse
+City: Orlando
+Category: restaurants
+Cuisine: japanese
+Address: 5605 S Kirkman Road, Orlando FL 32819-7827
+Description: Not listed
+Website: https://www.kobesteakhouse.com
+Phone: +1-407-248-1978
+Email: Not listed
+Opening Hours: Mo-Th 17:00-21:30; Fr 17:00-22:00; Sa 12:00-22:00; Su 12:00-21:30
+Wheelchair Accessibility: yes
+Latitude: 28.4812325
+Longitude: -81.4578767
+OpenStreetMap URL: https://www.openstreetmap.org/way/238143065
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/238143065
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

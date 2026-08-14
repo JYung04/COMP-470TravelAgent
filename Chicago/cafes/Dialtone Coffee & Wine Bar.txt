@@ -1,0 +1,25 @@
+Name: Dialtone Coffee & Wine Bar
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 1140 North Wells Street, 60610
+Description: Not listed
+Website: https://www.dialtonecafe.com/
+Phone: +13128250066
+Email: Not listed
+Opening Hours: Mo-Th 06:00-21:00; Fr 06:00-22:00; Sa 07:00-22:00; Su 07:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9032509
+Longitude: -87.6352989
+OpenStreetMap URL: https://www.openstreetmap.org/node/12657112796
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12657112796
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

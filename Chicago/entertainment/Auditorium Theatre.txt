@@ -1,0 +1,24 @@
+Name: Auditorium Theatre
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 50 East Ida B. Wells Drive, Chicago IL 60605
+Description: The Auditorium Theatre is a music and performance venue in the Auditorium Building at 50 E. Ida B. Wells Drive in Chicago, Illinois. Inspired by the Richardsonian Romanesque style of architect Henry Hobson Richardson, the building was designed by Dankmar Adler and Louis Sullivan and completed in 1889. The Chicago Symphony Orchestra performed in the theatre until 1904 as well as the Chicago Grand Opera Company and its successors the Chicago Opera Association and Chicago Civic Opera until its relocation to the Civic Opera House in 1929. The theater was home to the Joffrey Ballet from 1998 until 2020. It currently hosts a variety of concerts, musicals, performances, and events. Since the 1940s, it has been owned by Roosevelt University.
+Website: https://www.auditoriumtheatre.org
+Phone: (312) 341-2300
+Email: information@auditoriumtheatre.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8760483
+Longitude: -87.6252727
+OpenStreetMap URL: https://www.openstreetmap.org/way/1269032994
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1269032994
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; music

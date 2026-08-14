@@ -1,0 +1,25 @@
+Name: Dough Bros Pizzeria & Sub Shop
+City: Chicago
+Category: restaurants
+Cuisine: pizza
+Address: 400 North State Street, Chicago IL 60654
+Description: Not listed
+Website: http://www.doughbrospizza.com/
+Phone: +1-312-600-9078
+Email: Not listed
+Opening Hours: Su-We 11:00-00:00; Th 11:00-02:00; Fr-Sa 11:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8895369
+Longitude: -87.6282314
+OpenStreetMap URL: https://www.openstreetmap.org/node/5443110934
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5443110934
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

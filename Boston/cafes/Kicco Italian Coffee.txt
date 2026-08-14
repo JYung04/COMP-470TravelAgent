@@ -1,0 +1,25 @@
+Name: Kicco Italian Coffee
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 1 Nashua Street, Boston MA 02114
+Description: Not listed
+Website: https://kiccoboston.com
+Phone: +1-617-982-6102
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3661266
+Longitude: -71.0631725
+OpenStreetMap URL: https://www.openstreetmap.org/node/7781917225
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7781917225
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Grant Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 331 East Randolph Street, Chicago IL 60601
+Description: Grant Park is a large urban park in the Loop community area of Chicago, Illinois. Located within the city's central business district, the 319-acre (1.29 km2) park's features include Millennium Park, Buckingham Fountain, the Art Institute of Chicago, and the Museum Campus.
+Website: https://www.chicagoparkdistrict.com/parks/grant-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8765883
+Longitude: -87.6183046
+OpenStreetMap URL: https://www.openstreetmap.org/relation/19511979
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/19511979
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; art

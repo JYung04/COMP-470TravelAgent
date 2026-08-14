@@ -1,0 +1,25 @@
+Name: Night Theater District
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 132 West 45th Street, New York NY 10036
+Description: Not listed
+Website: https://www.nighthotels.com/theatre-district/
+Phone: +1 212-835-9600
+Email: reservations@nighthotelny.com
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7571577
+Longitude: -73.984201
+OpenStreetMap URL: https://www.openstreetmap.org/way/266170757
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266170757
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

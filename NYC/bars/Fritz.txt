@@ -1,0 +1,24 @@
+Name: Fritz
+City: NYC
+Category: bars
+Cuisine: Speakeasy
+Address: 737 Fulton St, Brooklyn, NY 11217
+Description: Not listed
+Website: Not listed
+Phone: (718) 360-9553
+Email: Not listed
+Opening Hours: We,Th,Su 17:00-23:00; Fr,Sa 16:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 40.6866941
+Longitude: -73.9750326
+OpenStreetMap URL: https://www.openstreetmap.org/node/5866994006
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5866994006
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,24 @@
+Name: Altar
+City: NYC
+Category: bars
+Cuisine: charcuterie, snack
+Address: 645 Sterling Place, 11238
+Description: Not listed
+Website: https://altarnyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6734842
+Longitude: -73.9573814
+OpenStreetMap URL: https://www.openstreetmap.org/node/4921358326
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4921358326
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

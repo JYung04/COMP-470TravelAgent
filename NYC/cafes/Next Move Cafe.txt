@@ -1,0 +1,25 @@
+Name: Next Move Cafe
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 6 Bay 23rd Street, 11214
+Description: Not listed
+Website: https://www.nextmovecafe.com/
+Phone: +1 718-676-9679
+Email: info@nextmovecafe.com
+Opening Hours: Su-Th 12:00-22:00; Fr-Sa 12:00-01:00
+Wheelchair Accessibility: no
+Latitude: 40.6049097
+Longitude: -73.9993077
+OpenStreetMap URL: https://www.openstreetmap.org/node/2556218501
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2556218501
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

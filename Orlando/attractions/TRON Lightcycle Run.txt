@@ -1,0 +1,25 @@
+Name: TRON Lightcycle / Run
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Semi-enclosed launched steel roller coaster based on the TRON movie franchise in Tomorrowland at Walt Disney World Resort's Magic Kingdom.
+Website: https://disneyworld.disney.go.com/attractions/magic-kingdom/tron-lightcycle-run/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4205136
+Longitude: -81.5767204
+OpenStreetMap URL: https://www.openstreetmap.org/way/804994339
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/804994339
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

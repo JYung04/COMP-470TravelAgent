@@ -1,0 +1,25 @@
+Name: Herter Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Soldiers Field Road, Boston MA 02134
+Description: park in Suffolk County, Massachusetts, United States of America
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3676825
+Longitude: -71.1372585
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17729822
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/17729822
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

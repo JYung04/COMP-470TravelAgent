@@ -1,0 +1,25 @@
+Name: Universal Studios Florida
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 1000 Universal Studios Plaza Orlando FL 32819
+Description: Not listed
+Website: https://www.universalorlando.com/Theme-Parks/Universal-Studios-Florida.aspx
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 28.4751066
+Longitude: -81.4664635
+OpenStreetMap URL: https://www.openstreetmap.org/node/5349036421
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5349036421
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: universal studios florida
+Best For: sightseeing

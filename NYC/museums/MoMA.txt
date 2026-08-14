@@ -1,0 +1,25 @@
+Name: MoMA
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 11 West 53rd Street, New York NY 10019
+Description: The Museum of Modern Art (MoMA) is an art museum located in Midtown Manhattan, New York City, on 53rd Street between Fifth and Sixth Avenues. MoMA's collection spans the late 19th century to the present, and includes over 200,000 works of architecture and design, drawing, painting, sculpture, photography, prints, illustrated and artist's books, film, as well as electronic media. The museum has been instrumental in shaping the history of modern art, particularly modern art from Europe.
+Website: https://www.moma.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:30-17:30; Sa 10:30-19:00; Dec 25 off; Nov Th[4] off
+Wheelchair Accessibility: yes
+Latitude: 40.761612
+Longitude: -73.9775451
+OpenStreetMap URL: https://www.openstreetmap.org/way/278346578
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/278346578
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: museums and culture; architecture; art

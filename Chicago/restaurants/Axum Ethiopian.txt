@@ -1,0 +1,25 @@
+Name: Axum Ethiopian
+City: Chicago
+Category: restaurants
+Cuisine: ethiopian
+Address: 5844 North Broadway, Chicago IL 60660
+Description: Not listed
+Website: https://axumethiopiancuisine.com/
+Phone: +1-773-654-3038
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9883114
+Longitude: -87.6604658
+OpenStreetMap URL: https://www.openstreetmap.org/node/8981002831
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8981002831
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Faccia a Faccia
+City: Boston
+Category: restaurants
+Cuisine: italian
+Address: 278 Newbury Street, Boston MA 02116
+Description: Let’s face it, when thinking of gluten-free options, pasta does not immediately spring to mind. But at Ken Oringer’s coastal Italian restaurant on Newbury , nearly all the pastas can come with a celiac-safe pasta instead—and not a random boxed pasta, but one lovingly made in-house. Stuff your face with cacio e pepe with chive crème fraiche or a sea-celebrating dish with uni, squid ink, and melted leeks bolstered by Calabrian chili. Il pisello, meanwhile, pairs the classic flavors of English peas with a basil-mint pesto. Celiac-friendly non-pasta plates include mozzarella sticks and fried artichoke if you’re feeling like making a meal out of allergy-friendly appetizers. 278 Newbury St., Back Bay, Boston, 857-991-1080, facciabruttaboston.com . Review: A Sprawling Italian-ish Menu at Faccia [a Faccia]
+Website: https://facciaafacciaboston.com
+Phone: +1 857-991-1080
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:00; Fr 17:00-22:30; Sa 12:00-15:00,17:00-22:30; Su 12:00-20:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3491094
+Longitude: -71.0836812
+OpenStreetMap URL: https://www.openstreetmap.org/node/11526558024
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11526558024
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; art; views

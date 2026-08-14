@@ -1,0 +1,25 @@
+Name: Seward Park
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Seward Park is a public park and playground on the Lower East Side of Manhattan, New York City. Located north of East Broadway and east of Essex Street, it is 3.046 acres (12,330 m2) in size and is the first municipally built playground in the United States.
+Website: https://www.nycgovparks.org/parks/seward-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 06:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7148304
+Longitude: -73.9891502
+OpenStreetMap URL: https://www.openstreetmap.org/way/108235836
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/108235836
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

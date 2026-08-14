@@ -1,0 +1,25 @@
+Name: Potomac Yard Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.alexandriava.gov/recreation/info/default.aspx?id=12290#Potomac_Yard
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8233126
+Longitude: -77.0512012
+OpenStreetMap URL: https://www.openstreetmap.org/way/180312718
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/180312718
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

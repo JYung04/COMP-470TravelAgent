@@ -1,0 +1,24 @@
+Name: Iron Age
+City: NYC
+Category: restaurants
+Cuisine: steak_house, Korean
+Address: 6135 Junction Boulevard, Rego Park NY 11374
+Description: Not listed
+Website: Not listed
+Phone: +1 347 612 4671
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7336278
+Longitude: -73.8640387
+OpenStreetMap URL: https://www.openstreetmap.org/node/7630040659
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7630040659
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

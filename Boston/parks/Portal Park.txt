@@ -1,0 +1,25 @@
+Name: Portal Park
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: Causeway St above O'Neill Tunnel Entrance Portal (Zakim Bridge Approach)
+Description: Officially classified as malls, squares & plazas. Located in Central Boston. Covers approximately 0.4 acres. Also known as O'Neill Tunnel Portal Park.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3662354
+Longitude: -71.060344
+OpenStreetMap URL: https://www.openstreetmap.org/way/838370789
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/838370789
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

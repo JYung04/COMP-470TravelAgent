@@ -1,0 +1,25 @@
+Name: Lincoln-Berkeley Community Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: May-Oct 13:00-16:00; "On sundays"
+Wheelchair Accessibility: Not listed
+Latitude: 40.6771885
+Longitude: -73.9789594
+OpenStreetMap URL: https://www.openstreetmap.org/way/314007758
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/314007758
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

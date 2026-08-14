@@ -1,0 +1,25 @@
+Name: SpringHill Suites
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 1127 North Orlando Avenue, Winter Park FL 32789
+Description: Not listed
+Website: https://www.marriott.com/mcows
+Phone: +1 407-960-4624
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.608779
+Longitude: -81.3655519
+OpenStreetMap URL: https://www.openstreetmap.org/node/8668480899
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8668480899
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

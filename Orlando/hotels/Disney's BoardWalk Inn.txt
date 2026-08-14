@@ -1,0 +1,25 @@
+Name: Disney's BoardWalk Inn
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: Not listed
+Description: Travel back to the turn of the 20th century at Disney’s BoardWalk Inn and Disney’s Boardwalk Villas . Inspired by coastal boardwalk cities like 1920s Atlantic City and Coney Island, the whimsical lakefront resort boasts a delightful array of live entertainment, exciting nightlife, carnival-style games and pools overflowing with fun themes and Disney character. Savor traditional Italian cuisine at Trattoria Al Forno or nostalgic seaside fare at Flying Fish , then set out on a surrey bike rental t
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3671923
+Longitude: -81.5552055
+OpenStreetMap URL: https://www.openstreetmap.org/way/294975293
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/294975293
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

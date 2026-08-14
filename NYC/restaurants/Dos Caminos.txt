@@ -1,0 +1,25 @@
+Name: Dos Caminos
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 480 Lexington Avenue, New York NY 10017
+Description: Not listed
+Website: https://www.doscaminos.com/location/dos-caminos-lexington/
+Phone: +1-332-233-7205
+Email: Not listed
+Opening Hours: Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 16:00-22:00; Su 16:00-21:00
+Wheelchair Accessibility: yes
+Latitude: 40.7542025
+Longitude: -73.9742699
+OpenStreetMap URL: https://www.openstreetmap.org/node/12754726336
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12754726336
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

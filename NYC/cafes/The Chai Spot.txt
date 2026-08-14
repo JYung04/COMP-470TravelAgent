@@ -1,0 +1,25 @@
+Name: The Chai Spot
+City: NYC
+Category: cafes
+Cuisine: snack
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-646-678-5868
+Email: Not listed
+Opening Hours: We-Fr 15:00-22:00; Sa-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.719466
+Longitude: -73.996191
+OpenStreetMap URL: https://www.openstreetmap.org/node/10979262392
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10979262392
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

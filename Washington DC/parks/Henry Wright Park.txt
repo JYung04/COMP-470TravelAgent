@@ -1,0 +1,25 @@
+Name: Henry Wright Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://parks.arlingtonva.us/locations/henry-wright-park/
+Phone: +1 703-228-6525
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 38.871715
+Longitude: -77.1102194
+OpenStreetMap URL: https://www.openstreetmap.org/way/368958247
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/368958247
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

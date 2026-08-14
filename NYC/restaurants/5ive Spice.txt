@@ -1,0 +1,25 @@
+Name: 5ive Spice
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 52 5th Avenue, Brooklyn NY 11217
+Description: Not listed
+Website: https://5ivespicebk.com
+Phone: +1-718-857-3483
+Email: Not listed
+Opening Hours: Mo-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6814403
+Longitude: -73.9772244
+OpenStreetMap URL: https://www.openstreetmap.org/node/6501194994
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6501194994
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

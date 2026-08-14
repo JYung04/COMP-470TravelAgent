@@ -1,0 +1,25 @@
+Name: Diesel & Duke
+City: NYC
+Category: restaurants
+Cuisine: burger
+Address: 389 Monmouth Street
+Description: Not listed
+Website: https://www.eatdiesel.com/
+Phone: +1 201-222-1322
+Email: Not listed
+Opening Hours: Mo-Th, Su 15:00-20:00; Fr, Sa 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.722865
+Longitude: -74.0494053
+OpenStreetMap URL: https://www.openstreetmap.org/way/409654269
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/409654269
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Hilton Washington DC National Mall The Wharf
+City: Washington DC
+Category: hotels
+Cuisine: Not listed
+Address: 480 L'Enfant Plaza Southwest, Washington DC 20024
+Description: The Hilton Washington DC National Mall The Wharf, previously known as the L'Enfant Plaza Hotel, is a 367-room hotel located on the top four floors of a 12-story mixed-use building at the L'Enfant Plaza complex in the Southwest Federal Center neighborhood of Washington, D.C., United States. It was designed by architect Vlastimil Koubek, and was opened on May 31, 1973, as the Loews L'Enfant Plaza Hotel, named after Pierre Charles L'Enfant, the first surveyor and designer of the street layout of the city.
+Website: https://www.hilton.com/en/hotels/dcaephh-hilton-washington-dc-national-mall-the-wharf/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8839029
+Longitude: -77.0239519
+OpenStreetMap URL: https://www.openstreetmap.org/way/1456812297
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1456812297
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

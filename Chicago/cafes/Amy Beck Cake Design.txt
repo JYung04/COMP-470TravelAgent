@@ -1,0 +1,25 @@
+Name: Amy Beck Cake Design
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 636 North Racine Avenue, Chicago IL 60642
+Description: Not listed
+Website: http://amybeckcakedesign.com/
+Phone: +1-312-545-3655
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8933805
+Longitude: -87.6576529
+OpenStreetMap URL: https://www.openstreetmap.org/node/6261205669
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6261205669
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

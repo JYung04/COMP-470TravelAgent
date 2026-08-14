@@ -1,0 +1,25 @@
+Name: Black Spectrum Theatre
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 177-01 Baisley Boulevard, Jamaica NY 11434
+Description: Not listed
+Website: http://www.blackspectrum.com
+Phone: +1-718-723-1800
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6873031
+Longitude: -73.7698212
+OpenStreetMap URL: https://www.openstreetmap.org/node/9921710386
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9921710386
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

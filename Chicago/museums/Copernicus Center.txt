@@ -1,0 +1,25 @@
+Name: Copernicus Center
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 5216 West Lawrence Avenue, Chicago IL 60630
+Description: The center houses multiple meeting, wedding, and party venues in addition to a large theater & lobby.
+Website: https://copernicuscenter.org/
+Phone: +1-773-777-8898
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 41.9682835
+Longitude: -87.7584824
+OpenStreetMap URL: https://www.openstreetmap.org/way/162712280
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162712280
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

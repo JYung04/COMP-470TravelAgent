@@ -1,0 +1,25 @@
+Name: Berklee Dining Hall
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 160 Massachusetts Avenue, Boston MA
+Description: Not listed
+Website: https://www.berklee.edu/facilities/dining-hallconcert-venue
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3461843
+Longitude: -71.0869048
+OpenStreetMap URL: https://www.openstreetmap.org/node/7606969876
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7606969876
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: La Cocina Tex-Mex
+City: Washington DC
+Category: restaurants
+Cuisine: tacos, mexican, tex-mex
+Address: 3740 12th Street NE;12th Street Northeast, Washington DC 20017
+Description: Not listed
+Website: https://lacocinatexmex.com/
+Phone: +1 202-849-6916
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9358016
+Longitude: -76.991304
+OpenStreetMap URL: https://www.openstreetmap.org/node/737145437
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737145437
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

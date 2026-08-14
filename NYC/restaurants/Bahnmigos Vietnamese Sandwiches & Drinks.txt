@@ -1,0 +1,25 @@
+Name: Bahnmigos Vietnamese Sandwiches & Drinks
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 4018 Hylan Boulevard, Staten Island NY 10308
+Description: Not listed
+Website: https://banhmigos10308.com/
+Phone: +1 347-983-4557
+Email: Not listed
+Opening Hours: Mo-We 12:00-21:30; Th-Sa 12:00-22:00; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.541483
+Longitude: -74.146159
+OpenStreetMap URL: https://www.openstreetmap.org/node/11669827710
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11669827710
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

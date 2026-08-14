@@ -1,0 +1,25 @@
+Name: Countryside Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2254-2264 North Lincoln Avenue, Chicago IL 60614
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9231343
+Longitude: -87.6458626
+OpenStreetMap URL: https://www.openstreetmap.org/way/210318212
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/210318212
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

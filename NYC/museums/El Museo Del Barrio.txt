@@ -1,0 +1,25 @@
+Name: El Museo Del Barrio
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1230 5th Avenue, New York NY 10029
+Description: Not listed
+Website: https://elmuseo.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Su 11:00-17:00; Sep 04-Oct 10 off; Jan 01, Jul 04, Nov Th[4], Dec 25 off
+Wheelchair Accessibility: yes
+Latitude: 40.7931062
+Longitude: -73.9513946
+OpenStreetMap URL: https://www.openstreetmap.org/way/271274003
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/271274003
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

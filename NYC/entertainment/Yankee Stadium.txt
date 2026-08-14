@@ -1,0 +1,25 @@
+Name: Yankee Stadium
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 1 East 161st Street, Bronx 10451
+Description: Why you should take it now: Baseball season begins in spring, and Yankee Stadium is home to the 27-time World Series champion Bronx Bombers. This tour takes you to must-see spots like the stadium’s on-site museum and Monument Park—and, schedule willing, behind the scenes into the clubhouse or onto the field. Citi Field. Photo: Jen Davis
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.829616
+Longitude: -73.9264973
+OpenStreetMap URL: https://www.openstreetmap.org/way/24801630
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/24801630
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: entertainment

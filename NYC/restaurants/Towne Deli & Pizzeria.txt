@@ -1,0 +1,25 @@
+Name: Towne Deli & Pizzeria
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 5373 Arthur Kill Road, 10307
+Description: Not listed
+Website: https://www.townedelipizzasi.com/
+Phone: +1-718 227-1985
+Email: Not listed
+Opening Hours: Mo-Sa 07:00-23:00; Su 08:00-23:00
+Wheelchair Accessibility: no
+Latitude: 40.513459
+Longitude: -74.2480399
+OpenStreetMap URL: https://www.openstreetmap.org/node/7776323243
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7776323243
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

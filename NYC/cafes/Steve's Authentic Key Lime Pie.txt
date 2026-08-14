@@ -1,0 +1,25 @@
+Name: Steve's Authentic Key Lime Pie
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 185 Van Dyke Street, 11231
+Description: Not listed
+Website: https://keylime.com
+Phone: +1-718-858-5333
+Email: Not listed
+Opening Hours: Mo-Th 12:00-19:00; Fr 12:00-20:00; Sa,Su 11:00-20:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6777473
+Longitude: -74.0182768
+OpenStreetMap URL: https://www.openstreetmap.org/node/6818236369
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6818236369
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

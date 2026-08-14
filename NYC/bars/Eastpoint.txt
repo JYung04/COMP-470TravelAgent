@@ -1,0 +1,24 @@
+Name: Eastpoint
+City: NYC
+Category: bars
+Cuisine: mexican
+Address: 25 Avenue B, 10009
+Description: Not listed
+Website: https://eastpointnyc.com/
+Phone: +1-646-882-0593
+Email: Not listed
+Opening Hours: Tu-Th 16:00-02:00; Fr 16:00-04:00; Sa 12:00-04:00; Su 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7222739
+Longitude: -73.9830893
+OpenStreetMap URL: https://www.openstreetmap.org/node/8272848251
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8272848251
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

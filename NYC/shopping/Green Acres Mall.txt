@@ -1,0 +1,25 @@
+Name: Green Acres Mall
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 2034 West Cir Drive
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 10:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.6624096
+Longitude: -73.7195019
+OpenStreetMap URL: https://www.openstreetmap.org/relation/6779138
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/6779138
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

@@ -1,0 +1,25 @@
+Name: Taverna Di Bacco
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 175 Ludlow Street, New York NY 10002-1539
+Description: Not listed
+Website: https://www.tavernadibacco.com/
+Phone: +1 212 477 0077
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7218756
+Longitude: -73.9875758
+OpenStreetMap URL: https://www.openstreetmap.org/node/5726883079
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5726883079
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

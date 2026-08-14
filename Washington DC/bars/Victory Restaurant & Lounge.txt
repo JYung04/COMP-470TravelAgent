@@ -1,0 +1,25 @@
+Name: Victory Restaurant & Lounge
+City: Washington DC
+Category: bars
+Cuisine: Not listed
+Address: 2005 14th Street Northwest, Washington DC 20009
+Description: Not listed
+Website: Not listed
+Phone: +1-202-817-3284
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9172598
+Longitude: -77.0316932
+OpenStreetMap URL: https://www.openstreetmap.org/node/4350322334
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4350322334
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

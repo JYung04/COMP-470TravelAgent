@@ -1,0 +1,24 @@
+Name: Bull Horns Burger + Grill
+City: NYC
+Category: restaurants
+Cuisine: burger
+Address: 505, STE 106 North Broad Street, 07208
+Description: Not listed
+Website: https://www.bullhorns.com/
+Phone: +19086173358
+Email: info@bullhorns.com
+Opening Hours: Mo-Su 11:00-03:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6738613
+Longitude: -74.2124861
+OpenStreetMap URL: https://www.openstreetmap.org/node/13743561801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13743561801
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

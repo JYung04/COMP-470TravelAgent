@@ -1,0 +1,25 @@
+Name: Taco Veloz
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 34-01 36th Avenue, 11106
+Description: Not listed
+Website: Not listed
+Phone: +1 718-885-5470
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7555033
+Longitude: -73.9271504
+OpenStreetMap URL: https://www.openstreetmap.org/node/2846595098
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2846595098
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

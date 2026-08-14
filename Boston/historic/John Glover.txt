@@ -1,0 +1,25 @@
+Name: John Glover
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: A statue of John Glover by Martin Milmore is installed along Boston's Commonwealth Avenue Mall, in the U.S. state of Massachusetts.
+Website: https://friendsofthepublicgarden.org/our-parks/the-mall/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3528312
+Longitude: -71.0747241
+OpenStreetMap URL: https://www.openstreetmap.org/node/345437350
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/345437350
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history; art

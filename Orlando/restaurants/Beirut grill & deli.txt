@@ -1,0 +1,25 @@
+Name: Beirut grill & deli
+City: Orlando
+Category: restaurants
+Cuisine: mediterranean
+Address: 3100 Alafaya Trail, 32765
+Description: Not listed
+Website: https://www.beirutgrilldeli.com/
+Phone: +1-321-765-4139
+Email: Not listed
+Opening Hours: Su-We 09:00-21:00; Th-Sa 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.6235392
+Longitude: -81.2083139
+OpenStreetMap URL: https://www.openstreetmap.org/node/12798873501
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12798873501
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

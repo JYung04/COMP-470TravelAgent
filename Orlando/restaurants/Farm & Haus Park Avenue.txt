@@ -1,0 +1,24 @@
+Name: Farm & Haus Park Avenue
+City: Orlando
+Category: restaurants
+Cuisine: breakfast, sandwich
+Address: 526 South Park Avenue, Winter Park FL 32789
+Description: Farm & Haus is a modern daytime cafe that makes feel-good-food using simple, made from scratch recipes with quality and often local ingredients.
+Website: https://www.farmandhaus.com/
+Phone: +1-407-790-4371
+Email: patrick@farmandhaus.com
+Opening Hours: Tu-Su 08:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5937806
+Longitude: -81.3504937
+OpenStreetMap URL: https://www.openstreetmap.org/node/10789443676
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10789443676
+Price: Not listed
+Rating: 4.5
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

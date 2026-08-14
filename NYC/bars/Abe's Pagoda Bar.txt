@@ -1,0 +1,25 @@
+Name: Abe's Pagoda Bar
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 108 Wyckoff Avenue
+Description: Not listed
+Website: https://www.abespagodabar.com/
+Phone: +1-718-366-6913
+Email: Not listed
+Opening Hours: Mo-Su 12:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7038877
+Longitude: -73.9188896
+OpenStreetMap URL: https://www.openstreetmap.org/node/5627874267
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5627874267
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

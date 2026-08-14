@@ -1,0 +1,25 @@
+Name: Isaan Thai Classic
+City: Washington DC
+Category: restaurants
+Cuisine: thai
+Address: 3433 Connecticut Avenue Northwest, Washington DC
+Description: Not listed
+Website: https://www.isaanthaiclassic.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9353397
+Longitude: -77.0579467
+OpenStreetMap URL: https://www.openstreetmap.org/node/13351635251
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13351635251
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

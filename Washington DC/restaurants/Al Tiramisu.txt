@@ -1,0 +1,25 @@
+Name: Al Tiramisu
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 2014 P Street Northwest, Washington DC 20036-5923
+Description: Not listed
+Website: https://www.altiramisu.com/
+Phone: +1 202-467-4466
+Email: Not listed
+Opening Hours: Mo-Th 12:00-14:00,17:00-22:00; Fr 12:00-14:00,17:00-23:00; Sa 17:00-22:30; Su 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.909472
+Longitude: -77.0455821
+OpenStreetMap URL: https://www.openstreetmap.org/node/462011947
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/462011947
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

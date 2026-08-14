@@ -1,0 +1,25 @@
+Name: Cecily
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 80 Franklin Street, Brooklyn NY 11222
+Description: Not listed
+Website: https://www.cecilybk.com
+Phone: Not listed
+Email: info@cecilybk.com
+Opening Hours: Su 11:30-14:30,17:30-22:00; Mo-Th 17:30-22:00; Fr 17:00-23:00; Sa 11:30-14:30,17:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7273016
+Longitude: -73.9570039
+OpenStreetMap URL: https://www.openstreetmap.org/node/12730434026
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12730434026
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

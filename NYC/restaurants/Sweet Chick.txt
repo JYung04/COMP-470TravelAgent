@@ -1,0 +1,24 @@
+Name: Sweet Chick
+City: NYC
+Category: restaurants
+Cuisine: american, soul_food
+Address: 178 Ludlow Street, 10002
+Description: Not listed
+Website: https://www.sweetchick.com/location/lower-east-side-sweet-chick/
+Phone: +1-646-657-0233
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-02:00; Sa-Su 10:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7217365
+Longitude: -73.987391
+OpenStreetMap URL: https://www.openstreetmap.org/node/7125925887
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7125925887
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

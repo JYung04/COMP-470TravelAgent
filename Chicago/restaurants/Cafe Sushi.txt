@@ -1,0 +1,24 @@
+Name: Cafe Sushi
+City: Chicago
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 1342 North Wells Street, Chicago IL 60610
+Description: Not listed
+Website: https://www.cafesushiwells.com/
+Phone: +1-312-337-0700
+Email: Not listed
+Opening Hours: Mo-Th 17:00-22:30; Fr-Sa 17:00-23:30; Su 16:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9068335
+Longitude: -87.6347845
+OpenStreetMap URL: https://www.openstreetmap.org/node/6425689677
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6425689677
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

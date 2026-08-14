@@ -1,0 +1,24 @@
+Name: The Bell House
+City: NYC
+Category: entertainment
+Cuisine: Not listed
+Address: 149 7th Street, 11215
+Description: The Bell House is a bar and music/comedy venue in Brooklyn, New York. In September 2008 it was opened for the first time. It was the usual recording venue for the NPR program Ask Me Another during that program's run.
+Website: https://www.thebellhouseny.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.67373
+Longitude: -73.9916766
+OpenStreetMap URL: https://www.openstreetmap.org/way/241850585
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/241850585
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; music

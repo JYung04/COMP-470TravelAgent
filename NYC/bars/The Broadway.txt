@@ -1,0 +1,24 @@
+Name: The Broadway
+City: NYC
+Category: bars
+Cuisine: burger, american, wings
+Address: 1272 Broadway
+Description: Not listed
+Website: https://www.thebroadway.nyc/
+Phone: +1-347-365-9861
+Email: Not listed
+Opening Hours: Mo-Su 16:00-04:00
+Wheelchair Accessibility: limited
+Latitude: 40.6909367
+Longitude: -73.9249072
+OpenStreetMap URL: https://www.openstreetmap.org/node/9761753661
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9761753661
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

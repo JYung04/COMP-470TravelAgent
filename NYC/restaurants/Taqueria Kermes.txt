@@ -1,0 +1,25 @@
+Name: Taqueria Kermes
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: 66-36 Fresh Pond Road, Ridgewood NY 11385
+Description: Not listed
+Website: http://www.taqueriakermesridgewood.com/
+Phone: +1-347-463-9263
+Email: Not listed
+Opening Hours: Mo-Sa 11:45-21:30; Su 11:45-20:45
+Wheelchair Accessibility: limited
+Latitude: 40.7078991
+Longitude: -73.8978882
+OpenStreetMap URL: https://www.openstreetmap.org/node/5351608336
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5351608336
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

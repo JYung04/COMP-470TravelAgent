@@ -1,0 +1,25 @@
+Name: Dark Matter Coffee - Meddle
+City: Chicago
+Category: cafes
+Cuisine: coffee_shop
+Address: 601 West Jackson Boulevard, Chicago IL 60661
+Description: Not listed
+Website: https://www.darkmattercoffee.com/blogs/news/introducing-meddle
+Phone: +1-312-631-3553
+Email: Not listed
+Opening Hours: 07:00-17:00
+Wheelchair Accessibility: yes
+Latitude: 41.8778976
+Longitude: -87.6428565
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322570530
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322570530
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

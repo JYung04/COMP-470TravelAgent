@@ -1,0 +1,25 @@
+Name: Marylou
+City: NYC
+Category: restaurants
+Cuisine: french
+Address: Not listed
+Description: Not listed
+Website: https://marylou.nyc
+Phone: +1-707-510-0037
+Email: Not listed
+Opening Hours: Tu-Sa 17:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7284935
+Longitude: -73.9871165
+OpenStreetMap URL: https://www.openstreetmap.org/node/4768971123
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4768971123
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

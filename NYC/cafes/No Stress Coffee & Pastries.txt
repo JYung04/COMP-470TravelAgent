@@ -1,0 +1,25 @@
+Name: No Stress Coffee & Pastries
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 42-77 Hunter Street
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 40.7484728
+Longitude: -73.9406136
+OpenStreetMap URL: https://www.openstreetmap.org/node/4995839495
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4995839495
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Pasteur
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 85 Baxter Street, New York NY 10013
+Description: Not listed
+Website: https://www.pasteurgrill.com
+Phone: +1-212-608-3656
+Email: Not listed
+Opening Hours: Mo-Su 10:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7167115
+Longitude: -73.9997085
+OpenStreetMap URL: https://www.openstreetmap.org/node/2563990327
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2563990327
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

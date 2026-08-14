@@ -1,0 +1,25 @@
+Name: The Comfort Diner
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 214 East 45th Street, New York 10017
+Description: Not listed
+Website: https://www.comfortdiner.com/
+Phone: +1 212-867-4555
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-22:00; Sa-Su 08:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7522777
+Longitude: -73.9723289
+OpenStreetMap URL: https://www.openstreetmap.org/node/2826475506
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2826475506
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

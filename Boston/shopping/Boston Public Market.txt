@@ -1,0 +1,25 @@
+Name: Boston Public Market
+City: Boston
+Category: shopping
+Cuisine: Not listed
+Address: 100 Hanover Street
+Description: The Boston Public Market is an indoor, year-round market offering fresh, locally sourced food from over 35 New England farmers, fishermen, and food purveyors, including produce, meat, eggs, milk and cheese, seafood, bread, flowers, and prepared foods. The Boston Public Market is the only locally sourced market of its kind in the United States. Everything sold is produced or originates in New England. This Business is Group Friendly!
+Website: https://bostonpublicmarket.org
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3621228
+Longitude: -71.0575399
+OpenStreetMap URL: https://www.openstreetmap.org/node/5212542324
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5212542324
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

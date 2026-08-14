@@ -1,0 +1,24 @@
+Name: Chris Restaurant
+City: NYC
+Category: restaurants
+Cuisine: caribbean, jamaican
+Address: 613 Nostrand Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6762396
+Longitude: -73.9497448
+OpenStreetMap URL: https://www.openstreetmap.org/node/8108748016
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8108748016
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

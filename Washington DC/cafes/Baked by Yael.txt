@@ -1,0 +1,25 @@
+Name: Baked by Yael
+City: Washington DC
+Category: cafes
+Cuisine: Bakery, Breakfast & Brunch, Desserts
+Address: 3000 Connecticut Avenue Northwest
+Description: Not listed
+Website: https://www.bakedbyyael.com/
+Phone: +1-202-234-9235
+Email: Not listed
+Opening Hours: Mo-Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9298604
+Longitude: -77.0554739
+OpenStreetMap URL: https://www.openstreetmap.org/node/5218721768
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5218721768
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

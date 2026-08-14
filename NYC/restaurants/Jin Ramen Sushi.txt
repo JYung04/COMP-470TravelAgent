@@ -1,0 +1,24 @@
+Name: Jin Ramen Sushi
+City: NYC
+Category: restaurants
+Cuisine: ramen, sushi
+Address: 66-41 Fresh Pond Road, Ridgewood NY 11385
+Description: Not listed
+Website: Not listed
+Phone: +1-347-987-3959
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:30, Fr-Sa 11:30-23:15, Su 12:15-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7076972
+Longitude: -73.8973724
+OpenStreetMap URL: https://www.openstreetmap.org/node/5343766511
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5343766511
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

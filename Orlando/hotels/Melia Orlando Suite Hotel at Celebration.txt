@@ -1,0 +1,25 @@
+Name: Melia Orlando Suite Hotel at Celebration
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: Celebration Place, Kissimmee FL 34747
+Description: Not listed
+Website: https://www.melia.com/en/hotels/united-states/orlando/melia-orlando-suite-hotel-at-celebration/index.html
+Phone: +1 407-964-7000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3311547
+Longitude: -81.5378392
+OpenStreetMap URL: https://www.openstreetmap.org/relation/6170864
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/6170864
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

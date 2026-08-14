@@ -1,0 +1,25 @@
+Name: Black's Bar and Kitchen
+City: Washington DC
+Category: restaurants
+Cuisine: regional
+Address: 7750 Woodmont Ave, Bethesda, MD 20814, United States
+Description: Not listed
+Website: http://www.blacksbarandkitchen.com/
+Phone: +1 301-652-5525
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9877836
+Longitude: -77.0962336
+OpenStreetMap URL: https://www.openstreetmap.org/node/498679926
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/498679926
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

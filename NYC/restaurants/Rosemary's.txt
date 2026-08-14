@@ -1,0 +1,25 @@
+Name: Rosemary's
+City: NYC
+Category: restaurants
+Cuisine: italian
+Address: 825 3rd Avenue New York NY 10022
+Description: Not listed
+Website: https://www.rosemarysnyc.com
+Phone: +1-646-868-5335
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-22:00; Sa-Su 10:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7350368
+Longitude: -73.979466
+OpenStreetMap URL: https://www.openstreetmap.org/node/10145183247
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10145183247
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Tanaka Ramen
+City: Chicago
+Category: restaurants
+Cuisine: japanese
+Address: 553 West Diversey Parkway, Chicago IL 60614
+Description: Not listed
+Website: https://tanakaramen.com/
+Phone: +1-773-857-5140
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9326539
+Longitude: -87.6432988
+OpenStreetMap URL: https://www.openstreetmap.org/node/6303091617
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6303091617
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

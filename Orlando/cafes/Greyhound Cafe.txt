@@ -1,0 +1,25 @@
+Name: Greyhound Cafe
+City: Orlando
+Category: cafes
+Cuisine: Not listed
+Address: John Young Parkway
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 08:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5481118
+Longitude: -81.4130854
+OpenStreetMap URL: https://www.openstreetmap.org/node/6572697485
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6572697485
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

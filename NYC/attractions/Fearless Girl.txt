@@ -1,0 +1,25 @@
+Name: Fearless Girl
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Fearless Girl is a bronze sculpture by Kristen Visbal of a 4-foot-high (1.2 m) girl standing in a self-confident pose. It is located in New York City on Broad Street across from the New York Stock Exchange Building in the Financial District of Manhattan.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7068167
+Longitude: -74.0107995
+OpenStreetMap URL: https://www.openstreetmap.org/node/4757184676
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4757184676
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

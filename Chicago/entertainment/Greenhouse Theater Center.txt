@@ -1,0 +1,25 @@
+Name: Greenhouse Theater Center
+City: Chicago
+Category: entertainment
+Cuisine: Not listed
+Address: 2257 North Lincoln Avenue, Chicago IL 60614
+Description: Not listed
+Website: https://www.greenhousetheater.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9232219
+Longitude: -87.6453824
+OpenStreetMap URL: https://www.openstreetmap.org/node/4045036121
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4045036121
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment

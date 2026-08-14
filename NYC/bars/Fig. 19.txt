@@ -1,0 +1,25 @@
+Name: Fig. 19
+City: NYC
+Category: bars
+Cuisine: Not listed
+Address: 131 Chrystie Street, New York NY 10002-2813
+Description: speakeasy cocktail bar accessed through SFA Gallery
+Website: https://www.figurenineteen.com
+Phone: +1 646-389-4544
+Email: Not listed
+Opening Hours: Tu-Th 18:00-02:00; Fr-Sa 18:00-04:00; Su 18:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7194981
+Longitude: -73.993485
+OpenStreetMap URL: https://www.openstreetmap.org/node/7047129386
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7047129386
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: Cold Stone Creamery
+City: NYC
+Category: cafes
+Cuisine: ice_cream
+Address: 3165 Harkness Avenue, Brooklyn NY 11235
+Description: Not listed
+Website: https://www.coldstonecreamery.com/stores/21021
+Phone: +1-718-891-1114
+Email: Not listed
+Opening Hours: Mo-Th 11:00-22:30; Fr-Sa 11:00-00:30; Su 11:00-23:00
+Wheelchair Accessibility: yes
+Latitude: 40.5867282
+Longitude: -73.9293204
+OpenStreetMap URL: https://www.openstreetmap.org/node/2888162778
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2888162778
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

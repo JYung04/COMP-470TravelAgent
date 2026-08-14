@@ -1,0 +1,25 @@
+Name: Hiawatha Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 8029 West Forest Preserve Drive, Chicago IL 60634
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/hiawatha-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.944035
+Longitude: -87.8265324
+OpenStreetMap URL: https://www.openstreetmap.org/way/32669377
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/32669377
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

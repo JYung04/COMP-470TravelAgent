@@ -1,0 +1,25 @@
+Name: Rockaway Beach Bakery
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 8710 Rockaway Beach Boulevard, NY 11693
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Fr 07:00-15:00; Sa-Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.5875954
+Longitude: -73.8125713
+OpenStreetMap URL: https://www.openstreetmap.org/node/4813709922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4813709922
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

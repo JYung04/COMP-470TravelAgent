@@ -1,0 +1,24 @@
+Name: Point Brazil Restaurant
+City: NYC
+Category: restaurants
+Cuisine: brazilian, barbecue
+Address: 38-01 31st Avenue, 11103
+Description: Not listed
+Website: http://pointbrazilrestaurant.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 10:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7617049
+Longitude: -73.9177187
+OpenStreetMap URL: https://www.openstreetmap.org/node/4310015690
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4310015690
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

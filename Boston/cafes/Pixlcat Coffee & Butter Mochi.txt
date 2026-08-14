@@ -1,0 +1,25 @@
+Name: Pixlcat Coffee & Butter Mochi
+City: Boston
+Category: cafes
+Cuisine: coffee_shop
+Address: 32 Cambridge Street, Boston MA 02129-1316
+Description: Not listed
+Website: https://www.pixlcatcoffee.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-15:30; Sa-Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3835452
+Longitude: -71.0744006
+OpenStreetMap URL: https://www.openstreetmap.org/node/13607594419
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13607594419
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

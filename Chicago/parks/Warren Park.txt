@@ -1,0 +1,25 @@
+Name: Warren Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 6601 North Western Avenue, Chicago IL 60645
+Description: Not listed
+Website: https://www.chicagoparkdistrict.com/parks-facilities/warren-laurence-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0025866
+Longitude: -87.6850919
+OpenStreetMap URL: https://www.openstreetmap.org/way/28010738
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/28010738
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

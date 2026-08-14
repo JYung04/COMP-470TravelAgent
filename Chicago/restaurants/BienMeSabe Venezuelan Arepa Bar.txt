@@ -1,0 +1,24 @@
+Name: BienMeSabe Venezuelan Arepa Bar
+City: Chicago
+Category: restaurants
+Cuisine: venezuelan, small_plates
+Address: 29 East Adams Street, Chicago IL 60603
+Description: Not listed
+Website: https://bienmesabechicago.com
+Phone: +1-312-285-2911
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8794043
+Longitude: -87.6264844
+OpenStreetMap URL: https://www.openstreetmap.org/node/6267152938
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6267152938
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

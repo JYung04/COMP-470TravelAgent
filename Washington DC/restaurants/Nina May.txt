@@ -1,0 +1,25 @@
+Name: Nina May
+City: Washington DC
+Category: restaurants
+Cuisine: american
+Address: 1337 11th Street Northwest, Washington DC 20001-5484
+Description: Not listed
+Website: https://www.ninamaydc.com/
+Phone: +1 202-518-3609
+Email: info@ninamaydc.com
+Opening Hours: Tu-Th 17:00-21:30; Fr-Sa 17:00-22:30; Su 17:00-21:30; Sa-Su 10:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9084158
+Longitude: -77.0267886
+OpenStreetMap URL: https://www.openstreetmap.org/node/11147159010
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11147159010
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

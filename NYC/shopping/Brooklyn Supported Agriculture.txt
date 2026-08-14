@@ -1,0 +1,25 @@
+Name: Brooklyn Supported Agriculture
+City: NYC
+Category: shopping
+Cuisine: Not listed
+Address: 224 Marcus Garvey Boulevard, 11221
+Description: Not listed
+Website: https://brooklynsupportedagriculture.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th-Fr 16:00-19:00; Sa-Su 12:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6901852
+Longitude: -73.9396403
+OpenStreetMap URL: https://www.openstreetmap.org/node/13613341801
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13613341801
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: shopping

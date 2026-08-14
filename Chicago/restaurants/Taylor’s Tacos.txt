@@ -1,0 +1,25 @@
+Name: Taylor’s Tacos
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 1512 West Taylor Street, Chicago IL 60607
+Description: Not listed
+Website: https://www.taylorstacoschicago.com/
+Phone: +1 312-526-3903
+Email: Not listed
+Opening Hours: Tu-Fr 11:00-18:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.8694693
+Longitude: -87.6646982
+OpenStreetMap URL: https://www.openstreetmap.org/node/11105609921
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11105609921
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

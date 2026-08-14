@@ -1,0 +1,25 @@
+Name: Gan Da Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 80-08 Surrey Place, Fresh Meadows NY 11432
+Description: Not listed
+Website: https://sites.google.com/view/ganda-sushi-express/home
+Phone: +1-718-380-1818
+Email: Not listed
+Opening Hours: Tu-Sa 11:00-21:00; Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7262872
+Longitude: -73.7894186
+OpenStreetMap URL: https://www.openstreetmap.org/node/11592766721
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11592766721
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

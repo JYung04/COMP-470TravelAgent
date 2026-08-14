@@ -1,0 +1,25 @@
+Name: Morgan Lehman Gallery
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 526 West 26th Street, New York NY 10001
+Description: Morgan Lehman is a contemporary art gallery specializing in promoting the work of emerging and mid-career American artists working in a wide spectrum of creative media. Morgan Lehman promotes its own roster of artists as well as collaborating on exhibitions and projects with various creative practitioners across the globe.a. Founded by Sally Morgan and Jay Lehman, the gallery opened in New York City in 2005. Morgan Lehman has mounted the first New York exhibition for a number of artists including Frohawk Two Feathers, Bret Slater, John Salvest, Paul Wackers, and Andrew Schoultz.
+Website: https://www.morganlehmangallery.com
+Phone: +1-212-268-6699
+Email: art@morganlehmangallery.com
+Opening Hours: Tu-Sa 11:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7499777
+Longitude: -74.0041101
+OpenStreetMap URL: https://www.openstreetmap.org/node/10861434360
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10861434360
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

@@ -1,0 +1,24 @@
+Name: The Bao
+City: NYC
+Category: restaurants
+Cuisine: dumplings, chinese
+Address: 13 Saint Marks Place, New York NY 10003
+Description: Not listed
+Website: https://www.spotdessertbar.com/
+Phone: +1-212-388-9238
+Email: Not listed
+Opening Hours: 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7292798
+Longitude: -73.988977
+OpenStreetMap URL: https://www.openstreetmap.org/node/5397501569
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5397501569
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

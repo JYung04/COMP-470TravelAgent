@@ -1,0 +1,25 @@
+Name: Frick Collection
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 1 East 70th Street, New York NY 10021
+Description: The Frick Collection is in a converted mansion on the Upper East Side and showcases exquisite paintings by Fragonard, Monet and Renoir. But the museum’s less-refined secret is that Henry Frick commissioned a bowling alley for his house in the basement in 1914. Unfortunately, only members (at the Supporting Fellow level or higher) can get tours of the alley, and no one can bowl there anymore. Photo: Michael Bodycomb
+Website: http://www.frick.org/
+Phone: +1-212-288-0700
+Email: info@frick.org
+Opening Hours: Mo,We-Su 10:30-17:30
+Wheelchair Accessibility: Not listed
+Latitude: 40.7712772
+Longitude: -73.967146
+OpenStreetMap URL: https://www.openstreetmap.org/way/266894185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266894185
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

@@ -1,0 +1,25 @@
+Name: Revolution Brewing - Kedzie Brewery
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3340 North Kedzie Avenue, Chicago IL 60618
+Description: Not listed
+Website: https://revbrew.com/visit/brewery
+Phone: +1-773-588-2267
+Email: Not listed
+Opening Hours: Mo-Tu off; We-Th 14:00-21:00; Fr 14:00-22:00; Sa 12:00-22:00; Su 12:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 41.9421788
+Longitude: -87.7082946
+OpenStreetMap URL: https://www.openstreetmap.org/node/2601627512
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2601627512
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

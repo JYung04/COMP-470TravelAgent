@@ -1,0 +1,25 @@
+Name: Mansions
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 46-63 Metropolitan Avenue, Ridgewood NY 11385
+Description: Not listed
+Website: https://www.instagram.com/mansions.bar
+Phone: Not listed
+Email: Not listed
+Opening Hours: Fr-Sa 22:00-04:00; Su 20:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7139646
+Longitude: -73.9213718
+OpenStreetMap URL: https://www.openstreetmap.org/node/12730434022
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12730434022
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

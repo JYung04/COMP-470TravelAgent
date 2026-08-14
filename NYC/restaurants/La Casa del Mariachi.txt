@@ -1,0 +1,25 @@
+Name: La Casa del Mariachi
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 116-03 Metropolitan Avenue
+Description: Not listed
+Website: Not listed
+Phone: +1 347-561-3227
+Email: Not listed
+Opening Hours: Mo-Th 12:00-22:00; Fr 12:00-22:30; Sa 11:00-22:30; Su 11:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7076364
+Longitude: -73.835888
+OpenStreetMap URL: https://www.openstreetmap.org/node/10594665954
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10594665954
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

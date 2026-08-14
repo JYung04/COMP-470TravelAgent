@@ -1,0 +1,24 @@
+Name: Winner in the Park
+City: NYC
+Category: cafes
+Cuisine: breakfast, sandwich, eclectic
+Address: 40 West Drive, Brooklyn NY 11215
+Description: Not listed
+Website: https://www.winner.nyc/location/winner-in-the-park/
+Phone: Not listed
+Email: winnerinthepark@winner.nyc
+Opening Hours: Mo-Fr 07:30-15:00; Sa-Su 07:30-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6656295
+Longitude: -73.9714371
+OpenStreetMap URL: https://www.openstreetmap.org/node/11020006881
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11020006881
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

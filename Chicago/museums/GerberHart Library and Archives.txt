@@ -1,0 +1,25 @@
+Name: Gerber/Hart Library and Archives
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 6500 North Clark Street, Chicago IL 60626
+Description: The Gerber/Hart Library and Archives, founded in 1981, is the largest circulating library of gay and lesbian titles in the Midwestern United States. Located in Chicago's Rogers Park neighborhood, it houses over 14,000 volumes, 800 periodical titles, and 100 items in the archival collection. The Gerber/Hart Library and Archives were inducted into the Chicago Gay and Lesbian Hall of Fame in 1996.
+Website: https://www.gerberhart.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.0000391
+Longitude: -87.6714784
+OpenStreetMap URL: https://www.openstreetmap.org/node/9930256359
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9930256359
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

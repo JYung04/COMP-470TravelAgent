@@ -1,0 +1,25 @@
+Name: Silver Seafood
+City: Chicago
+Category: restaurants
+Cuisine: chinese
+Address: 4829 North Broadway, Chicago IL 60640
+Description: Not listed
+Website: https://www.silverseafoodil.com
+Phone: +1-773-784-0668
+Email: Not listed
+Opening Hours: Mo-Tu 11:00-22:00; Th-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9700484
+Longitude: -87.659495
+OpenStreetMap URL: https://www.openstreetmap.org/node/13430514683
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13430514683
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

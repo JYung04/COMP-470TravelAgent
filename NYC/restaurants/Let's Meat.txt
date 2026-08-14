@@ -1,0 +1,24 @@
+Name: Let's Meat
+City: NYC
+Category: restaurants
+Cuisine: korean, barbecue
+Address: 307 5th Avenue, New York NY 10016
+Description: Not listed
+Website: https://www.letsmeatnyc.com/
+Phone: +12128890089
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7466986
+Longitude: -73.9855994
+OpenStreetMap URL: https://www.openstreetmap.org/node/9793798565
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9793798565
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

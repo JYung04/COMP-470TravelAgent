@@ -1,0 +1,25 @@
+Name: Frances Perkins House
+City: Washington DC
+Category: historic
+Cuisine: Not listed
+Address: 2326 California Street Northwest, Washington DC
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9153757
+Longitude: -77.0515205
+OpenStreetMap URL: https://www.openstreetmap.org/way/66790107
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/66790107
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

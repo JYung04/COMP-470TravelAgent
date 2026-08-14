@@ -1,0 +1,24 @@
+Name: Bklyn Blend
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, breakfadst, sandwich, health_food
+Address: 194 Tompkins Avenue, 11206
+Description: Not listed
+Website: https://www.bklynblend.com/
+Phone: +1-718-484-2247
+Email: Not listed
+Opening Hours: Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6923347
+Longitude: -73.9458487
+OpenStreetMap URL: https://www.openstreetmap.org/node/6876895217
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6876895217
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: Third Cliff Bakery
+City: Boston
+Category: cafes
+Cuisine: Not listed
+Address: 3531 Washington Street, Jamaica Plain MA 02130
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: hello@thirdcliffbakery.com
+Opening Hours: We-Su 08:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3054498
+Longitude: -71.1087418
+OpenStreetMap URL: https://www.openstreetmap.org/node/11071388028
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11071388028
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

@@ -1,0 +1,25 @@
+Name: La Malinche Coffee & Tea House
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 2110 South Halsted Street, Chicago IL 60608
+Description: Not listed
+Website: https://lamalinche.cafe
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo 07:30-20:30; Tu-Fr 07:30-17:00; Sa-Su 08:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8537529
+Longitude: -87.64674
+OpenStreetMap URL: https://www.openstreetmap.org/node/11988993619
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11988993619
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

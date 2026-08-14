@@ -1,0 +1,24 @@
+Name: Three Times
+City: NYC
+Category: restaurants
+Cuisine: chinese, dim_sum
+Address: 90 Clinton Street
+Description: Not listed
+Website: https://www.3times.com
+Phone: +1 646-609-6324
+Email: sales@3times.com
+Opening Hours: Mo-Th 11:30-00:15; Fr 11:30-01:15; Sa 12:00-01:15; Su 12:00-00:15
+Wheelchair Accessibility: Not listed
+Latitude: 40.7183759
+Longitude: -73.9853057
+OpenStreetMap URL: https://www.openstreetmap.org/node/9340040548
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9340040548
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

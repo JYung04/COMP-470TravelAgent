@@ -1,0 +1,24 @@
+Name: Crossroads Cafe
+City: NYC
+Category: cafes
+Cuisine: sandwich, pastry
+Address: 119 Knickerbocker Avenue
+Description: Not listed
+Website: https://www.xroads.cafe/
+Phone: +1-347-422-0969
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7050509
+Longitude: -73.928984
+OpenStreetMap URL: https://www.openstreetmap.org/node/5735248331
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5735248331
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

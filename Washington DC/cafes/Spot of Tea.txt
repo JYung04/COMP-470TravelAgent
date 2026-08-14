@@ -1,0 +1,25 @@
+Name: Spot of Tea
+City: Washington DC
+Category: cafes
+Cuisine: bubble_tea
+Address: 2101 P Street Northwest, Washington DC 20037
+Description: Not listed
+Website: https://drinkspotoftea.com
+Phone: +1 844-567-9632
+Email: hello@drinkspotoftea.com
+Opening Hours: Mo-Th,Sa-Su 09:00-18:00; Fr 09:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9097612
+Longitude: -77.0468587
+OpenStreetMap URL: https://www.openstreetmap.org/node/11585502354
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11585502354
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

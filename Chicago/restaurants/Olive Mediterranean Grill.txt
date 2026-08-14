@@ -1,0 +1,25 @@
+Name: Olive Mediterranean Grill
+City: Chicago
+Category: restaurants
+Cuisine: Not listed
+Address: 1001 West North Avenue, Chicago IL 60642
+Description: Not listed
+Website: https://eatomg.com/
+Phone: +1-312-274-5525
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9106
+Longitude: -87.6536581
+OpenStreetMap URL: https://www.openstreetmap.org/node/6323975670
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6323975670
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

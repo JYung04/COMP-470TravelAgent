@@ -1,0 +1,24 @@
+Name: Yaaas Tea Forest Hills
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, bubble_tea, dessert, sandwich
+Address: 118-15 Queens Boulevard, Forest hills NY 11375
+Description: Not listed
+Website: https://YaaasTea.com
+Phone: +1-718-301-0133
+Email: Not listed
+Opening Hours: Mo-We 07:00-19:45; Th-Sa 07:00-20:45; Su 07:00-19:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.715089
+Longitude: -73.8316555
+OpenStreetMap URL: https://www.openstreetmap.org/node/2870860294
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2870860294
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

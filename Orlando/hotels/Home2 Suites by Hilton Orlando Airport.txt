@@ -1,0 +1,25 @@
+Name: Home2 Suites by Hilton Orlando Airport
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 5445 Hazeltine National Drive, Orlando FL 32812
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/orlapht-home2-suites-orlando-airport/
+Phone: +1 407-852-0844
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4639478
+Longitude: -81.3149187
+OpenStreetMap URL: https://www.openstreetmap.org/way/837479410
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/837479410
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

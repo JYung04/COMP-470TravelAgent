@@ -1,0 +1,25 @@
+Name: Hampton Inn Orlando International Drive/Convention Center
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 8900 Universal Boulevard, Orlando FL 32819
+Description: Not listed
+Website: https://www.hilton.com/en/hotels/mcocchx-hampton-orlando-international-drive-convention-center/
+Phone: +1 407-354-4447
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4365787
+Longitude: -81.4689528
+OpenStreetMap URL: https://www.openstreetmap.org/way/140641431
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/140641431
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

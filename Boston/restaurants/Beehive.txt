@@ -1,0 +1,25 @@
+Name: Beehive
+City: Boston
+Category: restaurants
+Cuisine: american
+Address: 541 Tremont Street
+Description: Hugely popular underground bohemian bistro with great food & libations and live jazz, blues, and other entertainment every day of the week. Outdoor dining and brunch is available! See amenities below for more information. Dine Out Boston is August 1 – 15, 2026 See amenity tab for more information.
+Website: https://www.beehiveboston.com/home
+Phone: +1 617-423-0069
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3443729
+Longitude: -71.0713814
+OpenStreetMap URL: https://www.openstreetmap.org/node/5029868021
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5029868021
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

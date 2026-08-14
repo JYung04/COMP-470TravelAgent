@@ -1,0 +1,25 @@
+Name: Ascione Bistro
+City: Chicago
+Category: restaurants
+Cuisine: italian
+Address: 1500 East 55th Street, Chicago IL 60615
+Description: Not listed
+Website: https://ascionebistro.com/
+Phone: +1-773-363-8161
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.79538
+Longitude: -87.5886124
+OpenStreetMap URL: https://www.openstreetmap.org/node/8895715940
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8895715940
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

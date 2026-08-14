@@ -1,0 +1,24 @@
+Name: Hoops Cabaret and Sports Bar
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 48 West 33rd Street, New York 10001
+Description: Not listed
+Website: https://www.hoopscabaret.com
+Phone: +1 212-564-4480
+Email: Not listed
+Opening Hours: 15:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7484854
+Longitude: -73.9873311
+OpenStreetMap URL: https://www.openstreetmap.org/way/265260916
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265260916
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

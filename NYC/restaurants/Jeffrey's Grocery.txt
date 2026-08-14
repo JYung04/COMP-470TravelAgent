@@ -1,0 +1,25 @@
+Name: Jeffrey's Grocery
+City: NYC
+Category: restaurants
+Cuisine: seafood
+Address: 172 Waverly Place, New York NY 10014
+Description: Not listed
+Website: https://www.jeffreysgrocery.com/
+Phone: +1-646-398-7630
+Email: Not listed
+Opening Hours: Mo 11:30-22:00; Tu-Fr 11:30-23:00; Sa 10:00-15:15,17:00-23:00; Su 10:00-15:15,17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7339144
+Longitude: -74.0013412
+OpenStreetMap URL: https://www.openstreetmap.org/node/11987722720
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11987722720
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

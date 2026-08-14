@@ -1,0 +1,25 @@
+Name: Essence of India
+City: Chicago
+Category: restaurants
+Cuisine: indian
+Address: 4601 North Lincoln Avenue, Chicago IL 60625
+Description: Not listed
+Website: https://www.essenceofindiachicago.com/
+Phone: +1-773-506-0002
+Email: Not listed
+Opening Hours: Mo,We,Th 16:30-21:30; Tu off; Su 12:00-15:00,16:00-21:00; Fr,Sa 12:00-15:00,16:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 41.9650425
+Longitude: -87.6860231
+OpenStreetMap URL: https://www.openstreetmap.org/node/1557244574
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1557244574
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

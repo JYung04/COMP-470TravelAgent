@@ -1,0 +1,24 @@
+Name: C.Lo Cafe
+City: NYC
+Category: cafes
+Cuisine: guatemalan, burrito, breakfast, tacos
+Address: 660 Fairview Avenue, Ridgewood NY 11385
+Description: A family owned and operated restaurant offering seasonal Guatemalan inspired dishes.
+Website: https://www.clocafe.com/ridgewood
+Phone: +1-929-295-0099
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-17:00; Sa 08:00-17:00; Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7063536
+Longitude: -73.9054469
+OpenStreetMap URL: https://www.openstreetmap.org/node/5418882814
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5418882814
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

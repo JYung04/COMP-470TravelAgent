@@ -1,0 +1,25 @@
+Name: Water's Soul
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Water's Soul is a sculpture along the Hudson River Waterfront Walkway in the Newport section of Jersey City, New Jersey. It depicts a woman with closed eyes holding a finger to her lips in a state of silent contemplation and self-reflection. The work was conceived by Jaume Plensa and commissioned by LeFrak and Simon Property Group. Made of polyester resin, fiberglass, and marble dust, the work is white and stands 80 feet (24 m) tall. It faces the Hudson River and the New York City skyline. It was created at Plensa's Barcelona studio and shipped in 23 containers, each 40 feet (12 m) feet long, to the site.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7309156
+Longitude: -74.028301
+OpenStreetMap URL: https://www.openstreetmap.org/node/9632225717
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9632225717
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

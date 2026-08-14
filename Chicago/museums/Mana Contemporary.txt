@@ -1,0 +1,25 @@
+Name: Mana Contemporary
+City: Chicago
+Category: museums
+Cuisine: Not listed
+Address: 2233 South Throop Street
+Description: Not listed
+Website: https://www.manacontemporary.com/visit/chicago/
+Phone: Not listed
+Email: hello@manacontemporary.com
+Opening Hours: Mo-Fr 11:00-17:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.8507188
+Longitude: -87.658207
+OpenStreetMap URL: https://www.openstreetmap.org/node/11246804737
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11246804737
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

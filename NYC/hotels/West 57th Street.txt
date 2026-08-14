@@ -1,0 +1,25 @@
+Name: West 57th Street
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 102 West 57th Street, New York 10019
+Description: Not listed
+Website: https://www3.hilton.com/en/hotels/new-york/west-57th-street-by-hilton-club-NYCWEGV/index.html
+Phone: +1 212-379-0103
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7643728
+Longitude: -73.9779329
+OpenStreetMap URL: https://www.openstreetmap.org/way/265148508
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265148508
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

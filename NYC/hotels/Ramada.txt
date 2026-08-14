@@ -1,0 +1,25 @@
+Name: Ramada
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 343 West 44th Street, New York NY 10036
+Description: Not listed
+Website: https://www.wyndhamhotels.com/ramada/new-york-new-york/ramada-new-york-times-square-west/overview
+Phone: +1 212-767-0223
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7595565
+Longitude: -73.9906766
+OpenStreetMap URL: https://www.openstreetmap.org/way/265320185
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/265320185
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

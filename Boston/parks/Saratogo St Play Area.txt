@@ -1,0 +1,25 @@
+Name: Saratogo St Play Area
+City: Boston
+Category: parks
+Cuisine: Not listed
+Address: 765 Saratoga Street
+Description: Officially classified as parks, playgrounds & athletic fields. Located in East Boston. Covers approximately 0.2 acres. Also known as Saratoga St. Play Area.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3836918
+Longitude: -71.0167614
+OpenStreetMap URL: https://www.openstreetmap.org/way/29838885
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29838885
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

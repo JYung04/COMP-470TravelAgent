@@ -1,0 +1,25 @@
+Name: The Institute of Contemporary Art
+City: Boston
+Category: museums
+Cuisine: Not listed
+Address: 25 Harbor Shore Drive, Boston MA 02210
+Description: Since its founding in 1936, the ICA has shared the pleasures of reflection, inspiration, imagination, and provocation that contemporary art offers with its audiences. A museum at the intersection of contemporary art and civic life, the ICA has advanced a bold vision for amplifying the artist’s voice and expanding the museum’s role as educator, incubator, and convener. There is always something new and exciting to see at the ICA. Situated in Boston’s vibrant Seaport neighborhood, the ICA hosts some of today’s most exciting artists, musicians, DJs, dancers, and performers. The museum's variety of exhibitions, performances, and programs provides access to the breadth of contemporary art and artists, inviting audiences of all ages and backgrounds to participate in the excitement of new art and ideas. Don't forget to stop by the award-winning ICA Store, featuring a thoughtfully curated selection of gifts.
+Website: https://www.icaboston.org/
+Phone: +1-617-478-3100
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.352865
+Longitude: -71.0429628
+OpenStreetMap URL: https://www.openstreetmap.org/way/117888922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/117888922
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art; music

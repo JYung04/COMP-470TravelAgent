@@ -1,0 +1,25 @@
+Name: Bunker
+City: Washington DC
+Category: nightlife
+Cuisine: Not listed
+Address: 2001 14th Street Northwest, Washington DC
+Description: Not listed
+Website: https://bunkerdc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Th 19:00-02:00; Fr-Sa 19:00-03:00; Su 16:00-00:00+
+Wheelchair Accessibility: Not listed
+Latitude: 38.9171267
+Longitude: -77.0316631
+OpenStreetMap URL: https://www.openstreetmap.org/node/3230876911
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3230876911
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

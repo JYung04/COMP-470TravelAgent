@@ -1,0 +1,25 @@
+Name: Eli's Night Shift
+City: NYC
+Category: restaurants
+Cuisine: american
+Address: 189 East 79th Street
+Description: Not listed
+Website: https://www.elizabar.com/nightshift.aspx
+Phone: +1 212-879-7160
+Email: nightshift@elizabar.com
+Opening Hours: Mo-Fr 16:00-22:00; Sa-Su 14:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7744968
+Longitude: -73.9573847
+OpenStreetMap URL: https://www.openstreetmap.org/node/8333736493
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8333736493
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

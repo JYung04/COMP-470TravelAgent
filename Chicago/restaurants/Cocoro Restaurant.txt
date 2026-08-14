@@ -1,0 +1,24 @@
+Name: Cocoro Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: japanese, sushi
+Address: 668 North Wells Street, Chicago IL 60654
+Description: Not listed
+Website: https://www.cocorosushi.com/
+Phone: +1-312-943-2220
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-14:00; Mo-Sa 17:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8944222
+Longitude: -87.6343649
+OpenStreetMap URL: https://www.openstreetmap.org/node/4995784442
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4995784442
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

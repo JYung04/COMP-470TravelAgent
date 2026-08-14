@@ -1,0 +1,24 @@
+Name: Chopsmith
+City: Washington DC
+Category: restaurants
+Cuisine: salad, sandwich, breakfast
+Address: 11 District Square Southwest, Washington DC 20024
+Description: Not listed
+Website: https://www.chopsmith.com/
+Phone: +1 202-554-5400
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
+Wheelchair Accessibility: yes
+Latitude: 38.8800032
+Longitude: -77.0249348
+OpenStreetMap URL: https://www.openstreetmap.org/node/8691887347
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8691887347
+Price: $
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

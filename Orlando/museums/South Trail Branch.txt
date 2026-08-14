@@ -1,0 +1,25 @@
+Name: South Trail Branch
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: 4600 South Orange Blossom Trail, Orlando FL 32839-1706
+Description: Not listed
+Website: Not listed
+Phone: +1 407-835-7323
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4971493
+Longitude: -81.3992598
+OpenStreetMap URL: https://www.openstreetmap.org/node/12551975974
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12551975974
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

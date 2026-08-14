@@ -1,0 +1,25 @@
+Name: Bacon Bitch
+City: Orlando
+Category: restaurants
+Cuisine: Not listed
+Address: 12103 Collegiate Way, Orlando FL 32817
+Description: Not listed
+Website: https://baconbitch.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Sa 08:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 28.5972162
+Longitude: -81.2108306
+OpenStreetMap URL: https://www.openstreetmap.org/node/8554618397
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8554618397
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

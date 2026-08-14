@@ -1,0 +1,25 @@
+Name: Langley Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 700 East 113th Street, Chicago IL 60628
+Description: Officially classified as neighborhood park. Covers approximately 1.2 acres. Facilities include playground.
+Website: https://www.chicagoparkdistrict.com/parks-facilities/langley-ester-gunderson-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.6898374
+Longitude: -87.6056564
+OpenStreetMap URL: https://www.openstreetmap.org/way/218387998
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/218387998
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

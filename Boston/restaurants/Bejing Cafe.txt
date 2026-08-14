@@ -1,0 +1,25 @@
+Name: Bejing Cafe
+City: Boston
+Category: restaurants
+Cuisine: chinese
+Address: 728 Commonwealth Avenue, 02215
+Description: Not listed
+Website: https://www.beijingcafeusa.com/
+Phone: +1 617-536-1616; +1 617-859-3925
+Email: Not listed
+Opening Hours: Mo-Su 11:00-21:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3496762
+Longitude: -71.1063293
+OpenStreetMap URL: https://www.openstreetmap.org/node/1456765698
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1456765698
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

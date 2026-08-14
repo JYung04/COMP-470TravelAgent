@@ -1,0 +1,25 @@
+Name: Bonus Round Game Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 3230 North Clark Street, Chicago IL 60657
+Description: Not listed
+Website: https://bonusroundcafe.com/
+Phone: +1-773-857-1037
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9406918
+Longitude: -87.6515743
+OpenStreetMap URL: https://www.openstreetmap.org/node/6269005182
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6269005182
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

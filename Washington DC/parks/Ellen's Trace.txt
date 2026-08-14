@@ -1,0 +1,25 @@
+Name: Ellen's Trace
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 24/7
+Wheelchair Accessibility: Not listed
+Latitude: 38.8800663
+Longitude: -77.1154398
+OpenStreetMap URL: https://www.openstreetmap.org/way/1043255881
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1043255881
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

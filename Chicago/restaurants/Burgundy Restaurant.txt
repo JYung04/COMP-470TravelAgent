@@ -1,0 +1,24 @@
+Name: Burgundy Restaurant
+City: Chicago
+Category: restaurants
+Cuisine: breakfast, american, greek
+Address: 5959 West Irving Park Road, Chicago IL 60634
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 07:00-15:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9528934
+Longitude: -87.7766211
+OpenStreetMap URL: https://www.openstreetmap.org/node/10752009860
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10752009860
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

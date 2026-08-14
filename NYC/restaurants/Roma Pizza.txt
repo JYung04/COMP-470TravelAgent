@@ -1,0 +1,25 @@
+Name: Roma Pizza
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 852 8th Avenue, New York NY 10019
+Description: Not listed
+Website: https://www.romapizzaon8thave.com/
+Phone: (212) 786-7777
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 40.7630158
+Longitude: -73.9853514
+OpenStreetMap URL: https://www.openstreetmap.org/node/5978510504
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5978510504
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

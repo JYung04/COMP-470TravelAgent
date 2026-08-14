@@ -1,0 +1,25 @@
+Name: Olde City
+City: NYC
+Category: restaurants
+Cuisine: sandwich
+Address: 66 Madison Avenue, New York 10010
+Description: Not listed
+Website: https://www.loveoldecity.com/
+Phone: +1 929-281-3222
+Email: Not listed
+Opening Hours: Mo-Su 11:00-24:00
+Wheelchair Accessibility: yes
+Latitude: 40.7435996
+Longitude: -73.98616
+OpenStreetMap URL: https://www.openstreetmap.org/node/2412370159
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2412370159
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

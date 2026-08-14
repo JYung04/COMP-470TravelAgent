@@ -1,0 +1,25 @@
+Name: Comfort Inn
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 5196 West Irlo Bronson Memorial Highway, Kissimmee FL 34746
+Description: Not listed
+Website: http://www.comfortinn.com/hotel-kissimmee-florida-FLB86?source=gglocalai1
+Phone: +1 407-507-3808
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3314377
+Longitude: -81.4912931
+OpenStreetMap URL: https://www.openstreetmap.org/way/310017628
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/310017628
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

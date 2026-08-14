@@ -1,0 +1,25 @@
+Name: The Gurgling Suitcase
+City: Orlando
+Category: bars
+Cuisine: american
+Address: Not listed
+Description: Not listed
+Website: https://disneyworld.disney.go.com/dining/old-key-west-resort/gurgling-suitcase-libations-and-spirits/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3750922
+Longitude: -81.5335469
+OpenStreetMap URL: https://www.openstreetmap.org/node/2786432741
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2786432741
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

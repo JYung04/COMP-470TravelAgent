@@ -1,0 +1,25 @@
+Name: Kizuki Ramen & Izakaya
+City: Chicago
+Category: restaurants
+Cuisine: ramen
+Address: 1538 North Clybourn Avenue, Chicago IL 60610
+Description: Not listed
+Website: https://www.kizuki.com/
+Phone: +1-312-631-3165
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9094212
+Longitude: -87.6478311
+OpenStreetMap URL: https://www.openstreetmap.org/node/6319691545
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6319691545
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

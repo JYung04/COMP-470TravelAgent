@@ -1,0 +1,25 @@
+Name: The Munchie Station
+City: Boston
+Category: restaurants
+Cuisine: Not listed
+Address: 996 Dorchester Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo off; Tu-Sa 11:00-23:00; Su 12:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.3166484
+Longitude: -71.0565956
+OpenStreetMap URL: https://www.openstreetmap.org/node/13149453625
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13149453625
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

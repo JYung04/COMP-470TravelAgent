@@ -1,0 +1,24 @@
+Name: Prime Catch
+City: NYC
+Category: restaurants
+Cuisine: steak_house, pasta
+Address: Not listed
+Description: Not listed
+Website: Not listed
+Phone: +1-646-649-2288
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7580046
+Longitude: -73.984058
+OpenStreetMap URL: https://www.openstreetmap.org/node/12917522705
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12917522705
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

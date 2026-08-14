@@ -1,0 +1,25 @@
+Name: Loco Coco
+City: NYC
+Category: restaurants
+Cuisine: smoothie
+Address: 835 Lexington Avenue, 10065
+Description: Not listed
+Website: Not listed
+Phone: +1 212-888-9900
+Email: hello@coco-loco.com
+Opening Hours: Mo-Fr 09:00-20:00; Sa, Su 09:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7650653
+Longitude: -73.965936
+OpenStreetMap URL: https://www.openstreetmap.org/node/2718050718
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2718050718
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

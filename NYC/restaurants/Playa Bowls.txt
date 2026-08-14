@@ -1,0 +1,25 @@
+Name: Playa Bowls
+City: NYC
+Category: restaurants
+Cuisine: Not listed
+Address: 505 North Broad Street, 07208
+Description: Not listed
+Website: https://playabowls.com/location/elizabeth
+Phone: +19088609001
+Email: Not listed
+Opening Hours: Su-We 08:00-22:00; Th-Sa 08:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6738783
+Longitude: -74.2125943
+OpenStreetMap URL: https://www.openstreetmap.org/node/13743561702
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13743561702
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

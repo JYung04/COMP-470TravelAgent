@@ -1,0 +1,25 @@
+Name: Seth Warner House
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 631 North Central Avenue, Chicago IL 60644
+Description: A designated Chicago landmark. Built: 1869. Landmark designation date: 2022-02-23T00:00:00.000.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.892082
+Longitude: -87.764893
+OpenStreetMap URL: https://www.openstreetmap.org/way/162525158
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162525158
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

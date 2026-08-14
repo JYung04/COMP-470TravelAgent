@@ -1,0 +1,25 @@
+Name: Phobar
+City: NYC
+Category: restaurants
+Cuisine: vietnamese
+Address: 80 6th Avenue, 11217
+Description: Not listed
+Website: http://phobar.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 11:00-21:00, Fr-Sa 11:00-22:00, Su 11:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6800284
+Longitude: -73.9750136
+OpenStreetMap URL: https://www.openstreetmap.org/node/2550054043
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2550054043
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

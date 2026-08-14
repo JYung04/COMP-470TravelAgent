@@ -1,0 +1,25 @@
+Name: Constitution Inn
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 150 Third Avenue, Boston MA 02129
+Description: Not listed
+Website: https://www.constitutioninn.org/
+Phone: +1-617-241-8400
+Email: nwarren@constitutioninn.org
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3763818
+Longitude: -71.0534012
+OpenStreetMap URL: https://www.openstreetmap.org/way/29642840
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29642840
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

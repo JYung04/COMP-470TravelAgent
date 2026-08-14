@@ -1,0 +1,25 @@
+Name: Texican
+City: Chicago
+Category: restaurants
+Cuisine: tex-mex
+Address: 869 North Larrabee Street, Chicago IL 60610
+Description: Not listed
+Website: https://www.texican-chicago.com/
+Phone: +1-312-877-5441
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8985537
+Longitude: -87.6427142
+OpenStreetMap URL: https://www.openstreetmap.org/node/6322560906
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6322560906
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

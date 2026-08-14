@@ -1,0 +1,25 @@
+Name: Muhlenberg Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 209 West 23rd Street, New York 10011
+Description: Not listed
+Website: https://www.nypl.org/locations/muhlenberg
+Phone: +1 212-924-1585
+Email: Not listed
+Opening Hours: Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00; PH off; easter off
+Wheelchair Accessibility: yes
+Latitude: 40.7445118
+Longitude: -73.9959598
+OpenStreetMap URL: https://www.openstreetmap.org/way/264650639
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/264650639
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

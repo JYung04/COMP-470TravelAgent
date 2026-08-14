@@ -1,0 +1,25 @@
+Name: Thai 36
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 36-02 36th Avenue, 11106
+Description: Not listed
+Website: https://thai36astoria.com/
+Phone: +1 718-707-0407
+Email: Not listed
+Opening Hours: Mo-Fr 11:00-21:00; Sa, Su 12:00-21:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7545497
+Longitude: -73.9257025
+OpenStreetMap URL: https://www.openstreetmap.org/node/2846596452
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2846596452
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

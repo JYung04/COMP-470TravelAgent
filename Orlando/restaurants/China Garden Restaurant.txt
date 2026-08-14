@@ -1,0 +1,25 @@
+Name: China Garden Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: chinese
+Address: 8833 Conroy Windermere Road, Orlando FL 32835
+Description: Not listed
+Website: https://chinagarden-fl.com
+Phone: +1-407-909-8833
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4950623
+Longitude: -81.5063787
+OpenStreetMap URL: https://www.openstreetmap.org/node/13784016556
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13784016556
+Price: Not listed
+Rating: 3.9
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food; gardens

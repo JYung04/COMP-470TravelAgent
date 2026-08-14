@@ -1,0 +1,25 @@
+Name: John Wilson Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 1122 West 34th Place, Chicago IL 60608
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/wilson-john-p-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: 06:00-23:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.831965
+Longitude: -87.6546362
+OpenStreetMap URL: https://www.openstreetmap.org/way/167436110
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/167436110
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

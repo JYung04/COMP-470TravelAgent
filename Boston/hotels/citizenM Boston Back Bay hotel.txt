@@ -1,0 +1,25 @@
+Name: citizenM Boston Back Bay hotel
+City: Boston
+Category: hotels
+Cuisine: Not listed
+Address: 408 Newbury Street, Boston MA 02115
+Description: Not listed
+Website: https://www.citizenm.com/hotels/united-states/boston/boston-back-bay-hotel
+Phone: +16178612626
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 42.3479345
+Longitude: -71.0887403
+OpenStreetMap URL: https://www.openstreetmap.org/relation/17575546
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/17575546
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

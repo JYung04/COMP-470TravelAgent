@@ -1,0 +1,25 @@
+Name: Golden City
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 6418 20th Avenue
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 09:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6168206
+Longitude: -73.9857507
+OpenStreetMap URL: https://www.openstreetmap.org/node/11836256030
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11836256030
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

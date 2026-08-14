@@ -1,0 +1,25 @@
+Name: Home Insurance Building Site
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Home Insurance Building was an early skyscraper that stood in Chicago from 1885 to its demolition in 1931. Originally ten stories and 138 ft (42.1 m) tall, it was designed by William Le Baron Jenney in 1884 and completed the next year. Two floors were added in 1891, bringing its height to 180 feet. It was the first tall building to be supported both inside and outside by a fireproof structural steel frame, though it also included reinforced concrete. It is often cited as the world's first skyscraper.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8797637
+Longitude: -87.6318848
+OpenStreetMap URL: https://www.openstreetmap.org/node/2465607685
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2465607685
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: history

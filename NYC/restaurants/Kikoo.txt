@@ -1,0 +1,25 @@
+Name: Kikoo
+City: NYC
+Category: restaurants
+Cuisine: sushi
+Address: 141 1st Avenue
+Description: Not listed
+Website: https://kikoosushi.com
+Phone: +1-212-533-3888
+Email: Not listed
+Opening Hours: Mo,We-Th 15:00-22:00; Fr-Sa 15:00-23:00; Su 15:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7280522
+Longitude: -73.9851965
+OpenStreetMap URL: https://www.openstreetmap.org/node/5041286121
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5041286121
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

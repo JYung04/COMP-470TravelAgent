@@ -1,0 +1,24 @@
+Name: Nobi Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi, japanese
+Address: 437 3rd Avenue, 10016
+Description: Not listed
+Website: Not listed
+Phone: +1-212-481-8338
+Email: Not listed
+Opening Hours: Mo-Fr 11:30-15:30,16:30-22:00; Sa 16:00-22:00; Su 12:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.7433399
+Longitude: -73.9796256
+OpenStreetMap URL: https://www.openstreetmap.org/node/8792950866
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/8792950866
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

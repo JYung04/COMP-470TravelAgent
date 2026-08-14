@@ -1,0 +1,24 @@
+Name: Astor Court
+City: NYC
+Category: restaurants
+Cuisine: international, fine_dining
+Address: 2 East 55th Street, New York NY 10022
+Description: Not listed
+Website: http://www.stregisnewyork.com/astor-court-nyc
+Phone: +1-212-339-6857
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.761318
+Longitude: -73.9744256
+OpenStreetMap URL: https://www.openstreetmap.org/node/5398699799
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5398699799
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

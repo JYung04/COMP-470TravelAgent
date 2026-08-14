@@ -1,0 +1,25 @@
+Name: Embassy Suites Orlando - Lake Buena Vista South
+City: Orlando
+Category: hotels
+Cuisine: Not listed
+Address: 4955 Kyng's Heath Road, Kissimmee FL 34746
+Description: Not listed
+Website: https://embassysuites3.hilton.com/en/hotels/florida/embassy-suites-by-hilton-orlando-lake-buena-vista-south-MCOLKES/index.html
+Phone: +1 407-597-4000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.3362434
+Longitude: -81.481098
+OpenStreetMap URL: https://www.openstreetmap.org/way/413169274
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/413169274
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

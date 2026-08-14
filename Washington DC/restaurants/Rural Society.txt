@@ -1,0 +1,25 @@
+Name: Rural Society
+City: Washington DC
+Category: restaurants
+Cuisine: argentinian
+Address: 1177 15th Street Northwest, Washington DC 20005
+Description: Not listed
+Website: http://dc.ruralsocietyrestaurant.com
+Phone: +1-202-587-2629
+Email: Not listed
+Opening Hours: Su-Th 07:00-14:30, 17:00-22:00; Fr-Sa 07:00-14:30, 17:00-22:30
+Wheelchair Accessibility: Not listed
+Latitude: 38.9054731
+Longitude: -77.0342999
+OpenStreetMap URL: https://www.openstreetmap.org/node/4788360021
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4788360021
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

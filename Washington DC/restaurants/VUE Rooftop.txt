@@ -1,0 +1,25 @@
+Name: VUE Rooftop
+City: Washington DC
+Category: restaurants
+Cuisine: Not listed
+Address: 515 15th Street Northwest, Washington DC 20004
+Description: Not listed
+Website: https://www.vuerooftopdc.com/
+Phone: +1 202 661 2400
+Email: Not listed
+Opening Hours: Mo-Th 16:00-00:00, Fr 16:00-01:00, Sa 11:00-01:00, Su 11:00-00:00
+Wheelchair Accessibility: yes
+Latitude: 38.8969064
+Longitude: -77.0333929
+OpenStreetMap URL: https://www.openstreetmap.org/node/11629913831
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11629913831
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

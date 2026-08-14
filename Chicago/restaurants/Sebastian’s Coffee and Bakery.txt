@@ -1,0 +1,24 @@
+Name: Sebastian’s Coffee and Bakery
+City: Chicago
+Category: restaurants
+Cuisine: bakery, coffee
+Address: 6712 North Clark Street, Chicago IL 60626
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 6:00-18:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.0039322
+Longitude: -87.6728813
+OpenStreetMap URL: https://www.openstreetmap.org/way/209953665
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/209953665
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

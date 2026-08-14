@@ -1,0 +1,25 @@
+Name: Klein's Bakery & Cafe
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 4155 North Broadway, Chicago IL 60613
+Description: Not listed
+Website: https://www.kleinsbakerycafe.com/
+Phone: +1-773-857-0525
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9583413
+Longitude: -87.6527823
+OpenStreetMap URL: https://www.openstreetmap.org/node/5358482234
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5358482234
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

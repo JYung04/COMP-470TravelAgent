@@ -1,0 +1,25 @@
+Name: Don Patron
+City: NYC
+Category: restaurants
+Cuisine: mexican
+Address: Not listed
+Description: Not listed
+Website: https://qrcodes.pro/5uu8Hg
+Phone: +1-347-305-3155
+Email: Not listed
+Opening Hours: Mo-Fr 14:00-22:00, Sa-Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6476656
+Longitude: -73.9679089
+OpenStreetMap URL: https://www.openstreetmap.org/node/12352155342
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12352155342
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

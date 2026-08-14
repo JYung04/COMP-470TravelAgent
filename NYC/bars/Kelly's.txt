@@ -1,0 +1,24 @@
+Name: Kelly's
+City: NYC
+Category: bars
+Cuisine: pizza, snack
+Address: 12 Avenue A, 10009
+Description: Not listed
+Website: https://kellysnyc.com
+Phone: +1-212-388-1464
+Email: Not listed
+Opening Hours: Mo-Su 12:00-04:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7225188
+Longitude: -73.9859212
+OpenStreetMap URL: https://www.openstreetmap.org/node/6910733392
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6910733392
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

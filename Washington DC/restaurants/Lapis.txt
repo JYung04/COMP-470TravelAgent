@@ -1,0 +1,25 @@
+Name: Lapis
+City: Washington DC
+Category: restaurants
+Cuisine: afghan
+Address: 1847 Columbia Road Northwest, Washington DC 20009-2005
+Description: Not listed
+Website: https://www.lapisdc.com/
+Phone: +1-202-299-9630
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 38.9213
+Longitude: -77.043828
+OpenStreetMap URL: https://www.openstreetmap.org/node/737066532
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737066532
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Lake Beauty Park
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 30 West Miller Street, Orlando, FL 32806
+Description: Lake Beauty Park is a peaceful oasis in an urban setting. The park has paved walking paths and scenic views.
+Website: https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Beauty-Park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5232815
+Longitude: -81.3772934
+OpenStreetMap URL: https://www.openstreetmap.org/relation/1999893
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/1999893
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors; views

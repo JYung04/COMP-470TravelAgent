@@ -1,0 +1,25 @@
+Name: Rumi’s Kitchen
+City: Washington DC
+Category: restaurants
+Cuisine: persian
+Address: 640 L Street Northwest, 20001
+Description: Not listed
+Website: https://www.rumiskitchen.com/
+Phone: +1 202-900-9106
+Email: dc@rumiskitchen.com
+Opening Hours: Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.9040129
+Longitude: -77.020809
+OpenStreetMap URL: https://www.openstreetmap.org/node/11137528405
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11137528405
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

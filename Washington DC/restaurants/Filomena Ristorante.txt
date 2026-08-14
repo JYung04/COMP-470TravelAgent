@@ -1,0 +1,25 @@
+Name: Filomena Ristorante
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 1063 Wisconsin Avenue Northwest, Washington DC 20007-3605
+Description: Filomena Ristorante is an Italian-American restaurant located in the historic neighborhood of Georgetown in Washington, D.C. It opened along Washington's C&O Canal in 1983. Fresh pasta is made by Filomena's ‘Pasta Mamas’ in the storefront kitchen. They greet patrons as they enter the restaurant.
+Website: https://www.filomena.com/
+Phone: +1 202-338-8800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9044376
+Longitude: -77.0626011
+OpenStreetMap URL: https://www.openstreetmap.org/node/740272480
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/740272480
+Price: $$
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

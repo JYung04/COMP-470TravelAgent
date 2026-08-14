@@ -1,0 +1,25 @@
+Name: Lucky Buns
+City: Washington DC
+Category: restaurants
+Cuisine: burger
+Address: 2000 18th Street Northwest, Washington DC 20009-1806
+Description: Not listed
+Website: https://www.luckybunsdc.com
+Phone: +1 202-506-1713
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: yes
+Latitude: 38.9171217
+Longitude: -77.0418984
+OpenStreetMap URL: https://www.openstreetmap.org/node/737066512
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/737066512
+Price: $$
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Asia
+City: NYC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: There are only a few Asian teams playing in this year’s World Cup, but they hail from countries with excellent culinary representatives in New York City. Koreatown is a two-block stretch centered on 32nd Street between Fifth and Sixth Avenues in Manhattan with restaurants, spas and skincare boutiques that climb several stories high. Check out South Korea ’s matches at Turntable Chicken & Jazz , an industrial bar with excellent Korean fried chicken and a satisfying bulgogi burger. Night owls will
+Website: https://turntablenyc.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7044755
+Longitude: -74.0134424
+OpenStreetMap URL: https://www.openstreetmap.org/way/1190058224
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1190058224
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable tourism-oriented place with a substantive description
+Best For: sightseeing

@@ -1,0 +1,25 @@
+Name: Hotel 50 Bowery
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 50 Bowery, 10013
+Description: Not listed
+Website: https://www.jdvhotels.com/hotels/new-york/nyc/hotel-50-bowery-nyc
+Phone: +1-212-508-8000
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7159645
+Longitude: -73.9968286
+OpenStreetMap URL: https://www.openstreetmap.org/way/869766821
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/869766821
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: The Brewery
+City: Chicago
+Category: bars
+Cuisine: Not listed
+Address: 3848 North Harlem Avenue, Chicago IL 60634
+Description: Not listed
+Website: https://the-brewery-bar-and-grill.business.site/
+Phone: +1-773-625-7818
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9503507
+Longitude: -87.8075249
+OpenStreetMap URL: https://www.openstreetmap.org/node/6306488458
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6306488458
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

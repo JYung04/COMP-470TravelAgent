@@ -1,0 +1,25 @@
+Name: 1915 Lanzhou Hand-Pulled Noodles & Dumplings
+City: NYC
+Category: restaurants
+Cuisine: chinese
+Address: 207 East 26th Street, New York NY 10016
+Description: Not listed
+Website: https://www.1915lanzhounoodles.com/
+Phone: +1-917-828-7384
+Email: Not listed
+Opening Hours: Mo,We-Su 10:30-21:00
+Wheelchair Accessibility: no
+Latitude: 40.7406194
+Longitude: -73.9812508
+OpenStreetMap URL: https://www.openstreetmap.org/node/5265742302
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5265742302
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

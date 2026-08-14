@@ -1,0 +1,25 @@
+Name: Cornell Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 5473 South Cornell Avenue, Chicago IL 60615
+Description: park in the Hyde Park neighborhood of South Chicago
+Website: https://www.chicagoparkdistrict.com/parks-facilities/cornell-paul-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.7960183
+Longitude: -87.5850359
+OpenStreetMap URL: https://www.openstreetmap.org/way/142767886
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/142767886
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

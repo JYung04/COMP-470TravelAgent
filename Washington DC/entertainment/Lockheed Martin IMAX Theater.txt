@@ -1,0 +1,25 @@
+Name: Lockheed Martin IMAX Theater
+City: Washington DC
+Category: entertainment
+Cuisine: Not listed
+Address: 655 Jefferson Drive Southwest, Washington DC 20560
+Description: Not listed
+Website: https://www.si.edu/imax
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su 10:00-17:30
+Wheelchair Accessibility: yes
+Latitude: 38.888356
+Longitude: -77.0194907
+OpenStreetMap URL: https://www.openstreetmap.org/way/783477240
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/783477240
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: entertainment; art

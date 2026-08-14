@@ -1,0 +1,25 @@
+Name: Virginia Avenue Park
+City: Washington DC
+Category: parks
+Cuisine: Not listed
+Address: L St., between 9th and 11th Sts., SE
+Description: Officially classified as park. Amenities include basketball court, playground.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8775078
+Longitude: -76.9926979
+OpenStreetMap URL: https://www.openstreetmap.org/way/48207258
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/48207258
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors

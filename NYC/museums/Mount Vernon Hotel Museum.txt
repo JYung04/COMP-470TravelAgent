@@ -1,0 +1,25 @@
+Name: Mount Vernon Hotel Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 421 East 61st Street, New York NY 10065
+Description: The Mount Vernon Hotel Museum & Garden, formerly the Abigail Adams Smith Museum, is a historic antebellum building at 421 East 61st Street, near the East River, on the Upper East Side of Manhattan in New York City. It is open to the public as a museum. Since 1924, it has been operated by the Colonial Dames of America. As of May 2025, the museum is open for tours on selected weekdays.
+Website: https://mvhm.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: no
+Latitude: 40.7605217
+Longitude: -73.9597128
+OpenStreetMap URL: https://www.openstreetmap.org/way/266199252
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266199252
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; gardens

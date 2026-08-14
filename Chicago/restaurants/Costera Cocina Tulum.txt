@@ -1,0 +1,25 @@
+Name: Costera Cocina Tulum
+City: Chicago
+Category: restaurants
+Cuisine: mexican
+Address: 850 West Fulton Market, Chicago IL 60607
+Description: Not listed
+Website: https://www.costeracocina.com/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8869666
+Longitude: -87.6492845
+OpenStreetMap URL: https://www.openstreetmap.org/node/12093744775
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12093744775
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Sofreh Cafe
+City: NYC
+Category: cafes
+Cuisine: persian
+Address: 216 Flatbush Avenue, 11217
+Description: Not listed
+Website: https://www.sofrehnyc.com/sofrehcafe
+Phone: +1-929-294-9240
+Email: Not listed
+Opening Hours: Mo-Fr 09:00-17:00, Sa-Su 09:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.6811024
+Longitude: -73.9755327
+OpenStreetMap URL: https://www.openstreetmap.org/node/12456130217
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12456130217
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

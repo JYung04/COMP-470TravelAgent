@@ -1,0 +1,25 @@
+Name: Typewriter Eraser, Scale X
+City: Washington DC
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: Typewriter Eraser, Scale X is a sculpture of a large-scale typewriter eraser by Claes Oldenburg and Coosje van Bruggen.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.8917147
+Longitude: -77.0236034
+OpenStreetMap URL: https://www.openstreetmap.org/node/2634817093
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2634817093
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

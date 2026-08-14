@@ -1,0 +1,25 @@
+Name: Saucey Pizza Bar
+City: NYC
+Category: restaurants
+Cuisine: pizza
+Address: 36-21 Review Avenue
+Description: Not listed
+Website: https://www.sauceypizzabar.com/
+Phone: +1 718-392-7100
+Email: Not listed
+Opening Hours: We, Th 17:00-23:00; Fr, Sa 17:00-00:00; Su 15:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.733978
+Longitude: -73.9374032
+OpenStreetMap URL: https://www.openstreetmap.org/node/12179338199
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12179338199
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

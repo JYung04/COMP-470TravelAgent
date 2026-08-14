@@ -1,0 +1,25 @@
+Name: Hitchcock House
+City: Chicago
+Category: historic
+Cuisine: Not listed
+Address: 5704 West Ohio Street, Chicago IL 60644
+Description: A designated Chicago landmark. Built: 1871. Landmark designation date: 1992-07-07T00:00:00.000.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8912902
+Longitude: -87.7680769
+OpenStreetMap URL: https://www.openstreetmap.org/way/162517922
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/162517922
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: history

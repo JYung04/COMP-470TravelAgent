@@ -1,0 +1,25 @@
+Name: Manor Oktoberfest
+City: NYC
+Category: restaurants
+Cuisine: german
+Address: 73-11 Yellowstone Boulevard, 11375
+Description: Not listed
+Website: http://www.manoroktoberfeatforesthills.com
+Phone: +1 718-544-2400
+Email: manoroktoberfest@yahoo.com
+Opening Hours: Su, Tu-Th 12:00-23:00; Fr, Sa 12:00-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.717342
+Longitude: -73.8570312
+OpenStreetMap URL: https://www.openstreetmap.org/node/2569712567
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2569712567
+Price: Not listed
+Rating: 4.6
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: In Bocca al Lupo
+City: Washington DC
+Category: restaurants
+Cuisine: pizza
+Address: 2400 Wisconsin Avenue Northwest, Washington DC 20007
+Description: Not listed
+Website: https://inboccaallupodc.com
+Phone: +1 202-750-7939
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9211807
+Longitude: -77.0723598
+OpenStreetMap URL: https://www.openstreetmap.org/node/10211066632
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/10211066632
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Pilecki Institute
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 92 Greenwich Street, New York NY 10006
+Description: The 9/11 Tribute Museum, formerly known as the 9/11 Tribute Center and Tribute WTC, was a museum that shared the personal stories of family members who lost loved ones, survivors, rescue and recovery workers, volunteers and Lower Manhattan residents with those who want to learn about the September 11 attacks. It was located in the Financial District section of Manhattan in New York City, and offered walking tours and galleries with 9/11 artifacts and history before it transitioned to a solely online museum in August 2022.
+Website: https://www.pileckiusa.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Fr 12:00-18:00
+Wheelchair Accessibility: limited
+Latitude: 40.7079432
+Longitude: -74.0137633
+OpenStreetMap URL: https://www.openstreetmap.org/node/5039012197
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5039012197
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture; art

@@ -1,0 +1,25 @@
+Name: Boston Shawarma
+City: Boston
+Category: restaurants
+Cuisine: international
+Address: 315 Huntington Ave, Boston, MA 02115, United States
+Description: Not listed
+Website: https://www.boston-shawarma.com/
+Phone: +1 617-670-0460
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3410018
+Longitude: -71.0876745
+OpenStreetMap URL: https://www.openstreetmap.org/node/1914792388
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/1914792388
+Price: Not listed
+Rating: 4.7
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,25 @@
+Name: Marina's Bistro & Rum Bar
+City: Chicago
+Category: restaurants
+Cuisine: puerto_rican
+Address: 4554 North Magnolia Avenue, Chicago IL 60640
+Description: Not listed
+Website: https://marinasbistrochicago.com
+Phone: Not listed
+Email: Not listed
+Opening Hours: Tu-Su 11:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.965086
+Longitude: -87.6615444
+OpenStreetMap URL: https://www.openstreetmap.org/node/11170471052
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11170471052
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

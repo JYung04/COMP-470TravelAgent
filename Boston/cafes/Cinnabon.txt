@@ -1,0 +1,25 @@
+Name: Cinnabon
+City: Boston
+Category: cafes
+Cuisine: dessert
+Address: Not listed
+Description: Not listed
+Website: https://locations.cinnabon.com/ma/boston/south-station
+Phone: Not listed
+Email: Not listed
+Opening Hours: Su-We 09:00-23:00; Th-Sa 09:00-23:30
+Wheelchair Accessibility: Not listed
+Latitude: 42.3517352
+Longitude: -71.0548716
+OpenStreetMap URL: https://www.openstreetmap.org/node/13913561251
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13913561251
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

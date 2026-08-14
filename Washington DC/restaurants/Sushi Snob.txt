@@ -1,0 +1,25 @@
+Name: Sushi Snob
+City: Washington DC
+Category: restaurants
+Cuisine: sushi
+Address: 1721 M Street Northwest, Washington DC 20036-4501
+Description: Not listed
+Website: https://www.toasttab.com/sushi-snob-1721-m-street-northwest/v3
+Phone: +1 202-223-1337
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 38.9057813
+Longitude: -77.0396609
+OpenStreetMap URL: https://www.openstreetmap.org/node/11300297472
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/11300297472
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

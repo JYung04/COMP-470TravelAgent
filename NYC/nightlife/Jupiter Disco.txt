@@ -1,0 +1,25 @@
+Name: Jupiter Disco
+City: NYC
+Category: nightlife
+Cuisine: Not listed
+Address: 1237 Flushing Avenue
+Description: Not listed
+Website: http://jupiterdisco.com/
+Phone: Not listed
+Email: info@jupiterdisco.com
+Opening Hours: Mo-Su 18:00-04:00
+Wheelchair Accessibility: yes
+Latitude: 40.7081511
+Longitude: -73.9235714
+OpenStreetMap URL: https://www.openstreetmap.org/node/5679659087
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5679659087
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: nightlife

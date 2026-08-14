@@ -1,0 +1,25 @@
+Name: Playground
+City: NYC
+Category: restaurants
+Cuisine: thai
+Address: 71-30 Roosevelt Avenue, Jackson Heights NY 11372
+Description: Not listed
+Website: https://play-ground-thai-restaurant.res-menu.com/
+Phone: +1 718-779-7912
+Email: Not listed
+Opening Hours: Mo-Su 15:00-23:45
+Wheelchair Accessibility: Not listed
+Latitude: 40.7464484
+Longitude: -73.893806
+OpenStreetMap URL: https://www.openstreetmap.org/node/12795813526
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12795813526
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: food

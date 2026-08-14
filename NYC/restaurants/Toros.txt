@@ -1,0 +1,25 @@
+Name: Toros
+City: NYC
+Category: restaurants
+Cuisine: Turkish, Halal, Mediterranean
+Address: 1083 Main St # 1, Paterson, NJ 07503, United States
+Description: Not listed
+Website: https://torosrestaurant.com/
+Phone: +1 973-742-6877
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.8915769
+Longitude: -74.1561488
+OpenStreetMap URL: https://www.openstreetmap.org/way/1219543448
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1219543448
+Price: Not listed
+Rating: 4.4
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

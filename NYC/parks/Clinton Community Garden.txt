@@ -1,0 +1,25 @@
+Name: Clinton Community Garden
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: http://clintongarden.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.762778
+Longitude: -73.9917305
+OpenStreetMap URL: https://www.openstreetmap.org/way/266077858
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/266077858
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: outdoors; gardens

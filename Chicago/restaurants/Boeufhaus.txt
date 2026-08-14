@@ -1,0 +1,24 @@
+Name: Boeufhaus
+City: Chicago
+Category: restaurants
+Cuisine: american, burger, french, steak_house
+Address: 1012 North Western Avenue, Chicago IL 60622
+Description: Not listed
+Website: http://www.boeufhaus.com/
+Phone: +1-773-661-2116
+Email: Not listed
+Opening Hours: Su-Mo, We-Fr 15:30-21:00; Sa 15:30-22:00
+Wheelchair Accessibility: yes
+Latitude: 41.8998468
+Longitude: -87.6871843
+OpenStreetMap URL: https://www.openstreetmap.org/node/3575025688
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3575025688
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

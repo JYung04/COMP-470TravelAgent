@@ -1,0 +1,25 @@
+Name: Magic Kingdom
+City: Orlando
+Category: attractions
+Cuisine: Not listed
+Address: 1180 Seven Seas Drive, Lake Buena Vista FL 32830
+Description: Magic Kingdom Park, or simply Magic Kingdom, is a theme park at the Walt Disney World Resort in Bay Lake, Florida, near Orlando. It opened on October 1, 1971, and is owned and operated by the Walt Disney Company through its Experiences division. The park was initiated by Walt Disney and designed by WED Enterprises. Modeled after Disneyland in Anaheim, California, Magic Kingdom’s layout and attractions share many of the same themed features inspired by fairy tales and Disney intellectual properties.
+Website: https://disneyworld.disney.go.com/destinations/magic-kingdom/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Su "Magic Kingdom park hours vary from day to day. For current park hours visit https://disneyworld.disney.go.com/calendars/"
+Wheelchair Accessibility: Not listed
+Latitude: 28.4190871
+Longitude: -81.5814284
+OpenStreetMap URL: https://www.openstreetmap.org/way/297428432
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/297428432
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Must-see
+Tourist Level: 3
+Tourist Level Confidence: high
+Tourist Level Reason: City-specific first-time-visitor anchor: magic kingdom
+Best For: sightseeing

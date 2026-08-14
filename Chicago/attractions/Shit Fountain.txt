@@ -1,0 +1,25 @@
+Name: Shit Fountain
+City: Chicago
+Category: attractions
+Cuisine: Not listed
+Address: Not listed
+Description: fountain and sculpture in the form of a heap of fresh shiny bronze dog droppings
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8997155
+Longitude: -87.6746269
+OpenStreetMap URL: https://www.openstreetmap.org/node/6477608644
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6477608644
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: sightseeing

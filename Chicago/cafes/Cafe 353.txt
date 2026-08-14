@@ -1,0 +1,25 @@
+Name: Cafe 353
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 353 North Clark Street, Chicago IL 60654
+Description: Not listed
+Website: https://portal.353nclark.com/main.cfm?sid=amenities&pid=oamenities
+Phone: +1-312-467-4477
+Email: Not listed
+Opening Hours: Mo-Fr 07:30-14:00; Sa-Su off
+Wheelchair Accessibility: Not listed
+Latitude: 41.888846
+Longitude: -87.6303555
+OpenStreetMap URL: https://www.openstreetmap.org/node/6269525660
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6269525660
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

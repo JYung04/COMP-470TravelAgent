@@ -1,0 +1,25 @@
+Name: Renaissance
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 218 West 35th Street
+Description: Not listed
+Website: https://www.marriott.com/hotels/travel/nycsg-renaissance-new-york-midtown-hotel/
+Phone: +1 212-239-0014
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: designated
+Latitude: 40.7517323
+Longitude: -73.9910643
+OpenStreetMap URL: https://www.openstreetmap.org/way/277956177
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/277956177
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

@@ -1,0 +1,25 @@
+Name: Chocolate Kingdom - Factory Adventure Tour
+City: Orlando
+Category: museums
+Cuisine: Not listed
+Address: 9901 Hawaiian Court, Orlando FL 32819
+Description: Not listed
+Website: https://www.chocolatekingdom.com/
+Phone: +1 407 705 3475
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.4237919
+Longitude: -81.4623188
+OpenStreetMap URL: https://www.openstreetmap.org/node/12197562740
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12197562740
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: museums and culture

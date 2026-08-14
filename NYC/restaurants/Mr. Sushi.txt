@@ -1,0 +1,24 @@
+Name: Mr. Sushi
+City: NYC
+Category: restaurants
+Cuisine: sushi, japanese
+Address: Not listed
+Description: Not listed
+Website: https://mrsushiny.com
+Phone: +1-929-295-0286
+Email: Not listed
+Opening Hours: Mo-Th 11:30-22:30, Fr-Sa 11:30-23:00, Su 12:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7003862
+Longitude: -73.9009294
+OpenStreetMap URL: https://www.openstreetmap.org/node/13049081170
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/13049081170
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

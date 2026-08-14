@@ -1,0 +1,25 @@
+Name: Tres Gatos
+City: Boston
+Category: restaurants
+Cuisine: tapas
+Address: 470 Centre Street, Jamaica Plain MA 02130
+Description: Come to pick up some records and books, stay for the gluten-free tortilla Española, with Yukon gold potatoes, eggs, and pimentón aioli. The Spanish menu at this favorite neighborhood go-to changes based on the season, but that hit-single of a dish is pretty much always in residence. Let the servers know about an allergy and they’ll bring you a marked menu with gluten-safe items. Most things that don’t hit the fryer can be adjusted for a gluten allergy, too. Of note, the paella—a vegetarian version with eggplant and mushroom sofrito, especially—should be in your rotation. Get a small for $35 for yourself, or a large for $56 for yourself (plus leftovers!). 470 Centre St., Jamaica Plain, Boston, 617-477-4851, tresgatosjp.com .
+Website: https://www.tresgatosjp.com/
+Phone: +1-617-477-4851
+Email: kate@tresgatosjp.com
+Opening Hours: Mo-Su 17:00-22:00; Sa-Su 10:30-15:00
+Wheelchair Accessibility: limited
+Latitude: 42.3190727
+Longitude: -71.1116238
+OpenStreetMap URL: https://www.openstreetmap.org/way/29936645
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/29936645
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

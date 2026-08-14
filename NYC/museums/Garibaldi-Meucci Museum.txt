@@ -1,0 +1,25 @@
+Name: Garibaldi-Meucci Museum
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: NY
+Description: Not listed
+Website: http://www.garibaldimeuccimuseum.org/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: limited
+Latitude: 40.6151893
+Longitude: -74.0738103
+OpenStreetMap URL: https://www.openstreetmap.org/way/35017727
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/35017727
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

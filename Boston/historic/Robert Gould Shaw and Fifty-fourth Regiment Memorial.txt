@@ -1,0 +1,25 @@
+Name: Robert Gould Shaw and Fifty-fourth Regiment Memorial
+City: Boston
+Category: historic
+Cuisine: Not listed
+Address: Not listed
+Description: The Memorial to Robert Gould Shaw and the Massachusetts Fifty-Fourth Regiment is a bronze relief sculpture by Augustus Saint-Gaudens opposite 24 Beacon Street, Boston. It depicts Colonel Robert Gould Shaw leading members of the 54th Regiment Massachusetts Volunteer Infantry as it marched down Beacon Street on May 28, 1863, to depart the city to fight in the South. The sculpture was unveiled on May 31, 1897. This is the first civic monument to pay homage to the heroism of African American soldiers.
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 42.3574806
+Longitude: -71.0635011
+OpenStreetMap URL: https://www.openstreetmap.org/node/358276404
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/358276404
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: high
+Tourist Level Reason: Minor monument, public-art object, playground, or neighborhood-scale feature
+Best For: history; art

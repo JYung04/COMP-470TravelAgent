@@ -1,0 +1,24 @@
+Name: Brisas Bakery & Restaurant
+City: Orlando
+Category: restaurants
+Cuisine: latin_american, colombian, coffee_shop, bakery
+Address: 11570 South Orange Blossom Trail, Orlando FL 32837
+Description: The Official Empanada of the New York Red Bulls
+Website: https://brisasempanadas.com/
+Phone: +1-407-757-0003
+Email: Not listed
+Opening Hours: Mo-Su 07:00-18:00
+Wheelchair Accessibility: yes
+Latitude: 28.3984144
+Longitude: -81.4059367
+OpenStreetMap URL: https://www.openstreetmap.org/node/7670886494
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7670886494
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

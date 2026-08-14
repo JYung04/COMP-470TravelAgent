@@ -1,0 +1,25 @@
+Name: The Marcel
+City: NYC
+Category: hotels
+Cuisine: Not listed
+Address: 201 East 24th Street, 10010
+Description: Not listed
+Website: https://themarcelatgramercy.com
+Phone: +1-212-696-3800
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.7394627
+Longitude: -73.9822461
+OpenStreetMap URL: https://www.openstreetmap.org/node/2704105139
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2704105139
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: lodging

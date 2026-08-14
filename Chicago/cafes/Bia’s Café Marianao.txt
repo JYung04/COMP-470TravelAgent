@@ -1,0 +1,24 @@
+Name: Bia’s Café Marianao
+City: Chicago
+Category: cafes
+Cuisine: sandwich, coffee_shop, coffee
+Address: 4323 North Lowell Avenue, Chicago IL 60641
+Description: Not listed
+Website: Not listed
+Phone: +1-773-993-0178
+Email: Not listed
+Opening Hours: Mo-Sa 06:00-18:00; Su 08:00-16:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.9461358
+Longitude: -87.7361651
+OpenStreetMap URL: https://www.openstreetmap.org/node/6267140751
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6267140751
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

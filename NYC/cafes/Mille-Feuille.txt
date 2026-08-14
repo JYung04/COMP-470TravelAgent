@@ -1,0 +1,24 @@
+Name: Mille-Feuille
+City: NYC
+Category: cafes
+Cuisine: coffee_shop, sandwich, pastry, french
+Address: 552 LaGuardia Place, New York NY 10012
+Description: Not listed
+Website: https://millefeuille-nyc.com
+Phone: +1-212-533-4698
+Email: info@millefeuille-nyc.com
+Opening Hours: Mo-Fr 07:00-19:00,Sa-Su 08:30-19:00
+Wheelchair Accessibility: yes
+Latitude: 40.7291839
+Longitude: -73.9982031
+OpenStreetMap URL: https://www.openstreetmap.org/node/7024106348
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/7024106348
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

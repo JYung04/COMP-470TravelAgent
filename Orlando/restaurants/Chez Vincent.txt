@@ -1,0 +1,25 @@
+Name: Chez Vincent
+City: Orlando
+Category: restaurants
+Cuisine: French
+Address: 533 W New England Ave, Winter Park, FL 32789, United States
+Description: Not listed
+Website: http://www.chezvincent.com/
+Phone: +1 407-599-2929
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 28.5958853
+Longitude: -81.3564487
+OpenStreetMap URL: https://www.openstreetmap.org/node/3411749398
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/3411749398
+Price: Not listed
+Rating: 4.1
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

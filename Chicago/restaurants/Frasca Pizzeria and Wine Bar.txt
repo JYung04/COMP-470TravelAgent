@@ -1,0 +1,24 @@
+Name: Frasca Pizzeria and Wine Bar
+City: Chicago
+Category: restaurants
+Cuisine: pizza, italian
+Address: 3358 North Paulina Street, Chicago IL 60657
+Description: Not listed
+Website: https://www.frascapizzeria.com/
+Phone: +1-773-248-5222
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.9431375
+Longitude: -87.6714232
+OpenStreetMap URL: https://www.openstreetmap.org/node/6291523976
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6291523976
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

@@ -1,0 +1,24 @@
+Name: Bohemian Spirit Restaurant
+City: NYC
+Category: restaurants
+Cuisine: czech
+Address: 321 East 73rd Street, 10021
+Description: Not listed
+Website: https://bohemianspiritrestaurant.com/
+Phone: +1 212-861-1038
+Email: bsrnewyork@gmail.com
+Opening Hours: Mo 17:00-22:00; Tu-Fr 17:00-23:00; Sa 11:00-15:00, 17:00-23:00; Su 11:00-15:00, 17:00-22:00
+Wheelchair Accessibility: yes
+Latitude: 40.769058
+Longitude: -73.9565904
+OpenStreetMap URL: https://www.openstreetmap.org/node/2131791182
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/2131791182
+Price: Not listed
+Rating: Not listed
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

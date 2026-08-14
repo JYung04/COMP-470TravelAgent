@@ -1,0 +1,25 @@
+Name: The Bagel Table
+City: Boston
+Category: restaurants
+Cuisine: bagel
+Address: 86 Guest Street, 02134
+Description: Not listed
+Website: https://mybageltable.com/
+Phone: +1-617-208-8232
+Email: Not listed
+Opening Hours: Mo-Su 07:00-14:00
+Wheelchair Accessibility: Not listed
+Latitude: 42.357104
+Longitude: -71.1440988
+OpenStreetMap URL: https://www.openstreetmap.org/node/9349962417
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/9349962417
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

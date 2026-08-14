@@ -1,0 +1,25 @@
+Name: Empellón Al pastor
+City: NYC
+Category: bars
+Cuisine: mexican
+Address: 132 Saint Mark's Place, 10019
+Description: Not listed
+Website: https://www.empellon.com/restaurants/al-pastor
+Phone: Not listed
+Email: Not listed
+Opening Hours: Mo-Th 12:00-00:00; Fr 12:00-02:00; Sa 13:00-02:00; Su 13:00-00:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7266479
+Longitude: -73.9832781
+OpenStreetMap URL: https://www.openstreetmap.org/node/4711118291
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/4711118291
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks

@@ -1,0 +1,25 @@
+Name: La Collina
+City: Washington DC
+Category: restaurants
+Cuisine: italian
+Address: 747 C Street Southeast, Washington DC 20003
+Description: Not listed
+Website: https://www.lacollinadc.com/location/la-collina-dc/
+Phone: +1 202-998-2799
+Email: Not listed
+Opening Hours: Tu-Th 17:00-21:30; Fr-Sa 17:00-22:00
+Wheelchair Accessibility: Not listed
+Latitude: 38.885793
+Longitude: -76.9955967
+OpenStreetMap URL: https://www.openstreetmap.org/node/12206975148
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/12206975148
+Price: $
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: food

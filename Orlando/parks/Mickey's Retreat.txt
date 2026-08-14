@@ -1,0 +1,25 @@
+Name: Mickey's Retreat
+City: Orlando
+Category: parks
+Cuisine: Not listed
+Address: 8151 Lake Forest Drive, Orlando FL 32821
+Description: Not listed
+Website: Not listed
+Phone: Not listed
+Email: Not listed
+Opening Hours: 11a-8p
+Wheelchair Accessibility: Not listed
+Latitude: 28.3814099
+Longitude: -81.4922456
+OpenStreetMap URL: https://www.openstreetmap.org/way/1274700237
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/1274700237
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Ohio and Harding Park
+City: Chicago
+Category: parks
+Cuisine: Not listed
+Address: 641 North Harding Avenue, Chicago IL 60624
+Description: park in Cook County, Illinois, United States of America
+Website: https://www.chicagoparkdistrict.com/parks-facilities/ohio-harding-park
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 41.8920213
+Longitude: -87.7244147
+OpenStreetMap URL: https://www.openstreetmap.org/way/201141089
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/201141089
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

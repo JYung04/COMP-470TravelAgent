@@ -1,0 +1,25 @@
+Name: Orwashers
+City: NYC
+Category: cafes
+Cuisine: Not listed
+Address: 308 East 78th Street
+Description: Orwashers Bakery is a famous breadmaking business in New York City that has been listed among the top ten bakeries in America. It was established in 1916 on 78th Street near the Yorkville area of the New York City borough of Manhattan. It is now one of the last vestiges of the thriving immigrant population that lived in that area around the start of the 20th century.
+Website: https://www.orwashers.com/
+Phone: +1 212-288-6569
+Email: info@orwashers.com
+Opening Hours: 07:00-19:00
+Wheelchair Accessibility: Not listed
+Latitude: 40.7722806
+Longitude: -73.9549444
+OpenStreetMap URL: https://www.openstreetmap.org/node/5266896891
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5266896891
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops; art

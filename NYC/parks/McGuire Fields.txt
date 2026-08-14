@@ -1,0 +1,25 @@
+Name: McGuire Fields
+City: NYC
+Category: parks
+Cuisine: Not listed
+Address: Not listed
+Description: Not listed
+Website: https://www.nycgovparks.org/parks/joseph-t-mcguire-park/
+Phone: Not listed
+Email: Not listed
+Opening Hours: Not listed
+Wheelchair Accessibility: Not listed
+Latitude: 40.6136395
+Longitude: -73.9001325
+OpenStreetMap URL: https://www.openstreetmap.org/relation/4480050
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/relation/4480050
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: outdoors

@@ -1,0 +1,25 @@
+Name: Goddess And The Baker
+City: Chicago
+Category: cafes
+Cuisine: Not listed
+Address: 225 North LaSalle Street, Chicago IL 60601
+Description: Not listed
+Website: https://www.goddessandthebaker.com/
+Phone: +1-312-374-3625
+Email: Not listed
+Opening Hours: Mo-Fr 07:00-16:00; Sa 08:00-16:00; Su 08:00-15:00
+Wheelchair Accessibility: limited
+Latitude: 41.8866758
+Longitude: -87.6322348
+OpenStreetMap URL: https://www.openstreetmap.org/node/6291927368
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/6291927368
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: coffee and casual stops

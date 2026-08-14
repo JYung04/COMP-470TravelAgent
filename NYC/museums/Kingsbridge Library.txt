@@ -1,0 +1,25 @@
+Name: Kingsbridge Library
+City: NYC
+Category: museums
+Cuisine: Not listed
+Address: 291 West 231st Street, Bronx 10463
+Description: The New York Public Library system includes libraries in Manhattan, the Bronx, and Staten Island. This page is organized by borough, and alphabetically. The boroughs of Brooklyn and Queens are supported by their own separate library systems.
+Website: https://www.nypl.org/locations/kingsbridge
+Phone: +1-718-548-5656
+Email: kingsbridge@nypl.org
+Opening Hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-17:00; Su 13:00-17:00; PH off
+Wheelchair Accessibility: yes
+Latitude: 40.8806993
+Longitude: -73.9077054
+OpenStreetMap URL: https://www.openstreetmap.org/way/276418310
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/way/276418310
+Price: Not listed
+Rating: Not listed
+Notable: yes
+
+Tourist Priority: See if this is interesting to you
+Tourist Level: 2
+Tourist Level Confidence: medium
+Tourist Level Reason: Notable museum not included in the conservative must-see anchors
+Best For: museums and culture

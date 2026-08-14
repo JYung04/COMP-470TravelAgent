@@ -1,0 +1,25 @@
+Name: Centennial Crafted Beer & Eatery
+City: Chicago
+Category: bars
+Cuisine: american
+Address: 733 North LaSalle Drive, Chicago IL 60654
+Description: Not listed
+Website: https://www.centennialchicago.com/
+Phone: +1-312-284-5353
+Email: Not listed
+Opening Hours: Mo-We 16:00-02:00; Th-Fr 11:30-02:00; Sa 10:30-03:00; Su 10:30-02:00
+Wheelchair Accessibility: Not listed
+Latitude: 41.895831
+Longitude: -87.6323718
+OpenStreetMap URL: https://www.openstreetmap.org/node/5458015773
+Data Source: OpenStreetMap contributors
+Source URL: https://www.openstreetmap.org/node/5458015773
+Price: Not listed
+Rating: Not listed
+Notable: no
+
+Tourist Priority: Default
+Tourist Level: 1
+Tourist Level Confidence: medium
+Tourist Level Reason: Useful place without enough evidence for general destination priority
+Best For: drinks
